@@ -1,6 +1,6 @@
 # prove_MED_NL
 
-Prove Dutch NLI problems of [MED-NL](https://aclanthology.org/2023.findings-eacl.110/) with [LangPro](https://github.com/kovvalsky/LangPro) by using [SICK-NL](https://github.com/gijswijnholds/sick_nl).
+Prove Dutch NLI problems of [MED-NL](https://aclanthology.org/2023.findings-eacl.110/) with [LangPro](https://github.com/kovvalsky/LangPro) by modifying a [prover](https://github.com/kovvalsky/prove_SICK_NL) made for [SICK-NL](https://github.com/gijswijnholds/sick_nl).
 
 ## Prerequisites
 
