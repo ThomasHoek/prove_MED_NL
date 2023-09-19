@@ -1,0 +1,2783 @@
+Number of jobs: 20
+Length of jobs: 66, 66, 66, 66, 66, 66, 66, 66, 66, 66, 66, 66, 65, 65, 65, 65, 65, 65, 65, 65
+Inconsistency in node types (entail/8)
+   5:     [yes], unknown,      NA, 'Defected'  XP: _850
+      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+      Meerdere afgevaardigden kregen resultaten gepubliceerd.
+Inconsistency in node types (entail/8)
+  15: [unknown], unknown,      NA, 'Defected'  XP: _838
+Inconsistency in node types (entail/8)
+  20:     [yes], unknown,      NA, 'Defected'  XP: _838
+      Meerdere Portugese afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+Inconsistency in node types (entail/8)
+  13: [unknown], unknown,      NA, 'Defected'  XP: _838
+  11: [unknown], unknown,    open, 'Ter',34    XP: []
+   6:     [yes], unknown,      NA, 'Defected'  XP: []
+      Beide commissarissen waren ooit leidend zakenmannen.
+      Beide commissarissen waren ooit zakenmannen.
+Inconsistency in node types (entail/8)
+   9: [unknown], unknown,      NA, 'Defected'  XP: _850
+  14: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+   8:     [yes], unknown,      NA, 'Defected'  XP: _850
+      Ten minste drie commissarissen spenderen veel tijd thuis.
+      Ten minste drie commissarissen spenderen tijd thuis.
+Inconsistency in node types (entail/8)
+  26:     [yes], unknown,      NA, 'Defected'  XP: _2262466
+      Ten minste drie vrouwelijke commissarissen spenderen tijd thuis.
+      Ten minste drie commissarissen spenderen tijd thuis.
+Inconsistency in node types (entail/8)
+  16:     [yes], unknown,      NA, 'Defected'  XP: _838
+      Niet meer dan tien commissarissen spenderen tijd thuis.
+      Niet meer dan tien commissarissen spenderen veel tijd thuis.
+  40: [unknown], unknown,      NA, 'Defected'  XP: []
+  17: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+  36: [unknown], unknown,      NA, 'Defected'  XP: _2191068
+Inconsistency in node types (entail/8)
+  60:     [yes], unknown,      NA, 'Defected'  XP: _80740
+      Het laatste iincident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
+      Het laatste fatale incident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
+   4:     [yes],     yes,  closed, 'Ter',4     XP: [int(interessant)]
+  18:     [yes], unknown,    open, 'Ter',16    XP: []
+      Een paar Ierse afgevaardigden hadden de vragenlijst op tijd af.
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+Inconsistency in node types (entail/8)
+  37:     [yes], unknown,      NA, 'Defected'  XP: _2280038
+      Niet meer dan tien commissarissen spenderen tijd thuis.
+      Niet meer dan tien vrouwelijke commissarissen spenderen tijd thuis.
+Inconsistency in node types (entail/8)
+  80:     [yes], unknown,      NA, 'Defected'  XP: _81698
+      Net het eerste kwartier gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
+      Net de eerste 15 minuten gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
+  28: [unknown], unknown,    open, 'Ter',16    XP: []
+ERROR: sentence id=3167
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,evon)',pt:vnw,r:ieder,rel:det,s:ieder,t:ieder},j{l:aantal,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:aantal,rel:hd,s:aantal,t:aantal},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:voorbeeld,rel:mod,s:voorbeeld,t:voorbeelden},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=3166
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:voorbeeld,rel:hd,s:voorbeeld,t:voorbeeld},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+ 102: [unknown], unknown,      NA, 'Defected'  XP: _82656
+   1:     [yes],     yes,  closed, 'Ter',10    XP: [isa(voor@c1@nobel_prijs,nobel_prijs)]
+  31: [unknown], unknown,    open, 'Ter',26    XP: []
+  33:     [yes], unknown,    open, 'Ter',39    XP: []
+      Weinig comitéleden komen uit zuid-Europa.
+      Weinig vrouwelijke comitéleden komen uit zuid-Europa.
+   2: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Geen afgevaardigde had het verslag op tijd af.
+      Geen afgevaardigde had het verslag af.
+   3:     [yes],     yes,  closed, 'Ter',10    XP: []
+  10: [unknown], unknown,    open, 'Ter',32    XP: []
+   7: [unknown],     yes,  closed, 'Ter',10    XP: [int(veel)]
+      Geen van beide commissarissen brengt veel tijd thuis door.
+      Geen van beide commissarissen brengt tijd thuis door.
+Inconsistency in node types (entail/8)
+  53: [unknown], unknown,      NA, 'Defected'  XP: _2335960
+Inconsistency in node types (entail/8)
+  51: [unknown], unknown,      NA, 'Defected'  XP: _339642
+  12: [unknown], unknown,    open, 'Ter',49    XP: []
+Inconsistency in node types (entail/8)
+  27: [unknown], unknown,      NA, 'Defected'  XP: _2367788
+Inconsistency in node types (entail/8)
+  30: [unknown], unknown,      NA, 'Defected'  XP: _2363436
+Inconsistency in node types (entail/8)
+  71:     [yes], unknown,      NA, 'Defected'  XP: _340446
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+Inconsistency in node types (entail/8)
+  73: [unknown], unknown,      NA, 'Defected'  XP: _2336764
+  22:     [yes], unknown,      NA, 'Defected'  XP: []
+      Een paar vrouwelijke comitéleden komen uit Scandinavië.
+      Ten minste een paar comitéleden komen uit Scandinavië.
+  23: [unknown],     yes,  closed, 'Ter',4     XP: [int(vrouwelijk)]
+      Weinig vrouwelijke comitéleden komen uit zuid-Europa.
+      Weinig comitéleden komen uit zuid-Europa.
+Inconsistency in node types (entail/8)
+  50: [unknown], unknown,      NA, 'Defected'  XP: _2364240
+  29: [unknown], unknown,    open, 'Ter',51    XP: []
+  19: [unknown], unknown,    open, 'Ter',51    XP: []
+  21: [unknown],     yes,  closed, 'Ter',4     XP: []
+      De meeste Europeanen die inwoner zijn in Europa kunnen vrij reizen binnen Europa.
+      De meeste Europeanen kunnen vrij reizen binnen Europa.
+  24: [unknown],     yes,  closed, 'Ter',10    XP: [int(vrouwelijk)]
+      Beide vrouwelijke commissarissen zaten ooit in de handel.
+      Beide commissarissen zaten ooit in de handel.
+  32: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+  70: [unknown], unknown,      NA, 'Defected'  XP: _2365044
+Inconsistency in node types (entail/8)
+  42:     [yes], unknown,    open, 'Ter',7     XP: []
+      Socrates is rationeel.
+      Iemand is rationeel.
+  49:     [yes], unknown,      NA, 'Defected'  XP: _2375668
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+Inconsistency in node types (entail/8)
+  52:     [yes], unknown,      NA, 'Defected'  XP: _2463798
+      We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+Inconsistency in node types (entail/8)
+  69: [unknown], unknown,      NA, 'Defected'  XP: _2376626
+  41:     [yes], unknown,      NA, 'Defected'  XP: []
+      Zowel Alan als Bob namen hun vakanties in Californië.
+      Alan nam zijn vakantie in Californië.
+Inconsistency in node types (entail/8)
+  72: [unknown], unknown,      NA, 'Defected'  XP: _2464756
+  43:     [yes],     yes,  closed, 'Ter',9     XP: [isa(hond,dier)]
+  38:     [yes], unknown,    open, 'Ter',104   XP: []
+      Pluto en Uranus zitten nu op een lijn met Neptunus.
+      Pluto of Uranus zit nu op een lijn met Neptunus.
+  39: [unknown], unknown,    open, 'Ter',107   XP: []
+Inconsistency in node types (entail/8)
+  59: [unknown], unknown,      NA, 'Defected'  XP: _2679926
+  58: [unknown],     yes,  closed, 'Ter',10    XP: [int(ontwikkelen)]
+      In alle ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+      In alle gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+Inconsistency in node types (entail/8)
+  79:     [yes], unknown,      NA, 'Defected'  XP: _2680730
+      Net de eerste 15 minuten gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
+      Net het eerste kwartier gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
+Inconsistency in node types (entail/8)
+  78:     [yes], unknown,      NA, 'Defected'  XP: _2837582
+      Ik heb nog nooit een vogel gezien die niet vliegt.
+      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+ERROR: sentence id=3166
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:voorbeeld,rel:hd,s:voorbeeld,t:voorbeeld},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=694
+Failed to align term tokens and lexical annotations
+term tokes: [[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+lexical annotation: [j{l:dus,lcat:du,p:comp,postag:'BW()',pt:bw,r:dus,rel:dlink,s:dus,t:'Dus'},j{l:er,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel:mod,s:er,t:er},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:speciaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:speciaal,rel:mod,s:speciaal,t:speciaal},j{l:hoog_dimensionaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:hoog_dimensionaal,rel:mod,s:hoog_dimensionaal,t:hoogdimensionaal},j{l:geheugen_blok,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:geheugen_blok,rel:hd,s:geheugen_blok,t:geheugenblok},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:elk,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:elk,rel:det,s:elk,t:elke},j{l:entiteit,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:entiteit,rel:hd,s:entiteit,t:entiteit},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:onderscheid,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:onderscheid,rel:hd,s:onderscheid,t:onderscheid},j{l:tussen,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:tussen,rel:hd,s:tussen,t:tussen},j{l:entiteit_vermelding,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:entiteit_vermelding,rel:cnj,s:entiteit_vermelding,t:entiteitsvermeldingen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:niet_vermelden,lcat:ppart,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:niet_vermelden,rel:mod,s:niet_vermelden,t:'niet-vermelde'},j{l:woord,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:woord,rel:hd,s:woord,t:woorden},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+  34: [unknown], unknown,    open, 'Ter',126   XP: []
+ERROR: sentence id=3167
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,evon)',pt:vnw,r:ieder,rel:det,s:ieder,t:ieder},j{l:aantal,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:aantal,rel:hd,s:aantal,t:aantal},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:voorbeeld,rel:mod,s:voorbeeld,t:voorbeelden},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+ 101: [unknown], unknown,      NA, 'Defected'  XP: _2681688
+ERROR: sentence id=693
+Failed to align term tokens and lexical annotations
+term tokes: [[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+lexical annotation: [j{l:dus,lcat:du,p:comp,postag:'BW()',pt:bw,r:dus,rel:dlink,s:dus,t:'Dus'},j{l:er,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel:mod,s:er,t:er},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:speciaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:speciaal,rel:mod,s:speciaal,t:speciaal},j{l:geheugen_blok,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:geheugen_blok,rel:hd,s:geheugen_blok,t:geheugenblok},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:elk,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:elk,rel:det,s:elk,t:elke},j{l:entiteit,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:entiteit,rel:hd,s:entiteit,t:entiteit},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:onderscheid,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:onderscheid,rel:hd,s:onderscheid,t:onderscheid},j{l:tussen,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:tussen,rel:hd,s:tussen,t:tussen},j{l:entiteit_vermelding,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:entiteit_vermelding,rel:cnj,s:entiteit_vermelding,t:entiteitsvermeldingen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:niet_vermelden,lcat:ppart,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:niet_vermelden,rel:mod,s:niet_vermelden,t:'niet-vermelde'},j{l:woord,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:woord,rel:hd,s:woord,t:woorden},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+ 100: [unknown], unknown,      NA, 'Defected'  XP: _2838540
+Inconsistency in node types (entail/8)
+  54:     [yes], unknown,      NA, 'Defected'  XP: _2639246
+      Alle dieren vinden het leuk om hun oren te krabben.
+      Alle honden vinden het leuk om hun oren te krabben.
+Inconsistency in node types (entail/8)
+  74:     [yes], unknown,      NA, 'Defected'  XP: _2640204
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+  44: [unknown], unknown,    open, 'Ter',142   XP: []
+  35: [unknown], unknown,    open, 'Lim',414   XP: []
+ 122: [unknown], unknown,    open, 'Ter',358   XP: []
+ 121: [unknown], unknown,    open, 'Ter',358   XP: []
+ 120: [unknown], unknown,    open, 'Ter',358   XP: []
+  89: [unknown], unknown,    open, 'Lim',411   XP: []
+Inconsistency in node types (entail/8)
+ 111: [unknown], unknown,      NA, 'Defected'  XP: _3918280
+4210:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens gebruikten enige munten.
+      Weinig buitenaardse wezens gebruikten kwartjes.
+  91:     [yes], unknown,    open, 'Lim',437   XP: []
+      Het 15e tankkorps was een tankkorps van het rode leger van de sovjet-unie.
+      Het 15e tankkorps was een korps van het rode leger van de sovjet-unie.
+  47:     [yes], unknown,    open, 'Lim',404   XP: []
+      In veel ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+      In veel gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+Inconsistency in node types (entail/8)
+  67:     [yes], unknown,      NA, 'Defected'  XP: _3778096
+      De kroonprins’ moeder zou niet de eerste saoedische koninklijke zijn van wie de bewegingen beperkt waren sinds juni 2017.
+      De kroonprins’ moeder zou niet de eerste koninklijke zijn van wie de bewegingen beperkt waren sinds juni 2017.
+Inconsistency in node types (entail/8)
+ 113:     [yes], unknown,      NA, 'Defected'  XP: _1736518
+      De leidende auto verplaatste geleidelijk naar de linker baan.
+      De leidende auto verplaatste naar de linker baan.
+  92:     [yes], unknown,    open, 'Lim',437   XP: []
+      Het 15e tankkorps was een korps van het rode leger van de sovjet-unie.
+      Het 15e tankkorps was een tankkorps van het rode leger van de sovjet-unie.
+Inconsistency in node types (entail/8)
+ 114: [unknown], unknown,      NA, 'Defected'  XP: _3791654
+  87:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er zijn vier supraoculare schubben (boven de ogen) in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+      Er zijn vier schubben boven de ogen in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+  57:     [yes], unknown,    open, 'Lim',404   XP: []
+      In alle gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+      In alle ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+Inconsistency in node types (entail/8)
+ 109: [unknown], unknown,      NA, 'Defected'  XP: _3958182
+Inconsistency in node types (entail/8)
+  77: [unknown], unknown,      NA, 'Defected'  XP: _3656210
+Inconsistency in node types (entail/8)
+ 129: [unknown], unknown,      NA, 'Defected'  XP: _3958986
+ERROR: sentence id=693
+Failed to align term tokens and lexical annotations
+term tokes: [[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+lexical annotation: [j{l:dus,lcat:du,p:comp,postag:'BW()',pt:bw,r:dus,rel:dlink,s:dus,t:'Dus'},j{l:er,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel:mod,s:er,t:er},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:speciaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:speciaal,rel:mod,s:speciaal,t:speciaal},j{l:geheugen_blok,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:geheugen_blok,rel:hd,s:geheugen_blok,t:geheugenblok},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:elk,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:elk,rel:det,s:elk,t:elke},j{l:entiteit,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:entiteit,rel:hd,s:entiteit,t:entiteit},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:onderscheid,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:onderscheid,rel:hd,s:onderscheid,t:onderscheid},j{l:tussen,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:tussen,rel:hd,s:tussen,t:tussen},j{l:entiteit_vermelding,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:entiteit_vermelding,rel:cnj,s:entiteit_vermelding,t:entiteitsvermeldingen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:niet_vermelden,lcat:ppart,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:niet_vermelden,rel:mod,s:niet_vermelden,t:'niet-vermelde'},j{l:woord,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:woord,rel:hd,s:woord,t:woorden},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=694
+Failed to align term tokens and lexical annotations
+term tokes: [[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+lexical annotation: [j{l:dus,lcat:du,p:comp,postag:'BW()',pt:bw,r:dus,rel:dlink,s:dus,t:'Dus'},j{l:er,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel:mod,s:er,t:er},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:speciaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:speciaal,rel:mod,s:speciaal,t:speciaal},j{l:hoog_dimensionaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:hoog_dimensionaal,rel:mod,s:hoog_dimensionaal,t:hoogdimensionaal},j{l:geheugen_blok,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:geheugen_blok,rel:hd,s:geheugen_blok,t:geheugenblok},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:elk,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:elk,rel:det,s:elk,t:elke},j{l:entiteit,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:entiteit,rel:hd,s:entiteit,t:entiteit},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:onderscheid,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:onderscheid,rel:hd,s:onderscheid,t:onderscheid},j{l:tussen,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:tussen,rel:hd,s:tussen,t:tussen},j{l:entiteit_vermelding,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:entiteit_vermelding,rel:cnj,s:entiteit_vermelding,t:entiteitsvermeldingen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:niet_vermelden,lcat:ppart,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:niet_vermelden,rel:mod,s:niet_vermelden,t:'niet-vermelde'},j{l:woord,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:woord,rel:hd,s:woord,t:woorden},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+  99:     [yes], unknown,      NA, 'Defected'  XP: _3657014
+      Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
+      Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
+4209:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens zagen enige vogels.
+      Weinig buitenaardse wezens zagen duiven.
+  48: [unknown], unknown,    open, 'Lim',404   XP: []
+4229: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
+      Geen buitenaards wezen zag enige duiven.
+      Geen buitenaards wezen zag vogels.
+Inconsistency in node types (entail/8)
+  68: [unknown], unknown,      NA, 'Defected'  XP: _3969722
+  25: [unknown], unknown,    open, 'Lim',414   XP: []
+  88:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er zijn vier schubben boven de ogen in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+      Er zijn vier supraoculare schubben (boven de ogen) in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+Inconsistency in node types (entail/8)
+ 110: [unknown], unknown,      NA, 'Defected'  XP: _4232950
+Inconsistency in node types (entail/8)
+ 130: [unknown], unknown,      NA, 'Defected'  XP: _4233754
+4217:     [yes], unknown,    open, 'Ter',164   XP: []
+      Het rode buitenaardse wezen zag geen enkele vogel.
+      Het rode buitenaardse wezen zag geen duiven.
+4237: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
+      Alleen 12 buitenaardse wezens zagen enige duiven.
+      Alleen 12 buitenaardse wezens zagen vogels.
+4218:     [yes], unknown,    open, 'Ter',72    XP: []
+      Het rode buitenaardse wezen gebruikte geen enkele munt.
+      Het rode buitenaardse wezen gebruikte geen kwartjes.
+4208:     [yes], unknown,    open, 'Lim',424   XP: []
+      Weinig buitenaardse wezens aten bij enige restaurants.
+      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
+4228: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+      Geen buitenaards wezen at bij restaurants.
+4199: [unknown], unknown,    open, 'Lim',419   XP: []
+4230: [unknown], unknown,    open, 'Lim',417   XP: []
+4202: [unknown], unknown,    open, 'Lim',419   XP: []
+4201: [unknown], unknown,    open, 'Lim',419   XP: []
+4249: [unknown], unknown,    open, 'Lim',418   XP: []
+4269:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+4222: [unknown], unknown,    open, 'Ter',72    XP: []
+4221: [unknown],     yes,  closed, 'Ter',11    XP: [int(enkel),int(no),isa(duif,vogel)]
+      Het blauwe buitenaardse wezen zag geen enkele duif.
+      Het blauwe buitenaardse wezen zag geen vogels.
+4219: [unknown], unknown,    open, 'Ter',149   XP: []
+4257:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens kochten kleren.
+      Weinig buitenaardse wezens kochten shirts.
+4241: [unknown], unknown,    open, 'Ter',43    XP: []
+4277: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Het gele buitenaardse wezen kocht geen shirts.
+      Het gele buitenaardse wezen kocht geen kleren.
+4261: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Weinig buitenaardse wezens kochten shirts.
+      Weinig buitenaardse wezens kochten kleren.
+4248: [unknown], unknown,    open, 'Lim',419   XP: []
+4239: [unknown], unknown,    open, 'Ter',145   XP: []
+4242: [unknown], unknown,    open, 'Ter',178   XP: []
+ 119:     [yes], unknown,    open, 'Ter',358   XP: []
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+      Er zijn een paar geweldige wandelroutes in Japan.
+4297: [unknown], unknown,    open, 'Ter',168   XP: []
+4238: [unknown], unknown,    open, 'Lim',419   XP: []
+  94:     [yes], unknown,    open, 'Lim',464   XP: []
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van betekenisverrijking.
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van pragmatische betekenisverrijking.
+Inconsistency in node types (entail/8)
+ 116:     [yes], unknown,      NA, 'Defected'  XP: _5093866
+      Over de timing van de bijeenkomst is niet nagedacht, aldus een woordvoerder van starbucks.
+      De timing van de bijeenkomst is niet vastgesteld, aldus een woordvoerder van starbucks.
+4289: [unknown], unknown,    open, 'Lim',418   XP: []
+4204: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
+      Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij restaurants.
+4281:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen kocht kleren.
+      Geen buitenaards wezen kocht shirts.
+4301:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+  63: [unknown], unknown,    open, 'Lim',471   XP: []
+Inconsistency in node types (entail/8)
+  83: [unknown], unknown,      NA, 'Defected'  XP: _4360430
+4259: [unknown], unknown,    open, 'Lim',417   XP: []
+4250: [unknown], unknown,    open, 'Lim',421   XP: []
+4268:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens keken honkbalwedstrijden.
+      Veel buitenaardse wezens keken sportwedstrijden.
+ 105:     [yes],     yes,  closed, 'Ter',4     XP: [int(sereen)]
+4262: [unknown], unknown,    open, 'Lim',416   XP: []
+  61: [unknown], unknown,    open, 'Lim',472   XP: []
+ERROR: sentence id=3822
+Failed to align term tokens and lexical annotations
+term tokes: [[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+lexical annotation: [j{l:raar,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:raar,rel:dp,s:raar,t:'Raar'},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:je,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,red,2v,ev)',pt:vnw,r:je,rel:su,s:je,t:je},j{l:iets,lcat:np,p:noun,postag:'VNW(onbep,pron,stan,vol,3o,ev)',pt:vnw,r:iets,rel:obj1,s:iets,t:iets},j{l:willen,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:wil,rel:hd,s:wil,t:wil},j{l:laten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:laat,rel:hd,s:'aan-laat-zie',t:laten},j{l:zien,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zie,rel:svp,s:zie,t:zien},j{l:aan,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:aan,rel:hd,s:aan,t:aan},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:stapel,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:stapel,rel:hd,s:stapel,t:stapel},j{l:papier,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:papier,rel:mod,s:papier,t:papieren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=3821
+Failed to align term tokens and lexical annotations
+term tokes: [[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+lexical annotation: [j{l:raar,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:raar,rel:dp,s:raar,t:'Raar'},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:je,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,red,2v,ev)',pt:vnw,r:je,rel:su,s:je,t:je},j{l:deze,lcat:detp,p:det,postag:'VNW(aanw,det,stan,prenom,met-e,rest)',pt:vnw,r:deze,rel:det,s:deze,t:deze},j{l:video,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:video,rel:hd,s:video,t:video},j{l:willen,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:wil,rel:hd,s:wil,t:wil},j{l:laten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:laat,rel:hd,s:'aan-laat-zie',t:laten},j{l:zien,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zie,rel:svp,s:zie,t:zien},j{l:aan,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:aan,rel:hd,s:aan,t:aan},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:stapel,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:stapel,rel:hd,s:stapel,t:stapel},j{l:papier,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:papier,rel:mod,s:papier,t:papieren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+  81: [unknown], unknown,      NA, 'Defected'  XP: _4348508
+Inconsistency in node types (entail/8)
+ 103: [unknown], unknown,      NA, 'Defected'  XP: _4349312
+ 125: [unknown],     yes,  closed, 'Ter',4     XP: [int(ervaren)]
+      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+      Een sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+4213: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
+      Weinig buitenaardse wezens zagen enige duiven.
+      Weinig buitenaardse wezens zagen vogels.
+4258:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens reden auto’s.
+      Weinig buitenaardse wezens reden suv’s.
+4207:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens aten enig vlees.
+      Weinig buitenaardse wezens aten varkensvlees.
+4279:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen las tijdschriften.
+      Geen buitenaards wezen las nieuwstijdschriften.
+4299:     [yes], unknown,    open, 'Ter',90    XP: []
+      Het gele buitenaardse wezen las nieuwstijdschriften.
+      Het gele buitenaardse wezen las tijdschriften.
+4278: [unknown], unknown,    open, 'Ter',77    XP: []
+4282:     [yes], unknown,    open, 'Ter',174   XP: []
+      Geen buitenaards wezen reed auto’s.
+      Geen buitenaards wezen reed suv’s.
+  62:     [yes], unknown,    open, 'Lim',472   XP: []
+      Er kwamen geen rekeningen op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+ERROR: sentence id=3821
+Failed to align term tokens and lexical annotations
+term tokes: [[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+lexical annotation: [j{l:raar,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:raar,rel:dp,s:raar,t:'Raar'},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:je,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,red,2v,ev)',pt:vnw,r:je,rel:su,s:je,t:je},j{l:deze,lcat:detp,p:det,postag:'VNW(aanw,det,stan,prenom,met-e,rest)',pt:vnw,r:deze,rel:det,s:deze,t:deze},j{l:video,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:video,rel:hd,s:video,t:video},j{l:willen,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:wil,rel:hd,s:wil,t:wil},j{l:laten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:laat,rel:hd,s:'aan-laat-zie',t:laten},j{l:zien,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zie,rel:svp,s:zie,t:zien},j{l:aan,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:aan,rel:hd,s:aan,t:aan},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:stapel,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:stapel,rel:hd,s:stapel,t:stapel},j{l:papier,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:papier,rel:mod,s:papier,t:papieren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=3822
+Failed to align term tokens and lexical annotations
+term tokes: [[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+lexical annotation: [j{l:raar,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:raar,rel:dp,s:raar,t:'Raar'},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:je,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,red,2v,ev)',pt:vnw,r:je,rel:su,s:je,t:je},j{l:iets,lcat:np,p:noun,postag:'VNW(onbep,pron,stan,vol,3o,ev)',pt:vnw,r:iets,rel:obj1,s:iets,t:iets},j{l:willen,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:wil,rel:hd,s:wil,t:wil},j{l:laten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:laat,rel:hd,s:'aan-laat-zie',t:laten},j{l:zien,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zie,rel:svp,s:zie,t:zien},j{l:aan,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:aan,rel:hd,s:aan,t:aan},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:stapel,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:stapel,rel:hd,s:stapel,t:stapel},j{l:papier,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:papier,rel:mod,s:papier,t:papieren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+  82:     [yes], unknown,      NA, 'Defected'  XP: _2130562
+      Raar dat je deze video wil laten zien aan een stapel papieren.
+      Raar dat je iets wil laten zien aan een stapel papieren.
+Inconsistency in node types (entail/8)
+ 104: [unknown], unknown,      NA, 'Defected'  XP: _2131520
+4298: [unknown], unknown,    open, 'Ter',65    XP: []
+4227: [unknown], unknown,    open, 'Ter',125   XP: []
+4302:     [yes], unknown,    open, 'Ter',65    XP: []
+      Het gele buitenaardse wezen reed suv’s.
+      Het gele buitenaardse wezen reed auto’s.
+4317: [unknown], unknown,    open, 'Lim',425   XP: []
+4270:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens reden suv’s.
+      Veel buitenaardse wezens reden auto’s.
+  64: [unknown], unknown,    open, 'Lim',471   XP: []
+4288: [unknown], unknown,    open, 'Lim',419   XP: []
+Inconsistency in node types (entail/8)
+  84:     [yes], unknown,      NA, 'Defected'  XP: _4771238
+      Op de leeftijd van 24 was ze verloofd met prins albert victor, hertog van clarence en avondale, het oudste kind van de prins van wales, maar zes weken na de aankondiging van de verloving stierf hij onverwachts aan longontsteking.
+      Op de leeftijd van 24 was ze verloofd met prins albert victor, hertog van clarence en avondale, de oudste zoon van de prins van wales, maar zes weken na de aankondiging van de verloving stierf hij onverwachts aan longontsteking.
+ 106: [unknown], unknown,    open, 'Ter',45    XP: []
+4309:     [yes], unknown,    open, 'Lim',423   XP: []
+      Ieder buitenaards wezen speelde met een paar speelgoedauto’s.
+      Ieder buitenaards wezen speelde met speeltjes.
+4321: [unknown], unknown,    open, 'Lim',423   XP: []
+  93:     [yes], unknown,    open, 'Lim',464   XP: []
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van pragmatische betekenisverrijking.
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van betekenisverrijking.
+Inconsistency in node types (entail/8)
+ 115: [unknown], unknown,      NA, 'Defected'  XP: _5146408
+4337: [unknown], unknown,    open, 'Ter',153   XP: []
+4224:     [yes], unknown,    open, 'Lim',424   XP: []
+      Geen buitenaards wezen at bij enige restaurants.
+      Geen buitenaards wezen at bij Mexicaanse restaurants.
+4319: [unknown], unknown,    open, 'Lim',417   XP: []
+4357: [unknown], unknown,    open, 'Ter',82    XP: []
+4233: [unknown], unknown,    open, 'Lim',419   XP: []
+4339:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
+4253: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Precies 12 buitenaardse wezens kochtten shirts.
+      Precies 12 buitenaardse wezens kochtten kleren.
+4247: [unknown], unknown,    open, 'Lim',418   XP: []
+4322: [unknown], unknown,    open, 'Lim',417   XP: []
+ 126:     [yes], unknown,    open, 'Ter',128   XP: []
+      Een sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+4359:     [yes], unknown,    open, 'Ter',106   XP: []
+      Geen buitenaards wezen dronk enige frisdrank.
+      Geen buitenaards wezen dronk cola.
+4244:     [yes], unknown,    open, 'Ter',179   XP: []
+      Ieder buitenaards wezen keek honkbalwedstrijden.
+      Ieder buitenaards wezen keek sportwedstrijden.
+4318: [unknown], unknown,    open, 'Lim',419   XP: []
+4290: [unknown], unknown,    open, 'Lim',418   XP: []
+4341:     [yes], unknown,    open, 'Ter',260   XP: []
+      Het blauwe buitenaardse wezen speelde met een paar speelgoedauto’s.
+      Het blauwe buitenaardse wezen speelde met speeltjes.
+4308:     [yes], unknown,    open, 'Lim',420   XP: []
+      Ieder buitenaards wezen las een paar sci-fi romans.
+      Ieder buitenaards wezen las boeken.
+4379: [unknown], unknown,    open, 'Ter',146   XP: []
+4342:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het blauwe buitenaardse wezen gooide een paar tennisballen.
+      Het blauwe buitenaardse wezen gooide ballen.
+4338: [unknown], unknown,    open, 'Ter',170   XP: []
+4358: [unknown], unknown,    open, 'Ter',79    XP: []
+4267:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens lazen nieuwstijdschriften.
+      Veel buitenaardse wezens lazen tijdschriften.
+4214: [unknown], unknown,    open, 'Lim',417   XP: []
+4203: [unknown], unknown,    open, 'Lim',419   XP: []
+4377:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het paarse buitenaardse wezen zag geen vogels.
+      Het paarse buitenaardse wezen zag geen duiven.
+4264: [unknown], unknown,    open, 'Lim',416   XP: []
+4273:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het paarse buitenaardse wezen kocht geen kleren.
+      Het paarse buitenaardse wezen kocht geen shirts.
+4329: [unknown], unknown,    open, 'Lim',425   XP: []
+4293: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten shirts.
+      Alleen 12 buitenaardse wezens kochten kleren.
+4223:     [yes], unknown,    open, 'Ter',106   XP: []
+      Geen buitenaards wezen at enig vlees.
+      Geen buitenaards wezen at varkensvlees.
+4378:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het paarse buitenaardse wezen gooide geen ballen.
+      Het paarse buitenaardse wezen gooide geen tennisballen.
+4310:     [yes], unknown,    open, 'Lim',417   XP: []
+      Ieder buitenaards wezen gooide een paar tennisballen.
+      Ieder buitenaards wezen gooide ballen.
+4284: [unknown], unknown,    open, 'Ter',179   XP: []
+  90:     [yes],     yes,  closed, 'Ter',90    XP: [isa(koning,persoon)]
+Inconsistency in node types (entail/8)
+ 112: [unknown], unknown,      NA, 'Defected'  XP: _4146906
+4362:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen reed enige auto’s.
+      Geen buitenaards wezen reed suv’s.
+4243:     [yes], unknown,    open, 'Ter',179   XP: []
+      Ieder buitenaards wezen las nieuwstijdschriften.
+      Ieder buitenaards wezen las tijdschriften.
+4328: [unknown], unknown,    open, 'Lim',422   XP: []
+4361:     [yes], unknown,    open, 'Ter',417   XP: []
+      Geen buitenaards wezen speelde met enige speeltjes.
+      Geen buitenaards wezen speelde met speelgoedauto’s.
+4287: [unknown], unknown,    open, 'Lim',418   XP: []
+4399: [unknown], unknown,    open, 'Lim',419   XP: []
+4307:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
+4381: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Het gele buitenaardse wezen zag geen duiven.
+      Het gele buitenaardse wezen zag geen vogels.
+4234: [unknown], unknown,    open, 'Lim',419   XP: []
+4349: [unknown], unknown,    open, 'Lim',423   XP: []
+4398: [unknown], unknown,    open, 'Lim',420   XP: []
+ 123: [unknown], unknown,    open, 'Lim',429   XP: []
+4382: [unknown], unknown,    open, 'Ter',286   XP: []
+4397: [unknown], unknown,    open, 'Lim',425   XP: []
+4304: [unknown], unknown,    open, 'Lim',420   XP: []
+4348: [unknown], unknown,    open, 'Lim',417   XP: []
+4263: [unknown], unknown,    open, 'Lim',416   XP: []
+4330: [unknown], unknown,    open, 'Lim',419   XP: []
+4313: [unknown], unknown,    open, 'Lim',425   XP: []
+ 124: [unknown], unknown,    open, 'Lim',429   XP: []
+  46:     [yes], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak verschillende wetten die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak verschillende plannen die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+4419: [unknown], unknown,    open, 'Lim',418   XP: []
+4212: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
+      Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Weinig buitenaardse wezens aten bij restaurants.
+4439: [unknown], unknown,    open, 'Ter',43    XP: []
+4369:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens zagen vogels.
+      Weinig buitenaardse wezens zagen duiven.
+4283: [unknown], unknown,    open, 'Ter',179   XP: []
+4389: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Geen buitenaards wezen zag duiven.
+      Geen buitenaards wezen zag vogels.
+4254: [unknown], unknown,    open, 'Lim',420   XP: []
+4459:     [yes], unknown,    open, 'Ter',45    XP: []
+      Het gele buitenaardse wezen at varkensvlees.
+      Het gele buitenaardse wezen at vlees.
+4418: [unknown], unknown,    open, 'Lim',418   XP: []
+4303: [unknown], unknown,    open, 'Ter',106   XP: []
+4200: [unknown], unknown,    open, 'Lim',426   XP: []
+4211: [unknown], unknown,    open, 'Lim',417   XP: []
+4323:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
+4327: [unknown], unknown,    open, 'Lim',419   XP: []
+4347: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(cola,frisdrank)]
+      Weinig buitenaardse wezens dronken enige cola.
+      Weinig buitenaardse wezens dronken frisdrank.
+4479: [unknown], unknown,    open, 'Ter',170   XP: []
+4417: [unknown], unknown,    open, 'Lim',418   XP: []
+4220: [unknown],      no,  closed, 'Ter',16    XP: [int(Mexicaans),int(enkel),int(no)]
+      Het blauwe buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+      Het blauwe buitenaardse wezen at niet bij restaurants.
+4437: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten wat shirts.
+      Alleen 12 buitenaardse wezens kochten kleren.
+4368:     [yes], unknown,    open, 'Lim',419   XP: []
+      Weinig buitenaardse wezens lazen boeken.
+      Weinig buitenaardse wezens lazen sci-fi romans.
+4274:     [yes], unknown,    open, 'Ter',209   XP: []
+      Het paarse buitenaardse wezen reed geen auto’s.
+      Het paarse buitenaardse wezen reed geen suv’s.
+4324:     [yes], unknown,    open, 'Lim',420   XP: []
+      Veel buitenaardse wezens lazen een paar sci-fi romans.
+      Veel buitenaardse wezens lazen boeken.
+4350: [unknown], unknown,    open, 'Lim',418   XP: []
+4402: [unknown], unknown,    open, 'Lim',420   XP: []
+4401: [unknown], unknown,    open, 'Lim',425   XP: []
+4421: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Alleen 12 buitenaardse wezens zagen duiven.
+      Alleen 12 buitenaardse wezens zagen vogels.
+4240: [unknown], unknown,    open, 'Ter',179   XP: []
+4457: [unknown], unknown,    open, 'Ter',168   XP: []
+4477:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+4409: [unknown], unknown,    open, 'Lim',418   XP: []
+  56: [unknown], unknown,    open, 'Lim',409   XP: []
+Inconsistency in node types (entail/8)
+  76:     [yes], unknown,      NA, 'Defected'  XP: _4959776
+      Ik heb nog nooit een kolibrie gezien.
+      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+4429: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
+      Precies 12 buitenaardse wezens kochtten enige shirts.
+      Precies 12 buitenaardse wezens kochtten kleren.
+Inconsistency in node types (entail/8)
+  96: [unknown], unknown,      NA, 'Defected'  XP: _4960734
+Inconsistency in node types (entail/8)
+ 118: [unknown], unknown,      NA, 'Defected'  XP: _4961538
+4333: [unknown], unknown,    open, 'Lim',425   XP: []
+4343:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens dronken enige frisdrank.
+      Weinig buitenaardse wezens dronken cola.
+4367:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens aten vlees.
+      Weinig buitenaardse wezens aten varkensvlees.
+4363: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(cola,frisdrank)]
+      Geen buitenaards wezen dronk enige cola.
+      Geen buitenaards wezen dronk frisdrank.
+4438: [unknown], unknown,    open, 'Lim',419   XP: []
+  66: [unknown], unknown,    open, 'Lim',426   XP: []
+4383:     [yes], unknown,    open, 'Ter',43    XP: []
+      Geen buitenaards wezen at vlees.
+      Geen buitenaards wezen at varkensvlees.
+4387: [unknown], unknown,    open, 'Ter',44    XP: []
+Inconsistency in node types (entail/8)
+  86: [unknown], unknown,      NA, 'Defected'  XP: _6152784
+Inconsistency in node types (entail/8)
+ 108:     [yes], unknown,      NA, 'Defected'  XP: _6153588
+      Ik wil niet mensen blijven vermaken.
+      Ik wil niet mensen blijven vermaken die mijn tijd niet waarderen.
+4403: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(cola,frisdrank)]
+      Alleen 12 buitenaardse wezens dronken enige cola.
+      Alleen 12 buitenaardse wezens dronken frisdrank.
+4344:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens keken enige sportwedstrijden.
+      Weinig buitenaardse wezens keken honkbalwedstrijden.
+4294: [unknown], unknown,    open, 'Lim',419   XP: []
+4458: [unknown], unknown,    open, 'Ter',79    XP: []
+4388: [unknown], unknown,    open, 'Lim',419   XP: []
+4422: [unknown], unknown,    open, 'Lim',418   XP: []
+4370:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens gooiden ballen.
+      Weinig buitenaardse wezens gooiden tennisballen.
+4231: [unknown], unknown,    open, 'Lim',419   XP: []
+4232: [unknown], unknown,    open, 'Lim',426   XP: []
+4353:     [yes], unknown,    open, 'Ter',114   XP: []
+      Het rode buitenaardse wezen speelde met geen enkel speeltje.
+      Het rode buitenaardse wezen speelde niet met speelgoedauto’s.
+4260: [unknown], unknown,    open, 'Lim',416   XP: []
+4441: [unknown], unknown,    open, 'Lim',417   XP: []
+4373: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Weinig buitenaardse wezens zagen duiven.
+      Weinig buitenaardse wezens zagen vogels.
+4461:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+4442: [unknown], unknown,    open, 'Ter',145   XP: []
+4449: [unknown], unknown,    open, 'Lim',416   XP: []
+4390: [unknown], unknown,    open, 'Ter',179   XP: []
+ 128: [unknown], unknown,    open, 'Ter',133   XP: []
+4462:     [yes], unknown,    open, 'Ter',90    XP: []
+      Het gele buitenaardse wezen gooide tennisballen.
+      Het gele buitenaardse wezen gooide ballen.
+4469:     [yes],     yes,  closed, 'Ter',10    XP: [int(a_few),isa(shirt,kleding)]
+4499: [unknown], unknown,    open, 'Lim',421   XP: []
+4280:     [yes], unknown,    open, 'Ter',179   XP: []
+      Geen buitenaards wezen keek sportwedstrijden.
+      Geen buitenaards wezen keek honkbalwedstrijden.
+4481: [unknown], unknown,    open, 'Ter',170   XP: []
+4501: [unknown],     yes,  closed, 'Ter',7     XP: [int(enkel),int(no),isa(shirt,kleren)]
+      Het blauwe buitenaardse wezen kocht geen enkele shirts.
+      Het blauwe buitenaardse wezen kocht geen enkele kleren.
+4300:     [yes], unknown,    open, 'Ter',91    XP: []
+      Het gele buitenaardse wezen keek honkbalwedstrijden.
+      Het gele buitenaardse wezen keek sportwedstrijden.
+4206: [unknown], unknown,    open, 'Lim',419   XP: []
+4216:     [yes], unknown,    open, 'Ter',90    XP: []
+      Het rode buitenaardse wezen at bij geen enkel restaurant.
+      Het rode buitenaardse wezen at niet bij Mexicaanse restaurants.
+4521:     [yes], unknown,    open, 'Ter',55    XP: []
+      Het paarse buitenaardse wezen speelde niet met speeltjes.
+      Het paarse buitenaardse wezen speelde niet met speeldgoedauto’s.
+4236: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
+      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij restaurants.
+4482: [unknown], unknown,    open, 'Ter',170   XP: []
+4541: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Precies 12 buitenaardse wezens kochtten wat shirts.
+      Precies 12 buitenaardse wezens kochtten wat kleren.
+4478:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens gebruikten een paar kwartjes.
+      Veel buitenaardse wezens gebruikten munten.
+4251: [unknown], unknown,    open, 'Lim',418   XP: []
+4407: [unknown], unknown,    open, 'Lim',418   XP: []
+4364: [unknown], unknown,    open, 'Lim',418   XP: []
+4408: [unknown], unknown,    open, 'Lim',419   XP: []
+4498:     [yes], unknown,    open, 'Ter',72    XP: []
+      Het rode buitenaardse wezen gooide geen enkele bal.
+      Het rode buitenaardse wezen gooide geen tennisballen.
+4252: [unknown], unknown,    open, 'Lim',419   XP: []
+4497:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen kocht geen enkele kleren.
+      Het rode buitenaardse wezen kocht geen enkele shirts.
+4423: [unknown], unknown,    open, 'Lim',419   XP: []
+4428: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+      Precies 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij restaurants.
+4314: [unknown], unknown,    open, 'Lim',419   XP: []
+  55:     [yes], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak enig plan dat legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak enige wet die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+4443:     [yes], unknown,    open, 'Ter',44    XP: []
+      Ieder buitenaards wezen at varkensvlees.
+      Ieder buitenaards wezen at vlees.
+Inconsistency in node types (entail/8)
+  75: [unknown], unknown,      NA, 'Defected'  XP: _4169590
+Inconsistency in node types (entail/8)
+  95: [unknown], unknown,      NA, 'Defected'  XP: _4170394
+Inconsistency in node types (entail/8)
+ 117: [unknown], unknown,      NA, 'Defected'  XP: _4171198
+4410: [unknown], unknown,    open, 'Lim',418   XP: []
+4205: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
+      Precies 12 buitenaardse wezens zagen enige duiven.
+      Precies 12 buitenaardse wezens zagen vogels.
+4489:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens kochten enige kleren.
+      Weinig buitenaardse wezens kochten enige shirts.
+  45: [unknown], unknown,    open, 'Lim',409   XP: []
+4393: [unknown], unknown,    open, 'Lim',425   XP: []
+4509: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Geen buitenaards wezen kocht enige shirts.
+      Geen buitenaards wezen kocht enige kleren.
+4384:     [yes], unknown,    open, 'Ter',297   XP: []
+      Geen buitenaards wezen las boeken.
+      Geen buitenaards wezen las sci-fi romans.
+4413: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Precies 12 buitenaardse wezens zagen duiven.
+      Precies 12 buitenaardse wezens zagen vogels.
+4271:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het paarse buitenaardse wezen las geen tijdschriften.
+      Het paarse buitenaardse wezen las geen nieuwstijdschriften.
+4256:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens keken sportwedstrijden.
+      Weinig buitenaardse wezens keken honkbalwedstrijden.
+4320: [unknown], unknown,    open, 'Lim',420   XP: []
+4226:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen gebruikte enige munten.
+      Geen buitenaards wezen gebruikte kwartjes.
+4519:     [yes], unknown,    open, 'Lim',418   XP: []
+      Het paarse buitenaardse wezen dronk geen frisdrank.
+      Het paarse buitenaardse wezen dronk geen cola.
+4463: [unknown], unknown,    open, 'Lim',417   XP: []
+4272:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het paarse buitenaardse wezen keek geen sportwedstrijden.
+      Het paarse buitenaardse wezen keek geen honkbalwedstrijden.
+4246:     [yes], unknown,    open, 'Ter',52    XP: []
+      Ieder buitenaards wezen reed in suv’s.
+      Ieder buitenaards wezen reed in auto’s.
+4529:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen speelde met speeltjes.
+      Geen buitenaards wezen speelde met speelgoedauto’s.
+4518: [unknown], unknown,    open, 'Lim',416   XP: []
+4549: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten enige shirts.
+      Alleen 12 buitenaardse wezens kochten enige kleren.
+4517: [unknown], unknown,    open, 'Lim',422   XP: []
+4448: [unknown], unknown,    open, 'Lim',419   XP: []
+4561: [unknown], unknown,    open, 'Lim',424   XP: []
+4468:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+4581: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Alleen 12 buitenaardse wezens zagen een paar duiven.
+      Alleen 12 buitenaardse wezens zagen een paar vogels.
+4427: [unknown], unknown,    open, 'Lim',419   XP: []
+4502: [unknown], unknown,    open, 'Lim',419   XP: []
+4601: [unknown], unknown,    open, 'Ter',72    XP: []
+4334: [unknown], unknown,    open, 'Lim',419   XP: []
+4621:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+4276: [unknown], unknown,    open, 'Ter',286   XP: []
+4483:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het blauwe buitenaardse wezen las een paar nieuwstijdschriften.
+      Het blauwe buitenaardse wezen las tijdschriften.
+4296: [unknown], unknown,    open, 'Ter',91    XP: []
+4430: [unknown], unknown,    open, 'Lim',419   XP: []
+4522:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het paarse buitenaardse wezen gebruikte geen munten.
+      Het paarse buitenaardse wezen gebruikte geen kwartjes.
+4291: [unknown], unknown,    open, 'Lim',418   XP: []
+4225:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen zag enige vogels.
+      Geen buitenaards wezen zag duiven.
+4404: [unknown], unknown,    open, 'Lim',419   XP: []
+4311: [unknown], unknown,    open, 'Ter',56    XP: []
+4354:     [yes], unknown,    open, 'Ter',149   XP: []
+      Het rode buitenaardse wezen reed geen enkele auto.
+      Het rode buitenaardse wezen reed geen suv’s.
+4292: [unknown], unknown,    open, 'Lim',419   XP: []
+4433: [unknown], unknown,    open, 'Lim',419   XP: []
+4331: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
+      Alleen 12 buitenaardse wezens dronken wat cola.
+      Alleen 12 buitenaardse wezens dronken frisdrank.
+4340:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het blauwe buitenaardse wezen las een paar sci-fi romans.
+      Het blauwe buitenaardse wezen las boeken.
+4245:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleding)]
+4453:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+4266: [unknown], unknown,    open, 'Lim',416   XP: []
+4539: [unknown], unknown,    open, 'Lim',420   XP: []
+  65:     [yes], unknown,    open, 'Lim',426   XP: []
+      Missouri wetgevers overwegen een overheidsboycot op bedrijven die Israel boycotten.
+      Missouri wetgevers overwegen een boycot op bedrijven die Israel boycotten.
+4286: [unknown], unknown,    open, 'Ter',43    XP: []
+Inconsistency in node types (entail/8)
+  85: [unknown], unknown,      NA, 'Defected'  XP: _5364056
+Inconsistency in node types (entail/8)
+ 107: [unknown], unknown,      NA, 'Defected'  XP: _5364860
+4447: [unknown], unknown,    open, 'Lim',416   XP: []
+4538: [unknown], unknown,    open, 'Lim',420   XP: []
+4488:     [yes], unknown,    open, 'Lim',421   XP: []
+      Weinig buitenaardse wezens lazen enige boeken.
+      Weinig buitenaardse wezens lazen enige sci-fi romans.
+4569: [unknown], unknown,    open, 'Lim',420   XP: []
+4537: [unknown], unknown,    open, 'Lim',420   XP: []
+4450: [unknown], unknown,    open, 'Lim',416   XP: []
+4589:     [yes], unknown,    open, 'Ter',53    XP: []
+      Ieder buitenaards wezen speelde met speelgoedauto’s.
+      Ieder buitenaards wezen speelde met speeltjes.
+4503:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen las enige tijdschriften.
+      Geen buitenaards wezen las enige nieuwstijdschriften.
+4265: [unknown], unknown,    open, 'Lim',416   XP: []
+4374: [unknown], unknown,    open, 'Lim',417   XP: []
+ 127: [unknown], unknown,    open, 'Ter',133   XP: []
+4523: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Het gele buitenaardse wezen dronk geen cola.
+      Het gele buitenaardse wezen dronk geen frisdrank.
+4285: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Geen buitenaards wezen kocht shirts.
+      Geen buitenaards wezen kocht kleren.
+4473: [unknown], unknown,    open, 'Lim',417   XP: []
+4360:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen keek enige sportwedstrijden.
+      Geen buitenaards wezen keek honkbalwedstrijden.
+4493: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Weinig buitenaardse wezens kochten enige shirts.
+      Weinig buitenaardse wezens kochten enige kleren.
+4316: [unknown], unknown,    open, 'Lim',420   XP: []
+4542: [unknown], unknown,    open, 'Lim',420   XP: []
+4215:     [yes], unknown,    open, 'Ter',116   XP: []
+      Het rode buitenaardse wezen at geen enkel vlees.
+      Het rode buitenaardse wezen at geen varkensvlees.
+4312: [unknown], unknown,    open, 'Lim',421   XP: []
+4558: [unknown], unknown,    open, 'Lim',418   XP: []
+4467:     [yes], unknown,    open, 'Lim',417   XP: []
+      Ieder buitenaards wezen las een paar nieuwstijdschriften.
+      Ieder buitenaards wezen las tijdschriften.
+4306: [unknown], unknown,    open, 'Lim',417   XP: []
+4559: [unknown], unknown,    open, 'Lim',419   XP: []
+4351:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het rode buitenaardse wezen dronk geen enkele frisdrank.
+      Het rode buitenaardse wezen dronk geen cola.
+4578: [unknown], unknown,    open, 'Ter',123   XP: []
+4641:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen zag geen enkele vogel.
+      Het rode buitenaardse wezen zag geen enkele duif.
+4557: [unknown], unknown,    open, 'Lim',424   XP: []
+4424: [unknown], unknown,    open, 'Lim',426   XP: []
+4661: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Precies 12 buitenaardse wezens zagen enige duiven.
+      Precies 12 buitenaardse wezens zagen enige vogels.
+4508: [unknown], unknown,    open, 'Lim',421   XP: []
+4470:     [yes], unknown,    open, 'Lim',417   XP: []
+      Ieder buitenaards wezen gebruikte een paar kwartjes.
+      Ieder buitenaards wezen gebruikte munten.
+4609: [unknown], unknown,    open, 'Lim',418   XP: []
+4629:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+4562: [unknown], unknown,    open, 'Lim',418   XP: []
+4543: [unknown], unknown,    open, 'Lim',420   XP: []
+4336: [unknown], unknown,    open, 'Lim',419   XP: []
+4563: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Alleen 12 buitenaardse wezens dronken cola.
+      Alleen 12 buitenaardse wezens dronken frisdrank.
+4513:     [yes], unknown,    open, 'Lim',422   XP: []
+      Weinig buitenaardse wezens speelden met speeltjes.
+      Weinig buitenaardse wezens speelden met speelgoedauto’s.
+4380: [unknown], unknown,    open, 'Lim',420   XP: []
+4305: [unknown], unknown,    open, 'Ter',417   XP: []
+4356: [unknown], unknown,    open, 'Ter',79    XP: []
+4326:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens gooiden een paar tennisballen.
+      Veel buitenaardse wezens gooiden ballen.
+4533: [unknown], unknown,    open, 'Ter',53    XP: []
+4583: [unknown], unknown,    open, 'Ter',103   XP: []
+4371: [unknown], unknown,    open, 'Lim',416   XP: []
+4487:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens lazen enige tijdschriften.
+      Weinig buitenaardse wezens lazen enige nieuwstijdschriften.
+4394: [unknown], unknown,    open, 'Lim',421   XP: []
+4598:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens gebruikten kwartjes.
+      Veel buitenaardse wezens gebruikten munten.
+4603:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+4235: [unknown], unknown,    open, 'Lim',419   XP: []
+4618: [unknown], unknown,    open, 'Ter',115   XP: []
+4332: [unknown], unknown,    open, 'Lim',422   XP: []
+4444:     [yes], unknown,    open, 'Lim',419   XP: []
+      Ieder buitenaards wezen las sci-fi romans.
+      Ieder buitenaards wezen las boeken.
+4623: [unknown], unknown,    open, 'Ter',113   XP: []
+4582: [unknown], unknown,    open, 'Lim',414   XP: []
+4490:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens gooiden enige ballen.
+      Weinig buitenaardse wezens gooiden enige tennisballen.
+4352:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het rode buitenaardse wezen keek geen enkele sportwedstrijd.
+      Het rode buitenaardse wezen keek geen honkbalwedstrijden.
+4602: [unknown], unknown,    open, 'Ter',79    XP: []
+4528:     [yes], unknown,    open, 'Lim',424   XP: []
+      Geen buitenaards wezen at bij restaurants.
+      Geen buitenaards wezen at bij Mexicaanse restaurants.
+4579: [unknown], unknown,    open, 'Lim',420   XP: []
+4577: [unknown], unknown,    open, 'Lim',420   XP: []
+4649:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen zag enige vogels.
+      Geen buitenaards wezen zag enige duiven.
+4669: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Alleen 12 buitenaardse wezens zagen enige duiven.
+      Alleen 12 buitenaardse wezens zagen enige vogels.
+4599: [unknown], unknown,    open, 'Ter',94    XP: []
+4346:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens reden enige auto’s.
+      Weinig buitenaardse wezens reden suv’s.
+4414: [unknown], unknown,    open, 'Lim',418   XP: []
+4681: [unknown], unknown,    open, 'Lim',426   XP: []
+4400: [unknown], unknown,    open, 'Lim',419   XP: []
+4366: [unknown], unknown,    open, 'Ter',45    XP: []
+4553: [unknown], unknown,    open, 'Lim',424   XP: []
+4255:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens lazen tijdschriften.
+      Weinig buitenaardse wezens lazen nieuwstijdschriften.
+4325:     [yes], unknown,    open, 'Lim',423   XP: []
+      Veel buitenaardse wezens speelden met een paar speelgoedauto’s.
+      Veel buitenaardse wezens speelden met speeltjes,
+4573: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Precies 12 buitenaardse wezens zagen een paar duiven.
+      Precies 12 buitenaardse wezens zagen een paar vogels.
+4376:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het paarse buitenaardse wezen las geen boeken.
+      Het paarse buitenaardse wezen las geen sci-fi romans.
+4507: [unknown], unknown,    open, 'Lim',418   XP: []
+4622:     [yes], unknown,    open, 'Lim',412   XP: []
+      Veel buitenaardse wezens reden een paar suv’s.
+      Veel buitenaardse wezens reden een paar auto’s.
+4638: [unknown], unknown,    open, 'Lim',418   XP: []
+4386:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen gooide ballen.
+      Geen buitenaards wezen gooide tennisballen.
+4527:     [yes], unknown,    open, 'Ter',103   XP: []
+      Geen buitenaards wezen dronk frisdrank.
+      Geen buitenaards wezen dronk cola.
+4391: [unknown], unknown,    open, 'Lim',419   XP: []
+4597:     [yes], unknown,    open, 'Lim',422   XP: []
+      Veel buitenaardse wezens speelden met speelgoedauto’s.
+      Veel buitenaardse wezens speelden met speeltjes,
+4510: [unknown], unknown,    open, 'Lim',418   XP: []
+4372: [unknown], unknown,    open, 'Lim',419   XP: []
+4548: [unknown], unknown,    open, 'Lim',423   XP: []
+4275: [unknown], unknown,    open, 'Ter',286   XP: []
+4530:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen gebruikte munten.
+      Geen buitenaards wezen gebruikte kwartjes.
+4619:     [yes], unknown,    open, 'Lim',419   XP: []
+      Veel buitenaardse wezens aten wat varkensvlees.
+      Veel buitenaardse wezens aten wat vlees.
+4295: [unknown], unknown,    open, 'Ter',79    XP: []
+4315: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken een beetje cola.
+      Precies 12 buitenaardse wezens dronken frisdrank.
+4464: [unknown], unknown,    open, 'Lim',424   XP: []
+4643: [unknown], unknown,    open, 'Lim',421   XP: []
+4484:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+4420: [unknown], unknown,    open, 'Lim',421   XP: []
+4434: [unknown], unknown,    open, 'Lim',419   XP: []
+4335: [unknown], unknown,    open, 'Ter',97    XP: []
+4593: [unknown], unknown,    open, 'Lim',422   XP: []
+4689: [unknown], unknown,    open, 'Lim',424   XP: []
+4355: [unknown],     yes,  closed, 'Ter',4     XP: [int(enkel),isa(cola,frisdrank)]
+      Het blauwe buitenaardse wezen dronk geen enkele cola.
+      Het blauwe buitenaardse wezen dronk geen frisdrank.
+4613:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+4345:     [yes], unknown,    open, 'Lim',423   XP: []
+      Weinig buitenaardse wezens speelden met enige speeltjes.
+      Weinig buitenaardse wezens speelden met speelgoedauto’s.
+4701:     [yes], unknown,    open, 'Lim',424   XP: []
+      Veel buitenaardse wezens speelden met een paar speelgoedauto’s.
+      Veel buitenaardse wezens speelden met een paar speeltjes.
+4411: [unknown], unknown,    open, 'Lim',418   XP: []
+4406: [unknown], unknown,    open, 'Lim',419   XP: []
+4365: [unknown], unknown,    open, 'Ter',55    XP: []
+4375:     [yes], unknown,    open, 'Ter',113   XP: []
+      Het paarse buitenaardse wezen at geen vlees.
+      Het paarse buitenaardse wezen at geen varkensvlees.
+4658: [unknown], unknown,    open, 'Lim',420   XP: []
+4395: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken wat cola.
+      Precies 12 buitenaardse wezens dronken frisdrank.
+4396: [unknown], unknown,    open, 'Lim',419   XP: []
+4617: [unknown], unknown,    open, 'Lim',418   XP: []
+4547: [unknown], unknown,    open, 'Lim',420   XP: []
+4637: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Weinig buitenaardse wezens zagen enige duiven.
+      Weinig buitenaardse wezens zagen enige vogels.
+4440: [unknown], unknown,    open, 'Ter',297   XP: []
+4642:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen gebruikte geen enkele munt.
+      Het rode buitenaardse wezen gebruikte geen enkel kwartje.
+4392: [unknown], unknown,    open, 'Lim',419   XP: []
+4454:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens gooiden tennisballen.
+      Veel buitenaardse wezens gooiden ballen.
+4568: [unknown], unknown,    open, 'Lim',420   XP: []
+4709:     [yes], unknown,    open, 'Ter',297   XP: []
+      Het blauwe buitenaardse wezen speelde met een paar speelgoedauto’s.
+      Het blauwe buitenaardse wezen speelde met een paar speeltjes.
+4588:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+4550: [unknown], unknown,    open, 'Lim',420   XP: []
+4504:     [yes], unknown,    open, 'Lim',421   XP: []
+      Geen buitenaards wezen las enige boeken.
+      Geen buitenaards wezen las enige sci-fi romans.
+4385:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen zag vogels.
+      Geen buitenaards wezen zag duiven.
+4633:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens zagen enige vogels.
+      Weinig buitenaardse wezens zagen enige duiven.
+4653: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Geen buitenaards wezen zag enige duiven.
+      Geen buitenaards wezen zag enige vogels.
+4460:     [yes], unknown,    open, 'Ter',328   XP: []
+      Het gele buitenaardse wezen las sci-fi romans.
+      Het gele buitenaardse wezen las boeken.
+4415: [unknown], unknown,    open, 'Lim',418   XP: []
+4663: [unknown], unknown,    open, 'Lim',420   XP: []
+4431: [unknown], unknown,    open, 'Lim',419   XP: []
+4524: [unknown], unknown,    open, 'Ter',179   XP: []
+4426: [unknown], unknown,    open, 'Lim',419   XP: []
+4639:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen at geen enkel vlees.
+      Het rode buitenaardse wezen at geen enkel varkensvlees.
+4416: [unknown], unknown,    open, 'Lim',421   XP: []
+4683: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Alleen 12 buitenaardse wezens dronken wat cola.
+      Alleen 12 buitenaardse wezens dronken wat frisdrank.
+4436: [unknown],     yes,  closed, 'Ter',4     XP: [int(a_few)]
+      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
+      Alleen 12 buitenaardse wezens aten bij restaurants.
+4474: [unknown], unknown,    open, 'Lim',417   XP: []
+4678: [unknown], unknown,    open, 'Lim',420   XP: []
+4657: [unknown], unknown,    open, 'Lim',420   XP: []
+4456: [unknown], unknown,    open, 'Ter',126   XP: []
+4446:     [yes], unknown,    open, 'Ter',179   XP: []
+      Ieder buitenaards wezen gooide tennisballen.
+      Ieder buitenaards wezen gooide ballen.
+4476:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+4412: [unknown], unknown,    open, 'Lim',419   XP: []
+4662: [unknown], unknown,    open, 'Lim',420   XP: []
+4567: [unknown], unknown,    open, 'Lim',420   XP: []
+4496:     [yes], unknown,    open, 'Ter',49    XP: []
+      Het rode buitenaardse wezen las geen enkel boek.
+      Het rode buitenaardse wezen las geen enkel sci-fi boek.
+4608: [unknown], unknown,    open, 'Lim',418   XP: []
+4587:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+4480: [unknown], unknown,    open, 'Ter',219   XP: []
+4516: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
+      Weinig buitenaardse wezens aten bij restaurants.
+4432: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+      Alleen 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+4721:     [yes], unknown,    open, 'Lim',429   XP: []
+      Het rode buitenaardse wezen speelde met geen enkel speeltje.
+      Het rode buitenaardse wezen speelde met geen enkele speelgoedauto.
+4607: [unknown], unknown,    open, 'Ter',107   XP: []
+4405: [unknown], unknown,    open, 'Lim',425   XP: []
+4451:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens aten varkensvlees.
+      Veel buitenaardse wezens aten vlees.
+4729:     [yes], unknown,    open, 'Lim',424   XP: []
+      Geen buitenaards wezen speelde met enige speeltjes.
+      Geen buitenaards wezen speelde met enige speelgoedauto’s.
+4570: [unknown], unknown,    open, 'Lim',421   XP: []
+4435: [unknown], unknown,    open, 'Lim',419   XP: []
+4455: [unknown], unknown,    open, 'Ter',44    XP: []
+4627:     [yes], unknown,    open, 'Ter',146   XP: []
+      Het blauwe buitenaardse wezen at wat varkensvlees.
+      Het blauwe buitenaardse wezen at wat vlees.
+4544: [unknown], unknown,    open, 'Lim',423   XP: []
+4628:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het blauwe buitenaardse wezen keek een paar honkbalwedstrijden.
+      Het blauwe buitenaardse wezen keek een paar sportwedstrijden.
+4703: [unknown], unknown,    open, 'Lim',418   XP: []
+4494: [unknown], unknown,    open, 'Lim',418   XP: []
+4564: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Alleen 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij restaurants.
+4590:     [yes], unknown,    open, 'Ter',145   XP: []
+      Ieder buitenaards wezen gebruikte kwartjes,
+      Ieder buitenaards wezen gebruikte munten.
+4673: [unknown], unknown,    open, 'Lim',426   XP: []
+4698: [unknown], unknown,    open, 'Lim',418   XP: []
+4723: [unknown],     yes,  closed, 'Ter',7     XP: [int(enkel),int(no),isa(cola,frisdrank)]
+      Het blauwe buitenaardse wezen dronk geen enkele cola.
+      Het blauwe buitenaardse wezen dronk geen enkele frisdrank.
+4466: [unknown], unknown,    open, 'Lim',417   XP: []
+4659: [unknown], unknown,    open, 'Lim',420   XP: []
+4647:     [yes], unknown,    open, 'Ter',133   XP: []
+      Geen buitenaards wezen at enig vlees.
+      Geen buitenaards wezen at enig varkensvlees.
+4452:     [yes], unknown,    open, 'Lim',419   XP: []
+      Veel buitenaardse wezens lazen sci-fi romans.
+      Veel buitenaardse wezens lazen boeken.
+4486:     [yes], unknown,    open, 'Ter',170   XP: []
+      Het blauwe buitenaardse wezen gebruikte een paar kwartjes.
+      Het blauwe buitenaardse wezen gebruikte munten.
+4682: [unknown], unknown,    open, 'Lim',420   XP: []
+4471: [unknown], unknown,    open, 'Lim',417   XP: []
+4536: [unknown], unknown,    open, 'Lim',421   XP: []
+4677: [unknown], unknown,    open, 'Lim',427   XP: []
+4556: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Precies 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij restaurants.
+4425: [unknown], unknown,    open, 'Lim',419   XP: []
+4445:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+4475:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Veel buitenaardse wezens lazen tijdschriften.
+4465: [unknown], unknown,    open, 'Ter',45    XP: []
+4500: [unknown], unknown,    open, 'Lim',421   XP: []
+4514:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens gebruikten munten.
+      Weinig buitenaardse wezens gebruikten kwartjes.
+4485:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+4520:     [yes],     yes,  closed, 'Ter',6     XP: [int(Mexicaans)]
+4718: [unknown], unknown,    open, 'Lim',418   XP: []
+4749: [unknown], unknown,    open, 'Lim',426   XP: []
+4741: [unknown], unknown,    open, 'Lim',427   XP: []
+4769: [unknown], unknown,    open, 'Ter',52    XP: []
+4789:     [yes],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+4534: [unknown], unknown,    open, 'Ter',145   XP: []
+4584: [unknown], unknown,    open, 'Lim',424   XP: []
+4809: [unknown], unknown,    open, 'Ter',49    XP: []
+4610: [unknown], unknown,    open, 'Lim',419   XP: []
+4604:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+4829:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleren)]
+4693:     [yes], unknown,    open, 'Lim',424   XP: []
+      Ieder buitenaards wezen speelde met een paar speelgoedauto’s.
+      Ieder buitenaards wezen speelde met een paar speeltjes.
+Inconsistency in node types (entail/8)
+4849: [unknown], unknown,      NA, 'Defected'  XP: _1681256
+Inconsistency in node types (entail/8)
+4869:     [yes], unknown,      NA, 'Defected'  XP: _1682060
+      Ieder buitenaards wezen die met geen enkele speelgoedauto’s speelde is harig.
+      Ieder buitenaards wezen die niet met speeltjes speelde is harig.
+4630:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het blauwe buitenaardse wezen reed een paar suv’s.
+      Het blauwe buitenaardse wezen reed een paar auto’s.
+4648:     [yes], unknown,    open, 'Lim',425   XP: []
+      Geen buitenaards wezen at bij enige restaurants.
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+4491: [unknown], unknown,    open, 'Lim',418   XP: []
+4702:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens gooiden een paar tennisballen.
+      Veel buitenaardse wezens gooiden een paar ballen.
+4668: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij enige restaurants.
+4506:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen gooide enige ballen.
+      Geen buitenaards wezen gooide enige tennisballen.
+4743: [unknown], unknown,    open, 'Lim',420   XP: []
+4472: [unknown], unknown,    open, 'Lim',424   XP: []
+4667: [unknown], unknown,    open, 'Lim',420   XP: []
+4679: [unknown], unknown,    open, 'Lim',420   XP: []
+4697: [unknown], unknown,    open, 'Lim',425   XP: []
+4699:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+4576: [unknown], unknown,    open, 'Lim',420   XP: []
+4596:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+4505:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen kocht enige kleren.
+      Geen buitenaards wezen kocht enige shirts.
+4624: [unknown], unknown,    open, 'Ter',286   XP: []
+4554: [unknown], unknown,    open, 'Lim',418   XP: []
+4526: [unknown], unknown,    open, 'Ter',193   XP: []
+4525: [unknown], unknown,    open, 'Ter',51    XP: []
+4644: [unknown],     yes,  closed, 'Ter',25    XP: [int(Mexicaans),int(enkel),int(no)]
+      Het blauwe buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+      Het blauwe buitenaardse wezen at bij geen enkel restaurant.
+4511:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens dronken frisdrank.
+      Weinig buitenaardse wezens dronken cola.
+4540: [unknown], unknown,    open, 'Lim',421   XP: []
+4761: [unknown], unknown,    open, 'Lim',420   XP: []
+4531: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Geen buitenaards wezen dronk cola.
+      Geen buitenaards wezen dronk frisdrank.
+4738: [unknown], unknown,    open, 'Lim',421   XP: []
+4781:     [yes],     yes,  closed, 'Ter',10    XP: [int(a),isa(shirt,kleding)]
+4495:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen las geen enkel tijdschrift.
+      Het rode buitenaardse wezen las geen enkel nieuwstijdschrift.
+Inconsistency in node types (entail/8)
+4801: [unknown], unknown,      NA, 'Defected'  XP: _4550206
+Inconsistency in node types (entail/8)
+4821:     [yes], unknown,      NA, 'Defected'  XP: _4551010
+      Ieder buitenaards wezen die geen enkele duiven zag is harig.
+      Ieder buitenaards wezen die geen vogels zag is harig.
+4650:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen gebruikte enige munten.
+      Geen buitenaards wezen gebruikte enige kwartjes.
+4515: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Weinig buitenaardse wezens dronken cola.
+      Weinig buitenaardse wezens dronken frisdrank.
+4688: [unknown], unknown,    open, 'Lim',421   XP: []
+4713:     [yes], unknown,    open, 'Lim',424   XP: []
+      Weinig buitenaardse wezens speelden met enige speeltjes.
+      Weinig buitenaardse wezens speelden met enige speelgoedauto’s.
+4733: [unknown], unknown,    open, 'Ter',66    XP: []
+4763: [unknown], unknown,    open, 'Lim',420   XP: []
+4492: [unknown], unknown,    open, 'Lim',422   XP: []
+4574: [unknown], unknown,    open, 'Lim',421   XP: []
+4616: [unknown], unknown,    open, 'Lim',418   XP: []
+4717: [unknown], unknown,    open, 'Lim',424   XP: []
+4687: [unknown], unknown,    open, 'Lim',418   XP: []
+4722:     [yes], unknown,    open, 'Lim',421   XP: []
+      Het rode buitenaardse wezen reed geen enkele auto.
+      Het rode buitenaardse wezen reed geen enkele suv.
+4636: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Weinig buitenaardse wezens aten bij enige restaurants.
+4707:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+4889: [unknown], unknown,    open, 'Lim',409   XP: []
+4909: [unknown],     yes,  closed, 'Ter',4     XP: [int(enkel),isa(shirt,kleren)]
+      Het rode buitenaardse wezen kocht geen enkele shirts.
+      Het rode buitenaardse wezen kocht geen kleren.
+4546: [unknown], unknown,    open, 'Lim',420   XP: []
+4783: [unknown], unknown,    open, 'Ter',193   XP: []
+Inconsistency in node types (entail/8)
+4803:     [yes], unknown,      NA, 'Defected'  XP: _1517282
+      Ieder buitenaards wezen die niet wat cola dronk is harig.
+      Ieder buitenaards wezen die geen frisdrank dronk is harig.
+4545: [unknown], unknown,    open, 'Lim',420   XP: []
+4551: [unknown], unknown,    open, 'Lim',419   XP: []
+4560: [unknown], unknown,    open, 'Lim',425   XP: []
+4758: [unknown], unknown,    open, 'Lim',420   XP: []
+4535: [unknown], unknown,    open, 'Lim',420   XP: []
+4929: [unknown], unknown,    open, 'Ter',251   XP: []
+4555: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken cola.
+      Precies 12 buitenaardse wezens dronken frisdrank.
+4594: [unknown], unknown,    open, 'Lim',416   XP: []
+4664: [unknown], unknown,    open, 'Lim',427   XP: []
+4670: [unknown], unknown,    open, 'Lim',420   XP: []
+4708:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het blauwe buitenaardse wezen las een paar sci-fi romans.
+      Het blauwe buitenaardse wezen las een paar boeken.
+4719:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen dronk geen enkele frisdrank.
+      Het rode buitenaardse wezen dronk geen enkele cola.
+4739: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken wat cola.
+      Precies 12 buitenaardse wezens dronken wat frisdrank.
+4614:     [yes], unknown,    open, 'Ter',59    XP: []
+      Ieder buitenaards wezen reed in een paar suv’s.
+      Ieder buitenaards wezen reed in een paar auto’s.
+4742: [unknown], unknown,    open, 'Lim',421   XP: []
+4512:     [yes], unknown,    open, 'Lim',423   XP: []
+      Weinig buitenaardse wezens aten bij restaurants.
+      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
+4753: [unknown], unknown,    open, 'Lim',420   XP: []
+4532: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Geen buitenaards wezen at bij Mexicaanse restaurants.
+      Geen buitenaards wezen at bij restaurants.
+4566: [unknown], unknown,    open, 'Lim',418   XP: []
+4727:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen dronk enige frisdrank.
+      Geen buitenaards wezen dronk enige cola.
+4841: [unknown], unknown,    open, 'Lim',409   XP: []
+4747: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Alleen 12 buitenaardse wezens dronken enige cola.
+      Alleen 12 buitenaardse wezens dronken enige frisdrank.
+4586: [unknown], unknown,    open, 'Ter',145   XP: []
+4565: [unknown], unknown,    open, 'Lim',424   XP: []
+4737: [unknown], unknown,    open, 'Lim',426   XP: []
+4571: [unknown], unknown,    open, 'Lim',420   XP: []
+4606:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het gele buitenaardse wezen gebruikte kwartjes.
+      Het gele buitenaardse wezen gebruikte munten.
+4757: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Precies 12 buitenaardse wezens kochtten enige shirts.
+      Precies 12 buitenaardse wezens kochtten enige kleren.
+4626: [unknown], unknown,    open, 'Ter',46    XP: []
+4656: [unknown], unknown,    open, 'Lim',427   XP: []
+4778: [unknown], unknown,    open, 'Lim',418   XP: []
+4585: [unknown], unknown,    open, 'Ter',145   XP: []
+4728:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen keek enige sportwedstrijden.
+      Geen buitenaards wezen keek enige honkbalwedstrijden.
+4580: [unknown], unknown,    open, 'Lim',420   XP: []
+4634:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens gebruikten enige munten.
+      Weinig buitenaardse wezens gebruikten enige kwartjes.
+4605:     [yes], unknown,    open, 'Ter',76    XP: []
+      Het gele buitenaardse wezen speelde met speelgoedauto’s.
+      Het gele buitenaardse wezen speelde met speeltjes.
+4684: [unknown], unknown,    open, 'Lim',423   XP: []
+4575: [unknown], unknown,    open, 'Lim',420   XP: []
+4595:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+4762: [unknown], unknown,    open, 'Lim',420   XP: []
+4591: [unknown], unknown,    open, 'Lim',416   XP: []
+4759: [unknown], unknown,    open, 'Lim',420   XP: []
+4773:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen kocht een paar shirts.
+      Ieder buitenaards wezen kocht wat kleding.
+4690: [unknown], unknown,    open, 'Lim',418   XP: []
+4949: [unknown], unknown,    open, 'Ter',403   XP: []
+4600: [unknown], unknown,    open, 'Ter',201   XP: []
+4552: [unknown], unknown,    open, 'Lim',425   XP: []
+4823: [unknown], unknown,    open, 'Lim',409   XP: []
+4777: [unknown], unknown,    open, 'Lim',419   XP: []
+4767: [unknown], unknown,    open, 'Lim',418   XP: []
+4611:     [yes], unknown,    open, 'Ter',124   XP: []
+      Ieder buitenaards wezen at wat varkensvlees.
+      Ieder buitenaards wezen at wat vlees.
+4861:     [yes], unknown,    open, 'Ter',332   XP: []
+      Geen buitenaards wezen stierf zonder met enige speelgoedauto’s te spelen.
+      Geen buitenaards wezen stierf zonder met speeltjes te spelen.
+Inconsistency in node types (entail/8)
+4881: [unknown], unknown,      NA, 'Defected'  XP: _1780
+4710:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het blauwe buitenaardse wezen gooide een paar tennisballen.
+      Het blauwe buitenaardse wezen gooide een paar ballen.
+4654: [unknown], unknown,    open, 'Lim',418   XP: []
+4625: [unknown], unknown,    open, 'Lim',419   XP: []
+4748: [unknown], unknown,    open, 'Lim',420   XP: []
+4704: [unknown], unknown,    open, 'Lim',420   XP: []
+4645: [unknown],     yes,  closed, 'Ter',7     XP: [int(enkel),int(no),isa(duif,vogel)]
+      Het blauwe buitenaardse wezen zag geen enkele duif.
+      Het blauwe buitenaardse wezen zag geen enkele vogel.
+4676: [unknown], unknown,    open, 'Lim',421   XP: []
+4615: [unknown], unknown,    open, 'Lim',418   XP: []
+4782:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens gebruikten een paar kwartjes.
+      Veel buitenaardse wezens gebruikten een paar munten.
+4787:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het blauwe buitenaardse wezen las een paar nieuwstijdschriften.
+      Het blauwe buitenaardse wezen las een paar tijdschriften.
+Inconsistency in node types (entail/8)
+4802: [unknown], unknown,      NA, 'Defected'  XP: _1690
+4807: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+4822:     [yes], unknown,      NA, 'Defected'  XP: _2448
+      Ieder buitenaards wezen die geen enkele kwartjes gebruikte is harig.
+      Ieder buitenaards wezen die geen munten gebruikte is harig.
+4779:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Veel buitenaardse wezens lazen een paar tijdschriften.
+Inconsistency in node types (entail/8)
+4799: [unknown], unknown,      NA, 'Defected'  XP: _4513808
+4646: [unknown], unknown,    open, 'Lim',420   XP: []
+Inconsistency in node types (entail/8)
+4819:     [yes], unknown,      NA, 'Defected'  XP: _4514612
+      Ieder buitenaards wezen die geen enkel varkensvlees at is harig.
+      Ieder buitenaards wezen die geen vlees at is harig.
+4901: [unknown], unknown,    open, 'Ter',149   XP: []
+4620:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens keken een paar honkbalwedstrijden.
+      Veel buitenaardse wezens keken een paar sportwedstrijden.
+4969: [unknown], unknown,    open, 'Lim',419   XP: []
+Inconsistency in node types (entail/8)
+4989: [unknown], unknown,      NA, 'Defected'  XP: _5650758
+Inconsistency in node types (entail/8)
+5009: [unknown], unknown,      NA, 'Defected'  XP: _5651562
+Inconsistency in node types (entail/8)
+5029:     [yes], unknown,      NA, 'Defected'  XP: _5652366
+      Ze gaf hem een roos.
+      Ze gaf hem een bloem.
+Inconsistency in node types (entail/8)
+5049: [unknown], unknown,      NA, 'Defected'  XP: _5653324
+Inconsistency in node types (entail/8)
+5069: [unknown], unknown,      NA, 'Defected'  XP: _5654128
+4798:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar tennisballen te gooien.
+      Geen buitenaards wezen stierf zonder ballen te gooien.
+5089:     [yes], unknown,    open, 'Ter',10    XP: []
+      Alle stippen zijn scharlaken.
+      Alle stippen zijn rood.
+Inconsistency in node types (entail/8)
+5109:     [yes], unknown,      NA, 'Defected'  XP: _5743788
+      Een paar van de sopranen zongen met meer dan drie van de tenoren.
+      Een paar van de sopranen zongen met meer dan drie van de mannelijke zangers.
+Inconsistency in node types (entail/8)
+5129:     [yes], unknown,      NA, 'Defected'  XP: _5744746
+      Niet meer dan drie dikhuiden zijn roze.
+      Niet meer dan drie olifanten zijn roze.
+Inconsistency in node types (entail/8)
+4818: [unknown], unknown,      NA, 'Defected'  XP: _1708
+Inconsistency in node types (entail/8)
+4838:     [yes], unknown,      NA, 'Defected'  XP: _2466
+      Ieder buitenaards wezen die geen suv’s reed is harig.
+      Ieder buitenaards wezen die geen auto’s reed is harig.
+4858: [unknown], unknown,      NA, 'Defected'  XP: []
+4631:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens aten enig vlees.
+      Weinig buitenaardse wezens aten enig varkensvlees.
+4572: [unknown], unknown,    open, 'Lim',420   XP: []
+4793: [unknown], unknown,    open, 'Lim',409   XP: []
+4730:     [yes], unknown,    open, 'Lim',419   XP: []
+      Geen buitenaards wezen reed enige auto’s.
+      Geen buitenaards wezen reed enige suv’s.
+4813:     [yes], unknown,    open, 'Ter',49    XP: []
+      Geen buitenaards wezen stierf zonder enige duiven te zien.
+      Geen buitenaards wezen stierf zonder vogels te zien.
+Inconsistency in node types (entail/8)
+4833: [unknown], unknown,      NA, 'Defected'  XP: _3530696
+4696: [unknown], unknown,    open, 'Lim',421   XP: []
+Inconsistency in node types (entail/8)
+4853:     [yes], unknown,      NA, 'Defected'  XP: _3531500
+      Ieder buitenaards wezen die niet een paar shirts kocht is harig.
+      Ieder buitenaards wezen die geen kleding kocht is harig.
+4635: [unknown], unknown,    open, 'Lim',419   XP: []
+4674: [unknown], unknown,    open, 'Lim',420   XP: []
+4843:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar nieuwstijdschriften te lezen.
+      Geen buitenaards wezen stierf zonder tijdschriften te lezen.
+Inconsistency in node types (entail/8)
+4863: [unknown], unknown,      NA, 'Defected'  XP: _3736652
+Inconsistency in node types (entail/8)
+4883:     [yes], unknown,      NA, 'Defected'  XP: _3737456
+      Ieder buitenaards wezen die geen varkensvlees at is harig.
+      Ieder buitenaards wezen die geen vlees at is harig.
+4651: [unknown], unknown,    open, 'Ter',166   XP: []
+4797:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder met een paar speelgoedauto’s te spelen.
+      Geen buitenaards wezen stierf zonder met speeltjes te spelen.
+Inconsistency in node types (entail/8)
+4817: [unknown], unknown,      NA, 'Defected'  XP: _5176888
+Inconsistency in node types (entail/8)
+4837:     [yes], unknown,      NA, 'Defected'  XP: _5177692
+      Ieder buitenaards wezen die geen shirts kocht is harig.
+      Ieder buitenaards wezen die geen kleding kocht is harig.
+4921: [unknown], unknown,    open, 'Lim',419   XP: []
+4903: [unknown],     yes,  closed, 'Ter',11    XP: [int(enkel),int(no),isa(duif,vogel)]
+      Het rode buitenaardse wezen zag geen enkele duif.
+      Het rode buitenaardse wezen zag geen vogels.
+4941:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+4768: [unknown], unknown,    open, 'Lim',425   XP: []
+4788:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+4665: [unknown], unknown,    open, 'Lim',420   XP: []
+4666: [unknown], unknown,    open, 'Lim',420   XP: []
+4724: [unknown], unknown,    open, 'Lim',421   XP: []
+4839: [unknown], unknown,    open, 'Lim',409   XP: []
+4592: [unknown], unknown,    open, 'Lim',423   XP: []
+4859:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige cola te drinken.
+      Geen buitenaards wezen stierf zonder frisdrank te drinken.
+4827:     [yes], unknown,    open, 'Ter',402   XP: []
+      Geen buitenaards wezen stierf zonder nieuwstijdschriften te lezen.
+      Geen buitenaards wezen stierf zonder tijdschriften te lezen.
+Inconsistency in node types (entail/8)
+4879: [unknown], unknown,      NA, 'Defected'  XP: _5731646
+Inconsistency in node types (entail/8)
+4847: [unknown], unknown,      NA, 'Defected'  XP: _4911700
+Inconsistency in node types (entail/8)
+4899: [unknown], unknown,      NA, 'Defected'  XP: _5732450
+Inconsistency in node types (entail/8)
+4867:     [yes], unknown,      NA, 'Defected'  XP: _4912504
+      Ieder buitenaards wezen die geen enkele cola dronk is harig.
+      Ieder buitenaards wezen die geen frisdrank dronk is harig.
+5149:     [yes], unknown,    open, 'Lim',408   XP: []
+      Bijna geen kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+      Bijna geen kampeerders hebben kou gevat.
+4842: [unknown], unknown,    open, 'Lim',409   XP: []
+Inconsistency in node types (entail/8)
+5169:     [yes], unknown,      NA, 'Defected'  XP: _2062
+      Minder dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Minder dan vijf van de kampeerders hebben kou gevat.
+4862:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige suv’s te rijden.
+      Geen buitenaards wezen stierf zonder auto’s te rijden.
+Inconsistency in node types (entail/8)
+4882: [unknown], unknown,      NA, 'Defected'  XP: _1219478
+4716: [unknown], unknown,    open, 'Lim',418   XP: []
+4750: [unknown], unknown,    open, 'Lim',420   XP: []
+4878:     [yes], unknown,    open, 'Ter',402   XP: []
+      Geen buitenaards wezen stierf zonder tennisballen te gooien.
+      Geen buitenaards wezen stierf zonder ballen te gooien.
+Inconsistency in node types (entail/8)
+4898:     [yes], unknown,      NA, 'Defected'  XP: _1127310
+      Ieder buitenaards wezen die geen kwartjes gebruikte is harig.
+      Ieder buitenaards wezen die geen munten gebruikte is harig.
+4902: [unknown], unknown,    open, 'Ter',79    XP: []
+4694:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen gooide een paar tennisballen.
+      Ieder buitenaards wezen gooide een paar ballen.
+4961:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens gooiden enige ballen.
+      Weinig buitenaardse wezens gooiden tennisballen.
+Inconsistency in node types (entail/8)
+4981: [unknown], unknown,      NA, 'Defected'  XP: _2447010
+5189:     [yes], unknown,    open, 'Ter',114   XP: []
+      Erg weinig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Erg weinig kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5001:     [yes], unknown,      NA, 'Defected'  XP: _2447814
+      Een of andere lange man rende.
+      Een of andere man rende.
+Inconsistency in node types (entail/8)
+5209: [unknown], unknown,      NA, 'Defected'  XP: _331796
+Inconsistency in node types (entail/8)
+5229: [unknown], unknown,      NA, 'Defected'  XP: _332600
+5021:     [yes], unknown,    open, 'Ter',10    XP: []
+      Iedere man danste.
+      Iedere man zong of danste.
+ERROR: sentence id=4915
+Failed to align term tokens and lexical annotations
+term tokes: [[[geen],[roos],[.]]]
+lexical annotation: [j{l:ze,lcat: --,p:pron,postag:'VNW(pers,pron,stan,red,3,mv)',pt:vnw,r:ze,rel: --,s:ze,t:'Ze'},j{l:gad,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:gad,rel:dp,s:gad,t:gad},j{l:hem,lcat:np,p:pron,postag:'VNW(pers,pron,obl,vol,3,ev,masc)',pt:vnw,r:hem,rel:dp,s:hem,t:hem},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:roos,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:roos,rel:hd,s:roos,t:roos},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+5041: [unknown], unknown,      NA, 'Defected'  XP: _2539216
+Inconsistency in node types (entail/8)
+5061:     [yes], unknown,      NA, 'Defected'  XP: _2540020
+      Ze zei minder dan drie woorden.
+      Ze fluisterde minder dan drie woorden.
+5081:     [yes], unknown,    open, 'Ter',30    XP: []
+      Betty woont in Berlijn.
+      Betty woont in Duitsland.
+5101: [unknown], unknown,    open, 'Ter',12    XP: []
+5121:     [yes], unknown,    open, 'Ter',22    XP: []
+      Een paar olifanten zijn roze.
+      Een paar dikhuiden zijn roze.
+Inconsistency in node types (entail/8)
+5141:     [yes], unknown,      NA, 'Defected'  XP: _2892522
+      Niet meer dan drie olifanten zijn blauw.
+      Niet meer dan drie olifanten zijn marineblauw.
+4923: [unknown], unknown,    open, 'Lim',419   XP: []
+Inconsistency in node types (entail/8)
+5161:     [yes], unknown,      NA, 'Defected'  XP: _2893480
+      Niet meer dan de helft van de kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5181:     [yes], unknown,      NA, 'Defected'  XP: _2894438
+      Niet meer dan vijftig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Niet meer dan vijftig kampeerders hebben kou gevat.
+4943:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
+4640:     [yes], unknown,    open, 'Lim',430   XP: []
+      Het rode buitenaardse wezen at bij geen enkel restaurant.
+      Het rode buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+4655: [unknown], unknown,    open, 'Lim',420   XP: []
+4675: [unknown],     yes,  closed, 'Ter',4     XP: [isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken een beetje cola.
+      Precies 12 buitenaardse wezens dronken een beetje frisdrank.
+4660: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij enige restaurants.
+5249: [unknown], unknown,    open, 'Ter',100   XP: []
+4873: [unknown], unknown,    open, 'Lim',409   XP: []
+4612:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen keek een paar honkbalwedstrijden.
+      Ieder buitenaards wezen keek een paar sportwedstrijden.
+Inconsistency in node types (entail/8)
+4893: [unknown], unknown,      NA, 'Defected'  XP: _4641116
+5269: [unknown], unknown,    open, 'Ter',35    XP: []
+5201: [unknown], unknown,    open, 'Ter',91    XP: []
+4744: [unknown], unknown,    open, 'Lim',420   XP: []
+5289: [unknown], unknown,    open, 'Ter',45    XP: []
+Inconsistency in node types (entail/8)
+5309:     [yes], unknown,      NA, 'Defected'  XP: _1050292
+      Meer dan vijf kampeerders hebben kou gevat.
+      Meer dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+5329:     [yes], unknown,      NA, 'Defected'  XP: _1051250
+      Niet minder dan vijf kampeerders hebben kou gevat.
+      Niet minder dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+4919: [unknown], unknown,    open, 'Lim',419   XP: []
+5349: [unknown], unknown,    open, 'Ter',17    XP: []
+5369:     [yes],     yes,  closed, 'Ter',2     XP: []
+4686: [unknown], unknown,    open, 'Lim',420   XP: []
+4918: [unknown], unknown,    open, 'Lim',417   XP: []
+4857: [unknown], unknown,    open, 'Lim',409   XP: []
+4671: [unknown], unknown,    open, 'Lim',421   XP: []
+4691:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+4877:     [yes],     yes,  closed, 'Ter',9     XP: [isa(duif,vogel)]
+Inconsistency in node types (entail/8)
+4897: [unknown], unknown,      NA, 'Defected'  XP: _147614
+4770: [unknown], unknown,    open, 'Lim',418   XP: []
+4714:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens reden enige auto’s.
+      Weinig buitenaardse wezens reden enige suv’s.
+4685: [unknown], unknown,    open, 'Lim',427   XP: []
+4736: [unknown], unknown,    open, 'Lim',420   XP: []
+4922: [unknown], unknown,    open, 'Lim',419   XP: []
+4734: [unknown], unknown,    open, 'Ter',57    XP: []
+4756: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Precies 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij een paar restaurants.
+4917: [unknown], unknown,    open, 'Ter',79    XP: []
+4963:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens lazen enige tijdschriften.
+      Weinig buitenaardse wezens lazen nieuwstijdschriften.
+4937:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+Inconsistency in node types (entail/8)
+4957: [unknown], unknown,      NA, 'Defected'  XP: _585928
+Inconsistency in node types (entail/8)
+4977: [unknown], unknown,      NA, 'Defected'  XP: _586732
+4706: [unknown], unknown,    open, 'Ter',193   XP: []
+4997: [unknown], unknown,    open, 'Ter',9     XP: []
+5017: [unknown], unknown,    open, 'Ter',10    XP: []
+5221: [unknown], unknown,    open, 'Ter',241   XP: []
+Inconsistency in node types (entail/8)
+5241: [unknown], unknown,      NA, 'Defected'  XP: _3774506
+5037:     [yes], unknown,    open, 'Ter',17    XP: []
+      Aldo kuste Nina.
+      Aldo raakte Nina aan.
+Inconsistency in node types (entail/8)
+5261: [unknown], unknown,      NA, 'Defected'  XP: _3775310
+Inconsistency in node types (entail/8)
+5057:     [yes], unknown,      NA, 'Defected'  XP: _874366
+      Hij raakte geen vrouw aan.
+      Hij kuste geen vrouw.
+Inconsistency in node types (entail/8)
+5281: [unknown], unknown,      NA, 'Defected'  XP: _3776114
+Inconsistency in node types (entail/8)
+5077:     [yes], unknown,      NA, 'Defected'  XP: _875324
+      We raakten elkaar nooit aan.
+      We kusten nooit.
+Inconsistency in node types (entail/8)
+5301:     [yes], unknown,      NA, 'Defected'  XP: _3776918
+      Ten minste vijf kampeerders hebben kou gevat.
+      Ten minste vijf kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+5097:     [yes], unknown,    open, 'Ter',10    XP: []
+      Geen stippen zijn rood.
+      Geen stippen zijn scharlaken.
+5117: [unknown], unknown,    open, 'Ter',15    XP: []
+4790:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het blauwe buitenaardse wezen gebruikte een paar kwartjes.
+      Het blauwe buitenaardse wezen gebruikte een paar munten.
+4887: [unknown], unknown,    open, 'Lim',410   XP: []
+5137:     [yes], unknown,    open, 'Ter',10    XP: []
+      Geen olifanten zijn blauw.
+      Geen olifanten zijn marineblauw.
+5321:     [yes], unknown,    open, 'Ter',45    XP: []
+      Veel van de kampeerders hebben kou gevat.
+      Veel van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+5157:     [yes], unknown,      NA, 'Defected'  XP: _1154518
+      Niet meer dan vijf kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+      Niet meer dan vijf kampeerders hebben kou gevat.
+4810: [unknown], unknown,      NA, 'Defected'  XP: []
+4632:     [yes], unknown,    open, 'Lim',425   XP: []
+      Weinig buitenaardse wezens aten bij enige restaurants.
+      Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
+4913: [unknown], unknown,    open, 'Lim',417   XP: []
+5341:     [yes], unknown,    open, 'Ter',31    XP: []
+      John is een lange student.
+      John is een geweldige student.
+4652: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+      Geen buitenaards wezen at bij enige restaurants.
+5361:     [yes], unknown,      NA, 'Defected'  XP: []
+      John beweegt en Mary niet.
+      Mary loopt niet.
+4680: [unknown], unknown,    open, 'Lim',423   XP: []
+4938:     [yes], unknown,    open, 'Ter',260   XP: []
+      Het rode buitenaardse wezen speelde met een paar speelgoedauto’s.
+      Het rode buitenaardse wezen speelde met speeltjes.
+Inconsistency in node types (entail/8)
+4695: [unknown], unknown,    open, 'Lim',418   XP: []
+4705: [unknown], unknown,    open, 'Ter',204   XP: []
+4958:     [yes], unknown,      NA, 'Defected'  XP: _2701186
+      Ieder buitenaards wezen die geen enkele nieuwstijdschriften las is harig.
+      Ieder buitenaards wezen die geen tijdschriften las is harig.
+5381: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Weinig taalkundigen betraden de race vroeg.
+      Weinig taalkundigen betraden de race.
+Inconsistency in node types (entail/8)
+4978:     [yes], unknown,      NA, 'Defected'  XP: _2702144
+      Ieder buitenaards wezen die niet wat varkensvlees at is harig.
+      Ieder buitenaards wezen die geen vlees at is harig.
+5177:     [yes], unknown,    open, 'Ter',54    XP: []
+      Niet veel van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Niet veel van de kampeerders hebben kou gevat.
+4942:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het rode buitenaardse wezen gooide een paar tennisballen.
+      Het rode buitenaardse wezen gooide ballen.
+4998:     [yes], unknown,    open, 'Ter',26    XP: []
+      Iedere man rende.
+      Iedere lange man rende.
+4715: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Weinig buitenaardse wezens dronken enige cola.
+      Weinig buitenaardse wezens dronken enige frisdrank.
+4808: [unknown], unknown,    open, 'Lim',409   XP: []
+5018: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Iedere man zong of danste.
+      Iedere man zong.
+5038: [unknown], unknown,    open, 'Ter',18    XP: []
+Inconsistency in node types (entail/8)
+5058: [unknown], unknown,      NA, 'Defected'  XP: _3023190
+Inconsistency in node types (entail/8)
+5078: [unknown], unknown,      NA, 'Defected'  XP: _3023994
+4939: [unknown], unknown,    open, 'Lim',417   XP: []
+5098: [unknown], unknown,    open, 'Ter',10    XP: []
+5118: [unknown], unknown,    open, 'Ter',15    XP: []
+5138: [unknown], unknown,    open, 'Ter',10    XP: []
+Inconsistency in node types (entail/8)
+5158:     [yes], unknown,      NA, 'Defected'  XP: _3302726
+      Niet meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan vijf kampeerders hebben kou gevat.
+4933: [unknown], unknown,    open, 'Ter',170   XP: []
+Inconsistency in node types (entail/8)
+4953: [unknown], unknown,      NA, 'Defected'  XP: _5953172
+5178:     [yes], unknown,    open, 'Ter',47    XP: []
+      Niet veel van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet veel van de kampeerders hebben kou gevat.
+4711:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens dronken enige frisdrank.
+      Weinig buitenaardse wezens dronken enige cola.
+5197: [unknown], unknown,    open, 'Ter',150   XP: []
+4983: [unknown], unknown,    open, 'Lim',419   XP: []
+4726: [unknown], unknown,    open, 'Ter',344   XP: []
+Inconsistency in node types (entail/8)
+5217: [unknown], unknown,      NA, 'Defected'  XP: _1828538
+5003: [unknown],     yes,  closed, 'Ter',5     XP: [int(lang),int(precies)]
+      Precies een lange man rende.
+      Precies een man rende.
+4731: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Geen buitenaards wezen dronk enige cola.
+      Geen buitenaards wezen dronk enige frisdrank.
+5023: [unknown], unknown,    open, 'Ter',10    XP: []
+Inconsistency in node types (entail/8)
+5043: [unknown], unknown,      NA, 'Defected'  XP: _186214
+Inconsistency in node types (entail/8)
+5063:     [yes], unknown,      NA, 'Defected'  XP: _187018
+      Hij had nooit een gebrek aan briefgeld.
+      Hij had nooit een gebrek aan geld.
+5237: [unknown], unknown,    open, 'Ter',56    XP: []
+5083:     [yes], unknown,    open, 'Ter',32    XP: []
+      Betty woont niet in Duitsland.
+      Betty woont niet in Berlijn.
+Inconsistency in node types (entail/8)
+5257: [unknown], unknown,      NA, 'Defected'  XP: _2048796
+Inconsistency in node types (entail/8)
+5103:     [yes], unknown,      NA, 'Defected'  XP: _340144
+      Meer dan de helft van de tenoren hebben de griep.
+      Meer dan de helft van de tenoren zijn ziek.
+4959:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens kochten enige kleren.
+      Weinig buitenaardse wezens kochten shirts.
+Inconsistency in node types (entail/8)
+5277: [unknown], unknown,      NA, 'Defected'  XP: _2049600
+Inconsistency in node types (entail/8)
+4979: [unknown], unknown,      NA, 'Defected'  XP: _1761958
+4764: [unknown], unknown,    open, 'Lim',427   XP: []
+4999: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Iedere lange man rende.
+      Iedere man rende.
+5198: [unknown], unknown,    open, 'Ter',143   XP: []
+Inconsistency in node types (entail/8)
+5218: [unknown], unknown,      NA, 'Defected'  XP: _3880876
+5123:     [yes], unknown,    open, 'Ter',20    XP: []
+      Een paar olifanten zijn niet roze.
+      Een paar dikhuiden zijn niet roze.
+5019: [unknown], unknown,    open, 'Ter',11    XP: []
+4754: [unknown], unknown,    open, 'Lim',420   XP: []
+5039:     [yes], unknown,    open, 'Ter',18    XP: []
+      Een bulldog viel Nina aan.
+      Een hond viel Nina aan.
+Inconsistency in node types (entail/8)
+5059:     [yes], unknown,      NA, 'Defected'  XP: _2042754
+      Ze fluisterde meer dan drie woorden.
+      Ze zei meer dan drie woorden.
+5079:     [yes], unknown,    open, 'Ter',22    XP: []
+      Alle filosofen zijn sterfelijk.
+      Alle hegelianen zijn sterfelijk.
+4962: [unknown], unknown,    open, 'Lim',417   XP: []
+Inconsistency in node types (entail/8)
+5099:     [yes], unknown,      NA, 'Defected'  XP: _2157428
+      Minder dan vijf stippen zijn rood.
+      Minder dan vijf stippen zijn scharlaken.
+Inconsistency in node types (entail/8)
+4982:     [yes], unknown,      NA, 'Defected'  XP: _3981956
+      Ieder buitenaards wezen die niet een paar duiven zag is harig.
+      Ieder buitenaards wezen die geen vogels zag is harig.
+5238: [unknown], unknown,    open, 'Ter',49    XP: []
+4776: [unknown], unknown,    open, 'Lim',425   XP: []
+5119:     [yes], unknown,    open, 'Ter',22    XP: []
+      Alle dikhuiden zijn roze.
+      Alle olifanten zijn roze.
+Inconsistency in node types (entail/8)
+5258: [unknown], unknown,      NA, 'Defected'  XP: _4052618
+Inconsistency in node types (entail/8)
+5139:     [yes], unknown,      NA, 'Defected'  XP: _2271766
+      Ten minste drie olifanten zijn marineblauw.
+      Ten minste drie olifanten zijn blauw.
+Inconsistency in node types (entail/8)
+5278: [unknown], unknown,      NA, 'Defected'  XP: _4053422
+Inconsistency in node types (entail/8)
+5159:     [yes], unknown,      NA, 'Defected'  XP: _2272724
+      Niet meer dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijf kinderen gingen voor de suikerspin.
+5179:     [yes], unknown,    open, 'Ter',28    XP: []
+      Niet veel van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel van de kinderen gingen voor de suikerspin.
+4672: [unknown], unknown,    open, 'Lim',421   XP: []
+5199: [unknown], unknown,      NA, 'Defected'  XP: []
+5297:     [yes], unknown,    open, 'Ter',87    XP: []
+      Bijna iedereen heeft kou gevat.
+      Bijna iedereen heeft weleens een zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+5219: [unknown], unknown,      NA, 'Defected'  XP: _2575834
+5298:     [yes], unknown,    open, 'Ter',86    XP: []
+      Bijna iedereen heeft kou gevat.
+      Bijna iedereen heeft een zonnebrand gehad of kou gevat.
+4973: [unknown], unknown,    open, 'Lim',417   XP: []
+5317:     [yes], unknown,    open, 'Ter',54    XP: []
+      Veel kampeerders hebben kou gevat.
+      Veel kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+4907:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen kocht geen enkele kleren.
+      Het rode buitenaardse wezen kocht geen shirts.
+Inconsistency in node types (entail/8)
+5337: [unknown], unknown,      NA, 'Defected'  XP: _2544510
+Inconsistency in node types (entail/8)
+5357:     [yes], unknown,      NA, 'Defected'  XP: _2545314
+      Een of andere jongen, de broer van wie Mary houdt, liep.
+      Een of andere jongen liep.
+Inconsistency in node types (entail/8)
+4993: [unknown], unknown,      NA, 'Defected'  XP: _1924
+Inconsistency in node types (entail/8)
+5013:     [yes], unknown,      NA, 'Defected'  XP: _2682
+      Ten minste een man danste.
+      Ten minste een man zong of danste.
+5377: [unknown], unknown,    open, 'Ter',22    XP: []
+Inconsistency in node types (entail/8)
+5033:     [yes], unknown,      NA, 'Defected'  XP: _3640
+      Ze heeft een Duitse auto.
+      Ze heeft een Europese auto.
+4700:     [yes], unknown,    open, 'Lim',422   XP: []
+      Veel buitenaardse wezens lazen een paar sci-fi romans.
+      Veel buitenaardse wezens lazen een paar boeken.
+Inconsistency in node types (entail/8)
+5053:     [yes], unknown,      NA, 'Defected'  XP: _4598
+      Hij kocht marmer.
+      Hij kocht steen.
+5318:     [yes], unknown,    open, 'Ter',53    XP: []
+      Veel kampeerders hebben kou gevat.
+      Veel kampeerders hebben een zonnebrand gehad of kou gevat.
+5002: [unknown], unknown,    open, 'Ter',142   XP: []
+Inconsistency in node types (entail/8)
+5338: [unknown], unknown,      NA, 'Defected'  XP: _4492040
+5239: [unknown], unknown,    open, 'Ter',96    XP: []
+Inconsistency in node types (entail/8)
+5259: [unknown], unknown,      NA, 'Defected'  XP: _2891696
+5022: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Precies een man zong of danste.
+      Precies een man zong.
+Inconsistency in node types (entail/8)
+5279: [unknown], unknown,      NA, 'Defected'  XP: _2892500
+ERROR: sentence id=4915
+Failed to align term tokens and lexical annotations
+term tokes: [[[geen],[roos],[.]]]
+lexical annotation: [j{l:ze,lcat: --,p:pron,postag:'VNW(pers,pron,stan,red,3,mv)',pt:vnw,r:ze,rel: --,s:ze,t:'Ze'},j{l:gad,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:gad,rel:dp,s:gad,t:gad},j{l:hem,lcat:np,p:pron,postag:'VNW(pers,pron,obl,vol,3,ev,masc)',pt:vnw,r:hem,rel:dp,s:hem,t:hem},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:roos,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:roos,rel:hd,s:roos,t:roos},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+5358: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      John zag geen lange student.
+      John zag geen student.
+Inconsistency in node types (entail/8)
+5042:     [yes], unknown,      NA, 'Defected'  XP: _4616210
+      Ze gaf hem geen bloem.
+      Ze gad hem geen roos.
+5299:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna iedereen ging voor de suikerspin.
+      Bijna iedereen koos enige mint chocolaatjes of ging voor de suikerspin.
+5073: [unknown], unknown,    open, 'Ter',41    XP: []
+Inconsistency in node types (entail/8)
+5062: [unknown], unknown,      NA, 'Defected'  XP: _4617168
+5093:     [yes], unknown,    open, 'Ter',10    XP: []
+      Een paar stippen zijn scharlaken.
+      Een paar stippen zijn rood.
+5378: [unknown], unknown,    open, 'Ter',39    XP: []
+5082: [unknown], unknown,    open, 'Ter',30    XP: []
+5113:     [yes], unknown,    open, 'Ter',10    XP: []
+      Alle dikhuiden zijn marineblauw.
+      Alle dikhuiden zijn blauw.
+5133:     [yes], unknown,    open, 'Ter',10    XP: []
+      Een paar olifanten zijn marineblauw.
+      Een paar olifanten zijn blauw.
+5102: [unknown], unknown,    open, 'Ter',12    XP: []
+4735: [unknown], unknown,    open, 'Lim',420   XP: []
+5143:     [yes], unknown,    open, 'Lim',415   XP: []
+      Veel van de boeken hadden typische lezers.
+      Veel van de boeken hadden typische of marginale lezers.
+Inconsistency in node types (entail/8)
+5163:     [yes], unknown,      NA, 'Defected'  XP: _1421898
+      Niet meer dan de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+4784: [unknown], unknown,    open, 'Ter',262   XP: []
+5122: [unknown], unknown,    open, 'Ter',22    XP: []
+Inconsistency in node types (entail/8)
+Inconsistency in node types (entail/8)
+5183:     [yes], unknown,      NA, 'Defected'  XP: _1422856
+      Niet meer dan vijftig kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijftig kinderen gingen voor de suikerspin.
+4804:     [yes], unknown,      NA, 'Defected'  XP: _1823092
+      Ieder buitenaards wezen die niet een paar sci-fi romans las is harig.
+      Ieder buitenaards wezen die geen boeken las is harig.
+Inconsistency in node types (entail/8)
+5142: [unknown], unknown,      NA, 'Defected'  XP: _4969208
+4927:     [yes], unknown,    open, 'Ter',116   XP: []
+      Het rode buitenaardse wezen at wat varkensvlees.
+      Het rode buitenaardse wezen at vlees.
+5203: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+5162:     [yes], unknown,      NA, 'Defected'  XP: _4970012
+      Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+4830:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder suv’s te rijden.
+      Geen buitenaards wezen stierf zonder auto’s te rijden.
+Inconsistency in node types (entail/8)
+5182:     [yes], unknown,      NA, 'Defected'  XP: _4970970
+      Niet meer dan vijftig kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan vijftig kampeerders hebben kou gevat.
+5319:     [yes], unknown,    open, 'Ter',103   XP: []
+      Veel kinderen gingen voor de suikerspin.
+      Veel kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+4850: [unknown], unknown,      NA, 'Defected'  XP: _1714
+Inconsistency in node types (entail/8)
+5339: [unknown], unknown,      NA, 'Defected'  XP: _3255254
+Inconsistency in node types (entail/8)
+4870:     [yes], unknown,      NA, 'Defected'  XP: _2472
+      Ieder buitenaards wezen die geen enkele suv’s reed is harig.
+      Ieder buitenaards wezen die geen auto’s reed is harig.
+5359: [unknown], unknown,    open, 'Ter',32    XP: []
+5153:     [yes], unknown,    open, 'Ter',78    XP: []
+      Bijna niemand heeft weleens een zonnebrand gehad of kou gevat.
+      Bijna niemand heeft kou gevat.
+5379: [unknown], unknown,    open, 'Ter',34    XP: []
+4828:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder honkbalwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder sportwedstrijden te kijken.
+Inconsistency in node types (entail/8)
+4848: [unknown], unknown,      NA, 'Defected'  XP: _3522068
+Inconsistency in node types (entail/8)
+4868:     [yes], unknown,      NA, 'Defected'  XP: _3522872
+      Ieder buitenaards wezen die geen enkele honkbalwedstrijden keek is harig.
+      Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
+5202: [unknown], unknown,    open, 'Ter',84    XP: []
+4692:     [yes], unknown,    open, 'Lim',421   XP: []
+      Ieder buitenaards wezen las een paar sci-fi romans.
+      Ieder buitenaards wezen las een paar boeken.
+4746: [unknown], unknown,    open, 'Lim',420   XP: []
+4751: [unknown], unknown,    open, 'Lim',420   XP: []
+5173:     [yes], unknown,    open, 'Ter',114   XP: []
+      Niet veel kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Niet veel kampeerders hebben kou gevat.
+4725: [unknown], unknown,    open, 'Lim',429   XP: []
+4774:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen gebruikte een paar kwartjes.
+      Ieder buitenaards wezen gebruikte een paar munten.
+5222: [unknown], unknown,    open, 'Ter',216   XP: []
+Inconsistency in node types (entail/8)
+5242: [unknown], unknown,      NA, 'Defected'  XP: _5689846
+Inconsistency in node types (entail/8)
+5262: [unknown], unknown,      NA, 'Defected'  XP: _5690650
+Inconsistency in node types (entail/8)
+5282: [unknown], unknown,      NA, 'Defected'  XP: _5691454
+Inconsistency in node types (entail/8)
+5302:     [yes], unknown,      NA, 'Defected'  XP: _5692258
+      Ten minste vijf kampeerders hebben kou gevat.
+      Ten minste vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+5322:     [yes], unknown,    open, 'Ter',44    XP: []
+      Veel van de kampeerders hebben kou gevat.
+      Veel van de kampeerders hebben een zonnebrand gehad of kou gevat.
+5342:     [yes],     yes,  closed, 'Ter',6     XP: []
+5193:     [yes], unknown,    open, 'Ter',54    XP: []
+      Erg weinig van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Erg weinig van de kampeerders hebben kou gevat.
+5362: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+5213: [unknown], unknown,      NA, 'Defected'  XP: _1273096
+5382: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+5233: [unknown], unknown,      NA, 'Defected'  XP: _1273900
+Inconsistency in node types (entail/8)
+5253: [unknown], unknown,      NA, 'Defected'  XP: _1274704
+4720:     [yes], unknown,    open, 'Lim',421   XP: []
+      Het rode buitenaardse wezen keek geen enkele sportwedstrijd.
+      Het rode buitenaardse wezen keek geen enkele honkbalwedstrijd.
+4755: [unknown], unknown,    open, 'Lim',420   XP: []
+5273: [unknown], unknown,    open, 'Ter',45    XP: []
+5223: [unknown], unknown,    open, 'Ter',316   XP: []
+Inconsistency in node types (entail/8)
+5243: [unknown], unknown,      NA, 'Defected'  XP: _2223516
+Inconsistency in node types (entail/8)
+5263: [unknown], unknown,      NA, 'Defected'  XP: _2224320
+Inconsistency in node types (entail/8)
+5283: [unknown], unknown,      NA, 'Defected'  XP: _2225124
+Inconsistency in node types (entail/8)
+5303:     [yes], unknown,      NA, 'Defected'  XP: _2225928
+      Ten minste vijf kinderen gingen voor de suikerspin.
+      Ten minste vijf kinderen kozen enige mint chocolaatjes of ging voor de suikerspin.
+5323:     [yes], unknown,    open, 'Ter',32    XP: []
+      Veel van de kinderen gingen voor de suikerspin.
+      Veel van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+4712:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens keken enige sportwedstrijden.
+      Weinig buitenaardse wezens keken enige honkbalwedstrijden.
+4824: [unknown], unknown,    open, 'Lim',409   XP: []
+5343:     [yes], unknown,    open, 'Ter',33    XP: []
+      John is een hele lange student.
+      John is een geweldige student.
+4844:     [yes],     yes,  closed, 'Ter',12    XP: [int(Mexicaans),int(a_few)]
+5363: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+4864: [unknown], unknown,      NA, 'Defected'  XP: _3059466
+Inconsistency in node types (entail/8)
+4884:     [yes], unknown,      NA, 'Defected'  XP: _3060270
+      Ieder buitenaards wezen die geen sci-fi romans las is harig.
+      Ieder buitenaards wezen die geen boeken las is harig.
+4947: [unknown], unknown,    open, 'Ter',331   XP: []
+4796:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar sci-fi romans te lezen.
+      Geen buitenaards wezen stierf zonder boeken te lezen.
+5293:     [yes], unknown,    open, 'Ter',151   XP: []
+      Bijna iedere kampeerder heeft kou gevat.
+      Bijna iedere kampeerder heeft weleens een zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+5313:     [yes], unknown,      NA, 'Defected'  XP: _1900976
+      Meer dan vijf van de kampeerders hebben kou gevat.
+      Meer dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+4816: [unknown], unknown,      NA, 'Defected'  XP: _1714
+Inconsistency in node types (entail/8)
+4836:     [yes], unknown,      NA, 'Defected'  XP: _2472
+      Ieder buitenaards wezen die geen honkbalwedstrijden keek is harig.
+      Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
+4856: [unknown], unknown,      NA, 'Defected'  XP: []
+4876:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder sci-fi romans te lezen.
+      Geen buitenaards wezen stierf zonder boeken te lezen.
+Inconsistency in node types (entail/8)
+4896:     [yes], unknown,      NA, 'Defected'  XP: _154154
+      Ieder buitenaards wezen die niet met speelgoedauto’s speelde is harig.
+      Ieder buitenaards wezen die niet met speeltjes speelde is harig.
+4904: [unknown],      no,  closed, 'Ter',16    XP: [int(Mexicaans),int(enkel),int(no)]
+      Het rode buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+      Het rode buitenaardse wezen at niet bij restaurants.
+5333: [unknown], unknown,    open, 'Ter',44    XP: []
+4771:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen las een paar nieuwstijdschriften.
+      Ieder buitenaards wezen las een paar tijdschriften.
+5353: [unknown],     yes,  closed, 'Ter',6     XP: [int(lang)]
+      Geen lange leraar rende gisteren.
+      Geen leraar rende.
+4775: [unknown], unknown,    open, 'Lim',418   XP: []
+4795:     [yes],     yes,  closed, 'Ter',11    XP: [int(a),isa(cola,frisdrank)]
+5373:     [yes], unknown,    open, 'Ter',39    XP: []
+      Weinig taalkundigen betraden de race.
+      Weinig taalkundigen betraden de race vroeg.
+Inconsistency in node types (entail/8)
+4815: [unknown], unknown,      NA, 'Defected'  XP: _3307936
+Inconsistency in node types (entail/8)
+4835:     [yes], unknown,      NA, 'Defected'  XP: _3308740
+      Ieder buitenaards wezen die geen nieuwstijdschriften las is harig.
+      Ieder buitenaards wezen die geen tijdschriften las is harig.
+4855: [unknown], unknown,      NA, 'Defected'  XP: []
+4740: [unknown], unknown,    open, 'Lim',420   XP: []
+4760: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Alleen 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
+4780:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+Inconsistency in node types (entail/8)
+4800: [unknown], unknown,      NA, 'Defected'  XP: _382492
+Inconsistency in node types (entail/8)
+4820:     [yes], unknown,      NA, 'Defected'  XP: _383296
+      Ieder buitenaards wezen die bij geen enkele Mexicaanse restaurants at is harig.
+      Ieder buitenaards wezen die niet bij restaurants at is harig.
+4732: [unknown], unknown,    open, 'Lim',418   XP: []
+4794: [unknown], unknown,    open, 'Lim',409   XP: []
+4814:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige kwartjes te gebruiken.
+      Geen buitenaards wezen stierf zonder munten te gebruiken.
+Inconsistency in node types (entail/8)
+4834: [unknown], unknown,      NA, 'Defected'  XP: _4216536
+Inconsistency in node types (entail/8)
+4854:     [yes], unknown,      NA, 'Defected'  XP: _4217340
+      Ieder buitenaards wezen die niet een paar kwartjes gebruikte is harig.
+      Ieder buitenaards wezen die geen munten gebruikte is harig.
+4967: [unknown], unknown,    open, 'Lim',419   XP: []
+4766: [unknown], unknown,    open, 'Lim',420   XP: []
+4888:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder wat varkensvlees te eten.
+      Geen buitenaards wezen stierf zonder vlees te eten.
+4916:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen las enige tijdschriften.
+      Geen buitenaards wezen las nieuwstijdschriften.
+4936:     [yes],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
+4956:     [yes],     yes,  closed, 'Ter',9     XP: [isa(cola,frisdrank)]
+4976:     [yes],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
+4890:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar honkbalwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder sportwedstrijden te kijken.
+4996: [unknown], unknown,    open, 'Ter',9     XP: []
+5016: [unknown], unknown,    open, 'Ter',10    XP: []
+5036: [unknown], unknown,    open, 'Ter',16    XP: []
+4910: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
+      Geen buitenaards wezen kocht enige shirts.
+      Geen buitenaards wezen kocht kleren.
+Inconsistency in node types (entail/8)
+5056: [unknown], unknown,      NA, 'Defected'  XP: _1708342
+5076: [unknown], unknown,    open, 'Ter',1     XP: []
+Inconsistency in node types (entail/8)
+5096: [unknown], unknown,      NA, 'Defected'  XP: _1764152
+5116: [unknown], unknown,    open, 'Ter',22    XP: []
+4745: [unknown], unknown,    open, 'Lim',426   XP: []
+5136: [unknown], unknown,    open, 'Ter',8     XP: []
+5156:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna niemand koos mint chocolaatjes of ging voor de suikerspin.
+      Bijna niemand ging voor de suikerspin.
+4765: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten wat shirts.
+      Alleen 12 buitenaardse wezens kochten wat kleren.
+4786: [unknown], unknown,    open, 'Ter',193   XP: []
+Inconsistency in node types (entail/8)
+4806:     [yes], unknown,      NA, 'Defected'  XP: _5807500
+      Ieder buitenaards wezen die niet een paar tennisballen gooide is harig.
+      Ieder buitenaards wezen die geen ballen gooide is harig.
+4875:     [yes], unknown,    open, 'Ter',361   XP: []
+      Geen buitenaards wezen stierf zonder varkensvlees te eten.
+      Geen buitenaards wezen stierf zonder vlees te eten.
+Inconsistency in node types (entail/8)
+4895: [unknown], unknown,      NA, 'Defected'  XP: _4314438
+5176:     [yes], unknown,    open, 'Ter',176   XP: []
+      Niet veel kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel kinderen gingen voor de suikerspin.
+4924: [unknown], unknown,    open, 'Lim',419   XP: []
+4915:     [yes], unknown,    open, 'Ter',72    XP: []
+      Het rode buitenaardse wezen las geen enkel tijdschrift.
+      Het rode buitenaardse wezen las geen nieuwstijdschriften.
+4987: [unknown], unknown,    open, 'Lim',419   XP: []
+Inconsistency in node types (entail/8)
+5007:     [yes], unknown,      NA, 'Defected'  XP: _3231410
+      Ten minste een man zong en danste.
+      Ten minste een man danste.
+4935:     [yes],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
+5196:     [yes], unknown,    open, 'Ter',26    XP: []
+      Erg weinig van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig van de kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5216: [unknown], unknown,      NA, 'Defected'  XP: _2724956
+Inconsistency in node types (entail/8)
+5236: [unknown], unknown,      NA, 'Defected'  XP: _2725760
+Inconsistency in node types (entail/8)
+5256: [unknown], unknown,      NA, 'Defected'  XP: _2726564
+4908:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen kocht enige kleren.
+      Geen buitenaards wezen kocht shirts.
+4791: [unknown], unknown,    open, 'Lim',410   XP: []
+4811:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enig varkensvlees te eten.
+      Geen buitenaards wezen stierf zonder vlees te eten.
+5276: [unknown], unknown,    open, 'Ter',26    XP: []
+5027: [unknown],     yes,  closed, 'Ter',28    XP: [int(ieder),int(lang),isa(uit@Japan@man,man),isa(uit@Japan@(ieder@(lang@man)),ieder@(lang@man))]
+      Iedere lange man uit Japan rende snel.
+      Iedere lange man rende.
+Inconsistency in node types (entail/8)
+4831: [unknown], unknown,      NA, 'Defected'  XP: _3249722
+Inconsistency in node types (entail/8)
+4851:     [yes], unknown,      NA, 'Defected'  XP: _3250526
+      Ieder buitenaards wezen die niet een paar nieuwstijdschriften las is harig.
+      Ieder buitenaards wezen die geen tijdschriften las is harig.
+5296:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna ieder kind ging voor de suikerspin.
+      Bijna ieder kind koos mint chocolaatjes of ging voor de suikerspin.
+5047: [unknown],     yes,  closed, 'Ter',3     XP: [isa(zebra,zoogdier)]
+      Iedere zebra is gestreept.
+      Ieder zoogdier is gestreept.
+Inconsistency in node types (entail/8)
+5067: [unknown], unknown,      NA, 'Defected'  XP: _3562302
+Inconsistency in node types (entail/8)
+5316:     [yes], unknown,      NA, 'Defected'  XP: _3012476
+      Meer dan vijf van de kinderen gingen voor de suikerspin.
+      Meer dan vijf van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5087:     [yes], unknown,      NA, 'Defected'  XP: _3563106
+      Het is niet waar dat Betty niet in Berlijn woont.
+      Het is niet waar dat Betty niet in Duitsland woont.
+Inconsistency in node types (entail/8)
+5107:     [yes], unknown,      NA, 'Defected'  XP: _3564064
+      Geen van de sopranen zong met minder dan drie van de tenoren.
+      Geen van de sopranen zong met minder dan drie van de mannelijke zangers.
+Inconsistency in node types (entail/8)
+5127:     [yes], unknown,      NA, 'Defected'  XP: _3565022
+      Ten minste drie olifanten zijn roze.
+      Ten minste drie dikhuiden zijn roze.
+5147: [unknown], unknown,    open, 'Ter',18    XP: []
+Inconsistency in node types (entail/8)
+5167:     [yes], unknown,      NA, 'Defected'  XP: _3665496
+      Minder dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+      Minder dan vijf kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5187:     [yes], unknown,      NA, 'Defected'  XP: _3666454
+      Niet meer dan vijf kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijf kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5207: [unknown], unknown,      NA, 'Defected'  XP: _3667412
+5336: [unknown], unknown,    open, 'Ter',78    XP: []
+4928:     [yes], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen at wat varkensvlees.
+      Ieder buitenaards wezen at vlees.
+5227: [unknown], unknown,    open, 'Ter',28    XP: []
+5356:     [yes], unknown,    open, 'Ter',32    XP: []
+      Iedere student die Mary aanraakte lachte.
+      Iedere student die Mary kuste lachte.
+5247: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+5267: [unknown], unknown,      NA, 'Defected'  XP: _3981776
+4874: [unknown], unknown,    open, 'Lim',409   XP: []
+5376: [unknown], unknown,    open, 'Ter',38    XP: []
+Inconsistency in node types (entail/8)
+4894:     [yes], unknown,      NA, 'Defected'  XP: _5288436
+      Ieder buitenaards wezen die niet bij Mexicaanse restaurants at is harig.
+      Ieder buitenaards wezen die niet bij restaurants at is harig.
+4752: [unknown], unknown,    open, 'Lim',427   XP: []
+4914: [unknown],     yes,  closed, 'Ter',4     XP: [int(enkel),isa(cola,frisdrank)]
+      Het rode buitenaardse wezen dronk geen enkele cola.
+      Het rode buitenaardse wezen dronk geen frisdrank.
+4772:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+4792: [unknown], unknown,      NA, 'Defected'  XP: []
+5287: [unknown], unknown,    open, 'Ter',88    XP: []
+Inconsistency in node types (entail/8)
+5307:     [yes], unknown,      NA, 'Defected'  XP: _4252720
+      Ten minste de helft van de kinderen gingen voor de suikerspin.
+      Ten minste de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5327:     [yes], unknown,      NA, 'Defected'  XP: _4253678
+      Niet minder dan vijftig kinderen gingen voor de suikerspin.
+      Niet minder dan vijftig kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+4812:     [yes],     yes,  closed, 'Ter',12    XP: [int(Mexicaans),int(enig)]
+Inconsistency in node types (entail/8)
+4832: [unknown], unknown,      NA, 'Defected'  XP: _2464246
+Inconsistency in node types (entail/8)
+4852:     [yes], unknown,      NA, 'Defected'  XP: _2465050
+      Ieder buitenaards wezen die niet bij een paar Mexicaanse restaurants at is harig.
+      Ieder buitenaards wezen die niet bij restaurants at is harig.
+5347:     [yes], unknown,    open, 'Ter',18    XP: []
+      Iedere leraar rende gisteren.
+      Iedere lange leraar rende.
+Inconsistency in node types (entail/8)
+5367:     [yes], unknown,      NA, 'Defected'  XP: _4378730
+      Een of andere republikein betrad de race vroeg.
+      Een of andere republikein betrad de race.
+4872: [unknown], unknown,      NA, 'Defected'  XP: []
+4944:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het rode buitenaardse wezen las een paar nieuwstijdschriften.
+      Het rode buitenaardse wezen las tijdschriften.
+4892:     [yes],     yes,  closed, 'Ter',11    XP: [int(a_few),isa(duif,vogel)]
+4930: [unknown], unknown,    open, 'Lim',418   XP: []
+4840: [unknown], unknown,    open, 'Lim',409   XP: []
+4912: [unknown], unknown,    open, 'Ter',79    XP: []
+4860:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige honkbalwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder sportwedstrijden te kijken.
+Inconsistency in node types (entail/8)
+4880: [unknown], unknown,      NA, 'Defected'  XP: _1680732
+Inconsistency in node types (entail/8)
+4900:     [yes], unknown,      NA, 'Defected'  XP: _1681536
+      Ieder buitenaards wezen die geen cola dronk is harig.
+      Ieder buitenaards wezen die geen frisdrank dronk is harig.
+4920: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+      Precies 12 buitenaardse wezens kochtten wat shirts.
+      Precies 12 buitenaardse wezens kochtten kleren.
+4940:     [yes], unknown,    open, 'Ter',170   XP: []
+      Het rode buitenaardse wezen gebruikte een paar kwartjes.
+      Het rode buitenaardse wezen gebruikte munten.
+4960: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
+      Weinig buitenaardse wezens kochten enige shirts.
+      Weinig buitenaardse wezens kochten kleren.
+Inconsistency in node types (entail/8)
+4980:     [yes], unknown,      NA, 'Defected'  XP: _2363576
+      Ieder buitenaards wezen die niet een paar honkbalwedstrijden keek is harig.
+      Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
+Inconsistency in node types (entail/8)
+5000: [unknown], unknown,      NA, 'Defected'  XP: _2364534
+4785: [unknown], unknown,    open, 'Lim',419   XP: []
+5020:     [yes], unknown,    open, 'Ter',10    XP: []
+      Iedere man zong.
+      Iedere man zong of danste.
+4934: [unknown], unknown,    open, 'Lim',417   XP: []
+Inconsistency in node types (entail/8)
+4805:     [yes], unknown,      NA, 'Defected'  XP: _4983234
+      Ieder buitenaards wezen die niet met een paar speelgoedauto’s speelde is harig.
+      Ieder buitenaards wezen die niet met speeltjes speelde is harig.
+5040: [unknown], unknown,    open, 'Ter',18    XP: []
+Inconsistency in node types (entail/8)
+5060: [unknown], unknown,      NA, 'Defected'  XP: _2557694
+4871: [unknown], unknown,    open, 'Ter',367   XP: []
+Inconsistency in node types (entail/8)
+4954:     [yes], unknown,      NA, 'Defected'  XP: _1876
+      Ieder buitenaards wezen die geen enkele tennisballen gooide is harig.
+      Ieder buitenaards wezen die geen ballen gooide is harig.
+4964: [unknown], unknown,    open, 'Lim',417   XP: []
+5080: [unknown], unknown,    open, 'Ter',22    XP: []
+Inconsistency in node types (entail/8)
+5100: [unknown], unknown,      NA, 'Defected'  XP: _2672060
+4984: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten enige shirts.
+      Alleen 12 buitenaardse wezens kochten kleren.
+4948:     [yes], unknown,    open, 'Ter',331   XP: []
+      Geen buitenaards wezen stierf zonder met speelgoedauto’s te spelen.
+      Geen buitenaards wezen stierf zonder met speeltjes te spelen.
+5120: [unknown], unknown,    open, 'Ter',22    XP: []
+4955: [unknown], unknown,    open, 'Lim',409   XP: []
+Inconsistency in node types (entail/8)
+5140: [unknown], unknown,      NA, 'Defected'  XP: _2786090
+5004:     [yes],     yes,  closed, 'Ter',11    XP: [int(lang)]
+Inconsistency in node types (entail/8)
+5160:     [yes], unknown,      NA, 'Defected'  XP: _2786894
+      Niet meer dan vijf kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijf kinderen gingen voor de suikerspin.
+5024: [unknown], unknown,    open, 'Ter',9     XP: []
+5180:     [yes], unknown,    open, 'Ter',26    XP: []
+      Niet veel van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel van de kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5044:     [yes], unknown,      NA, 'Defected'  XP: _90242
+      Ze raakte hem nooit aan.
+      Ze kuste hem nooit.
+Inconsistency in node types (entail/8)
+5064: [unknown], unknown,      NA, 'Defected'  XP: _91200
+5200: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+5220: [unknown], unknown,      NA, 'Defected'  XP: _3072782
+5084: [unknown], unknown,    open, 'Ter',32    XP: []
+Inconsistency in node types (entail/8)
+5104: [unknown], unknown,      NA, 'Defected'  XP: _244018
+4932:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen keek een paar honkbalwedstrijden.
+      Ieder buitenaards wezen keek sportwedstrijden.
+Inconsistency in node types (entail/8)
+4952:     [yes], unknown,      NA, 'Defected'  XP: _3842878
+      Ieder buitenaards wezen die geen enkele shirts kocht is harig.
+      Ieder buitenaards wezen die geen kleding kocht is harig.
+5124: [unknown], unknown,    open, 'Ter',20    XP: []
+5240: [unknown], unknown,    open, 'Ter',91    XP: []
+Inconsistency in node types (entail/8)
+5260: [unknown], unknown,      NA, 'Defected'  XP: _3361078
+4826: [unknown], unknown,    open, 'Ter',366   XP: []
+Inconsistency in node types (entail/8)
+5280: [unknown], unknown,      NA, 'Defected'  XP: _3361882
+5300:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna iedereen ging voor de suikerspin.
+      Bijna iedereen koos mint chocolaatjes of ging voor de suikerspin.
+5320:     [yes], unknown,    open, 'Ter',78    XP: []
+      Veel kinderen gingen voor de suikerspin.
+      Veel kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5340: [unknown], unknown,      NA, 'Defected'  XP: _3668840
+Inconsistency in node types (entail/8)
+5360: [unknown], unknown,      NA, 'Defected'  XP: _3669644
+5380: [unknown], unknown,    open, 'Ter',35    XP: []
+4974:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens keken een paar honkbalwedstrijden.
+      Veel buitenaardse wezens keken sportwedstrijden.
+4994: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Geen man rende snel.
+      Geen man rende.
+5014:     [yes],     yes,  closed, 'Ter',4     XP: []
+Inconsistency in node types (entail/8)
+5034: [unknown], unknown,      NA, 'Defected'  XP: _1056198
+4950:     [yes], unknown,    open, 'Ter',403   XP: []
+      Geen buitenaards wezen stierf zonder kwartjes te gebruiken.
+      Geen buitenaards wezen stierf zonder munten te gebruiken.
+Inconsistency in node types (entail/8)
+5054: [unknown], unknown,      NA, 'Defected'  XP: _1057002
+5074: [unknown], unknown,    open, 'Ter',24    XP: []
+4970: [unknown],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
+      Precies 12 buitenaardse wezens zagen een paar duiven.
+      Precies 12 buitenaardse wezens zagen vogels.
+4990:     [yes],     yes,  closed, 'Ter',2     XP: []
+5094: [unknown], unknown,    open, 'Ter',10    XP: []
+4975: [unknown], unknown,    open, 'Lim',417   XP: []
+Inconsistency in node types (entail/8)
+5010: [unknown], unknown,      NA, 'Defected'  XP: _3429652
+Inconsistency in node types (entail/8)
+5030: [unknown], unknown,      NA, 'Defected'  XP: _3430456
+5114: [unknown], unknown,    open, 'Ter',10    XP: []
+Inconsistency in node types (entail/8)
+5050:     [yes], unknown,      NA, 'Defected'  XP: _3431260
+      Voordat zij hem aanraakte, poetste zij haar tanden.
+      Voordat zij hem kuste, poetste zij haar tanden.
+Inconsistency in node types (entail/8)
+5070: [unknown], unknown,      NA, 'Defected'  XP: _3432218
+5134: [unknown], unknown,    open, 'Ter',10    XP: []
+4995:     [yes], unknown,    open, 'Ter',15    XP: []
+      Geen man rende.
+      Geen man rende snel.
+5090: [unknown], unknown,    open, 'Ter',10    XP: []
+Inconsistency in node types (entail/8)
+5110: [unknown], unknown,      NA, 'Defected'  XP: _3521724
+5015:     [yes],     yes,  closed, 'Ter',4     XP: []
+Inconsistency in node types (entail/8)
+5130: [unknown], unknown,      NA, 'Defected'  XP: _3522528
+5035:     [yes], unknown,    open, 'Ter',16    XP: []
+      Nina heeft een bulldog.
+      Nina heeft een hond.
+Inconsistency in node types (entail/8)
+5055:     [yes], unknown,      NA, 'Defected'  XP: _270306
+      Hij kent een stad in spanje.
+      Hij kent een stad in Europa.
+5075:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dansen,bewegen)]
+Inconsistency in node types (entail/8)
+5095:     [yes], unknown,      NA, 'Defected'  XP: _327522
+      Ten minste vijf stippen zijn scharlaken.
+      Ten minste vijf stippen zijn rood.
+4972:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens aten wat varkensvlees.
+      Veel buitenaardse wezens aten vlees.
+Inconsistency in node types (entail/8)
+4992:     [yes], unknown,      NA, 'Defected'  XP: _4732210
+      Een of andere man rende snel.
+      Een of andere man rende.
+5154:     [yes], unknown,    open, 'Ter',77    XP: []
+      Bijna niemand heeft een zonnebrand gehad of kou gevat.
+      Bijna niemand heeft kou gevat.
+Inconsistency in node types (entail/8)
+5012:     [yes], unknown,      NA, 'Defected'  XP: _4733168
+      Ten minste een man zong.
+      Ten minste een man zong of danste.
+5115:     [yes], unknown,    open, 'Ter',22    XP: []
+      Alle dikhuiden zijn marineblauw.
+      Alle olifanten zijn marineblauw.
+Inconsistency in node types (entail/8)
+5032: [unknown], unknown,      NA, 'Defected'  XP: _4734126
+4968: [unknown], unknown,    open, 'Lim',419   XP: []
+Inconsistency in node types (entail/8)
+5052: [unknown], unknown,      NA, 'Defected'  XP: _4734930
+5135:     [yes], unknown,    open, 'Ter',8     XP: []
+      Een paar olifanten zijn niet blauw.
+      Een paar olifanten zijn niet marineblauw.
+5155:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna niemand koos enige mint chocolaatjes of ging voor de suikerspin.
+      Bijna niemand ging voor de suikerspin.
+5174:     [yes], unknown,    open, 'Ter',104   XP: []
+      Niet veel kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet veel kampeerders hebben kou gevat.
+5072: [unknown], unknown,    open, 'Ter',96    XP: []
+5092: [unknown], unknown,    open, 'Ter',10    XP: []
+5112: [unknown], unknown,    open, 'Ter',10    XP: []
+5132: [unknown], unknown,    open, 'Ter',10    XP: []
+5194:     [yes], unknown,    open, 'Ter',47    XP: []
+      Erg weinig van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Erg weinig van de kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5214: [unknown], unknown,      NA, 'Defected'  XP: _2170146
+5152:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna geen kinderen kozen mint chocolaatjes of ging voor de suikerspin.
+      Bijna geen kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5234: [unknown], unknown,      NA, 'Defected'  XP: _2170950
+Inconsistency in node types (entail/8)
+5172:     [yes], unknown,      NA, 'Defected'  XP: _5345236
+      Minder dan vijf van de kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+      Minder dan vijf van de kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5254: [unknown], unknown,      NA, 'Defected'  XP: _2171754
+5274: [unknown], unknown,    open, 'Ter',44    XP: []
+5175:     [yes], unknown,    open, 'Ter',180   XP: []
+      Niet veel kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel kinderen gingen voor de suikerspin.
+5195:     [yes], unknown,    open, 'Ter',28    XP: []
+      Erg weinig van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig van de kinderen gingen voor de suikerspin.
+5144:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig van de boeken hadden typische of marginale lezers.
+      Weinig van de boeken hadden (een paar) typische lezers.
+Inconsistency in node types (entail/8)
+5215: [unknown], unknown,      NA, 'Defected'  XP: _1334592
+Inconsistency in node types (entail/8)
+5164:     [yes], unknown,      NA, 'Defected'  XP: _1572258
+      Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5235: [unknown], unknown,      NA, 'Defected'  XP: _1335396
+Inconsistency in node types (entail/8)
+5184:     [yes], unknown,      NA, 'Defected'  XP: _1573216
+      Niet meer dan vijftig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijftig kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5255: [unknown], unknown,      NA, 'Defected'  XP: _1336200
+5204: [unknown], unknown,      NA, 'Defected'  XP: []
+4891: [unknown], unknown,    open, 'Lim',409   XP: []
+4825: [unknown], unknown,    open, 'Lim',409   XP: []
+5275: [unknown], unknown,    open, 'Ter',32    XP: []
+5192:     [yes], unknown,    open, 'Ter',176   XP: []
+      Erg weinig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig kinderen gingen voor de suikerspin.
+5295:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna ieder kind ging voor de suikerspin.
+      Bijna ieder kind koos enige mint chocolaatjes of ging voor de suikerspin.
+Inconsistency in node types (entail/8)
+5212: [unknown], unknown,      NA, 'Defected'  XP: _5781212
+Inconsistency in node types (entail/8)
+5315:     [yes], unknown,      NA, 'Defected'  XP: _1647318
+      Meer dan vijf van de kinderen gingen voor de suikerspin.
+      Meer dan vijf van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5232: [unknown], unknown,      NA, 'Defected'  XP: _5782016
+4845:     [yes],     yes,  closed, 'Ter',11    XP: [int(a),isa(shirt,kleren)]
+5252: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+4865: [unknown], unknown,      NA, 'Defected'  XP: _1744
+Inconsistency in node types (entail/8)
+4885:     [yes], unknown,      NA, 'Defected'  XP: _2502
+      Ieder buitenaards wezen die geen duiven zag is harig.
+      Ieder buitenaards wezen die geen vogels zag is harig.
+5294:     [yes], unknown,    open, 'Ter',150   XP: []
+      Bijna iedere kampeerder heeft kou gevat.
+      Bijna iedere kampeerder heeft een zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+5314:     [yes], unknown,      NA, 'Defected'  XP: _2751076
+      Meer dan vijf van de kampeerders hebben kou gevat.
+      Meer dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
+5272: [unknown], unknown,    open, 'Ter',70    XP: []
+5150:     [yes], unknown,    open, 'Lim',408   XP: []
+      Bijna geen kampeerders hebben een zonnebrand gehad of kou gevat.
+      Bijna geen kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5170:     [yes], unknown,      NA, 'Defected'  XP: _4435392
+      Minder dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Minder dan vijf van de kampeerders hebben kou gevat.
+5334: [unknown], unknown,    open, 'Ter',43    XP: []
+5292: [unknown], unknown,    open, 'Ter',26    XP: []
+5354: [unknown], unknown,    open, 'Ter',17    XP: []
+5374:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen van beide democraten betrad te race.
+      Geen van beide democraten betrad te race vroeg.
+4905: [unknown], unknown,    open, 'Ter',82    XP: []
+Inconsistency in node types (entail/8)
+5312:     [yes], unknown,      NA, 'Defected'  XP: _2236
+      Meer dan vijf kinderen gingen voor de suikerspin.
+      Meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5332:     [yes], unknown,      NA, 'Defected'  XP: _3148
+      Niet minder dan vijf kinderen gingen voor de suikerspin.
+      Niet minder dan vijf kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+5335: [unknown], unknown,    open, 'Ter',123   XP: []
+5355:     [yes], unknown,    open, 'Ter',38    XP: []
+      John zag geen student.
+      John zag geen lange student.
+5190:     [yes], unknown,    open, 'Ter',104   XP: []
+      Erg weinig kampeerders hebben een zonnebrand gehad of kou gevat.
+      Erg weinig kampeerders hebben kou gevat.
+4988: [unknown], unknown,    open, 'Lim',419   XP: []
+Inconsistency in node types (entail/8)
+5210: [unknown], unknown,      NA, 'Defected'  XP: _4701706
+Inconsistency in node types (entail/8)
+5375: [unknown], unknown,      NA, 'Defected'  XP: _2140530
+Inconsistency in node types (entail/8)
+5008: [unknown], unknown,      NA, 'Defected'  XP: _2061016
+Inconsistency in node types (entail/8)
+5230: [unknown], unknown,      NA, 'Defected'  XP: _4702510
+4925: [unknown], unknown,    open, 'Ter',97    XP: []
+5028: [unknown],     yes,  closed, 'Ter',27    XP: [int(ieder),int(lang),isa(uit@Japan@man,man)]
+      Iedere lange man uit Japan die de blues zingt rende snel.
+      Iedere lange man rende.
+5224: [unknown], unknown,    open, 'Ter',312   XP: []
+5048:     [yes], unknown,    open, 'Ter',36    XP: []
+      Ieder zoogdier is gestreept.
+      Iedere zebra is gestreept.
+Inconsistency in node types (entail/8)
+5244: [unknown], unknown,      NA, 'Defected'  XP: _2337818
+Inconsistency in node types (entail/8)
+5068: [unknown], unknown,      NA, 'Defected'  XP: _2436932
+Inconsistency in node types (entail/8)
+5264: [unknown], unknown,      NA, 'Defected'  XP: _2338622
+Inconsistency in node types (entail/8)
+5088: [unknown], unknown,      NA, 'Defected'  XP: _2437736
+Inconsistency in node types (entail/8)
+5284: [unknown], unknown,      NA, 'Defected'  XP: _2339426
+Inconsistency in node types (entail/8)
+5108: [unknown], unknown,      NA, 'Defected'  XP: _2438540
+Inconsistency in node types (entail/8)
+5304:     [yes], unknown,      NA, 'Defected'  XP: _2340230
+      Ten minste vijf kinderen gingen voor de suikerspin.
+      Ten minste vijf kinderen kozen mint chocolaatjes of ging voor de suikerspin.
+Inconsistency in node types (entail/8)
+5128: [unknown], unknown,      NA, 'Defected'  XP: _2439344
+5250: [unknown], unknown,    open, 'Ter',93    XP: []
+5324:     [yes], unknown,    open, 'Ter',26    XP: []
+      Veel van de kinderen gingen voor de suikerspin.
+      Veel van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+5148: [unknown], unknown,    open, 'Ter',33    XP: []
+Inconsistency in node types (entail/8)
+5168:     [yes], unknown,      NA, 'Defected'  XP: _2592804
+      Minder dan vijf kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+      Minder dan vijf kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5188:     [yes], unknown,      NA, 'Defected'  XP: _2593762
+      Niet meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijf kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5208: [unknown], unknown,      NA, 'Defected'  XP: _2594720
+5270: [unknown], unknown,    open, 'Ter',34    XP: []
+5228: [unknown], unknown,    open, 'Ter',26    XP: []
+5290: [unknown], unknown,    open, 'Ter',44    XP: []
+5344:     [yes], unknown,    open, 'Ter',75    XP: []
+      Iedere student kuste iedere leraar.
+      Iedere student kuste iedere lange leraar.
+5248: [unknown], unknown,      NA, 'Defected'  XP: []
+Inconsistency in node types (entail/8)
+5310:     [yes], unknown,      NA, 'Defected'  XP: _5333472
+      Meer dan vijf kampeerders hebben kou gevat.
+      Meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+4911:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen gooide enige ballen.
+      Geen buitenaards wezen gooide tennisballen.
+5364:     [yes], unknown,      NA, 'Defected'  XP: []
+      John loopt en Mary niet.
+      John beweegt.
+Inconsistency in node types (entail/8)
+5268: [unknown], unknown,      NA, 'Defected'  XP: _2891862
+Inconsistency in node types (entail/8)
+5330:     [yes], unknown,      NA, 'Defected'  XP: _5334430
+      Niet minder dan vijf kampeerders hebben kou gevat.
+      Niet minder dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+5350: [unknown], unknown,    open, 'Ter',27    XP: []
+5370:     [yes],     yes,  closed, 'Ter',2     XP: []
+5288: [unknown], unknown,    open, 'Ter',70    XP: []
+Inconsistency in node types (entail/8)
+5308:     [yes], unknown,      NA, 'Defected'  XP: _3120058
+      Ten minste de helft van de kinderen gingen voor de suikerspin.
+      Ten minste de helft van de kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5328:     [yes], unknown,      NA, 'Defected'  XP: _3121016
+      Niet minder dan vijftig kinderen gingen voor de suikerspin.
+      Niet minder dan vijftig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+4846:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar kwartjes te gebruiken.
+      Geen buitenaards wezen stierf zonder munten te gebruiken.
+Inconsistency in node types (entail/8)
+4866: [unknown], unknown,      NA, 'Defected'  XP: _1142500
+Inconsistency in node types (entail/8)
+4886:     [yes], unknown,      NA, 'Defected'  XP: _1143304
+      Ieder buitenaards wezen die geen tennisballen gooide is harig.
+      Ieder buitenaards wezen die geen ballen gooide is harig.
+5348: [unknown], unknown,    open, 'Ter',31    XP: []
+5368:     [yes],     yes,  closed, 'Ter',2     XP: []
+4906: [unknown], unknown,    open, 'Ter',72    XP: []
+4926: [unknown], unknown,    open, 'Ter',106   XP: []
+4931:     [yes], unknown,    open, 'Ter',251   XP: []
+      Het rode buitenaardse wezen keek een paar honkbalwedstrijden.
+      Het rode buitenaardse wezen keek sportwedstrijden.
+Inconsistency in node types (entail/8)
+4951: [unknown], unknown,      NA, 'Defected'  XP: _600066
+4946:     [yes],     yes,  closed, 'Ter',11    XP: [int(Mexicaans)]
+4971: [unknown], unknown,    open, 'Lim',417   XP: []
+4991: [unknown], unknown,    open, 'Ter',15    XP: []
+Inconsistency in node types (entail/8)
+5011: [unknown], unknown,      NA, 'Defected'  XP: _1551880
+Inconsistency in node types (entail/8)
+5031:     [yes], unknown,      NA, 'Defected'  XP: _1552684
+      Ze kuste hem.
+      Ze raakte hem aan.
+Inconsistency in node types (entail/8)
+5051:     [yes], unknown,      NA, 'Defected'  XP: _1553642
+      Hij houdt van een vrouw.
+      Hij houdt van een persoon.
+4945: [unknown], unknown,    open, 'Lim',409   XP: []
+5071: [unknown], unknown,    open, 'Ter',96    XP: []
+5091:     [yes], unknown,    open, 'Ter',10    XP: []
+      De meeste stippen zijn scharlaken.
+      De meeste stippen zijn rood.
+5111:     [yes], unknown,    open, 'Ter',10    XP: []
+      Freds stropdas is marineblauw.
+      Freds stropdas is blauw.
+5131:     [yes], unknown,    open, 'Ter',10    XP: []
+      Alle olifanten zijn marineblauw.
+      Alle olifanten zijn blauw.
+4966: [unknown], unknown,    open, 'Lim',419   XP: []
+5151:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna geen kinderen kozen enige mint chocolaatjes of ging voor de suikerspin.
+      Bijna geen kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5171:     [yes], unknown,      NA, 'Defected'  XP: _2164564
+      Minder dan vijf van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+      Minder dan vijf van de kinderen gingen voor de suikerspin.
+5352: [unknown], unknown,    open, 'Lim',420   XP: []
+5372:     [yes], unknown,    open, 'Ter',36    XP: []
+      Geen loodgieter betrad de race.
+      Veel mannen betraden de race vroeg.
+5191:     [yes], unknown,    open, 'Ter',180   XP: []
+      Erg weinig kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig kinderen gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5211: [unknown], unknown,      NA, 'Defected'  XP: _2629122
+Inconsistency in node types (entail/8)
+5231: [unknown], unknown,      NA, 'Defected'  XP: _2629926
+5251: [unknown], unknown,      NA, 'Defected'  XP: []
+5271: [unknown], unknown,    open, 'Ter',88    XP: []
+5291: [unknown], unknown,    open, 'Ter',32    XP: []
+Inconsistency in node types (entail/8)
+5311:     [yes], unknown,      NA, 'Defected'  XP: _3178482
+      Meer dan vijf kinderen gingen voor de suikerspin.
+      Meer dan vijf kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+Inconsistency in node types (entail/8)
+5331:     [yes], unknown,      NA, 'Defected'  XP: _3179440
+      Niet minder dan vijf kinderen gingen voor de suikerspin.
+      Niet minder dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+5351: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Iedere student kuste iedere lange leraar.
+      Iedere student kuste iedere leraar.
+5371:     [yes], unknown,    open, 'Ter',33    XP: []
+      Veel boeren betraden de race vroeg.
+      Veel mannen betraden de race.
+4965: [unknown], unknown,    open, 'Lim',419   XP: []
+4986: [unknown], unknown,    open, 'Lim',419   XP: []
+Inconsistency in node types (entail/8)
+5006:     [yes], unknown,      NA, 'Defected'  XP: _3861182
+      Ten minste een man zong en danste.
+      Ten minste een man zong.
+5026:     [yes],     yes,  closed, 'Ter',2     XP: []
+4985: [unknown], unknown,    open, 'Lim',419   XP: []
+5046:     [yes], unknown,    open, 'Lim',400   XP: []
+      Niemand hier heeft een Europese auto.
+      Niemand hier heeft een Duitse auto.
+Inconsistency in node types (entail/8)
+5066: [unknown], unknown,      NA, 'Defected'  XP: _5586716
+Inconsistency in node types (entail/8)
+5086: [unknown], unknown,      NA, 'Defected'  XP: _5587520
+5106: [unknown], unknown,    open, 'Ter',19    XP: []
+5126: [unknown], unknown,    open, 'Ter',22    XP: []
+5146: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Mary is verdrietig of moe.
+      Mary is verdrietig.
+Inconsistency in node types (entail/8)
+5166:     [yes], unknown,      NA, 'Defected'  XP: _5900780
+      Minder dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+      Minder dan vijf kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5186:     [yes], unknown,      NA, 'Defected'  XP: _5901738
+      Niet meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan vijf kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5206: [unknown], unknown,      NA, 'Defected'  XP: _5902696
+5226: [unknown], unknown,    open, 'Ter',47    XP: []
+5246: [unknown], unknown,    open, 'Ter',154   XP: []
+Inconsistency in node types (entail/8)
+5266: [unknown], unknown,      NA, 'Defected'  XP: _2170
+5286: [unknown], unknown,    open, 'Ter',34    XP: []
+Inconsistency in node types (entail/8)
+5306:     [yes], unknown,      NA, 'Defected'  XP: _148540
+      Ten minste de helft van de kampeerders hebben kou gevat.
+      Ten minste de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+5326:     [yes], unknown,      NA, 'Defected'  XP: _149498
+      Niet minder dan vijftig kampeerders hebben kou gevat.
+      Niet minder dan vijftig kampeerders hebben een zonnebrand gehad of kou gevat.
+5346:     [yes], unknown,    open, 'Ter',24    XP: []
+      Geen leraar rende.
+      Geen lange leraar rende gisteren.
+Inconsistency in node types (entail/8)
+5366:     [yes], unknown,      NA, 'Defected'  XP: _287672
+      Een of andere creatieve intelligente jongen lachte.
+      Een of andere slimme jongen lachte.
+5005: [unknown], unknown,    open, 'Lim',420   XP: []
+5025: [unknown], unknown,    open, 'Ter',9     XP: []
+5045: [unknown], unknown,    open, 'Lim',400   XP: []
+Inconsistency in node types (entail/8)
+5065:     [yes], unknown,      NA, 'Defected'  XP: _1972
+      Niet meer dan drie meisjes dansten niet.
+      Niet meer dan drie meisjes bewogen niet.
+Inconsistency in node types (entail/8)
+5085:     [yes], unknown,      NA, 'Defected'  XP: _2884
+      Het is niet waar dat Betty in Duitsland woont.
+      Het is niet waar dat Betty in Berlijn woont.
+5105:     [yes], unknown,    open, 'Ter',31    XP: []
+      Alle tenoren hebben de griep.
+      Alle tenoren zijn ziek.
+5125:     [yes], unknown,    open, 'Ter',22    XP: []
+      Geen dikhuiden zijn roze.
+      Geen olifanten zijn roze.
+5145:     [yes], unknown,    open, 'Ter',38    XP: []
+      Mary at nooit pizza.
+      Mary at nooit pizza met ansjovis.
+Inconsistency in node types (entail/8)
+5165:     [yes], unknown,      NA, 'Defected'  XP: _453880
+      Minder dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Minder dan vijf kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5185:     [yes], unknown,      NA, 'Defected'  XP: _454838
+      Niet meer dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Niet meer dan vijf kampeerders hebben kou gevat.
+Inconsistency in node types (entail/8)
+5205: [unknown], unknown,      NA, 'Defected'  XP: _455796
+5225: [unknown], unknown,    open, 'Ter',54    XP: []
+5245: [unknown], unknown,    open, 'Ter',155   XP: []
+Inconsistency in node types (entail/8)
+5265: [unknown], unknown,      NA, 'Defected'  XP: _1114518
+5285: [unknown], unknown,    open, 'Ter',35    XP: []
+Inconsistency in node types (entail/8)
+5305:     [yes], unknown,      NA, 'Defected'  XP: _1288434
+      Ten minste de helft van de kampeerders hebben kou gevat.
+      Ten minste de helft van de kampeerders hebben weleens zonnebrand gehad of kou gevat.
+Inconsistency in node types (entail/8)
+5325:     [yes], unknown,      NA, 'Defected'  XP: _1289392
+      Niet minder dan vijftig kampeerders hebben kou gevat.
+      Niet minder dan vijftig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+5345:     [yes],     yes,  closed, 'Ter',11    XP: [int(lang)]
+5365:     [yes],     yes,  closed, 'Ter',10    XP: []
+------------------------------------------------------ 
+ Gold\Prover       YES       NO       UNK       DEF
+------------------------------------------------------ 
+ ENTAILMENT:       66        0    282 (136)    162 
+------------------------------------------------------ 
+ CONTRADICTION:     0        0        0 (0)      0 
+------------------------------------------------------ 
+ NEUTRAL:          96        2    514 (318)    190 
+------------------------------------------------------ 
+Total #problems:  1312
+Accuracy (pure):  0.58689    (0.60417)
+Precision:        0.40244
+Recall (pure):    0.12941    (0.18966)
+------------ STATS -------------
+Total #clTabperPrb:            164
+Total #ruleApps for clTab:     930
+Average #ruleApps for clTab:   5.67073
+
+real	0m22,699s
+user	5m34,452s
+sys	0m0,980s

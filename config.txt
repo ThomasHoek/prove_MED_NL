@@ -1,0 +1,2 @@
+langpro=../langpro
+prove_SICK_NL=../prove_SICK_NL
