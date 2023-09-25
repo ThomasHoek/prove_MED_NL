@@ -37,7 +37,7 @@ dutch_sent: list[str] = [x.rstrip() for x in open(HELP_NL, "r").readlines()]
 english_sent: list[str] = [x.rstrip() for x in open(HELP_EN, "r").readlines()]
 
 # make dictionaries for translating eng to index/dutch
-english_number_dict = dict(zip(english_sent, range(len(english_sent))))
+english_number_dict = dict(zip(english_sent, range(1, len(english_sent) + 1)))
 english_dutch_dict = dict(zip(english_sent, dutch_sent))
 dict_label = {"entailment": "yes", "neutral": "unknown"}
 
@@ -62,7 +62,7 @@ with open(help_tsv) as TSV:
             if not duplicate_check(dutch_org, dutch_new):
                 prolog_file.write(f"%problem id = {counter}\n")
                 prolog_file.write(
-                    f"sen_id({new_idx}, {counter}, 'p', 'HELP', '{dict_label[row['gold_label']]}', '{dutch_org}').\n"
+                    f"sen_id({org_idx}, {counter}, 'p', 'HELP', '{dict_label[row['gold_label']]}', '{dutch_org}').\n"
                 )
 
                 prolog_file.write(
