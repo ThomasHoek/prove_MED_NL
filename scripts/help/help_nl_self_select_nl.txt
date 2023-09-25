@@ -277,14 +277,14 @@ Tom kocht een fles wodka
 Tom kocht een fles wodka en wat parfum bij de belastingvrije apotheek.
 Tom kocht een fles wodka en wat parfum bij het belastingvrije bakhuis.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije bakkerij.
-Tom kocht een fles wodka en wat parfum bij de belastingvrije bakkerij.
+Tom kocht een fles wodka en wat parfum bij de belastingvrije bakkerswinkel.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije kapperszaak.
-Tom kocht een fles wodka en wat parfum op de belastingvrije bazaar.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije bazaar.
+Tom kocht een fles wodka en wat parfum bij de belastingvrije bazar.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije schoonheidssalon.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije schoonheidssalon.
-Tom kocht een fles wodka en wat parfum bij de belastingvrije schoonheidssalon.
-Tom kocht een fles wodka en wat parfum in de belastingvrije schoonheidssalon.
+Tom kocht een fles wodka en wat parfum bij de belastingvrije beaty salon.
+Tom kocht een fles wodka en wat parfum bij de belastingvrije schoonheids zaak.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije gokwinkel.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije bodega.
 Tom kocht een fles wodka en wat parfum bij de belastingvrije boekwinkel.
@@ -703,7 +703,7 @@ Tom kocht wat rozijnenbrood.
 Tom kocht wat rode valeriaantjes voor Mary.
 Tom kocht een aantal rifeekhoornvissen voor zijn aquarium.
 Tom kocht een paar ridderspoorraketten voor Mary.
-Tom heeft een broodje gekocht.
+Tom heeft een rolletje gekocht.
 Tom kocht wat wijnruitanemonen voor Mary.
 Tom kocht wat roggebrood.
 Tom kocht wat zoutrijzend brood.
@@ -1701,7 +1701,7 @@ Tom heeft geen wedstrijden.
 Tom heeft geen concurrenten.
 Tom heeft geen enkele moeite.
 Tom heeft geen kanshebbers.
-Tom heeft geen berouw.
+Tom heeft geen schuldbewust.
 Tom heeft geen berouw.
 Tom heeft geen controle.
 Tom heeft geen corporatisten.
@@ -2903,9 +2903,9 @@ Tom spreekt Spaans, en Betty spreekt ook Spaans.
 Tom spreekt Spaans, en Betty ook.
 Tom besteedt veel tijd aan het zoeken naar zijn autosleutels, mobiele telefoon
 Tom besteedt veel tijd aan het zoeken naar zijn autosleutels, mobiele telefoon of bril.
-Tom besteedt al zijn tijd aan het denken aan Mary.
+Tom besteedt al zijn periode van tijd aan het denken aan Mary.
 Tom denkt de hele tijd aan Mary.
-Tom besteedt al zijn tijd aan het denken aan Mary.
+Tom besteedt al zijn tijd periode aan het denken aan Mary.
 Tom besteedt al zijn tijd aan het denken aan Mary.
 Tom denkt de hele tijd aan Mary.
 Tom startte zijn auto
@@ -3000,7 +3000,7 @@ Tom vertelde me dat hij en Mary hun zomervakantie op het strand doorbrachten.
 Tom vertelde me dat hij en Mary van plan waren komend weekend naar het strand te gaan.
 Tom vertelde me dat hij op elke dag behalve dinsdag kon komen.
 Tom vertelde me dat hij op elke sterrentijd kon komen, behalve dinsdagtijd.
-Tom vertelde me dat hij op elke tijdseenheid kon komen, behalve op dinsdag.
+Tom vertelde me dat hij op elke tijds eenheid kon komen, behalve op dinsdag.
 Tom vertelde me dat hij op elke tijdseenheid kon komen, behalve op dinsdag.
 Tom heeft je verteld
 Tom vertelde me dat jij en Mary van plan zijn te trouwen.
@@ -3100,10 +3100,10 @@ Tom nam wat artistieke empowerment.
 Tom nam een artistieke licentie.
 Tom aanvaardde enige artistieke tolerantie.
 Tom haalde wat spullen uit zijn tas.
-Tom haalde wat geld uit zijn zak.
-Tom haalde wat geld uit zijn portemonnee.
-Tom haalde wat geld uit zijn portemonnee en gaf het aan Mary.
-Tom haalde wat geld uit zijn zak.
+Tom haalde wat groot geld uit zijn zak.
+Tom haalde wat groot geld uit zijn portemonnee.
+Tom haalde wat groot geld uit zijn portemonnee en gaf het aan Mary.
+Tom haalde wat groot geld uit zijn zak.
 Tom haalde wat groot geld uit zijn portemonnee.
 Tom haalde wat groot geld uit zijn portemonnee en gaf het aan Mary.
 Tom haalde een bundeltje uit zijn zak.
@@ -3123,9 +3123,9 @@ Tom haalde een stapeltje uit zijn portemonnee.
 Tom haalde een stapeltje uit zijn portemonnee en gaf het aan Mary.
 Tom haalde wat eigendommen uit zijn tas.
 Tom haalde wat spullen uit zijn tas.
-Tom haalde wat geld uit zijn zak.
+Tom haalde wat rijkdom uit zijn zak.
 Tom haalde wat rijkdom uit zijn portemonnee.
-Tom haalde wat geld uit zijn portemonnee en gaf het aan Mary.
+Tom haalde wat rijkdom uit zijn portemonnee en gaf het aan Mary.
 Tom haalde de cd uit het doosje
 Tom haalde de CD uit het doosje en plaatste hem in de speler.
 Tom haalde de cd uit het doosje

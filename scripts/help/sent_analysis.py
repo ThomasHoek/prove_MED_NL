@@ -11,5 +11,8 @@ def list_duplicates(seq):
                             if len(locs)>1)
 
 duplicates = open("scripts/help/duplicates.txt", "w+")
-for dup, num in sorted(list_duplicates(sentences)):
+ant = sorted(list_duplicates(sentences))
+for dup, num in ant:
     duplicates.writelines(f"{dup.rstrip()} | {str(num)}\n")
+
+print(len(ant))
