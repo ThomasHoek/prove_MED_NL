@@ -4113,12 +4113,12 @@ sen_id_tlg_tok(869,
 ).
 
 sen_id_tlg_tok(870,
-((((((((t(5,((pp) ~> ((np) ~> (smain))) ~> (((pp) ~> ((np) ~> (smain))) ~> ((pp) ~> ((np) ~> (smain)))))) @ (t(6,(pp) ~> ((np) ~> (smain)))))) @ (t(4,(pp) ~> ((np) ~> (smain)))))) @ (((t(7,(np) ~> (pp))) @ (((((((t(10,(((np) ~> (np)) ~> (np)) ~> ((((np) ~> (np)) ~> (np)) ~> (((np) ~> (np)) ~> (np))))) @ (abst(v(X0,(np) ~> (np)),((v(X0,(np) ~> (np))) @ (t(11,np))))))) @ (abst(v(X1,(np) ~> (np)),((v(X1,(np) ~> (np))) @ (t(9,np))))))) @ (t(8,(np) ~> (np))))))))) @ (((((t(0,(n) ~> ((np) ~> (np)))) @ (t(1,n)))) @ (((t(2,(np) ~> (np))) @ (t(3,np))))))),
+((((((((t(5,((pp) ~> ((np) ~> (ssub))) ~> (((pp) ~> ((np) ~> (ssub))) ~> ((pp) ~> ((np) ~> (ssub)))))) @ (t(6,(pp) ~> ((np) ~> (ssub)))))) @ (t(4,(pp) ~> ((np) ~> (ssub)))))) @ (((t(7,(np) ~> (pp))) @ (((((((t(10,(((np) ~> (np)) ~> (np)) ~> ((((np) ~> (np)) ~> (np)) ~> (((np) ~> (np)) ~> (np))))) @ (abst(v(X0,(np) ~> (np)),((v(X0,(np) ~> (np))) @ (t(11,np))))))) @ (abst(v(X1,(np) ~> (np)),((v(X1,(np) ~> (np))) @ (t(9,np))))))) @ (t(8,(np) ~> (np))))))))) @ (((((t(0,(n) ~> ((np) ~> (np)))) @ (t(1,n)))) @ (((t(2,(np) ~> (np))) @ (t(3,np))))))),
 [['Een'], ['paar'], ['grote'], ['uilen'], ['jagen'], ['en'], ['jagen'], ['op'], ['kleine'], ['vogels'], ['en'], ['dieren'], ['.']]
 ).
 
 sen_id_tlg_tok(871,
-((((((((t(5,((pp) ~> ((np) ~> (smain))) ~> (((pp) ~> ((np) ~> (smain))) ~> ((pp) ~> ((np) ~> (smain)))))) @ (t(6,(pp) ~> ((np) ~> (smain)))))) @ (t(4,(pp) ~> ((np) ~> (smain)))))) @ (((t(7,(np) ~> (pp))) @ (((((((t(10,(((np) ~> (np)) ~> (np)) ~> ((((np) ~> (np)) ~> (np)) ~> (((np) ~> (np)) ~> (np))))) @ (abst(v(X0,(np) ~> (np)),((v(X0,(np) ~> (np))) @ (t(11,np))))))) @ (abst(v(X1,(np) ~> (np)),((v(X1,(np) ~> (np))) @ (t(9,np))))))) @ (t(8,(np) ~> (np))))))))) @ (((((t(0,(n) ~> ((np) ~> (np)))) @ (t(1,n)))) @ (((t(2,(np) ~> (np))) @ (t(3,np))))))),
+((((((((t(5,((pp) ~> ((np) ~> (ssub))) ~> (((pp) ~> ((np) ~> (ssub))) ~> ((pp) ~> ((np) ~> (ssub)))))) @ (t(6,(pp) ~> ((np) ~> (ssub)))))) @ (t(4,(pp) ~> ((np) ~> (ssub)))))) @ (((t(7,(np) ~> (pp))) @ (((((((t(10,(((np) ~> (np)) ~> (np)) ~> ((((np) ~> (np)) ~> (np)) ~> (((np) ~> (np)) ~> (np))))) @ (abst(v(X0,(np) ~> (np)),((v(X0,(np) ~> (np))) @ (t(11,np))))))) @ (abst(v(X1,(np) ~> (np)),((v(X1,(np) ~> (np))) @ (t(9,np))))))) @ (t(8,(np) ~> (np))))))))) @ (((((t(0,(n) ~> ((np) ~> (np)))) @ (t(1,n)))) @ (((t(2,(np) ~> (np))) @ (t(3,np))))))),
 [['Een'], ['paar'], ['grote'], ['vogels'], ['jagen'], ['en'], ['jagen'], ['op'], ['kleine'], ['vogels'], ['en'], ['dieren'], ['.']]
 ).
 
@@ -4878,7 +4878,7 @@ sen_id_tlg_tok(1029,
 ).
 
 sen_id_tlg_tok(1030,
-((t(0,(smain) ~> (smain))) @ (((((t(1,(adjp) ~> ((vnw) ~> (smain)))) @ (((((t(4,(adjp) ~> ((adjp) ~> (adjp)))) @ (((t(5,(adjp) ~> (adjp))) @ (t(6,adjp)))))) @ (t(3,adjp)))))) @ (t(2,vnw))))),
+((t(0,(smain) ~> (smain))) @ (((((t(1,(adj) ~> ((vnw) ~> (smain)))) @ (((((t(4,(adj) ~> ((adj) ~> (adj)))) @ (((t(5,(adj) ~> (adj))) @ (t(6,adj)))))) @ (t(3,adj)))))) @ (t(2,vnw))))),
 [['Er'], ['is'], ['niets'], ['uitzonderlijk'], ['of'], ['sexueel'], ['aan'], ['.']]
 ).
 
@@ -8833,7 +8833,7 @@ sen_id_tlg_tok(1856,
 ).
 
 sen_id_tlg_tok(1857,
-((((t(5,(smain) ~> ((smain) ~> (smain)))) @ (t(6,smain)))) @ (((((t(1,(np) ~> ((vnw) ~> (smain)))) @ (((t(2,(np) ~> (np))) @ (((t(3,(np) ~> (np))) @ (t(4,np)))))))) @ (t(0,vnw))))),
+((((t(5,(adj) ~> ((adj) ~> (adj)))) @ (t(6,adj)))) @ (((((t(1,(np) ~> ((vnw) ~> (adj)))) @ (((t(2,(np) ~> (np))) @ (((t(3,(np) ~> (np))) @ (t(4,np)))))))) @ (t(0,vnw))))),
 [['Hij'], ['heeft'], ['geen'], ['ruimtelijk'], ['bewustzijn'], ['of'], ['vergelijkbaar'], ['.']]
 ).
 
@@ -18518,7 +18518,7 @@ sen_id_tlg_tok(3913,
 ).
 
 sen_id_tlg_tok(3914,
-((((((t(4,((np) ~> (smain)) ~> (((np) ~> (smain)) ~> ((np) ~> (smain))))) @ (t(5,(np) ~> (smain))))) @ (t(3,(np) ~> (smain))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
+((((((t(4,((np) ~> (ssub)) ~> (((np) ~> (ssub)) ~> ((np) ~> (ssub))))) @ (t(5,(np) ~> (ssub))))) @ (t(3,(np) ~> (ssub))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
 [['Ten', 'minste'], ['een'], ['man'], ['zong'], ['en'], ['danste'], ['.']]
 ).
 

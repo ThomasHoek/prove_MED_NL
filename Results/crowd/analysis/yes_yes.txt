@@ -1,0 +1,273 @@
+186:     [yes],     yes,  closed, 'Ter',12    XP: []
+ 
+155:     [yes],     yes,  closed, 'Ter',4     XP: [int(verdedigen)]
+ 
+188:     [yes],     yes,  closed, 'Ter',13    XP: []
+
+142:     [yes],     yes,  closed, 'Ter',12    XP: []
+ 
+203:     [yes],     yes,  closed, 'Ter',7     XP: [int(groot),int(mollig)]
+
+178:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@eekhoorn,eekhoorn)]
+
+244:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+ 
+201:     [yes],     yes,  closed, 'Ter',8     XP: [int(groot)]
+ 
+308:     [yes],     yes,  closed, 'Ter',8     XP: [isa(and@abst(_2907654,_2907654@ontspannen)@abst(_2907912,_2907912@warm)@lekker@bad,bad)]
+ 
+246:     [yes],     yes,  closed, 'Ter',3     XP: []
+
+408:     [yes],     yes,  closed, 'Ter',7     XP: [int(groot),isa(in@c1@(groot@gat),groot@gat)]
+
+262:     [yes],     yes,  closed, 'Ter',5     XP: []
+
+475:     [yes],     yes,  closed, 'Ter',4     XP: [int(groen)]
+ 
+495:     [yes],     yes,  closed, 'Ter',4     XP: [int(grijs)]
+ 
+234:     [yes],     yes,  closed, 'Ter',4     XP: [int(oud)]
+ 
+590:     [yes],     yes,  closed, 'Ter',13    XP: [int(elektronisch),int(in@'Kawasaki'),int(veel)]
+ 
+389:     [yes],     yes,  closed, 'Ter',11    XP: [int(ander)]
+
+341:     [yes],     yes,  closed, 'Ter',4     XP: [int(enorm)]
+
+563:     [yes],     yes,  closed, 'Ter',3     XP: []
+ 
+361:     [yes],     yes,  closed, 'Ter',5     XP: [int(giftig),int(groot)]
+ 
+582:     [yes],     yes,  closed, 'Ter',19    XP: [int(geweldig)]
+ 
+489:     [yes],     yes,  closed, 'Ter',4     XP: [int(blauw)]
+ 
+630:     [yes],     yes,  closed, 'Ter',4     XP: []
+ 
+491:     [yes],     yes,  closed, 'Ter',3     XP: []
+ 
+473:     [yes],     yes,  closed, 'Ter',4     XP: [int(blauw)]
+ 
+441:     [yes],     yes,  closed, 'Ter',5     XP: [int(vrouwelijk),int(wit)]
+ 
+493:     [yes],     yes,  closed, 'Ter',4     XP: [int(aggressief)]
+
+666:     [yes],     yes,  closed, 'Ter',4     XP: [int(stout)]
+
+501:     [yes],     yes,  closed, 'Ter',6     XP: [int(vers_plukken)]
+
+487:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+
+662:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+ 
+601:     [yes],     yes,  closed, 'Ter',16    XP: [int(lang)]
+ 
+425:     [yes],     yes,  closed, 'Ter',4     XP: [int(bruin)]
+ 
+485:     [yes],     yes,  closed, 'Ter',4     XP: [int(jong)]
+
+379:     [yes],     yes,  closed, 'Ter',4     XP: [int(gigantisch)]
+
+514:     [yes],     yes,  closed, 'Ter',4     XP: [int(droog)]
+ 
+835:     [yes],     yes,  closed, 'Ter',6     XP: [int(kapot)]
+ 
+565:     [yes],     yes,  closed, 'Ter',47    XP: [int(a_few),int(serieus),isa(met@c1@probleem,probleem),isa(met@c1@(a_few@(serieus@probleem)),a_few@(serieus@probleem))]
+ 
+605:     [yes],     yes,  closed, 'Ter',17    XP: [int(lang),int(zwart)]
+
+1063:     [yes],     yes,  closed, 'Ter',7     XP: []
+
+725:     [yes],     yes,  closed, 'Ter',11    XP: []
+ 
+981:     [yes],     yes,  closed, 'Ter',13    XP: [int(a_few),int(groot),int(in@(the@kamer))]
+ 
+656:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+ 
+Error in gen_quant_tt
+ 580:     [yes],     yes,  closed, 'Ter',6     XP: [int(wit)]
+ 
+950:     [yes],     yes,  closed, 'Ter',6     XP: [isa(zonder@c1@'Zwitsers'@bankrekening,'Zwitsers'@bankrekening)]
+ 
+628:     [yes],     yes,  closed, 'Ter',5     XP: [int(Californisch),int(speciaal)]
+
+1065:     [yes],     yes,  closed, 'Ter',7     XP: []
+
+614:     [yes],     yes,  closed, 'Ter',5     XP: [int(fantastisch),int(modern)]
+
+654:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+ 
+1050:     [yes],     yes,  closed, 'Ter',5     XP: [int(geweldig),int(thuis)]
+ 
+894:     [yes],     yes,  closed, 'Ter',12    XP: [isa(met@c2@groot@penthouse,groot@penthouse)]
+ 
+953:     [yes],     yes,  closed, 'Ter',6     XP: [int(klein)]
+ 
+477:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+
+1122:     [yes],     yes,  closed, 'Ter',10    XP: [int(op_warmen)]
+
+1013:     [yes],     yes,  closed, 'Ter',8     XP: []
+
+499:     [yes],     yes,  closed, 'Ter',6     XP: [int(lekker)]
+
+660:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+ 
+966:     [yes],     yes,  closed, 'Ter',13    XP: [int(golden_horn),int(in@'Rusland'),isa(vlakbij@c1@stad,stad)]
+
+709:     [yes],     yes,  closed, 'Ter',5     XP: []
+
+578:     [yes],     yes,  closed, 'Ter',6     XP: [int(groot)]
+
+1202:     [yes],     yes,  closed, 'Ter',6     XP: [int(handbedien)]
+ 
+599:     [yes],     yes,  closed, 'Ter',6     XP: [int(rood)]
+ 
+829:     [yes],     yes,  closed, 'Ter',5     XP: [int(Amerikaans),int(voormalig)]
+
+638:     [yes],     yes,  closed, 'Ter',5     XP: [int(Hawaiaans),int(lang)]
+
+869:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+
+658:     [yes],     yes,  closed, 'Ter',4     XP: [int(hongerig)]
+ 
+896:     [yes],     yes,  closed, 'Ter',11    XP: []
+
+664:     [yes],     yes,  closed, 'Ter',4     XP: [int(dol)]
+ 
+1173:     [yes],     yes,  closed, 'Ter',18    XP: []
+
+1403:     [yes],     yes,  closed, 'Ter',14    XP: [int(officieel)]
+
+817:     [yes],     yes,  closed, 'Ter',4     XP: []
+
+837:     [yes],     yes,  closed, 'Ter',13    XP: [isa(van@(and@Sapporo@Hokkaido)@noordoostelijk@kust,noordoostelijk@kust)]
+ 
+877:     [yes],     yes,  closed, 'Ter',5     XP: [int(lelijk),int(licht_blauw)]
+
+1159:     [yes],     yes,  closed, 'Ter',23    XP: [isa(van@c3@bruiloft,bruiloft)]
+
+1011:     [yes],     yes,  closed, 'Ter',8     XP: []
+
+1179:     [yes],     yes,  closed, 'Ter',11    XP: [int(a_few),int(in@'Boston'),int(ziek)]
+ 
+1186:     [yes],     yes,  closed, 'Ter',5     XP: [int(dor),int(vallen)]
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1206:     [yes],     yes,  closed, 'Ter',5     XP: [int(empathisch),int(klein)]
+
+1482:     [yes],     yes,  closed, 'Ter',21    XP: [isa(zijn@c3@feest,feest)]
+
+727:     [yes],     yes,  closed, 'Ter',11    XP: [int(a_few),int(onbeleefd),int(van@'Mary')]
+
+1502:     [yes],     yes,  closed, 'Ter',14    XP: [int(groot)]
+
+944:     [yes],     yes,  closed, 'Ter',4     XP: [isa(erg@groot@bank,bank)]
+
+984:     [yes],     yes,  closed, 'Ter',6     XP: []
+
+898:     [yes],     yes,  closed, 'Ter',11    XP: []
+
+978:     [yes],     yes,  closed, 'Ter',4     XP: [int(irritant)]
+
+1098:     [yes],     yes,  closed, 'Ter',4     XP: [int(dik)]
+
+1723:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+956:     [yes],     yes,  closed, 'Ter',5     XP: [int(brief),int(klein)]
+
+1189:     [yes],     yes,  closed, 'Ter',4     XP: [int(onregelmatig)]
+
+1087:     [yes],     yes,  closed, 'Ter',5     XP: [int(groot),int(pluizig)]
+
+1229:     [yes],     yes,  closed, 'Ter',10    XP: [int(beroemd)]
+
+1060:     [yes],     yes,  closed, 'Ter',10    XP: [int(gepassioneerd)]
+
+1096:     [yes],     yes,  closed, 'Ter',4     XP: [isa(netwerk,web),isa(web,netwerk),isa(and@abst(_5839110,_5839110@goed_werken)@abst(_5839368,_5839368@groot)@erg@netwerk,netwerk)]
+
+1389:     [yes],     yes,  closed, 'Ter',12    XP: [isa(met@c2@ruzie,ruzie)]
+
+1116:     [yes],     yes,  closed, 'Ter',5     XP: [int(bekwaam),int(professioneel)]
+
+1136:     [yes],     yes,  closed, 'Ter',7     XP: [int(gouden),isa(om@c1@fel@strijd,fel@strijd)]
+
+1111:     [yes],     yes,  closed, 'Ter',5     XP: [int(koud),int(noordelijk)]
+
+1280:     [yes],     yes,  closed, 'Ter',4     XP: [int(licht)]
+
+1171:     [yes],     yes,  closed, 'Ter',3     XP: []
+
+1244:     [yes],     yes,  closed, 'Ter',5     XP: []
+
+1300:     [yes],     yes,  closed, 'Ter',9     XP: []
+
+1191:     [yes],     yes,  closed, 'Ter',4     XP: [int(rotsig)]
+
+1428:     [yes],     yes,  closed, 'Ter',58    XP: [int(veel)]
+
+1231:     [yes],     yes,  closed, 'Ter',10    XP: [isa(voor@2004@produceren@wijn,wijn)]
+
+1500:     [yes],     yes,  closed, 'Ter',14    XP: [int(verschrikkelijk)]
+
+1094:     [yes],     yes,  closed, 'Ter',11    XP: [int(Peter),isa(net,web),isa(web,net),isa(op@c2@web,web),isa(van@c1@muur,muur)]
+
+1866:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+1134:     [yes],     yes,  closed, 'Ter',7     XP: [int(goed),isa(om@c1@fel@strijd,fel@strijd)]
+
+1520:     [yes],     yes,  closed, 'Ter',15    XP: [isa(kliniek,ziekenhuis),isa(ziekenhuis,kliniek)]
+
+1504:     [yes],     yes,  closed, 'Ter',12    XP: []
+
+1227:     [yes],     yes,  closed, 'Ter',10    XP: [int(Duits)]
+
+1274:     [yes],     yes,  closed, 'Ter',4     XP: [isa(bij@Carlos@bier,bier)]
+
+2223:     [yes],     yes,  closed, 'Ter',11    XP: [int(no),int(van@'Frans'),int(vloeien)]
+
+1430:     [yes],     yes,  closed, 'Ter',34    XP: [int(roken)]
+
+1157:     [yes],     yes,  closed, 'Ter',32    XP: [isa(op@c5@primeur,primeur),isa(van@c3@bruiloft,bruiloft),isa(van@c4@dag,dag)]
+
+1177:     [yes],     yes,  closed, 'Ter',4     XP: [int(middelmatig)]
+
+1297:     [yes],     yes,  closed, 'Ter',10    XP: [int(middenin@(the@tuin)),int(rood)]
+
+2108:     [yes],     yes,  closed, 'Ter',8     XP: [isa(in@c1@koriander,koriander)]
+
+1397:     [yes],     yes,  closed, 'Ter',3     XP: [isa(wens,verlangen)]
+
+1434:     [yes],     yes,  closed, 'Ter',95    XP: [int(koken)]
+
+1432:     [yes],     yes,  closed, 'Ter',34    XP: [int(koken)]
+
+1879:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+1530:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+1587:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+1647:     [yes],     yes,  closed, 'Ter',10    XP: [int(no),isa(optie,alternatief)]
+
+1984:     [yes],     yes,  closed, 'Ter',6     XP: [int(goed)]
+
+2010:     [yes],     yes,  closed, 'Ter',11    XP: []
+
+2110:     [yes],     yes,  closed, 'Ter',6     XP: [int(rauw)]
+
+1518:     [yes],     yes,  closed, 'Ter',6     XP: [int(slecht)]
+
+1496:     [yes],     yes,  closed, 'Ter',9     XP: [isa(brandstof,entiteit)]
+
+1589:     [yes],     yes,  closed, 'Ter',18    XP: [int(af_lopen)]
+
+1155:     [yes],     yes,  closed, 'Ter',18    XP: []
+
+2330:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+1613:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+1355:     [yes],     yes,  closed, 'Ter',1     XP: []
+

@@ -1,0 +1,186 @@
+Inconsistency in node types (entail/8)
+133: [unknown], unknown,      NA, 'Defected'  XP: _2506
+
+Inconsistency in node types (entail/8)
+225: [unknown], unknown,      NA, 'Defected'  XP: _2578988
+
+Inconsistency in node types (entail/8)
+311: [unknown], unknown,      NA, 'Defected'  XP: _2883758
+ERROR: sentence id=1056
+Failed to align term tokens and lexical annotations
+term tokes: [[[klein],[glazen],[sculptuur],[in],[de],[tuin],[.]]]
+lexical annotation: [j{l:er,lcat: --,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel: --,s:er,t:'Er'},j{l:staan,lcat:sv1,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:sta,rel:dp,s:sta,t:staat},j{l:en,lcat: --,p:vg,postag:'VG(neven)',pt:vg,r:en,rel: --,s:en,t:en},j{l:klein,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:klein,rel:mod,s:klein,t:klein},j{l:glazen,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:glazen,rel:hd,s:glazen,t:glazen},j{l:sculptuur,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:sculptuur,rel:hd,s:sculptuur,t:sculptuur},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:de,lcat:detp,p:det,postag:'LID(bep,stan,rest)',pt:lid,r:de,rel:det,s:de,t:de},j{l:tuin,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:tuin,rel:hd,s:tuin,t:tuin},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+
+Inconsistency in node types (entail/8)
+410: [unknown], unknown,      NA, 'Defected'  XP: _3195708
+
+Inconsistency in node types (entail/8)
+295:     [yes], unknown,      NA, 'Defected'  XP: _3214912
+      Een paar mensen denken dat overdonderend adverteren een vorm van hersenspoelen is.
+      Een paar mensen denken dat adverteren een vorm van hersenspoelen is.
+ 
+Inconsistency in node types (entail/8)
+483: [unknown], unknown,      NA, 'Defected'  XP: _4160472
+
+Inconsistency in node types (entail/8)
+391: [unknown], unknown,      NA, 'Defected'  XP: _3963572
+ 
+Inconsistency in node types (entail/8)
+384:     [yes], unknown,      NA, 'Defected'  XP: _4250926
+      Ze veegde een schone traan van haar wang.
+      Ze veegde een traan van haar wang.
+ 
+Inconsistency in node types (entail/8)
+316: [unknown], unknown,      NA, 'Defected'  XP: _4191254
+
+Inconsistency in node types (entail/8)
+775: [unknown], unknown,      NA, 'Defected'  XP: _5834322
+
+Inconsistency in node types (entail/8)
+963: [unknown], unknown,      NA, 'Defected'  XP: _3358
+ 
+Inconsistency in node types (entail/8)
+540: [unknown], unknown,      NA, 'Defected'  XP: _6136520
+ 
+Inconsistency in node types (entail/8)
+711: [unknown], unknown,      NA, 'Defected'  XP: _5966274
+
+Inconsistency in node types (entail/8)
+791: [unknown], unknown,      NA, 'Defected'  XP: _5969644
+
+Inconsistency in node types (entail/8)
+754: [unknown], unknown,      NA, 'Defected'  XP: _350082
+
+Inconsistency in node types (entail/8)
+774: [unknown], unknown,      NA, 'Defected'  XP: _350886
+ 
+Inconsistency in node types (entail/8)
+669: [unknown], unknown,      NA, 'Defected'  XP: _5213988
+
+Inconsistency in node types (entail/8)
+537: [unknown], unknown,      NA, 'Defected'  XP: _1263340
+ 
+Inconsistency in node types (entail/8)
+538: [unknown], unknown,      NA, 'Defected'  XP: _4754356
+
+Inconsistency in node types (entail/8)
+812: [unknown], unknown,      NA, 'Defected'  XP: _4879116
+ 
+Inconsistency in node types (entail/8)
+799: [unknown], unknown,      NA, 'Defected'  XP: _331644
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+999:     [yes], unknown,      NA, 'Defected'  XP: _943162
+      Een paar grote vogels jagen en jagen op kleine vogels en dieren.
+      Een paar grote vogels jagen op kleine vogels en dieren.
+
+Inconsistency in node types (entail/8)
+1322:     [yes], unknown,      NA, 'Defected'  XP: _3455108
+      Je hoeft het niet in zulke denigrerende termen te zeggen.
+      Je hoeft het niet in zulke denigrerende omstandigheden te zeggen.
+ 
+Inconsistency in node types (entail/8)
+964:     [yes], unknown,      NA, 'Defected'  XP: _1915540
+      Ze eten veel zwarte rijst.
+      Ze eten veel rijst.
+
+Inconsistency in node types (entail/8)
+1541: [unknown], unknown,      NA, 'Defected'  XP: _4969074
+
+Inconsistency in node types (entail/8)
+1058: [unknown], unknown,      NA, 'Defected'  XP: _1357108
+
+Inconsistency in node types (entail/8)
+1782:     [yes], unknown,      NA, 'Defected'  XP: _5367766
+      Ik heb geen kennis van die vraag.
+      Ik heb geen complete kennis van die vraag.
+
+Inconsistency in node types (entail/8)
+1781:     [yes], unknown,      NA, 'Defected'  XP: _126324
+      Ik heb geen kennis van die vraag.
+      Ik heb geen kennis meer van die vraag.
+
+Inconsistency in node types (entail/8)
+1540:     [yes], unknown,      NA, 'Defected'  XP: _179426
+      Ik heb geen zorg in de wereld.
+      Ik heb geen
+
+Inconsistency in node types (entail/8)
+1624: [unknown], unknown,      NA, 'Defected'  XP: _5789518
+
+Inconsistency in node types (entail/8)
+1625:     [yes], unknown,      NA, 'Defected'  XP: _5900
+      Tom vond het niet leuk om in Boston te wonen.
+      Tom vond het niet leuk om in het bruisende Boston te wonen.
+
+Inconsistency in node types (entail/8)
+2023:     [yes], unknown,      NA, 'Defected'  XP: _1291490
+      Hij heeft geen specifiek doel.
+      Hij heeft geen specifiek strategisch doel.
+
+Inconsistency in node types (entail/8)
+1868:     [yes], unknown,      NA, 'Defected'  XP: _1664994
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
+      Tom zei dat hij nooit in zijn leven hondenvoer heeft geprobeerd te eten.
+
+Inconsistency in node types (entail/8)
+1412: [unknown], unknown,      NA, 'Defected'  XP: _3638000
+
+Inconsistency in node types (entail/8)
+1845: [unknown], unknown,      NA, 'Defected'  XP: _1360688
+
+Inconsistency in node types (entail/8)
+1517:     [yes], unknown,      NA, 'Defected'  XP: _3630320
+      Maak alsjeblieft geen geluid.
+      Maak alsjeblieft geen geluid in de kamer.
+
+Inconsistency in node types (entail/8)
+2150:     [yes], unknown,      NA, 'Defected'  XP: _3990062
+      We hebben geen geheimen.
+      We hebben geen diepe geheimen.
+
+Inconsistency in node types (entail/8)
+2019:     [yes], unknown,      NA, 'Defected'  XP: _1487872
+      Ze leest iedere ochtend de krant.
+      Ze leest iedere ochtend om 8 uur de krant met een kopje thee.
+
+Inconsistency in node types (entail/8)
+2027: [unknown], unknown,      NA, 'Defected'  XP: _4250972
+
+Inconsistency in node types (entail/8)
+1780:     [yes], unknown,      NA, 'Defected'  XP: _3326858
+      Ik heb geen kennis van die vraag.
+      Ik heb niet genoeg kennis van die vraag.
+
+Inconsistency in node types (entail/8)
+2219:     [yes], unknown,      NA, 'Defected'  XP: _2762742
+      Geen bestemming hebbende, ben ik nooit verloren.
+      Geen juiste bestemming hebbende, ben ik nooit verloren.
+
+Inconsistency in node types (entail/8)
+2240:     [yes], unknown,      NA, 'Defected'  XP: _5751692
+      Ik heb niet genoeg opslagruimte.
+      Ik heb niet genoeg opslagcapaciteit.
+
+Inconsistency in node types (entail/8)
+1572:     [yes], unknown,      NA, 'Defected'  XP: _433154
+      Ik hou niet van lente.
+      Ik hou niet van de lente die komt.
+
+Inconsistency in node types (entail/8)
+1853:     [yes], unknown,      NA, 'Defected'  XP: _1326636
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg echte informatie om een beslissing te maken.
+
+Inconsistency in node types (entail/8)
+2419:     [yes], unknown,      NA, 'Defected'  XP: _4973970
+      Als de natuur een bank was hadden ze het al gered.
+      Als de natuur een geldbank was hadden ze het al gered.
+
+Inconsistency in node types (entail/8)
+1852:     [yes], unknown,      NA, 'Defected'  XP: _1428784
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg accurate informatie om een beslissing te maken.
+

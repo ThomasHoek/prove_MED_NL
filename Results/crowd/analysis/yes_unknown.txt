@@ -1,0 +1,934 @@
+147:     [yes], unknown,    open, 'Ter',2     XP: []
+      Iedere zin in dat syllabusboek is belangrijk.
+      Iedere zin in dat boek is belangrijk.
+ 
+170:     [yes], unknown,    open, 'Ter',49    XP: []
+      Tom zwemt in het zwembad om de dag.
+      Tom zwemt om de dag.
+ 
+184:     [yes], unknown,    open, 'Ter',13    XP: []
+      Iedereen behalve luie Jim kwam.
+      Iedereen behalve Jim kwam.
+
+161:     [yes], unknown,    open, 'Ter',28    XP: []
+      Nat brandhout en koolstof brandt niet goed.
+      Nat brandhout brandt niet goed.
+ 
+190:     [yes], unknown,    open, 'Ter',51    XP: []
+      Er staat een mooi glazen sculptuur in de speeltuin.
+      Er staat een glazen sculptuur in de tuin.
+
+223:     [yes], unknown,    open, 'Ter',60    XP: []
+      Een dikke hond rende achter een kat aan.
+      Een hond rende achter achter een kat aan.
+ 
+197:     [yes], unknown,    open, 'Ter',58    XP: []
+      Brian kocht een lippenstift voor haar zus Kate.
+      Brian kocht een lippenstift voor Kate.
+
+192:     [yes], unknown,    open, 'Ter',50    XP: []
+      Er staat een glazen vogelsculptuur in de tuin.
+      Er staat een glazen sculptuur in de tuin.
+ 
+256:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom plant een vijgen en palmboom in zijn achtertuin.
+      Tom plant een palmboom in zijn achtertuin.
+
+372:     [yes], unknown,    open, 'Ter',31    XP: []
+      Al hun kinderen zijn geboren in west Maleisië.
+      Al hun kinderen zijn geboren in Maleisië.
+
+194:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er staat en klein glazen sculptuur in de tuin.
+      Er staat een glazen sculptuur in de tuin.
+
+423:     [yes], unknown,    open, 'Ter',57    XP: []
+      Tom strooide wat poedersuiker op de toast.
+      Tom strooide wat suiker op de toast.
+ 
+374:     [yes], unknown,    open, 'Ter',24    XP: []
+      Een sneeuwgans is een watervogel.
+      Een gans is een watervogel.
+
+265:     [yes], unknown,    open, 'Ter',292   XP: []
+      Een menselijk lichaam bestaat uit een ontelbaar aantal rode bloedcellen.
+      Een menselijk lichaam bestaat uit een ontelbaar aantal cellen.
+ 
+603:     [yes], unknown,    open, 'Ter',69    XP: []
+      Susan heeft een minijurk gemaakt voor Jill.
+      Susan heeft een jurk gemaakt voor Jill.
+ 
+561:     [yes], unknown,      NA, 'Defected'  XP: []
+      John erfde een groot fortuin en een mooie sieraden.
+      John erfde een groot fortuin.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 569:     [yes], unknown,    open, 'Ter',11    XP: []
+      Tom staat tegenover een paar serieuze problemen om examens te hebben.
+      Tom staat tegenover een paar serieuze problemen.
+ 
+643:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kocht een paar lekkere chocolaatjes en snoepjes voor Mary.
+      Tom kocht een paar chocolaatjes voor Mary.
+
+218:     [yes], unknown,    open, 'Lim',434   XP: []
+      Veel studenten over de wereld studeren Engels voor betere inkomens an salarissen.
+      Veel studenten over de wereld studeren Engels.
+
+394:     [yes], unknown,    open, 'Ter',231   XP: []
+      Tom heeft een paar vrienden in de Boston buitenwijken.
+      Tom heeft een paar vrienden in Boston.
+
+454:     [yes], unknown,    open, 'Ter',22    XP: []
+      Winter ziet er niet echt uit zonder sneeuwstenen.
+      Winter ziet er niet echt uit zonder sneeuw.
+ 
+504:     [yes], unknown,    open, 'Ter',48    XP: []
+      Tom draagt een grote maat Harvard trui.
+      Tom draagt een Harvard trui.
+ 
+567:     [yes], unknown,    open, 'Ter',84    XP: []
+      Tom staat tegenover een paar serieuze gezondheidsproblemen.
+      Tom staat tegenover een paar serieuze problemen.
+ 
+855:     [yes], unknown,    open, 'Ter',21    XP: []
+      Oude Millie eet geen appel.
+      Millie eet geen appel.
+ 
+862:     [yes], unknown,    open, 'Ter',50    XP: []
+      Er staat een glazen meerkleurig sculptuur in de tuin.
+      Er staat een glazen sculptuur in de tuin.
+
+428:     [yes], unknown,    open, 'Ter',269   XP: []
+      Tom gaat joggen en yoga doen in het park iedere ochtend.
+      Tom gaat joggen in het park iedere ochtend.
+
+865:     [yes], unknown,    open, 'Ter',61    XP: []
+      Een kat zonder snorharen zat onder de tafel.
+      Een kat stond op de tafel.
+ 
+Error in gen_quant_tt
+ 796:     [yes], unknown,      NA, 'Defected'  XP: []
+      Moderne kunst en wetenschap interesseren Tom niet.
+      Moderne kunst interesseert Tom niet.
+
+1105:     [yes], unknown,    open, 'Ter',22    XP: []
+      Tom belt een lokaal noodnummer.
+      Tom belt een nummer.
+
+297:     [yes], unknown,    open, 'Lim',429   XP: []
+      Een paar dieren, zoals leeuwen, eten een paar dieren.
+      Een paar dieren, zoals leeuwen, eten vlees.
+ 
+594:     [yes], unknown,    open, 'Lim',425   XP: []
+      Er zijn veel voedselfabrieken in Kawasaki.
+      Er zijn veel fabrieken in Kawasaki.
+ 
+714:     [yes], unknown,    open, 'Ter',27    XP: []
+      Een bosree is een vrouwelijk hert.
+      Een ree is een vrouwelijk hert.
+ 
+377:     [yes], unknown,    open, 'Ter',50    XP: []
+      Een zwart met witte gans is een watervogel.
+      Een gans is een watervogel.
+ 
+853:     [yes], unknown,    open, 'Ter',32    XP: []
+      Tante Millie is geen appel aan het eten.
+      Millie eet geen appel.
+
+933:     [yes], unknown,    open, 'Ter',24    XP: []
+      Sekkura is een gekwalificeerde chef en bakker.
+      Sekkura is een gekwalificeerde chef.
+ 
+592:     [yes], unknown,    open, 'Lim',425   XP: []
+      Er zijn veel schoenfabrieken in Kawasaki.
+      Er zijn veel fabrieken in Kawasaki.
+ 
+926:     [yes], unknown,      NA, 'Defected'  XP: []
+      Meneer yamaha gaf een paar walnoten en geld aan een bedelaar.
+      Meneer yamaha gaf een paar walnoten aan een bedelaar.
+ 
+497:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er liggen een paar sinaasappels en clementines op de tafel.
+      Er liggen een paar sinaasappels op de tafel.
+
+1128:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom gaf zijn hond een bot omdat hij een brave jongen was.
+      Tom gaf zijn hond een bot.
+
+871:     [yes], unknown,    open, 'Ter',41    XP: []
+      Een grote pluizige kat was op de tafel aan het slapen.
+      Een kat stond op de tafel.
+
+1242:     [yes], unknown,    open, 'Ter',39    XP: []
+      Madonna’s concert trok een groot publiek in de vs.
+      Madonna’s concert trok een groot publiek.
+ 
+891:     [yes], unknown,    open, 'Ter',16    XP: []
+      Er zit een kat te slapen op de stoel.
+      Er zit een kat op de stoel.
+ 
+Error in gen_quant_tt
+ 931:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kan ook wat Frans en Spaans spreken.
+      Tom kan ook wat Frans spreken.
+ 
+1323:     [yes], unknown,    open, 'Lim',404   XP: []
+      Tom heeft nooit rauw paardenvlees gegeten.
+      Tom heeft nooit rauw Amerikaans paardenvlees gegeten.
+ 
+1193:     [yes], unknown,    open, 'Ter',38    XP: []
+      De stad staat op een pitomoyvlakte.
+      De stad staat op een vlakte.
+
+1302:     [yes], unknown,    open, 'Ter',260   XP: []
+      Iedere persoon heeft duizend dollar daarvoor betaald.
+      Iedere persoon heeft duizend dollar betaald.
+
+1031:     [yes], unknown,    open, 'Ter',12    XP: []
+      Dieren en planten kunnen niet bestaan zonder lucht en water.
+      Dieren kunnen niet bestaan zonder lucht en water.
+
+1146:     [yes], unknown,    open, 'Ter',25    XP: []
+      Tom gaf Mary een voetverwarmende massage.
+      Tom gaf Mary een voetmassage.
+
+1362:     [yes], unknown,    open, 'Ter',38    XP: []
+      Chris had geen auto.
+      Chris had geen snelle auto.
+
+1208:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom gaf wat melk en water aan de kat.
+      Tom gaf wat melk aan de kat.
+
+1402:     [yes], unknown,    open, 'Ter',40    XP: []
+      Tom woont eigenlijk niet binnen de Boston stadsgrenzen.
+      Tom woont eigenlijk niet binnen de Boston stad omgeving.
+ 
+1341:     [yes], unknown,    open, 'Lim',403   XP: []
+      Tom kan geen fiets besturen.
+      Tom kan geen hele oude fiets besturen.
+
+1481:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom heeft al jaren niet gezongen.
+      Tom heeft al jaren niet gezongen sinds hij zijn stem is verloren.
+
+1319:     [yes], unknown,    open, 'Ter',87    XP: []
+      Als studenten niet komen, start de les niet.
+      Als de meeste van de studenten niet komen, start de les niet.
+ 
+992:     [yes], unknown,    open, 'Lim',430   XP: []
+      Alle passagiers zijn in dodelijk gevaar en angst.
+      Alle passagiers zijn in dodelijk gevaar.
+
+1642:     [yes], unknown,    open, 'Ter',50    XP: []
+      Tom had geen opties over.
+      Tom had geen makkelijke opties over.
+
+1702:     [yes], unknown,      NA, 'Defected'  XP: _4450538
+      Ze heeft geen echte vrienden.
+      Ze heeft geen echte partners.
+
+1248:     [yes], unknown,    open, 'Ter',64    XP: []
+      Veel schooljongens zijn aan het rennen in het park.
+      Veel jongens zijn aan het rennen in het park.
+
+1286:     [yes], unknown,    open, 'Ter',53    XP: []
+      Tom smeerde wat hete aardbeienjam op zijn toast.
+      Tom smeerde wat aarbeienjam op zijn toast.
+
+1563:     [yes], unknown,    open, 'Lim',418   XP: []
+      Jonge mensen hebben geen deugden.
+      Jonge mensen hebben geen goede deugden.
+ 
+1368:     [yes], unknown,    open, 'Ter',38    XP: []
+      Tom maakt geen fouten.
+      Tom maakt geen cruciale fouten.
+
+1366:     [yes], unknown,    open, 'Ter',38    XP: []
+      Tom maakt geen fouten.
+      Tom maakt geen enkele fouten.
+
+867:     [yes], unknown,    open, 'Ter',54    XP: []
+      Een schattige en mollige kat zat op de tafel.
+      Een kat stond op de tafel.
+ 
+1526:     [yes], unknown,    open, 'Ter',83    XP: []
+      Alle toekomstige bijeenkomsten zullen gehouden worden in deze kamer.
+      Alle toekomstige belangrijke bijeenkomsten zullen gehouden worden in deze kamer.
+
+1149:     [yes], unknown,    open, 'Ter',242   XP: []
+      Mevrouw Klein geeft een natuurkundetoets iedere vrijdag.
+      Mevrouw Klein geeft een toets iedere vrijdag.
+ 
+1802:     [yes], unknown,    open, 'Ter',10    XP: []
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij einde voor de lezer.
+
+1539:     [yes], unknown,    open, 'Ter',22    XP: []
+      Er was geen geluid te horen.
+      Er was geen herrie te horen.
+
+1721:     [yes], unknown,    open, 'Lim',415   XP: []
+      Katten dragen geen halsbanden.
+      Katten dragen geen strakke halsbanden.
+
+1107:     [yes], unknown,    open, 'Ter',16    XP: []
+      Tom belt een politie hotlinenummer.
+      Tom belt een nummer.
+
+1882:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het park is druk ieder seizoen.
+      Het park is druk ieder seizoen van het jaar.
+
+937:     [yes], unknown,    open, 'Lim',430   XP: []
+      Er is wat geitenmelk in de koelkast.
+      Er is wat melk in de koelkast.
+ 
+1309:     [yes], unknown,    open, 'Ter',7     XP: []
+      Alessia kan geen Engels spreken.
+      Alessia kan geen vloeiend Engels spreken.
+
+1325:     [yes], unknown,    open, 'Lim',404   XP: []
+      Tom heeft nooit rauw paardenvlees gegeten.
+      Tom heeft nooit rauw volwassen paardenvlees gegeten.
+
+1345:     [yes], unknown,    open, 'Ter',44    XP: []
+      Tom heeft geen zus.
+      Tom heeft geen zus die in New York woont.
+
+1349:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom heeft geen zus.
+      Tom heeft geen mooie zus met rood haar.
+
+1120:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom drink een glas koude melk iedere ochtend.
+      Tom drinkt melk iedere ochtend.
+
+1405:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom woont eigenlijk niet binnen de Boston stadsgrenzen.
+      Tom woont eigenlijk niet binnen de Boston grootstedelijke grenzen.
+
+1566:     [yes], unknown,    open, 'Lim',418   XP: []
+      Jonge mensen hebben geen deugden.
+      Jonge mensen hebben geen nuttige deugden.
+
+1741:     [yes], unknown,    open, 'Lim',414   XP: []
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen cocaïne.
+
+1743:     [yes], unknown,    open, 'Lim',416   XP: []
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen enkele vaste drugs.
+
+1646:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom had geen opties over.
+      Tom had geen opties of oplossingen over.
+
+1505:     [yes], unknown,    open, 'Ter',21    XP: []
+      Tom wil niet de rest van zijn leven in de gevangenis spenderen.
+      Tom wil niet de rest van zijn leven in de gevangenis spenderen daarvoor.
+
+1726:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom genoot niet echt van Frans studeren.
+      Tom genoot niet echt van Franse taal studeren.
+
+1204:     [yes], unknown,    open, 'Ter',86    XP: []
+      Het bedrijf spendeert veel geld aan internetadverteren.
+      Het bedrijf spendeert veel geld aan adverteren.
+
+1131:     [yes], unknown,    open, 'Ter',8     XP: []
+      Het jonge meisje Lucy kan geen eetstokjes gebruiken.
+      Lucy kan eetstokjes gebruiken.
+
+1786:     [yes], unknown,    open, 'Ter',49    XP: []
+      Tom eet zelden Italiaans eten.
+      Tom eet zelden uit de Italiaanse keuken.
+
+1320:     [yes], unknown,      NA, 'Defected'  XP: []
+      Als studenten niet komen, start de les niet.
+      Als wij studenten niet komen, start de les niet.
+
+1902:     [yes], unknown,    open, 'Ter',150   XP: []
+      Tom leidt echt geen makkelijk leven.
+      Tom leidt echt geen makkelijk gewoon leven.
+
+1340:     [yes], unknown,    open, 'Ter',17    XP: []
+      Tom kan geen fiets besturen.
+      Tom kan geen fiets besturen zonder remmen.
+
+1360:     [yes], unknown,    open, 'Ter',38    XP: []
+      Chris had geen auto.
+      Chris had geen mooie auto.
+
+1982:     [yes], unknown,    open, 'Ter',28    XP: []
+      Die jongen toonde geen angst.
+      Die jongen toonde geen merkbare angst.
+
+1364:     [yes], unknown,    open, 'Ter',10    XP: []
+      Chris had geen auto.
+      Chris had geen fatsoenlijke auto voor dat soort rijden.
+
+1276:     [yes], unknown,    open, 'Ter',16    XP: []
+      Tom drinkt een rijstbiertje.
+      Tom drinkt een biertje.
+
+1291:     [yes], unknown,    open, 'Ter',15    XP: []
+      Een tyfoon simoron is Japan aan het naderen.
+      Een tyfoon is Japan aan het naderen.
+
+1311:     [yes], unknown,    open, 'Ter',8     XP: []
+      Alessia kan geen Engels spreken.
+      Alessia kan niet zelfverzekerd Engels spreken.
+
+1863:     [yes], unknown,    open, 'Ter',90    XP: []
+      Tom is geen kind meer.
+      Tom is geen baby meer.
+
+1806:     [yes], unknown,    open, 'Ter',82    XP: []
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij briljant einde.
+
+1846:     [yes], unknown,      NA, 'Defected'  XP: _385716
+      We maken geen fouten.
+      We maken niet veel fouten.
+
+2202:     [yes], unknown,    open, 'Ter',27    XP: []
+      Geen woorden kunnen haar diepe verdriet uitdrukken.
+      Geen betekenisvolle woorden kunnen haar diepe verdriet uitdrukken.
+
+1528:     [yes], unknown,    open, 'Ter',83    XP: []
+      Alle toekomstige bijeenkomsten zullen gehouden worden in deze kamer.
+      Alle toekomstige jaarlijkse bijeenkomsten zullen gehouden worden in deze kamer.
+
+1588:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom mocht zijn vader niet bezoeken in de gevangenis.
+      Tom mocht zijn vader niet bezoeken in de gevangenis, dus hij kan er niets aan doen.
+
+997:     [yes], unknown,    open, 'Ter',127   XP: []
+      Sommig eten is best flauw zonder zout.
+      Een paar belangrijke papieren ontbreken uit de documenten.
+
+1524:     [yes], unknown,    open, 'Ter',28    XP: []
+      Dit medicijn heeft geen schadelijke bijwerkingen.
+      Dit medicijn heeft geen schadelijke bijwerkingen tegen de persoon.
+
+2262:     [yes], unknown,    open, 'Ter',58    XP: []
+      Iedere weg leidt tot het einde van de wereld.
+      Iedere weg naar links leidt tot het einde van de wereld.
+
+1052:     [yes], unknown,    open, 'Ter',57    XP: []
+      Iedere hond is een leeuw en een bewaker thuis.
+      Iedere hond in het huis is een leeuw thuis.
+
+1644:     [yes], unknown,    open, 'Ter',41    XP: []
+      Tom had geen opties over.
+      Tom had geen carrièreopties over.
+
+1668:     [yes], unknown,    open, 'Ter',106   XP: []
+      Tom is, zonder twijfel, de beste man voor de klus.
+      Tom is, helemaal zonder twijfel, de beste man voor de klus.
+
+1861:     [yes], unknown,    open, 'Ter',155   XP: []
+      Tom is geen kind meer.
+      Tom is geen kleine jongen meer.
+
+1565:     [yes], unknown,    open, 'Lim',418   XP: []
+      Jonge mensen hebben geen deugden.
+      Jonge mensen hebben geen morele deugden.
+
+1270:     [yes], unknown,      NA, 'Defected'  XP: _3718
+      Ik zie een man en een rennende vrouw.
+      Ik zie een man en een vrouw.
+
+1748:     [yes], unknown,    open, 'Ter',33    XP: []
+      Tom is geen goede student.
+      Tom is geen goede student van de school.
+
+1278:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom drinkt een biertje gemaakt van tarwe.
+      Tom drinkt een biertje.
+
+1883:     [yes], unknown,    open, 'Ter',133   XP: []
+      Het park is druk ieder seizoen.
+      Het part is druk ieder toeristenseizoen.
+
+1374:     [yes], unknown,    open, 'Ter',50    XP: []
+      Tom wil geen Ipad.
+      Tom wil geen apple Iphone.
+
+1370:     [yes], unknown,    open, 'Ter',38    XP: []
+      Tom maakt geen fouten.
+      Tom maakt geen grote fouten.
+
+2123:     [yes], unknown,    open, 'Ter',23    XP: []
+      Tom wilde niet naar de gevangenis.
+      Tom wilde niet naar de maricopa county 4th avenue gevangenis.
+
+1376:     [yes], unknown,    open, 'Ter',32    XP: []
+      Tom wil geen apple product.
+      Tom wil geen Ipad.
+
+1338:     [yes], unknown,    open, 'Ter',52    XP: []
+      Tom kan geen fiets besturen.
+      Tom kan geen fiets besturen die niet bestegen kan worden door Jim.
+
+1808:     [yes], unknown,    open, 'Ter',82    XP: []
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij schattig einde.
+
+1358:     [yes], unknown,    open, 'Ter',38    XP: []
+      Chris had geen auto.
+      Chris had geen blauwkleurige auto.
+
+1908:     [yes], unknown,    open, 'Ter',4     XP: []
+      Deze soep heeft geen substantie.
+      Deze soep heeft geen substantie om smaak te versterken.
+
+1928:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er is een bibliotheek in iedere stad in Amerika.
+      Er is een bibliotheek in iedere hoek ik iedere stad in Amerika.
+
+1948:     [yes], unknown,      NA, 'Defected'  XP: []
+      Wetenschappers hebben nog geen vaccin voor kanker gevonden.
+      Wetenschappers hebben nog geen vaccin en medicijn voor kanker gevonden.
+
+1478:     [yes], unknown,      NA, 'Defected'  XP: _5061636
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een knappe man van zijn vermogen succesvol is.
+
+2028:     [yes], unknown,    open, 'Ter',30    XP: []
+      Tom woont niet in Boston.
+      Tom woont niet in west Boston.
+
+2068:     [yes], unknown,    open, 'Ter',6     XP: []
+      Tom vertrouwt geen vreemden.
+      Tom vertrouwt geen vreemden van de straat.
+
+1337:     [yes], unknown,    open, 'Ter',38    XP: []
+      Mensen kunnen niet op Mars leven.
+      Mensen kunnen niet op Marsbodem leven.
+
+1745:     [yes], unknown,    open, 'Lim',415   XP: []
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen droge drugs.
+
+1559:     [yes], unknown,    open, 'Lim',457   XP: []
+      Sida maakt geen nieuwe beslissingen over steun aan projecten in de baltische staten.
+      Sida maakt geen nieuwe beslissingen over het verzamelen van steun aan projecten in de baltische staten.
+
+1327:     [yes], unknown,    open, 'Ter',268   XP: []
+      Tom heeft nooit paardenvlees gegeten.
+      Tom heeft nooit rauw paardenvlees gegeten.
+
+1599:     [yes], unknown,      NA, 'Defected'  XP: _5403010
+      Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
+      Als je een betekenis verandert die al een paar andere vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
+
+1785:     [yes], unknown,      NA, 'Defected'  XP: _1192862
+      Je kunt geen gesprek hebben zonder gesprekspartner.
+      Je kunt geen praatje maken zonder gesprekspartner.
+
+1417:     [yes], unknown,    open, 'Ter',87    XP: []
+      Tom draagt zelden een hoed.
+      Tom draagt zelden een zwarte cowboyhoed.
+
+1347:     [yes], unknown,    open, 'Ter',38    XP: []
+      Tom heeft geen zus.
+      Tom heeft geen mooie zus.
+
+1639:     [yes], unknown,    open, 'Ter',45    XP: []
+      Tom had geen opties over.
+      Tom had niet meer opties over.
+
+1699:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom luister zelden naar muziek thuis.
+      Tom luistert zelden naar muziek in zijn huis.
+
+2228:     [yes], unknown,    open, 'Ter',82    XP: []
+      Tom zei een paar dingen die nergens op sloegen.
+      Tom zei een paar dingen die helemaal nergens op sloegen.
+
+1865:     [yes], unknown,    open, 'Ter',67    XP: []
+      Tom is geen kind meer.
+      Tom is geen klein kind meer.
+
+2342:     [yes], unknown,    open, 'Lim',403   XP: []
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen serieus probleem moeten zijn.
+
+2362:     [yes], unknown,    open, 'Ter',10    XP: []
+      De meeste Amerikanen kunnen geen Duits spreken.
+      De meeste Amerikanen kunnen geen Duits gesproken in hamburg spreken.
+
+1719:     [yes], unknown,    open, 'Lim',415   XP: []
+      Katten dragen geen halsbanden.
+      Katten dragen geen onnodige halsbanden.
+
+1457:     [yes], unknown,    open, 'Lim',402   XP: []
+      De meeste mensen drinken niet genoeg water.
+      De meeste mensen drinken niet genoeg vloeistoffen.
+
+1885:     [yes], unknown,    open, 'Ter',129   XP: []
+      Het park is druk ieder seizoen.
+      Het park is druk ieder koud seizoen.
+
+1905:     [yes], unknown,    open, 'Ter',20    XP: []
+      Deze soep heeft geen substantie.
+      Deze soep heeft geen groente.
+
+2428:     [yes], unknown,    open, 'Ter',32    XP: []
+      Alle dieren zouden naakt moeten gaan.
+      Alle dieren van de planeet aarde zouden naakt moeten gaan.
+
+1490:     [yes], unknown,    open, 'Lim',417   XP: []
+      Benzine is niet langer meer een goedkope brandstof.
+      Benzine is niet langer meer een goedkope autobrandstof.
+
+2343:     [yes], unknown,    open, 'Lim',403   XP: []
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen sterk probleem moeten zijn.
+
+1510:     [yes], unknown,    open, 'Ter',39    XP: []
+      Tom wilde geen oorlog voeren.
+      Tom wilde geen wereldoorlog voeren.
+
+1724:     [yes], unknown,    open, 'Lim',402   XP: []
+      Onze ogen kunnen geen infrarood licht zien.
+      Onze ogen kunnen geen infrarood gekleurd licht zien.
+
+1497:     [yes], unknown,    open, 'Ter',122   XP: []
+      Benzine is niet langer meer een goedkope brandstof.
+      Benzine is niet langer meer een goedkope fossiel.
+
+1367:     [yes], unknown,    open, 'Lim',414   XP: []
+      Tom maakt geen fouten.
+      Tom maakt geen enkele soort fouten.
+
+2403:     [yes], unknown,    open, 'Ter',58    XP: []
+      Alle goede dingen komen in drievoud.
+      Alle goede dingen in het leven komen in drievoud.
+
+1550:     [yes], unknown,    open, 'Ter',83    XP: []
+      Tom kon geen woord zeggen.
+      Tom kon geen nieuw woord zeggen.
+
+1472:     [yes], unknown,    open, 'Lim',402   XP: []
+      Dokters weigerden een tweede operatie uit te voeren.
+      Dokters weigerden een tweede maagoperatie uit te voeren.
+
+1610:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom wilde geen overuren werken op kerstavond.
+      Tom wilde niet te veel overuren werken op kerstavond.
+
+1407:     [yes], unknown,    open, 'Ter',71    XP: []
+      Tom gaat waarschijnlijk niet nog een keer naar Boston.
+      Tom gaat waarschijnlijk niet nog een keer naar Boston stadion voor de wedstrijd.
+
+1650:     [yes], unknown,    open, 'Ter',26    XP: []
+      Nancy speelt geen tennis.
+      Nancy speelt geen tennis met bal.
+
+1804:     [yes], unknown,    open, 'Ter',82    XP: []
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij concluderend einde.
+
+1670:     [yes], unknown,    open, 'Ter',96    XP: []
+      Tom is, zonder twijfel, de beste man voor de klus.
+      Tom is, helemaal zonder enige twijfel, de beste man voor de klus.
+
+1667:     [yes], unknown,    open, 'Ter',96    XP: []
+      Tom is, zonder twijfel, de beste man voor de klus.
+      Tom is, zonder enige twijfel, de beste man voor de klus.
+
+1910:     [yes], unknown,    open, 'Ter',28    XP: []
+      Deze soep heeft geen substantie.
+      Deze soep heeft geen harde substantie.
+
+1727:     [yes], unknown,    open, 'Ter',23    XP: []
+      Tom genoot niet echt van Frans studeren.
+      Tom genoot niet echt van Frans studeren dat bestudeerd wordt door gevorderde leerlingen.
+
+1990:     [yes], unknown,    open, 'Ter',37    XP: []
+      Het probleem is geen overweging waard.
+      Het probleem is mijn overweging helemaal niet waard.
+
+2508:     [yes], unknown,    open, 'Ter',253   XP: []
+      Ken is nooit naar New York geweest.
+      Ken is nooit naar New York city museum geweest.
+
+1787:     [yes], unknown,    open, 'Ter',67    XP: []
+      Tom eet zelden Italiaans eten.
+      Tom eet zelden Italiaans pittig eten.
+
+1979:     [yes], unknown,    open, 'Lim',417   XP: []
+      Een paar mensen maken ruzie helemaal zonder reden.
+      Een paar mensen maken voor altijd ruzie helemaal zonder reden.
+
+1560:     [yes], unknown,    open, 'Lim',466   XP: []
+      Sida maakt geen nieuwe beslissingen over steun aan projecten in de baltische staten.
+      Sida maakt geen nieuwe beslissingen over militaire steun aan projecten in de baltische staten.
+
+2528:     [yes], unknown,    open, 'Ter',162   XP: []
+      In het dorp zijn er geen dieven.
+      In het dorp zijn er geen paardendieven.
+
+1867:     [yes], unknown,    open, 'Ter',90    XP: []
+      Tom is geen kind meer.
+      Tom is geen peuter meer.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1907:     [yes], unknown,      NA, 'Defected'  XP: []
+      Deze soep heeft geen substantie.
+      Deze soep heeft geen substantie of textuur.
+
+1640:     [yes], unknown,    open, 'Ter',50    XP: []
+      Tom had geen opties over.
+      Tom had geen haalbare opties over.
+
+2059:     [yes], unknown,    open, 'Ter',136   XP: []
+      Iedere student heeft gratis toegang tot de bibliotheek.
+      Iedere nieuwe student heeft gratis toegang tot de bibliotheek.
+
+1700:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom luister zelden naar muziek thuis.
+      Tom luistert zelden naar muziek thuis of in zijn auto.
+
+2079:     [yes], unknown,    open, 'Ter',31    XP: []
+      Er waren geen sterren te zien in de lucht.
+      Er waren geen rode sterren te zien in de lucht.
+
+1498:     [yes], unknown,    open, 'Lim',417   XP: []
+      Benzine is niet langer meer een goedkope brandstof.
+      Benzine is niet langer meer een goedkope krachtige brandstof.
+
+1740:     [yes], unknown,      NA, 'Defected'  XP: []
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen drugs en verdovende middelen.
+
+2119:     [yes], unknown,    open, 'Ter',26    XP: []
+      Iedere misdaad moet bestraft worden.
+      Iedere kleine misdaad moet bestraft worden.
+
+1987:     [yes], unknown,    open, 'Ter',22    XP: []
+      Tom heeft niet genoeg ervaring.
+      Tom heeft niet genoeg werkervaring.
+
+1456:     [yes], unknown,    open, 'Lim',468   XP: []
+      Het gesprek tussen arbeid en management leverde geen definitieve resultaten op.
+      Het gesprek tussen arbeid en management leverde geen definitieve verdiensten op.
+
+1760:     [yes], unknown,    open, 'Ter',62    XP: []
+      Een paard eet geen komkommersalade.
+      Een paard eet geen groene komkommersalade.
+
+1538:     [yes], unknown,    open, 'Ter',22    XP: []
+      Er was geen geluid te horen.
+      Er was geen gemompel te horen.
+
+2127:     [yes], unknown,    open, 'Ter',4     XP: []
+      Tom wilde niet naar de gevangenis.
+      Tom wilde niet naar een gevangeniscel gaan.
+
+1800:     [yes], unknown,    open, 'Ter',13    XP: []
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij einde voor de karakters.
+
+1454:     [yes], unknown,    open, 'Lim',468   XP: []
+      Het gesprek tussen arbeid en management leverde geen definitieve resultaten op.
+      Het gesprek tussen arbeid en management leverde geen definitieve finale op.
+
+2199:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen woorden kunnen haar diepe verdriet uitdrukken.
+      Geen woorden dan ook kunnen haar diepe verdriet uitdrukken.
+
+2170:     [yes], unknown,    open, 'Lim',414   XP: []
+      Wolven eten geen salade.
+      De wolven eten geen koolsla.
+
+1840:     [yes], unknown,    open, 'Ter',94    XP: []
+      Tom leefde geen lang leven.
+      Tom leefde geen lang mooi leven.
+
+2210:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kon geen baan vinden.
+      Tom kon geen baan waar hij van houdt vinden.
+
+2259:     [yes], unknown,    open, 'Ter',61    XP: []
+      Iedere weg leidt tot het einde van de wereld.
+      Elke weg leidt naar het einde van de wereld.
+
+2230:     [yes], unknown,    open, 'Ter',82    XP: []
+      Tom zei een paar dingen die nergens op sloegen.
+      Tom zei een paar dingen die logisch nergens op sloegen.
+
+2299:     [yes], unknown,    open, 'Ter',53    XP: []
+      Farragut veroverde new orleans zonder een gevecht.
+      Farragut veroverde new orleans zonder een vurig gevecht.
+
+2250:     [yes], unknown,    open, 'Ter',6     XP: []
+      Tom heeft geen verlangen om Frans te studeren.
+      Tom heeft geen groot verlangen om Frans te studeren.
+
+1880:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het park is druk ieder seizoen.
+      Het park is druk ieder seizoen in de middag.
+
+2227:     [yes], unknown,    open, 'Ter',308   XP: []
+      Tom zei een paar dingen die nergens op sloegen.
+      Tom zei een paar dingen die op niet veel sloegen.
+
+2247:     [yes], unknown,    open, 'Ter',45    XP: []
+      Tom had geen wapen.
+      Tom had geen pistool.
+
+1469:     [yes], unknown,    open, 'Ter',10    XP: []
+      Tom heeft niet genoeg ervaring om een trein te besturen.
+      Tom heeft niet genoeg langdurige ervaring om een trein te besturen.
+
+1509:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom wilde geen oorlog voeren.
+      Tom wilde geen oorlog voeren en lijden.
+
+2523:     [yes], unknown,    open, 'Lim',402   XP: []
+      Wetenschappers hebben nog geen vaccin voor kanker gevonden.
+      Wetenschappers hebben nog geen vaccin voor dikkedarmkanker gevonden.
+
+1900:     [yes], unknown,    open, 'Ter',150   XP: []
+      Tom leidt echt geen makkelijk leven.
+      Tom leidt echt geen makkelijk vrij leven.
+
+2310:     [yes], unknown,    open, 'Ter',226   XP: []
+      Jack kan zich geen nieuwe fiets veroorloven.
+      Jack kan zich geen nieuwe bergfiets veroorloven.
+
+1980:     [yes], unknown,    open, 'Ter',30    XP: []
+      Die jongen toonde geen angst.
+      Die jongen toonde geen greintje angst.
+
+1513:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom wilde geen oorlog voeren.
+      Tom wilde geen oorlog voeren in canada.
+
+1492:     [yes], unknown,    open, 'Lim',417   XP: []
+      Benzine is niet langer meer een goedkope brandstof.
+      Benzine is niet langer meer een goedkope vloeibare brandstof.
+
+1533:     [yes], unknown,    open, 'Ter',60    XP: []
+      Mijn zus heeft geen auto.
+      Mijn zus heeft geen rode auto.
+
+2267:     [yes], unknown,    open, 'Lim',402   XP: []
+      Mensen kunnen leven zonder vrienden.
+      Mensen kunnen leven zonder goede vrienden.
+
+2450:     [yes], unknown,    open, 'Ter',28    XP: []
+      Tom draagt geen handschoenen.
+      Tom draagt geen handschoenen naar de wedstrijd.
+
+1175:     [yes], unknown,    open, 'Ter',140   XP: []
+      De jager schoot naar een hert maar miste.
+      De jager schoot op een hert.
+
+1512:     [yes], unknown,    open, 'Ter',83    XP: []
+      Tom wilde geen oorlog voeren.
+      Tom wilde geen continentele oorlog voeren.
+
+2180:     [yes], unknown,    open, 'Ter',26    XP: []
+      Tom speelde geen golf.
+      Tom speelde geen golf in de nacht.
+
+2200:     [yes], unknown,    open, 'Ter',26    XP: []
+      Geen woorden kunnen haar diepe verdriet uitdrukken.
+      Geen woorden op de wereld kunnen haar diepe verdriet uitdrukken.
+
+1693:     [yes], unknown,    open, 'Ter',38    XP: []
+      Dit is geen ziekenhuis.
+      Dit is geen gemeentelijk ziekenhuis.
+
+2568:     [yes], unknown,    open, 'Lim',404   XP: []
+      Losstaande reflectie kan niet geeist worden in het bijzijn van een geheven mes.
+      Losstaande reflectie kan niet geeist worden in het bijzijn van een geheven slagersmes.
+
+2260:     [yes], unknown,    open, 'Ter',88    XP: []
+      Iedere weg leidt tot het einde van de wereld.
+      Iedere weg naar de hel leidt tot het einde van de wereld.
+
+1415:     [yes], unknown,    open, 'Ter',50    XP: []
+      Tom draagt zelden een hoed.
+      Tom draagt zelden een grote hoed.
+
+2402:     [yes], unknown,      NA, 'Defected'  XP: []
+      Alle goede dingen komen in drievoud.
+      Alle goede dingen die men verwacht komen in drievoud.
+
+2339:     [yes], unknown,    open, 'Lim',403   XP: []
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen groot probleem moeten zijn.
+
+1973:     [yes], unknown,    open, 'Ter',41    XP: []
+      Mijn vader neemt een wandeling iedere ochtend.
+      Mijn vader neemt een wandeling iedere dag.
+
+1557:     [yes], unknown,    open, 'Lim',466   XP: []
+      Sida maakt geen nieuwe beslissingen over steun aan projecten in de baltische staten.
+      Sida maakt geen nieuwe beslissingen over redelijke steun aan projecten in de baltische staten.
+
+2093:     [yes], unknown,    open, 'Ter',21    XP: []
+      John en Fred spelen niet in een band.
+      John en Fred spelen niet in een musicalband.
+
+1577:     [yes], unknown,    open, 'Ter',44    XP: []
+      Sommig eten is best flauw zonder zout.
+      Sommig eten is best flauw zonder zout gevonden in de zee.
+
+1632:     [yes], unknown,    open, 'Ter',136   XP: []
+      De katholieke kerk vergoeilijkt geen gebruik van condooms.
+      De katholieke kerk vergoeilijkt geen gebruik van condooms in het land.
+
+2379:     [yes], unknown,    open, 'Ter',69    XP: []
+      Tom luistert bijna nooit naar muziek.
+      Tom luistert bijna nooit naar rock’n’roll.
+
+1652:     [yes], unknown,    open, 'Ter',29    XP: []
+      Nancy speelt geen tennis.
+      Nancy speelt geen baantennis.
+
+2462:     [yes], unknown,    open, 'Ter',67    XP: []
+      Tom had geen water om te drinken.
+      Tom had geen vers water om te drinken.
+
+1617:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom wilde geen overuren werken op kerstavond.
+      Tom wilde niet veel overuren werken op kerstavond.
+
+2502:     [yes], unknown,    open, 'Ter',38    XP: []
+      Tom is helemaal niet egoistisch.
+      Tom is helemaal niet erg egoistisch.
+
+2264:     [yes], unknown,    open, 'Lim',402   XP: []
+      Mensen kunnen leven zonder vrienden.
+      Mensen kunnen leven zonder beste vrienden.
+
+1752:     [yes], unknown,    open, 'Ter',14    XP: []
+      Deze kamer krijgt niet veel zon.
+      Deze kamer krijgt niet veel ochtendzon.
+
+2113:     [yes], unknown,    open, 'Ter',94    XP: []
+      Tom heeft geen vaste vriendin.
+      Tom heeft geen vaste knappe vriendin.
+
+2340:     [yes], unknown,    open, 'Ter',97    XP: []
+      Dat zou geen probleem moeten zijn.
+      Dat zou helemaal geen probleem moeten zijn.
+
+1912:     [yes], unknown,    open, 'Ter',28    XP: []
+      Deze soep heeft geen substantie.
+      Deze soep heeft geen voedzame substantie.
+
+1669:     [yes], unknown,    open, 'Ter',392   XP: []
+      Tom is, zonder twijfel, de beste man voor de klus.
+      Tom is, zonder twijfel of twijfel, de beste man voor de klus.
+
