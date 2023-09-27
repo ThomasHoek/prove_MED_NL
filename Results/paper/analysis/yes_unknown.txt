@@ -1,0 +1,1224 @@
+6:     [yes], unknown,      NA, 'Defected'  XP: []
+      Beide commissarissen waren ooit leidend zakenmannen.
+      Beide commissarissen waren ooit zakenmannen.
+
+18:     [yes], unknown,    open, 'Ter',16    XP: []
+      Een paar Ierse afgevaardigden hadden de vragenlijst op tijd af.
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+
+33:     [yes], unknown,    open, 'Ter',39    XP: []
+      Weinig comitéleden komen uit zuid-Europa.
+      Weinig vrouwelijke comitéleden komen uit zuid-Europa.
+   
+22:     [yes], unknown,      NA, 'Defected'  XP: []
+      Een paar vrouwelijke comitéleden komen uit Scandinavië.
+      Ten minste een paar comitéleden komen uit Scandinavië.
+  
+49:     [yes], unknown,      NA, 'Defected'  XP: _2375668
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+
+41:     [yes], unknown,      NA, 'Defected'  XP: []
+      Zowel Alan als Bob namen hun vakanties in Californië.
+      Alan nam zijn vakantie in Californië.
+
+38:     [yes], unknown,    open, 'Ter',104   XP: []
+      Pluto en Uranus zitten nu op een lijn met Neptunus.
+      Pluto of Uranus zit nu op een lijn met Neptunus.
+  
+4210:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens gebruikten enige munten.
+      Weinig buitenaardse wezens gebruikten kwartjes.
+  
+91:     [yes], unknown,    open, 'Lim',437   XP: []
+      Het 15e tankkorps was een tankkorps van het rode leger van de sovjet-unie.
+      Het 15e tankkorps was een korps van het rode leger van de sovjet-unie.
+  
+47:     [yes], unknown,    open, 'Lim',404   XP: []
+      In veel ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+      In veel gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+
+92:     [yes], unknown,    open, 'Lim',437   XP: []
+      Het 15e tankkorps was een korps van het rode leger van de sovjet-unie.
+      Het 15e tankkorps was een tankkorps van het rode leger van de sovjet-unie.
+
+87:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er zijn vier supraoculare schubben (boven de ogen) in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+      Er zijn vier schubben boven de ogen in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+  
+57:     [yes], unknown,    open, 'Lim',404   XP: []
+      In alle gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+      In alle ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+
+4209:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens zagen enige vogels.
+      Weinig buitenaardse wezens zagen duiven.
+  
+88:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er zijn vier schubben boven de ogen in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+      Er zijn vier supraoculare schubben (boven de ogen) in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+
+4217:     [yes], unknown,    open, 'Ter',164   XP: []
+      Het rode buitenaardse wezen zag geen enkele vogel.
+      Het rode buitenaardse wezen zag geen duiven.
+
+4218:     [yes], unknown,    open, 'Ter',72    XP: []
+      Het rode buitenaardse wezen gebruikte geen enkele munt.
+      Het rode buitenaardse wezen gebruikte geen kwartjes.
+
+4208:     [yes], unknown,    open, 'Lim',424   XP: []
+      Weinig buitenaardse wezens aten bij enige restaurants.
+      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4257:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens kochten kleren.
+      Weinig buitenaardse wezens kochten shirts.
+
+119:     [yes], unknown,    open, 'Ter',358   XP: []
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+      Er zijn een paar geweldige wandelroutes in Japan.
+
+94:     [yes], unknown,    open, 'Lim',464   XP: []
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van betekenisverrijking.
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van pragmatische betekenisverrijking.
+
+4281:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen kocht kleren.
+      Geen buitenaards wezen kocht shirts.
+
+4268:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens keken honkbalwedstrijden.
+      Veel buitenaardse wezens keken sportwedstrijden.
+ 
+4258:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens reden auto’s.
+      Weinig buitenaardse wezens reden suv’s.
+
+4207:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens aten enig vlees.
+      Weinig buitenaardse wezens aten varkensvlees.
+
+4279:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen las tijdschriften.
+      Geen buitenaards wezen las nieuwstijdschriften.
+
+4299:     [yes], unknown,    open, 'Ter',90    XP: []
+      Het gele buitenaardse wezen las nieuwstijdschriften.
+      Het gele buitenaardse wezen las tijdschriften.
+
+4282:     [yes], unknown,    open, 'Ter',174   XP: []
+      Geen buitenaards wezen reed auto’s.
+      Geen buitenaards wezen reed suv’s.
+  
+62:     [yes], unknown,    open, 'Lim',472   XP: []
+      Er kwamen geen rekeningen op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+
+4302:     [yes], unknown,    open, 'Ter',65    XP: []
+      Het gele buitenaardse wezen reed suv’s.
+      Het gele buitenaardse wezen reed auto’s.
+
+4270:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens reden suv’s.
+      Veel buitenaardse wezens reden auto’s.
+  
+4309:     [yes], unknown,    open, 'Lim',423   XP: []
+      Ieder buitenaards wezen speelde met een paar speelgoedauto’s.
+      Ieder buitenaards wezen speelde met speeltjes.
+
+93:     [yes], unknown,    open, 'Lim',464   XP: []
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van pragmatische betekenisverrijking.
+      In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van betekenisverrijking.
+
+4224:     [yes], unknown,    open, 'Lim',424   XP: []
+      Geen buitenaards wezen at bij enige restaurants.
+      Geen buitenaards wezen at bij Mexicaanse restaurants.
+
+126:     [yes], unknown,    open, 'Ter',128   XP: []
+      Een sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+
+4359:     [yes], unknown,    open, 'Ter',106   XP: []
+      Geen buitenaards wezen dronk enige frisdrank.
+      Geen buitenaards wezen dronk cola.
+
+4244:     [yes], unknown,    open, 'Ter',179   XP: []
+      Ieder buitenaards wezen keek honkbalwedstrijden.
+      Ieder buitenaards wezen keek sportwedstrijden.
+
+4341:     [yes], unknown,    open, 'Ter',260   XP: []
+      Het blauwe buitenaardse wezen speelde met een paar speelgoedauto’s.
+      Het blauwe buitenaardse wezen speelde met speeltjes.
+
+4308:     [yes], unknown,    open, 'Lim',420   XP: []
+      Ieder buitenaards wezen las een paar sci-fi romans.
+      Ieder buitenaards wezen las boeken.
+
+4342:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het blauwe buitenaardse wezen gooide een paar tennisballen.
+      Het blauwe buitenaardse wezen gooide ballen.
+
+4267:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens lazen nieuwstijdschriften.
+      Veel buitenaardse wezens lazen tijdschriften.
+
+4377:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het paarse buitenaardse wezen zag geen vogels.
+      Het paarse buitenaardse wezen zag geen duiven.
+
+4273:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het paarse buitenaardse wezen kocht geen kleren.
+      Het paarse buitenaardse wezen kocht geen shirts.
+
+4223:     [yes], unknown,    open, 'Ter',106   XP: []
+      Geen buitenaards wezen at enig vlees.
+      Geen buitenaards wezen at varkensvlees.
+
+4378:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het paarse buitenaardse wezen gooide geen ballen.
+      Het paarse buitenaardse wezen gooide geen tennisballen.
+
+4310:     [yes], unknown,    open, 'Lim',417   XP: []
+      Ieder buitenaards wezen gooide een paar tennisballen.
+      Ieder buitenaards wezen gooide ballen.
+
+4362:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen reed enige auto’s.
+      Geen buitenaards wezen reed suv’s.
+
+4243:     [yes], unknown,    open, 'Ter',179   XP: []
+      Ieder buitenaards wezen las nieuwstijdschriften.
+      Ieder buitenaards wezen las tijdschriften.
+
+4361:     [yes], unknown,    open, 'Ter',417   XP: []
+      Geen buitenaards wezen speelde met enige speeltjes.
+      Geen buitenaards wezen speelde met speelgoedauto’s.
+
+46:     [yes], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak verschillende wetten die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak verschillende plannen die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+
+4369:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens zagen vogels.
+      Weinig buitenaardse wezens zagen duiven.
+
+4459:     [yes], unknown,    open, 'Ter',45    XP: []
+      Het gele buitenaardse wezen at varkensvlees.
+      Het gele buitenaardse wezen at vlees.
+
+4368:     [yes], unknown,    open, 'Lim',419   XP: []
+      Weinig buitenaardse wezens lazen boeken.
+      Weinig buitenaardse wezens lazen sci-fi romans.
+
+4274:     [yes], unknown,    open, 'Ter',209   XP: []
+      Het paarse buitenaardse wezen reed geen auto’s.
+      Het paarse buitenaardse wezen reed geen suv’s.
+
+4324:     [yes], unknown,    open, 'Lim',420   XP: []
+      Veel buitenaardse wezens lazen een paar sci-fi romans.
+      Veel buitenaardse wezens lazen boeken.
+
+4343:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens dronken enige frisdrank.
+      Weinig buitenaardse wezens dronken cola.
+
+4367:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens aten vlees.
+      Weinig buitenaardse wezens aten varkensvlees.
+
+4383:     [yes], unknown,    open, 'Ter',43    XP: []
+      Geen buitenaards wezen at vlees.
+      Geen buitenaards wezen at varkensvlees.
+
+4344:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens keken enige sportwedstrijden.
+      Weinig buitenaardse wezens keken honkbalwedstrijden.
+
+4370:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens gooiden ballen.
+      Weinig buitenaardse wezens gooiden tennisballen.
+
+4353:     [yes], unknown,    open, 'Ter',114   XP: []
+      Het rode buitenaardse wezen speelde met geen enkel speeltje.
+      Het rode buitenaardse wezen speelde niet met speelgoedauto’s.
+
+4462:     [yes], unknown,    open, 'Ter',90    XP: []
+      Het gele buitenaardse wezen gooide tennisballen.
+      Het gele buitenaardse wezen gooide ballen.
+
+4280:     [yes], unknown,    open, 'Ter',179   XP: []
+      Geen buitenaards wezen keek sportwedstrijden.
+      Geen buitenaards wezen keek honkbalwedstrijden.
+
+4300:     [yes], unknown,    open, 'Ter',91    XP: []
+      Het gele buitenaardse wezen keek honkbalwedstrijden.
+      Het gele buitenaardse wezen keek sportwedstrijden.
+
+4216:     [yes], unknown,    open, 'Ter',90    XP: []
+      Het rode buitenaardse wezen at bij geen enkel restaurant.
+      Het rode buitenaardse wezen at niet bij Mexicaanse restaurants.
+
+4521:     [yes], unknown,    open, 'Ter',55    XP: []
+      Het paarse buitenaardse wezen speelde niet met speeltjes.
+      Het paarse buitenaardse wezen speelde niet met speeldgoedauto’s.
+
+4478:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens gebruikten een paar kwartjes.
+      Veel buitenaardse wezens gebruikten munten.
+
+4498:     [yes], unknown,    open, 'Ter',72    XP: []
+      Het rode buitenaardse wezen gooide geen enkele bal.
+      Het rode buitenaardse wezen gooide geen tennisballen.
+
+4497:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen kocht geen enkele kleren.
+      Het rode buitenaardse wezen kocht geen enkele shirts.
+
+55:     [yes], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak enig plan dat legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak enige wet die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+
+4443:     [yes], unknown,    open, 'Ter',44    XP: []
+      Ieder buitenaards wezen at varkensvlees.
+      Ieder buitenaards wezen at vlees.
+
+4489:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens kochten enige kleren.
+      Weinig buitenaardse wezens kochten enige shirts.
+  
+4384:     [yes], unknown,    open, 'Ter',297   XP: []
+      Geen buitenaards wezen las boeken.
+      Geen buitenaards wezen las sci-fi romans.
+
+4271:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het paarse buitenaardse wezen las geen tijdschriften.
+      Het paarse buitenaardse wezen las geen nieuwstijdschriften.
+
+4256:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens keken sportwedstrijden.
+      Weinig buitenaardse wezens keken honkbalwedstrijden.
+
+4226:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen gebruikte enige munten.
+      Geen buitenaards wezen gebruikte kwartjes.
+
+4519:     [yes], unknown,    open, 'Lim',418   XP: []
+      Het paarse buitenaardse wezen dronk geen frisdrank.
+      Het paarse buitenaardse wezen dronk geen cola.
+
+4272:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het paarse buitenaardse wezen keek geen sportwedstrijden.
+      Het paarse buitenaardse wezen keek geen honkbalwedstrijden.
+
+4246:     [yes], unknown,    open, 'Ter',52    XP: []
+      Ieder buitenaards wezen reed in suv’s.
+      Ieder buitenaards wezen reed in auto’s.
+
+4529:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen speelde met speeltjes.
+      Geen buitenaards wezen speelde met speelgoedauto’s.
+
+4483:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het blauwe buitenaardse wezen las een paar nieuwstijdschriften.
+      Het blauwe buitenaardse wezen las tijdschriften.
+
+4522:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het paarse buitenaardse wezen gebruikte geen munten.
+      Het paarse buitenaardse wezen gebruikte geen kwartjes.
+
+4225:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen zag enige vogels.
+      Geen buitenaards wezen zag duiven.
+
+4354:     [yes], unknown,    open, 'Ter',149   XP: []
+      Het rode buitenaardse wezen reed geen enkele auto.
+      Het rode buitenaardse wezen reed geen suv’s.
+
+4340:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het blauwe buitenaardse wezen las een paar sci-fi romans.
+      Het blauwe buitenaardse wezen las boeken.
+
+65:     [yes], unknown,    open, 'Lim',426   XP: []
+      Missouri wetgevers overwegen een overheidsboycot op bedrijven die Israel boycotten.
+      Missouri wetgevers overwegen een boycot op bedrijven die Israel boycotten.
+
+4488:     [yes], unknown,    open, 'Lim',421   XP: []
+      Weinig buitenaardse wezens lazen enige boeken.
+      Weinig buitenaardse wezens lazen enige sci-fi romans.
+
+4589:     [yes], unknown,    open, 'Ter',53    XP: []
+      Ieder buitenaards wezen speelde met speelgoedauto’s.
+      Ieder buitenaards wezen speelde met speeltjes.
+
+4503:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen las enige tijdschriften.
+      Geen buitenaards wezen las enige nieuwstijdschriften.
+
+4360:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen keek enige sportwedstrijden.
+      Geen buitenaards wezen keek honkbalwedstrijden.
+
+4215:     [yes], unknown,    open, 'Ter',116   XP: []
+      Het rode buitenaardse wezen at geen enkel vlees.
+      Het rode buitenaardse wezen at geen varkensvlees.
+
+4467:     [yes], unknown,    open, 'Lim',417   XP: []
+      Ieder buitenaards wezen las een paar nieuwstijdschriften.
+      Ieder buitenaards wezen las tijdschriften.
+
+4351:     [yes], unknown,    open, 'Lim',419   XP: []
+      Het rode buitenaardse wezen dronk geen enkele frisdrank.
+      Het rode buitenaardse wezen dronk geen cola.
+
+4641:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen zag geen enkele vogel.
+      Het rode buitenaardse wezen zag geen enkele duif.
+
+4470:     [yes], unknown,    open, 'Lim',417   XP: []
+      Ieder buitenaards wezen gebruikte een paar kwartjes.
+      Ieder buitenaards wezen gebruikte munten.
+
+4513:     [yes], unknown,    open, 'Lim',422   XP: []
+      Weinig buitenaardse wezens speelden met speeltjes.
+      Weinig buitenaardse wezens speelden met speelgoedauto’s.
+
+4326:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens gooiden een paar tennisballen.
+      Veel buitenaardse wezens gooiden ballen.
+
+4487:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens lazen enige tijdschriften.
+      Weinig buitenaardse wezens lazen enige nieuwstijdschriften.
+
+4598:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens gebruikten kwartjes.
+      Veel buitenaardse wezens gebruikten munten.
+
+4444:     [yes], unknown,    open, 'Lim',419   XP: []
+      Ieder buitenaards wezen las sci-fi romans.
+      Ieder buitenaards wezen las boeken.
+
+4490:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens gooiden enige ballen.
+      Weinig buitenaardse wezens gooiden enige tennisballen.
+
+4352:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het rode buitenaardse wezen keek geen enkele sportwedstrijd.
+      Het rode buitenaardse wezen keek geen honkbalwedstrijden.
+
+4528:     [yes], unknown,    open, 'Lim',424   XP: []
+      Geen buitenaards wezen at bij restaurants.
+      Geen buitenaards wezen at bij Mexicaanse restaurants.
+
+4649:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen zag enige vogels.
+      Geen buitenaards wezen zag enige duiven.
+
+4346:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens reden enige auto’s.
+      Weinig buitenaardse wezens reden suv’s.
+
+4255:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens lazen tijdschriften.
+      Weinig buitenaardse wezens lazen nieuwstijdschriften.
+
+4325:     [yes], unknown,    open, 'Lim',423   XP: []
+      Veel buitenaardse wezens speelden met een paar speelgoedauto’s.
+      Veel buitenaardse wezens speelden met speeltjes,
+
+4376:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het paarse buitenaardse wezen las geen boeken.
+      Het paarse buitenaardse wezen las geen sci-fi romans.
+
+4622:     [yes], unknown,    open, 'Lim',412   XP: []
+      Veel buitenaardse wezens reden een paar suv’s.
+      Veel buitenaardse wezens reden een paar auto’s.
+
+4386:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen gooide ballen.
+      Geen buitenaards wezen gooide tennisballen.
+
+4527:     [yes], unknown,    open, 'Ter',103   XP: []
+      Geen buitenaards wezen dronk frisdrank.
+      Geen buitenaards wezen dronk cola.
+
+4597:     [yes], unknown,    open, 'Lim',422   XP: []
+      Veel buitenaardse wezens speelden met speelgoedauto’s.
+      Veel buitenaardse wezens speelden met speeltjes,
+
+4530:     [yes], unknown,    open, 'Ter',145   XP: []
+      Geen buitenaards wezen gebruikte munten.
+      Geen buitenaards wezen gebruikte kwartjes.
+
+4619:     [yes], unknown,    open, 'Lim',419   XP: []
+      Veel buitenaardse wezens aten wat varkensvlees.
+      Veel buitenaardse wezens aten wat vlees.
+
+4345:     [yes], unknown,    open, 'Lim',423   XP: []
+      Weinig buitenaardse wezens speelden met enige speeltjes.
+      Weinig buitenaardse wezens speelden met speelgoedauto’s.
+
+4701:     [yes], unknown,    open, 'Lim',424   XP: []
+      Veel buitenaardse wezens speelden met een paar speelgoedauto’s.
+      Veel buitenaardse wezens speelden met een paar speeltjes.
+
+4375:     [yes], unknown,    open, 'Ter',113   XP: []
+      Het paarse buitenaardse wezen at geen vlees.
+      Het paarse buitenaardse wezen at geen varkensvlees.
+
+4642:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen gebruikte geen enkele munt.
+      Het rode buitenaardse wezen gebruikte geen enkel kwartje.
+
+4454:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens gooiden tennisballen.
+      Veel buitenaardse wezens gooiden ballen.
+
+4709:     [yes], unknown,    open, 'Ter',297   XP: []
+      Het blauwe buitenaardse wezen speelde met een paar speelgoedauto’s.
+      Het blauwe buitenaardse wezen speelde met een paar speeltjes.
+
+4504:     [yes], unknown,    open, 'Lim',421   XP: []
+      Geen buitenaards wezen las enige boeken.
+      Geen buitenaards wezen las enige sci-fi romans.
+
+4385:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen zag vogels.
+      Geen buitenaards wezen zag duiven.
+
+4633:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens zagen enige vogels.
+      Weinig buitenaardse wezens zagen enige duiven.
+
+4460:     [yes], unknown,    open, 'Ter',328   XP: []
+      Het gele buitenaardse wezen las sci-fi romans.
+      Het gele buitenaardse wezen las boeken.
+
+4639:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen at geen enkel vlees.
+      Het rode buitenaardse wezen at geen enkel varkensvlees.
+
+4446:     [yes], unknown,    open, 'Ter',179   XP: []
+      Ieder buitenaards wezen gooide tennisballen.
+      Ieder buitenaards wezen gooide ballen.
+
+4496:     [yes], unknown,    open, 'Ter',49    XP: []
+      Het rode buitenaardse wezen las geen enkel boek.
+      Het rode buitenaardse wezen las geen enkel sci-fi boek.
+
+4721:     [yes], unknown,    open, 'Lim',429   XP: []
+      Het rode buitenaardse wezen speelde met geen enkel speeltje.
+      Het rode buitenaardse wezen speelde met geen enkele speelgoedauto.
+
+4451:     [yes], unknown,    open, 'Lim',416   XP: []
+      Veel buitenaardse wezens aten varkensvlees.
+      Veel buitenaardse wezens aten vlees.
+
+4729:     [yes], unknown,    open, 'Lim',424   XP: []
+      Geen buitenaards wezen speelde met enige speeltjes.
+      Geen buitenaards wezen speelde met enige speelgoedauto’s.
+
+4627:     [yes], unknown,    open, 'Ter',146   XP: []
+      Het blauwe buitenaardse wezen at wat varkensvlees.
+      Het blauwe buitenaardse wezen at wat vlees.
+
+4628:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het blauwe buitenaardse wezen keek een paar honkbalwedstrijden.
+      Het blauwe buitenaardse wezen keek een paar sportwedstrijden.
+
+4590:     [yes], unknown,    open, 'Ter',145   XP: []
+      Ieder buitenaards wezen gebruikte kwartjes,
+      Ieder buitenaards wezen gebruikte munten.
+
+4647:     [yes], unknown,    open, 'Ter',133   XP: []
+      Geen buitenaards wezen at enig vlees.
+      Geen buitenaards wezen at enig varkensvlees.
+
+4452:     [yes], unknown,    open, 'Lim',419   XP: []
+      Veel buitenaardse wezens lazen sci-fi romans.
+      Veel buitenaardse wezens lazen boeken.
+
+4486:     [yes], unknown,    open, 'Ter',170   XP: []
+      Het blauwe buitenaardse wezen gebruikte een paar kwartjes.
+      Het blauwe buitenaardse wezen gebruikte munten.
+
+4475:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Veel buitenaardse wezens lazen tijdschriften.
+
+4514:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens gebruikten munten.
+      Weinig buitenaardse wezens gebruikten kwartjes.
+
+4693:     [yes], unknown,    open, 'Lim',424   XP: []
+      Ieder buitenaards wezen speelde met een paar speelgoedauto’s.
+      Ieder buitenaards wezen speelde met een paar speeltjes.
+
+4630:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het blauwe buitenaardse wezen reed een paar suv’s.
+      Het blauwe buitenaardse wezen reed een paar auto’s.
+
+4648:     [yes], unknown,    open, 'Lim',425   XP: []
+      Geen buitenaards wezen at bij enige restaurants.
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+
+4702:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens gooiden een paar tennisballen.
+      Veel buitenaardse wezens gooiden een paar ballen.
+
+4506:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen gooide enige ballen.
+      Geen buitenaards wezen gooide enige tennisballen.
+
+4505:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen kocht enige kleren.
+      Geen buitenaards wezen kocht enige shirts.
+
+4511:     [yes], unknown,    open, 'Lim',416   XP: []
+      Weinig buitenaardse wezens dronken frisdrank.
+      Weinig buitenaardse wezens dronken cola.
+
+4495:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen las geen enkel tijdschrift.
+      Het rode buitenaardse wezen las geen enkel nieuwstijdschrift.
+
+4650:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen gebruikte enige munten.
+      Geen buitenaards wezen gebruikte enige kwartjes.
+
+4713:     [yes], unknown,    open, 'Lim',424   XP: []
+      Weinig buitenaardse wezens speelden met enige speeltjes.
+      Weinig buitenaardse wezens speelden met enige speelgoedauto’s.
+
+4722:     [yes], unknown,    open, 'Lim',421   XP: []
+      Het rode buitenaardse wezen reed geen enkele auto.
+      Het rode buitenaardse wezen reed geen enkele suv.
+
+4708:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het blauwe buitenaardse wezen las een paar sci-fi romans.
+      Het blauwe buitenaardse wezen las een paar boeken.
+
+4719:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen dronk geen enkele frisdrank.
+      Het rode buitenaardse wezen dronk geen enkele cola.
+
+4614:     [yes], unknown,    open, 'Ter',59    XP: []
+      Ieder buitenaards wezen reed in een paar suv’s.
+      Ieder buitenaards wezen reed in een paar auto’s.
+
+4512:     [yes], unknown,    open, 'Lim',423   XP: []
+      Weinig buitenaardse wezens aten bij restaurants.
+      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4727:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen dronk enige frisdrank.
+      Geen buitenaards wezen dronk enige cola.
+
+4606:     [yes], unknown,    open, 'Ter',79    XP: []
+      Het gele buitenaardse wezen gebruikte kwartjes.
+      Het gele buitenaardse wezen gebruikte munten.
+
+4728:     [yes], unknown,    open, 'Lim',418   XP: []
+      Geen buitenaards wezen keek enige sportwedstrijden.
+      Geen buitenaards wezen keek enige honkbalwedstrijden.
+
+4634:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens gebruikten enige munten.
+      Weinig buitenaardse wezens gebruikten enige kwartjes.
+
+4605:     [yes], unknown,    open, 'Ter',76    XP: []
+      Het gele buitenaardse wezen speelde met speelgoedauto’s.
+      Het gele buitenaardse wezen speelde met speeltjes.
+
+4773:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen kocht een paar shirts.
+      Ieder buitenaards wezen kocht wat kleding.
+
+4611:     [yes], unknown,    open, 'Ter',124   XP: []
+      Ieder buitenaards wezen at wat varkensvlees.
+      Ieder buitenaards wezen at wat vlees.
+
+4861:     [yes], unknown,    open, 'Ter',332   XP: []
+      Geen buitenaards wezen stierf zonder met enige speelgoedauto’s te spelen.
+      Geen buitenaards wezen stierf zonder met speeltjes te spelen.
+
+4710:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het blauwe buitenaardse wezen gooide een paar tennisballen.
+      Het blauwe buitenaardse wezen gooide een paar ballen.
+
+4782:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens gebruikten een paar kwartjes.
+      Veel buitenaardse wezens gebruikten een paar munten.
+
+4787:     [yes], unknown,    open, 'Ter',286   XP: []
+      Het blauwe buitenaardse wezen las een paar nieuwstijdschriften.
+      Het blauwe buitenaardse wezen las een paar tijdschriften.
+
+4779:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Veel buitenaardse wezens lazen een paar tijdschriften.
+
+4620:     [yes], unknown,    open, 'Lim',418   XP: []
+      Veel buitenaardse wezens keken een paar honkbalwedstrijden.
+      Veel buitenaardse wezens keken een paar sportwedstrijden.
+
+4798:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar tennisballen te gooien.
+      Geen buitenaards wezen stierf zonder ballen te gooien.
+
+5089:     [yes], unknown,    open, 'Ter',10    XP: []
+      Alle stippen zijn scharlaken.
+      Alle stippen zijn rood.
+
+4631:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens aten enig vlees.
+      Weinig buitenaardse wezens aten enig varkensvlees.
+
+4730:     [yes], unknown,    open, 'Lim',419   XP: []
+      Geen buitenaards wezen reed enige auto’s.
+      Geen buitenaards wezen reed enige suv’s.
+
+4813:     [yes], unknown,    open, 'Ter',49    XP: []
+      Geen buitenaards wezen stierf zonder enige duiven te zien.
+      Geen buitenaards wezen stierf zonder vogels te zien.
+
+4843:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar nieuwstijdschriften te lezen.
+      Geen buitenaards wezen stierf zonder tijdschriften te lezen.
+
+4797:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder met een paar speelgoedauto’s te spelen.
+      Geen buitenaards wezen stierf zonder met speeltjes te spelen.
+
+4859:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige cola te drinken.
+      Geen buitenaards wezen stierf zonder frisdrank te drinken.
+
+4827:     [yes], unknown,    open, 'Ter',402   XP: []
+      Geen buitenaards wezen stierf zonder nieuwstijdschriften te lezen.
+      Geen buitenaards wezen stierf zonder tijdschriften te lezen.
+
+5149:     [yes], unknown,    open, 'Lim',408   XP: []
+      Bijna geen kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+      Bijna geen kampeerders hebben kou gevat.
+
+4862:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige suv’s te rijden.
+      Geen buitenaards wezen stierf zonder auto’s te rijden.
+
+4878:     [yes], unknown,    open, 'Ter',402   XP: []
+      Geen buitenaards wezen stierf zonder tennisballen te gooien.
+      Geen buitenaards wezen stierf zonder ballen te gooien.
+
+4694:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen gooide een paar tennisballen.
+      Ieder buitenaards wezen gooide een paar ballen.
+
+4961:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens gooiden enige ballen.
+      Weinig buitenaardse wezens gooiden tennisballen.
+
+5189:     [yes], unknown,    open, 'Ter',114   XP: []
+      Erg weinig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Erg weinig kampeerders hebben kou gevat.
+
+5021:     [yes], unknown,    open, 'Ter',10    XP: []
+      Iedere man danste.
+      Iedere man zong of danste.
+
+5081:     [yes], unknown,    open, 'Ter',30    XP: []
+      Betty woont in Berlijn.
+      Betty woont in Duitsland.
+
+5121:     [yes], unknown,    open, 'Ter',22    XP: []
+      Een paar olifanten zijn roze.
+      Een paar dikhuiden zijn roze.
+
+4640:     [yes], unknown,    open, 'Lim',430   XP: []
+      Het rode buitenaardse wezen at bij geen enkel restaurant.
+      Het rode buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+
+4612:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen keek een paar honkbalwedstrijden.
+      Ieder buitenaards wezen keek een paar sportwedstrijden.
+
+4714:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens reden enige auto’s.
+      Weinig buitenaardse wezens reden enige suv’s.
+
+4963:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens lazen enige tijdschriften.
+      Weinig buitenaardse wezens lazen nieuwstijdschriften.
+
+5037:     [yes], unknown,    open, 'Ter',17    XP: []
+      Aldo kuste Nina.
+      Aldo raakte Nina aan.
+
+5097:     [yes], unknown,    open, 'Ter',10    XP: []
+      Geen stippen zijn rood.
+      Geen stippen zijn scharlaken.
+
+4790:     [yes], unknown,    open, 'Ter',193   XP: []
+      Het blauwe buitenaardse wezen gebruikte een paar kwartjes.
+      Het blauwe buitenaardse wezen gebruikte een paar munten.
+
+5137:     [yes], unknown,    open, 'Ter',10    XP: []
+      Geen olifanten zijn blauw.
+      Geen olifanten zijn marineblauw.
+
+5321:     [yes], unknown,    open, 'Ter',45    XP: []
+      Veel van de kampeerders hebben kou gevat.
+      Veel van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+4632:     [yes], unknown,    open, 'Lim',425   XP: []
+      Weinig buitenaardse wezens aten bij enige restaurants.
+      Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
+
+5341:     [yes], unknown,    open, 'Ter',31    XP: []
+      John is een lange student.
+      John is een geweldige student.
+
+5361:     [yes], unknown,      NA, 'Defected'  XP: []
+      John beweegt en Mary niet.
+      Mary loopt niet.
+
+4938:     [yes], unknown,    open, 'Ter',260   XP: []
+      Het rode buitenaardse wezen speelde met een paar speelgoedauto’s.
+      Het rode buitenaardse wezen speelde met speeltjes.
+
+4958:     [yes], unknown,      NA, 'Defected'  XP: _2701186
+      Ieder buitenaards wezen die geen enkele nieuwstijdschriften las is harig.
+      Ieder buitenaards wezen die geen tijdschriften las is harig.
+
+5177:     [yes], unknown,    open, 'Ter',54    XP: []
+      Niet veel van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Niet veel van de kampeerders hebben kou gevat.
+
+4942:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het rode buitenaardse wezen gooide een paar tennisballen.
+      Het rode buitenaardse wezen gooide ballen.
+
+4998:     [yes], unknown,    open, 'Ter',26    XP: []
+      Iedere man rende.
+      Iedere lange man rende.
+
+5178:     [yes], unknown,    open, 'Ter',47    XP: []
+      Niet veel van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet veel van de kampeerders hebben kou gevat.
+
+4711:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens dronken enige frisdrank.
+      Weinig buitenaardse wezens dronken enige cola.
+
+5083:     [yes], unknown,    open, 'Ter',32    XP: []
+      Betty woont niet in Duitsland.
+      Betty woont niet in Berlijn.
+
+4959:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig buitenaardse wezens kochten enige kleren.
+      Weinig buitenaardse wezens kochten shirts.
+
+5123:     [yes], unknown,    open, 'Ter',20    XP: []
+      Een paar olifanten zijn niet roze.
+      Een paar dikhuiden zijn niet roze.
+
+5039:     [yes], unknown,    open, 'Ter',18    XP: []
+      Een bulldog viel Nina aan.
+      Een hond viel Nina aan.
+
+5079:     [yes], unknown,    open, 'Ter',22    XP: []
+      Alle filosofen zijn sterfelijk.
+      Alle hegelianen zijn sterfelijk.
+
+5119:     [yes], unknown,    open, 'Ter',22    XP: []
+      Alle dikhuiden zijn roze.
+      Alle olifanten zijn roze.
+
+5179:     [yes], unknown,    open, 'Ter',28    XP: []
+      Niet veel van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel van de kinderen gingen voor de suikerspin.
+
+5297:     [yes], unknown,    open, 'Ter',87    XP: []
+      Bijna iedereen heeft kou gevat.
+      Bijna iedereen heeft weleens een zonnebrand gehad of kou gevat.
+
+5298:     [yes], unknown,    open, 'Ter',86    XP: []
+      Bijna iedereen heeft kou gevat.
+      Bijna iedereen heeft een zonnebrand gehad of kou gevat.
+
+5317:     [yes], unknown,    open, 'Ter',54    XP: []
+      Veel kampeerders hebben kou gevat.
+      Veel kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+4907:     [yes], unknown,    open, 'Lim',420   XP: []
+      Het rode buitenaardse wezen kocht geen enkele kleren.
+      Het rode buitenaardse wezen kocht geen shirts.
+
+4700:     [yes], unknown,    open, 'Lim',422   XP: []
+      Veel buitenaardse wezens lazen een paar sci-fi romans.
+      Veel buitenaardse wezens lazen een paar boeken.
+
+5318:     [yes], unknown,    open, 'Ter',53    XP: []
+      Veel kampeerders hebben kou gevat.
+      Veel kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5299:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna iedereen ging voor de suikerspin.
+      Bijna iedereen koos enige mint chocolaatjes of ging voor de suikerspin.
+
+5093:     [yes], unknown,    open, 'Ter',10    XP: []
+      Een paar stippen zijn scharlaken.
+      Een paar stippen zijn rood.
+
+5113:     [yes], unknown,    open, 'Ter',10    XP: []
+      Alle dikhuiden zijn marineblauw.
+      Alle dikhuiden zijn blauw.
+
+5133:     [yes], unknown,    open, 'Ter',10    XP: []
+      Een paar olifanten zijn marineblauw.
+      Een paar olifanten zijn blauw.
+
+5143:     [yes], unknown,    open, 'Lim',415   XP: []
+      Veel van de boeken hadden typische lezers.
+      Veel van de boeken hadden typische of marginale lezers.
+
+4804:     [yes], unknown,      NA, 'Defected'  XP: _1823092
+      Ieder buitenaards wezen die niet een paar sci-fi romans las is harig.
+      Ieder buitenaards wezen die geen boeken las is harig.
+
+4927:     [yes], unknown,    open, 'Ter',116   XP: []
+      Het rode buitenaardse wezen at wat varkensvlees.
+      Het rode buitenaardse wezen at vlees.
+
+4830:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder suv’s te rijden.
+      Geen buitenaards wezen stierf zonder auto’s te rijden.
+
+5319:     [yes], unknown,    open, 'Ter',103   XP: []
+      Veel kinderen gingen voor de suikerspin.
+      Veel kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+5153:     [yes], unknown,    open, 'Ter',78    XP: []
+      Bijna niemand heeft weleens een zonnebrand gehad of kou gevat.
+      Bijna niemand heeft kou gevat.
+
+4828:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder honkbalwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder sportwedstrijden te kijken.
+
+4692:     [yes], unknown,    open, 'Lim',421   XP: []
+      Ieder buitenaards wezen las een paar sci-fi romans.
+      Ieder buitenaards wezen las een paar boeken.
+
+5173:     [yes], unknown,    open, 'Ter',114   XP: []
+      Niet veel kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Niet veel kampeerders hebben kou gevat.
+
+4774:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen gebruikte een paar kwartjes.
+      Ieder buitenaards wezen gebruikte een paar munten.
+
+5322:     [yes], unknown,    open, 'Ter',44    XP: []
+      Veel van de kampeerders hebben kou gevat.
+      Veel van de kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5193:     [yes], unknown,    open, 'Ter',54    XP: []
+      Erg weinig van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Erg weinig van de kampeerders hebben kou gevat.
+
+4720:     [yes], unknown,    open, 'Lim',421   XP: []
+      Het rode buitenaardse wezen keek geen enkele sportwedstrijd.
+      Het rode buitenaardse wezen keek geen enkele honkbalwedstrijd.
+
+5323:     [yes], unknown,    open, 'Ter',32    XP: []
+      Veel van de kinderen gingen voor de suikerspin.
+      Veel van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+4712:     [yes], unknown,    open, 'Lim',418   XP: []
+      Weinig buitenaardse wezens keken enige sportwedstrijden.
+      Weinig buitenaardse wezens keken enige honkbalwedstrijden.
+
+5343:     [yes], unknown,    open, 'Ter',33    XP: []
+      John is een hele lange student.
+      John is een geweldige student.
+
+4796:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar sci-fi romans te lezen.
+      Geen buitenaards wezen stierf zonder boeken te lezen.
+
+5293:     [yes], unknown,    open, 'Ter',151   XP: []
+      Bijna iedere kampeerder heeft kou gevat.
+      Bijna iedere kampeerder heeft weleens een zonnebrand gehad of kou gevat.
+
+4876:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder sci-fi romans te lezen.
+      Geen buitenaards wezen stierf zonder boeken te lezen.
+
+4771:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen las een paar nieuwstijdschriften.
+      Ieder buitenaards wezen las een paar tijdschriften.
+
+5373:     [yes], unknown,    open, 'Ter',39    XP: []
+      Weinig taalkundigen betraden de race.
+      Weinig taalkundigen betraden de race vroeg.
+
+4814:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige kwartjes te gebruiken.
+      Geen buitenaards wezen stierf zonder munten te gebruiken.
+
+4888:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder wat varkensvlees te eten.
+      Geen buitenaards wezen stierf zonder vlees te eten.
+
+4916:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen las enige tijdschriften.
+      Geen buitenaards wezen las nieuwstijdschriften.
+
+4890:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar honkbalwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder sportwedstrijden te kijken.
+
+5156:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna niemand koos mint chocolaatjes of ging voor de suikerspin.
+      Bijna niemand ging voor de suikerspin.
+
+4875:     [yes], unknown,    open, 'Ter',361   XP: []
+      Geen buitenaards wezen stierf zonder varkensvlees te eten.
+      Geen buitenaards wezen stierf zonder vlees te eten.
+
+5176:     [yes], unknown,    open, 'Ter',176   XP: []
+      Niet veel kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel kinderen gingen voor de suikerspin.
+
+4915:     [yes], unknown,    open, 'Ter',72    XP: []
+      Het rode buitenaardse wezen las geen enkel tijdschrift.
+      Het rode buitenaardse wezen las geen nieuwstijdschriften.
+
+5196:     [yes], unknown,    open, 'Ter',26    XP: []
+      Erg weinig van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig van de kinderen gingen voor de suikerspin.
+
+4908:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen kocht enige kleren.
+      Geen buitenaards wezen kocht shirts.
+
+4811:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enig varkensvlees te eten.
+      Geen buitenaards wezen stierf zonder vlees te eten.
+
+5296:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna ieder kind ging voor de suikerspin.
+      Bijna ieder kind koos mint chocolaatjes of ging voor de suikerspin.
+
+4928:     [yes], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen at wat varkensvlees.
+      Ieder buitenaards wezen at vlees.
+
+5356:     [yes], unknown,    open, 'Ter',32    XP: []
+      Iedere student die Mary aanraakte lachte.
+      Iedere student die Mary kuste lachte.
+
+5347:     [yes], unknown,    open, 'Ter',18    XP: []
+      Iedere leraar rende gisteren.
+      Iedere lange leraar rende.
+
+4944:     [yes], unknown,    open, 'Ter',248   XP: []
+      Het rode buitenaardse wezen las een paar nieuwstijdschriften.
+      Het rode buitenaardse wezen las tijdschriften.
+
+4860:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige honkbalwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder sportwedstrijden te kijken.
+
+4940:     [yes], unknown,    open, 'Ter',170   XP: []
+      Het rode buitenaardse wezen gebruikte een paar kwartjes.
+      Het rode buitenaardse wezen gebruikte munten.
+
+5020:     [yes], unknown,    open, 'Ter',10    XP: []
+      Iedere man zong.
+      Iedere man zong of danste.
+
+4948:     [yes], unknown,    open, 'Ter',331   XP: []
+      Geen buitenaards wezen stierf zonder met speelgoedauto’s te spelen.
+      Geen buitenaards wezen stierf zonder met speeltjes te spelen.
+
+5180:     [yes], unknown,    open, 'Ter',26    XP: []
+      Niet veel van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel van de kinderen gingen voor de suikerspin.
+
+4932:     [yes], unknown,    open, 'Lim',418   XP: []
+      Ieder buitenaards wezen keek een paar honkbalwedstrijden.
+      Ieder buitenaards wezen keek sportwedstrijden.
+
+5300:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna iedereen ging voor de suikerspin.
+      Bijna iedereen koos mint chocolaatjes of ging voor de suikerspin.
+
+5320:     [yes], unknown,    open, 'Ter',78    XP: []
+      Veel kinderen gingen voor de suikerspin.
+      Veel kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+4974:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens keken een paar honkbalwedstrijden.
+      Veel buitenaardse wezens keken sportwedstrijden.
+
+4950:     [yes], unknown,    open, 'Ter',403   XP: []
+      Geen buitenaards wezen stierf zonder kwartjes te gebruiken.
+      Geen buitenaards wezen stierf zonder munten te gebruiken.
+
+4995:     [yes], unknown,    open, 'Ter',15    XP: []
+      Geen man rende.
+      Geen man rende snel.
+
+5035:     [yes], unknown,    open, 'Ter',16    XP: []
+      Nina heeft een bulldog.
+      Nina heeft een hond.
+
+4972:     [yes], unknown,    open, 'Lim',417   XP: []
+      Veel buitenaardse wezens aten wat varkensvlees.
+      Veel buitenaardse wezens aten vlees.
+
+5154:     [yes], unknown,    open, 'Ter',77    XP: []
+      Bijna niemand heeft een zonnebrand gehad of kou gevat.
+      Bijna niemand heeft kou gevat.
+
+5115:     [yes], unknown,    open, 'Ter',22    XP: []
+      Alle dikhuiden zijn marineblauw.
+      Alle olifanten zijn marineblauw.
+
+5135:     [yes], unknown,    open, 'Ter',8     XP: []
+      Een paar olifanten zijn niet blauw.
+      Een paar olifanten zijn niet marineblauw.
+
+5155:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna niemand koos enige mint chocolaatjes of ging voor de suikerspin.
+      Bijna niemand ging voor de suikerspin.
+
+5174:     [yes], unknown,    open, 'Ter',104   XP: []
+      Niet veel kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet veel kampeerders hebben kou gevat.
+
+5194:     [yes], unknown,    open, 'Ter',47    XP: []
+      Erg weinig van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Erg weinig van de kampeerders hebben kou gevat.
+
+5152:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna geen kinderen kozen mint chocolaatjes of ging voor de suikerspin.
+      Bijna geen kinderen gingen voor de suikerspin.
+
+5175:     [yes], unknown,    open, 'Ter',180   XP: []
+      Niet veel kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Niet veel kinderen gingen voor de suikerspin.
+
+5195:     [yes], unknown,    open, 'Ter',28    XP: []
+      Erg weinig van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig van de kinderen gingen voor de suikerspin.
+
+5144:     [yes], unknown,    open, 'Lim',417   XP: []
+      Weinig van de boeken hadden typische of marginale lezers.
+      Weinig van de boeken hadden (een paar) typische lezers.
+
+5192:     [yes], unknown,    open, 'Ter',176   XP: []
+      Erg weinig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig kinderen gingen voor de suikerspin.
+
+5295:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna ieder kind ging voor de suikerspin.
+      Bijna ieder kind koos enige mint chocolaatjes of ging voor de suikerspin.
+
+5294:     [yes], unknown,    open, 'Ter',150   XP: []
+      Bijna iedere kampeerder heeft kou gevat.
+      Bijna iedere kampeerder heeft een zonnebrand gehad of kou gevat.
+
+5150:     [yes], unknown,    open, 'Lim',408   XP: []
+      Bijna geen kampeerders hebben een zonnebrand gehad of kou gevat.
+      Bijna geen kampeerders hebben kou gevat.
+
+5374:     [yes], unknown,      NA, 'Defected'  XP: []
+      Geen van beide democraten betrad te race.
+      Geen van beide democraten betrad te race vroeg.
+
+5355:     [yes], unknown,    open, 'Ter',38    XP: []
+      John zag geen student.
+      John zag geen lange student.
+
+5190:     [yes], unknown,    open, 'Ter',104   XP: []
+      Erg weinig kampeerders hebben een zonnebrand gehad of kou gevat.
+      Erg weinig kampeerders hebben kou gevat.
+
+5048:     [yes], unknown,    open, 'Ter',36    XP: []
+      Ieder zoogdier is gestreept.
+      Iedere zebra is gestreept.
+
+5324:     [yes], unknown,    open, 'Ter',26    XP: []
+      Veel van de kinderen gingen voor de suikerspin.
+      Veel van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+5344:     [yes], unknown,    open, 'Ter',75    XP: []
+      Iedere student kuste iedere leraar.
+      Iedere student kuste iedere lange leraar.
+
+4911:     [yes], unknown,    open, 'Lim',417   XP: []
+      Geen buitenaards wezen gooide enige ballen.
+      Geen buitenaards wezen gooide tennisballen.
+
+5364:     [yes], unknown,      NA, 'Defected'  XP: []
+      John loopt en Mary niet.
+      John beweegt.
+
+4846:     [yes], unknown,    open, 'Lim',409   XP: []
+      Geen buitenaards wezen stierf zonder een paar kwartjes te gebruiken.
+      Geen buitenaards wezen stierf zonder munten te gebruiken.
+
+4931:     [yes], unknown,    open, 'Ter',251   XP: []
+      Het rode buitenaardse wezen keek een paar honkbalwedstrijden.
+      Het rode buitenaardse wezen keek sportwedstrijden.
+
+5091:     [yes], unknown,    open, 'Ter',10    XP: []
+      De meeste stippen zijn scharlaken.
+      De meeste stippen zijn rood.
+
+5111:     [yes], unknown,    open, 'Ter',10    XP: []
+      Freds stropdas is marineblauw.
+      Freds stropdas is blauw.
+
+5131:     [yes], unknown,    open, 'Ter',10    XP: []
+      Alle olifanten zijn marineblauw.
+      Alle olifanten zijn blauw.
+
+5151:     [yes], unknown,      NA, 'Defected'  XP: []
+      Bijna geen kinderen kozen enige mint chocolaatjes of ging voor de suikerspin.
+      Bijna geen kinderen gingen voor de suikerspin.
+
+5372:     [yes], unknown,    open, 'Ter',36    XP: []
+      Geen loodgieter betrad de race.
+      Veel mannen betraden de race vroeg.
+
+5191:     [yes], unknown,    open, 'Ter',180   XP: []
+      Erg weinig kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Erg weinig kinderen gingen voor de suikerspin.
+
+5371:     [yes], unknown,    open, 'Ter',33    XP: []
+      Veel boeren betraden de race vroeg.
+      Veel mannen betraden de race.
+
+5046:     [yes], unknown,    open, 'Lim',400   XP: []
+      Niemand hier heeft een Europese auto.
+      Niemand hier heeft een Duitse auto.
+
+5346:     [yes], unknown,    open, 'Ter',24    XP: []
+      Geen leraar rende.
+      Geen lange leraar rende gisteren.
+
+5105:     [yes], unknown,    open, 'Ter',31    XP: []
+      Alle tenoren hebben de griep.
+      Alle tenoren zijn ziek.
+
+5125:     [yes], unknown,    open, 'Ter',22    XP: []
+      Geen dikhuiden zijn roze.
+      Geen olifanten zijn roze.
+
+5145:     [yes], unknown,    open, 'Ter',38    XP: []
+      Mary at nooit pizza.
+      Mary at nooit pizza met ansjovis.
+

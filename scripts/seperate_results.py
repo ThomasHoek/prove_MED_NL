@@ -1,5 +1,7 @@
 import re
 from pathlib import Path
+import argparse
+
 
 def to_print(x: str) -> str:
     """to_print removes regex preprocessing"""
@@ -37,7 +39,14 @@ def get_data_from_log(sent: str) -> tuple[str, str, str]:
 
 # MAIN Function
 # TODO: replace with parse data for produce
-split = "crowd"
+parser = argparse.ArgumentParser()
+
+# Adding optional argument
+parser.add_argument("-k", "--kind", default="crowd", help="select result kind")
+
+# Read arguments from command line
+args = parser.parse_args()
+split = args.kind
 
 
 # get unparsed

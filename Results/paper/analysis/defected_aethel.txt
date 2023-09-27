@@ -1,0 +1,89 @@
+Inconsistency in node types (entail/8)
+5:     [yes], unknown,      NA, 'Defected'  XP: _850
+      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+      Meerdere afgevaardigden kregen resultaten gepubliceerd.
+
+Inconsistency in node types (entail/8)
+20:     [yes], unknown,      NA, 'Defected'  XP: _838
+      Meerdere Portugese afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+
+Inconsistency in node types (entail/8)
+13: [unknown], unknown,      NA, 'Defected'  XP: _838
+  
+Inconsistency in node types (entail/8)
+60:     [yes], unknown,      NA, 'Defected'  XP: _80740
+      Het laatste iincident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
+      Het laatste fatale incident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
+   
+ERROR: sentence id=3167
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,evon)',pt:vnw,r:ieder,rel:det,s:ieder,t:ieder},j{l:aantal,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:aantal,rel:hd,s:aantal,t:aantal},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:voorbeeld,rel:mod,s:voorbeeld,t:voorbeelden},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=3166
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:voorbeeld,rel:hd,s:voorbeeld,t:voorbeeld},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+102: [unknown], unknown,      NA, 'Defected'  XP: _82656
+   
+Inconsistency in node types (entail/8)
+103: [unknown], unknown,      NA, 'Defected'  XP: _4349312
+ 
+Inconsistency in node types (entail/8)
+118: [unknown], unknown,      NA, 'Defected'  XP: _4961538
+
+Inconsistency in node types (entail/8)
+107: [unknown], unknown,      NA, 'Defected'  XP: _5364860
+
+Inconsistency in node types (entail/8)
+4869:     [yes], unknown,      NA, 'Defected'  XP: _1682060
+      Ieder buitenaards wezen die met geen enkele speelgoedauto’s speelde is harig.
+      Ieder buitenaards wezen die niet met speeltjes speelde is harig.
+
+Inconsistency in node types (entail/8)
+5001:     [yes], unknown,      NA, 'Defected'  XP: _2447814
+      Een of andere lange man rende.
+      Een of andere man rende.
+
+Inconsistency in node types (entail/8)
+5061:     [yes], unknown,      NA, 'Defected'  XP: _2540020
+      Ze zei minder dan drie woorden.
+      Ze fluisterde minder dan drie woorden.
+
+Inconsistency in node types (entail/8)
+5141:     [yes], unknown,      NA, 'Defected'  XP: _2892522
+      Niet meer dan drie olifanten zijn blauw.
+      Niet meer dan drie olifanten zijn marineblauw.
+
+Inconsistency in node types (entail/8)
+4978:     [yes], unknown,      NA, 'Defected'  XP: _2702144
+      Ieder buitenaards wezen die niet wat varkensvlees at is harig.
+      Ieder buitenaards wezen die geen vlees at is harig.
+
+Inconsistency in node types (entail/8)
+5142: [unknown], unknown,      NA, 'Defected'  XP: _4969208
+
+Inconsistency in node types (entail/8)
+4800: [unknown], unknown,      NA, 'Defected'  XP: _382492
+
+Inconsistency in node types (entail/8)
+5000: [unknown], unknown,      NA, 'Defected'  XP: _2364534
+
+Inconsistency in node types (entail/8)
+4805:     [yes], unknown,      NA, 'Defected'  XP: _4983234
+      Ieder buitenaards wezen die niet met een paar speelgoedauto’s speelde is harig.
+      Ieder buitenaards wezen die niet met speeltjes speelde is harig.
+
+Inconsistency in node types (entail/8)
+5140: [unknown], unknown,      NA, 'Defected'  XP: _2786090
+
+Inconsistency in node types (entail/8)
+5064: [unknown], unknown,      NA, 'Defected'  XP: _91200
+
+Inconsistency in node types (entail/8)
+5054: [unknown], unknown,      NA, 'Defected'  XP: _1057002
+
+Inconsistency in node types (entail/8)
+5052: [unknown], unknown,      NA, 'Defected'  XP: _4734930
+
