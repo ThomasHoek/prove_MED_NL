@@ -150,10 +150,6 @@ Error in gen_quant_tt
 1369: [unknown],     yes,  closed, 'Ter',4     XP: [int(cruciaal)]
       Tom maakt geen cruciale fouten.
       Tom maakt geen fouten.
-ERROR: sentence id=3964
-Failed to align term tokens and lexical annotations
-term tokes: [[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:drinken,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:drink,rel:hd,s:drink,t:drink},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:glas,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:glas,rel:hd,s:glas,t:glas},j{l:koud,lcat:ap,p:adj,postag:'ADJ(prenom,basis,met-e,stan)',pt:adj,r:koud,rel:mod,s:koud,t:koude},j{l:melk,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:melk,rel:hd,s:melk,t:melk},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:ieder,rel:det,s:ieder,t:iedere},j{l:ochtend,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:ochtend,rel:hd,s:ochtend,t:ochtend},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 
 1761: [unknown],     yes,  closed, 'Ter',4     XP: [int(groen)]
       Een paard eet geen groene komkommersalade.
@@ -374,4 +370,708 @@ lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan
 1972: [unknown],     yes,  closed, 'Ter',9     XP: []
       Mijn vader neemt een wandeling iedere zonnige ochtend.
       Mijn vader neemt een wandeling iedere ochtend.
+
+1809: [unknown],     yes,  closed, 'Ter',22    XP: [int(blij),int(no),int(schattig)]
+      Dit verhaal heeft geen blij schattig einde.
+      Dit verhaal heeft geen blij einde.
+
+1514: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Tom wilde geen oorlog voeren in canada.
+      Tom wilde geen oorlog voeren.
+
+1534: [unknown],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      Mijn zus heeft geen rode auto.
+      Mijn zus heeft geen auto.
+
+1909: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Deze soep heeft geen substantie om smaak te versterken.
+      Deze soep heeft geen substantie.
+
+2688: [unknown],     yes,  closed, 'Ter',22    XP: [int(harig),int(no),int(zwart)]
+      Tom heeft geen harige zwarte armen.
+      Tom heeft geen harige armen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2213: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Tom kon geen baan vlakbij zijn huis vinden.
+      Tom kon geen baan vinden.
+
+2768: [unknown],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Ieder groot schip heeft een anker nodig.
+      Ieder schip heeft een anker nodig.
+
+2209: [unknown],     yes,  closed, 'Ter',10    XP: [int(redelijk)]
+      Tom kon geen redelijke baan vinden.
+      Tom kon geen baan vinden.
+
+2968: [unknown],     yes,  closed, 'Ter',4     XP: [int(verfijnen)]
+      Geen verfijnde maaltijd is compleet zonder brood.
+      Geen maaltijd is compleet zonder brood.
+
+3008: [unknown],     yes,  closed, 'Ter',10    XP: [int(vervelend)]
+      Tom zou geen vervelende vlieg pijn doen.
+      Tom zou geen vlieg pijn doen.
+
+1638: [unknown],     yes,  closed, 'Ter',4     XP: [int(gratis)]
+      De katholieke kerk vergoeilijkt geen gebruik van gratis condooms.
+      De katholieke kerk vergoeilijkt geen gebruik van condooms.
+
+ERROR: sentence id=4331
+Failed to align term tokens and lexical annotations
+term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:luisteren,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:luister,rel:hd,s:'luister-naar',t:luister},j{l:zelden,lcat:ap,p:adj,postag:'BW()',pt:bw,r:zelden,rel:mod,s:zelden,t:zelden},j{l:naar,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:naar,rel:hd,s:naar,t:naar},j{l:muziek,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:muziek,rel:hd,s:muziek,t:muziek},j{l:thuis,lcat:advp,p:adv,postag:'BW()',pt:bw,r:thuis,rel:mod,s:thuis,t:thuis},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+1657: [unknown],     yes,  closed, 'Ter',28    XP: [int(no),int(slecht),int(tropisch)]
+      Een goede boom kan geen slechte tropische vruchten werpen.
+      Een goede boom kan geen slechte vruchten werpen.
+
+2590: [unknown],     yes,  closed, 'Ter',7     XP: [int(moeilijk)]
+      Op deze school zijn er geen cijfers en studenten hebben geen moeilijk huiswerk.
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
+
+1777: [unknown],     yes,  closed, 'Ter',4     XP: [int(grappig)]
+      Dit is geen grappig spel.
+      Dit is geen spel.
+
+2750: [unknown],     yes,  closed, 'Ter',6     XP: [isa(in@c1@no@krediet_kaart,no@krediet_kaart)]
+      Tom heeft geen kredietkaart in de V.S.
+      Tom heeft geen kredietkaart.
+
+2770: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Ieder lang schip heeft een anker nodig.
+      Ieder schip heeft een anker nodig.
+
+2181: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Tom speelde geen golf in de nacht.
+      Tom speelde geen golf.
+
+2970: [unknown],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Geen goede maaltijd is compleet zonder brood.
+      Geen maaltijd is compleet zonder brood.
+
+2261: [unknown],     yes,  closed, 'Ter',6     XP: [isa(naar@c1@ieder@weg,ieder@weg)]
+      Iedere weg naar de hel leidt tot het einde van de wereld.
+      Iedere weg leidt tot het einde van de wereld.
+
+3010: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Tom zou geen vlieg pijn doen die rondzoemt.
+      Tom zou geen vlieg pijn doen.
+
+1551: [unknown],     yes,  closed, 'Ter',10    XP: [int(nieuw)]
+      Tom kon geen nieuw woord zeggen.
+      Tom kon geen woord zeggen.
+
+2586: [unknown],     yes,  closed, 'Ter',7     XP: [int(extra)]
+      Op deze school zijn er geen cijfers en studenten hebben geen extra huiswerk.
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
+
+3050: [unknown],     yes,  closed, 'Ter',4     XP: [int(koud)]
+      Veel mensen in Fiji hebben geen toegang tot schoon koud drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+2157: [unknown],     yes,  closed, 'Ter',49    XP: [int(ieder),int(on_trouwen),isa(uit@c1@man,man),isa(uit@c1@(ieder@(on_trouwen@man)),ieder@(on_trouwen@man))]
+      Iedere ongetrouwde man uit mijn dorp is een bruidegom voor het leven.
+      Iedere ongetrouwde man is een bruidegom voor het leven.
+
+2639: [unknown],     yes,  closed, 'Ter',4     XP: [int(orthodox)]
+      Onze familie viert geen orthodoxe kerst.
+      Onze familie viert geen kerst.
+
+1651: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Nancy speelt geen tennis met bal.
+      Nancy speelt geen tennis.
+
+1616: [unknown],     yes,  closed, 'Ter',18    XP: []
+      Tom wilde geen overuren buiten jouw rooster werken op kerstavond.
+      Tom wilde geen overuren werken op kerstavond.
+
+3090: [unknown],     yes,  closed, 'Ter',13    XP: [int(mobiel),int(no),int(schadelijk),int(stralen)]
+      Dan gebruikte geen schadelijke stralende mobiele telefoon.
+      Dan gebruikte geen telefoon.
+
+1636: [unknown],     yes,  closed, 'Ter',4     XP: [int(mannelijk)]
+      De katholieke kerk vergoeilijkt geen gebruik van mannelijke condooms.
+      De katholieke kerk vergoeilijkt geen gebruik van condooms.
+
+2766: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Ieder schip dat in de haven ligt heeft een anker nodig.
+      Ieder schip heeft een anker nodig.
+
+1911: [unknown],     yes,  closed, 'Ter',4     XP: [int(hard)]
+      Deze soep heeft geen harde substantie.
+      Deze soep heeft geen substantie.
+
+2265: [unknown],     yes,  closed, 'Ter',10    XP: [int(best)]
+      Mensen kunnen leven zonder beste vrienden.
+      Mensen kunnen leven zonder vrienden.
+
+2946: [unknown],     yes,  closed, 'Ter',10    XP: [int(rood)]
+      Tom draagt gewoonlijk geen rode hoed.
+      Tom draagt gewoonlijk geen hoed.
+
+2986: [unknown],     yes,  closed, 'Ter',6     XP: [isa(over@c1@no@geduld,no@geduld)]
+      Een paar mensen hebben geen geduld over geld.
+      Een paar mensen hebben geen geduld.
+
+1694: [unknown],     yes,  closed, 'Ter',4     XP: [int(gemeentelijk)]
+      Dit is geen gemeentelijk ziekenhuis.
+      Dit is geen ziekenhuis.
+
+3046: [unknown],     yes,  closed, 'Ter',12    XP: [int(ondersteunen)]
+      Een paar mensen maken ruzie helemaal zonder ondersteunende reden.
+      Een paar mensen maken ruzie helemaal zonder reden.
+
+3088: [unknown],     yes,  closed, 'Ter',10    XP: [int(mobiel)]
+      Dan gebruikte geen mobiele telefoon.
+      Dan gebruikte geen telefoon.
+
+2597: [unknown],     yes,  closed, 'Ter',14    XP: []
+      Chris had geen auto om naar werk te rijden.
+      Chris had geen auto om te rijden.
+
+2580: [unknown],     yes,  closed, 'Ter',5     XP: [isa(middag,dag)]
+      Tom spendeerde de hele middag geen aandacht aan Mary.
+      Tom spendeerde de hele dag geen aandacht aan Mary.
+
+3166: [unknown],     yes,  closed, 'Ter',11    XP: [int(ieder),int(van@(the@kabinet)),int(vrouwelijk)]
+      Ieder vrouwelijk lid van het kabinet was aanwezig.
+      Ieder lid van het kabinet was aanwezig.
+
+2231: [unknown],     yes,  closed, 'Ter',9     XP: []
+      Tom zei een paar dingen die logisch nergens op sloegen.
+      Tom zei een paar dingen die nergens op sloegen.
+
+2114: [unknown],     yes,  closed, 'Ter',22    XP: [int(knap),int(no),int(vast)]
+      Tom heeft geen vaste knappe vriendin.
+      Tom heeft geen vaste vriendin.
+
+3017: [unknown],     yes,  closed, 'Ter',9     XP: []
+      Dat zou geen te groot probleem moeten zijn thuis.
+      Dat zou geen te groot probleem moeten zijn.
+
+2425: [unknown],     yes,  closed, 'Ter',4     XP: [int(zeldzaam)]
+      Alle zeldzame dieren zouden naakt moeten gaan.
+      Alle dieren zouden naakt moeten gaan.
+
+2372: [unknown],     yes,  closed, 'Ter',6     XP: [isa(van@c1@no@spier,no@spier)]
+      Tom bewoog geen spier van zijn lichaam.
+      Tom bewoog geen spier.
+
+3250: [unknown],     yes,  closed, 'Ter',27    XP: [int(echt)]
+      Tom en Mary zijn eigenlijk nog nooit op een echt afspraakje geweest.
+      Tom en Mary zijn eigenlijk nog nooit op een afspraakje geweest.
+
+2939: [unknown],     yes,  closed, 'Ter',10    XP: [int(groot)]
+      Tom draagt gewoonlijk geen grote hoed.
+      Tom draagt gewoonlijk geen hoed.
+
+3060: [unknown],     yes,  closed, 'Ter',11    XP: [int(no),int(openbaar),int(tot@(a@(schoon@drink_water)))]
+      Veel mensen in Fiji hebben geen openbare toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+2076: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Iedere ochtend vroeg ging die vrouw naar het strand en rende drie mijl.
+      Iedere ochtend ging die vrouw naar het strand en rende drie mijl.
+
+2116: [unknown],     yes,  closed, 'Ter',22    XP: [int(favoriet),int(no),int(vast)]
+      Tom heeft geen vaste favoriete vriendin.
+      Tom heeft geen vaste vriendin.
+
+2216: [unknown],     yes,  closed, 'Ter',10    XP: [int(geweldig)]
+      Tom kon geen geweldige baan vinden.
+      Tom kon geen baan vinden.
+
+2376: [unknown],     yes,  closed, 'Ter',10    XP: [int(doorsnee)]
+      Tom luistert bijna nooit naar doorsnee muziek.
+      Tom luistert bijna nooit naar muziek.
+
+2416: [unknown],     yes,  closed, 'Ter',4     XP: [int(disciplineren)]
+      Iedere gedisciplineerde hond is een leeuw thuis.
+      Iedere hond is een leeuw thuis.
+
+3450: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Het medicijn hielp absoluut helemaal niet.
+      Het medicijn hielp helemaal niet.
+
+2418: [unknown],     yes,  closed, 'Ter',4     XP: [int(scholen)]
+      Iedere geschoolde hond is een leeuw thuis.
+      Iedere hond is een leeuw thuis.
+
+2636: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Onze familie viert geen kerst dit jaar.
+      Onze familie viert geen kerst.
+
+2721: [unknown],     yes,  closed, 'Ter',6     XP: [isa(van@c1@no@centi_meter,no@centi_meter)]
+      Tom verplaatste geen centimeter van zijn huis.
+      Tom verplaatste geen centimeter.
+
+3280: [unknown],     yes,  closed, 'Ter',4     XP: [int(destilleren)]
+      Veel mensen in Fiji hebben geen toegang tot schoon gedestilleerd drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+2676: [unknown],     yes,  closed, 'Ter',4     XP: [int(verzekeren)]
+      Iedere verzekerende scheiding is een voorproefje van de dood.
+      Iedere scheiding is een voorproefje van de dood.
+
+3520: [unknown],     yes,  closed, 'Ter',17    XP: []
+      Tom kan helemaal niet in zwembaden zwemmen.
+      Tom kan helemaal niet zwemmen.
+
+3600: [unknown],     yes,  closed, 'Ter',3     XP: []
+      Deze zin slaat hier helemaal nergens op.
+      Deze zin slaat nergens op.
+
+3590: [unknown],     yes,  closed, 'Ter',4     XP: [int(vroeg)]
+      Tom eet geen vroeg ontbijt.
+      Tom eet geen ontbijt.
+
+3630: [unknown],     yes,  closed, 'Ter',4     XP: [int(systemisch)]
+      Tom is geen systemische racist.
+      Tom is geen racist.
+
+3730: [unknown],     yes,  closed, 'Ter',10    XP: [int(groot)]
+      Dat meisje kan geen grote fiets berijden.
+      Dat meisje kan geen fiets berijden.
+
+3197: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Tom en Mary praatten de hele middag tot de avond.
+      Tom en Mary praatten de hele middag.
+
+3058: [unknown],     yes,  closed, 'Ter',11    XP: [int(no),int(simpel),int(tot@(a@(schoon@drink_water)))]
+      Veel mensen in Fiji hebben geen simpele toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3056: [unknown],     yes,  closed, 'Ter',21    XP: [int(comfortabel),int(tot@(a@(schoon@drink_water))),isa(helemaal@no@toegang,toegang),isa(helemaal@no@(comfortabel@toegang),comfortabel@toegang)]
+      Veel mensen in Fiji hebben helemaal geen comfortabele toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3216: [unknown],     yes,  closed, 'Ter',10    XP: [int(dramatisch)]
+      Mijn moeder kijkt niet graag dramatische TV.
+      Mijn moeder kijkt niet graag TV.
+
+3218: [unknown],     yes,  closed, 'Ter',21    XP: []
+      Mijn moeder kijkt niet graag TV in de nacht.
+      Mijn moeder kijkt niet graag TV.
+
+2374: [unknown],     yes,  closed, 'Ter',6     XP: [isa(van@c1@no@spier,no@spier)]
+      Tom bewoog geen spier van zijn gezicht.
+      Tom bewoog geen spier.
+
+2841: [unknown],     yes,  closed, 'Ter',4     XP: [int(verstandig)]
+      Geen verstandige vrouw heeft dit ooit eerder gedaan.
+      Geen vrouw heeft dit ooit eerder gedaan.
+
+2414: [unknown],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Iedere grote hond is een leeuw thuis.
+      Iedere hond is een leeuw thuis.
+
+2454: [unknown],     yes,  closed, 'Ter',4     XP: [int(deftig)]
+      Tom draagt geen deftige handschoenen.
+      Tom draagt geen handschoenen.
+
+3296: [unknown],     yes,  closed, 'Ter',4     XP: [int(zacht)]
+      Veel mensen in Fiji hebben geen toegang tot schoon zacht drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3316: [unknown],     yes,  closed, 'Ter',12    XP: []
+      Tom gaat naar bed om dezelfde tijd iedere avond in de winter.
+      Tom gaat naar bed om dezelfde tijd iedere avond.
+
+3041: [unknown],     yes,  closed, 'Ter',21    XP: [int(ander),int(goed),int(no)]
+      Er zijn geen andere goede opties.
+      Er zijn geen andere opties.
+
+1495: [unknown],     yes,  closed, 'Ter',11    XP: [int(beschikbaar),int(goedkoop)]
+      Benzine is niet langer meer een goedkope beschikbare brandstof.
+      Benzine is niet langer meer een goedkope brandstof.
+
+3199: [unknown],     yes,  closed, 'Ter',4     XP: [isa(voor@gisterennacht@no@alibi,no@alibi)]
+      Tom heeft geen alibi voor gisterennacht.
+      Tom heeft geen alibi.
+
+3397: [unknown],     yes,  closed, 'Ter',11    XP: [int(no),int(om@(te@(gaan@naartoe))),int(specifiek)]
+      Tom had geen specifieke plek om naartoe te gaan.
+      Tom had geen plek om naartoe te gaan.
+
+3286: [unknown],     yes,  closed, 'Ter',7     XP: [int(veilig),isa(voor@c1@schoon@drink_water,schoon@drink_water)]
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater voor veilige gezondheid.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3326: [unknown],     yes,  closed, 'Ter',14    XP: []
+      Een blinde man zou geen kaartspellen moeten spelen zonder hulp.
+      Een blinde man zou geen kaartspellen moeten spelen.
+
+3700: [unknown],     yes,  closed, 'Ter',4     XP: [int(serieus)]
+      Dit medicijn heeft geen serieuze bijwerkingen.
+      Dit medicijn heeft geen bijwerkingen.
+
+3720: [unknown],     yes,  closed, 'Ter',18    XP: [isa(goed@schoen@no@(nieuw@paar),no@(nieuw@paar))]
+      Tom heeft al drie jaar geen nieuw paar goede schoenen gekocht.
+      Tom heeft al drie jaar geen nieuw paar schoenen gekocht.
+
+3760: [unknown],     yes,  closed, 'Ter',11    XP: [int(betekenisvol),int(ieder),int(spreken)]
+      Ieder betekenisvol woord gesproken wekt zijn tegenspraak op.
+      Ieder gesproken woord wekt zijn tegenspraak op.
+
+3346: [unknown],     yes,  closed, 'Ter',44    XP: [int(goed),int(no),isa(van@c1@schrijver,schrijver),isa(van@c1@(no@(goed@schrijver)),no@(goed@schrijver))]
+      Tom is geen goede schrijver van fictie.
+      Tom is geen goede schrijver.
+
+3797: [unknown],     yes,  closed, 'Ter',25    XP: [int(hilarisch),int(no),int(praktisch)]
+      Geen praktische hilarische grappenmaker zou zonder een scheetkussen moeten zijn.
+      Geen praktische grappenmaker zou zonder een scheetkussen moeten zijn.
+
+3917: [unknown],     yes,  closed, 'Ter',4     XP: [int(ziek)]
+      Geen ziek kind zou achtergelaten moeten worden.
+      Geen kind zou achtergelaten moeten worden.
+
+3486: [unknown],     yes,  closed, 'Ter',21    XP: [isa(in@Boston@studie,studie),isa(not@veel@tijd,tijd),isa(voor@c1@(not@veel@tijd),not@veel@tijd)]
+      Tom spendeert niet veel tijd voor studie in Boston.
+      Tom spendeert niet veel tijd in Boston.
+
+2634: [unknown],     yes,  closed, 'Ter',25    XP: [int(laag),int(menselijk),int(no)]
+      Geen menselijke lage macht kan dat aan.
+      Geen menselijke macht kan dat aan.
+
+2793: [unknown],     yes,  closed, 'Ter',4     XP: [int(beschermen)]
+      Tom droeg geen beschermende helm.
+      Tom droeg geen helm.
+
+3886: [unknown],     yes,  closed, 'Ter',34    XP: [int(goed),int(no),int(om@(te@verstoppen)),int(weg),isa(van@c2@plek,plek)]
+      Tom kon geen goede plek weg van jouw huis om te verstoppen vinden.
+      Tom kon geen goede plek om te verstoppen vinden.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3416: [unknown],     yes,  closed, 'Ter',4     XP: [int(over_duidelijk)]
+      Dit plan heeft geen overduidelijke gebreken.
+      Dit plan heeft geen gebreken.
+
+3207: [unknown],     yes,  closed, 'Ter',37    XP: [int(al),int(hemels),int(klein),int(stoffig),int(who@(draaien@(om@groot)))]
+      Het woord werd gebruikt voor alle kleine hemelse stoffige lichamen die om grotere draaien.
+      Het woord werd gebruikt voor alle kleine hemelse lichamen die om grotere draaien.
+
+3288: [unknown],     yes,  closed, 'Ter',6     XP: [isa(op@c1@schoon@drink_water,schoon@drink_water)]
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater op werkplekken.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3054: [unknown],     yes,  closed, 'Ter',11    XP: [int(basaal),int(no),int(tot@(a@(schoon@drink_water)))]
+      Veel mensen in Fiji hebben geen basale toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3399: [unknown],     yes,  closed, 'Ter',11    XP: [int(comfortabel),int(no),int(om@(te@(gaan@naartoe)))]
+      Tom had geen comfortabele plek om naartoe te gaan.
+      Tom had geen plek om naartoe te gaan.
+
+3736: [unknown],     yes,  closed, 'Ter',10    XP: [int(klein)]
+      Dat meisje kan geen kleine fiets berijden.
+      Dat meisje kan geen fiets berijden.
+
+ERROR: sentence id=2158
+Failed to align term tokens and lexical annotations
+term tokes: [[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
+lexical annotation: [j{l:ieder,lcat:np,p:pron,postag:'VNW(onbep,det,stan,vrij,zonder)',pt:vnw,r:ieder,rel:dp,s:ieder,t:'Ieder'},j{l:tekst,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:tekst,rel:dp,s:tekst,t:tekst},j{l:woord,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:woord,rel:hd,s:woord,t:woord},j{l:spreken,lcat:ppart,p:adj,postag:'WW(vd,vrij,zonder)',pt:ww,r:spreken,rel:mod,s:spreken,t:gesproken},j{l:op_wekken,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:wek_op,rel:hd,s:wek_op,t:wekt},j{l:zijn,lcat:detp,p:det,postag:'VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)',pt:vnw,r:zijn,rel:det,s:zijn,t:zijn},j{l:tegenspraak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:tegenspraak,rel:hd,s:tegenspraak,t:tegenspraak},j{l:op,lcat:part,p:part,postag:'VZ(fin)',pt:vz,r:op,rel:svp,s:op,t:op},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+3439: [unknown],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      Tom droeg geen rode hoed.
+      Tom droeg geen hoed.
+
+3448: [unknown],     yes,  closed, 'Ter',12    XP: []
+      Het medicijn hielp helemaal niet tegen hoofdpijn.
+      Het medicijn hielp helemaal niet.
+
+3698: [unknown],     yes,  closed, 'Ter',4     XP: [int(negatief)]
+      Dit medicijn heeft geen negatieve bijwerkingen.
+      Dit medicijn heeft geen bijwerkingen.
+
+3588: [unknown],     yes,  closed, 'Ter',4     XP: [int(jong)]
+      Alle jonge inwoners zouden de wet moeten respecteren.
+      Alle inwoners zouden de wet moeten respecteren.
+
+2972: [unknown],     yes,  closed, 'Ter',4     XP: [int(vergiftigen)]
+      Tom gebruikt geen vergiftigde steroïden.
+      Tom gebruikt geen steroïden.
+
+3012: [unknown],     yes,  closed, 'Ter',10    XP: [int(klein)]
+      Tom zou geen kleine vlieg pijn doen.
+      Tom zou geen vlieg pijn doen.
+
+3816: [unknown],     yes,  closed, 'Ter',20    XP: [isa(in@c3@elektriciteit,elektriciteit)]
+      De dorpelingen hebben voor een lange tijd zonder elektriciteit in hun huis gedaan.
+      De dorpelingen hebben voor een lange tijd zonder elektriciteit gedaan.
+
+3876: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Ieder klooster in italië heeft zijn eigen regels.
+      Ieder klooster in italië heeft zijn eigen regels.
+
+3441: [unknown],     yes,  closed, 'Ter',4     XP: [int(blauw)]
+      Tom droeg geen blauwe hoed.
+      Tom droeg geen hoed.
+
+4176: [unknown],     yes,  closed, 'Ter',4     XP: [int(persoonlijk)]
+      Tom heeft geen persoonlijke bankrekening.
+      Tom heeft geen bankrekening.
+
+3628: [unknown],     yes,  closed, 'Ter',4     XP: [int(agressief)]
+      Tom is geen agressieve racist.
+      Tom is geen racist.
+
+1655: [unknown],     yes,  closed, 'Ter',4     XP: [int(professioneel)]
+      Nancy speelt geen professioneel tennis.
+      Nancy speelt geen tennis.
+
+1755: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Deze kamer krijgt niet veel zon overdag.
+      Deze kamer krijgt niet veel zon.
+
+3169: [unknown],     yes,  closed, 'Ter',11    XP: [int(ieder),int(specifiek),int(van@(the@kabinet))]
+      Ieder specifiek lid van het kabinet was aanwezig.
+      Ieder lid van het kabinet was aanwezig.
+
+2762: [unknown],     yes,  closed, 'Ter',4     XP: [int(welbekend)]
+      Iedere welbekende auteur lijdt aan schrijversblok van tijd tot tijd.
+      Iedere auteur lijdt aan schrijversblok van tijd tot tijd.
+
+2822: [unknown],     yes,  closed, 'Ter',11    XP: [int(klein)]
+      Iedere jongen en ieder klein meisje was verheugd.
+      Iedere jongen en ieder meisje was verheugd.
+
+3202: [unknown],     yes,  closed, 'Ter',4     XP: [int(acceptabel)]
+      Tom heeft geen acceptabel alibi.
+      Tom heeft geen alibi.
+
+3242: [unknown],     yes,  closed, 'Ter',12    XP: [int(politiek)]
+      De overheid wordt bekritiseerd van alle politieke kanten.
+      De overheid wordt bekritiseerd van alle kanten.
+
+2944: [unknown],     yes,  closed, 'Ter',10    XP: [int(zwart)]
+      Tom draagt gewoonlijk geen zwarte hoed.
+      Tom draagt gewoonlijk geen hoed.
+
+3282: [unknown],     yes,  closed, 'Ter',4     XP: [int(mineraal)]
+      Veel mensen in Fiji hebben geen toegang tot schoon mineraal drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3233: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom kijkt thuis geen TV meer.
+      Tom kijkt geen TV meer.
+
+3044: [unknown],     yes,  closed, 'Ter',12    XP: [int(origineel)]
+      Een paar mensen maken ruzie helemaal zonder originele reden.
+      Een paar mensen maken ruzie helemaal zonder reden.
+
+3164: [unknown],     yes,  closed, 'Ter',11    XP: [int(ieder),int(oud),int(van@(the@kabinet))]
+      Ieder oud lid van het kabinet was aanwezig.
+      Ieder lid van het kabinet was aanwezig.
+
+2155: [unknown],     yes,  closed, 'Ter',25    XP: [int(ieder),int(on_trouwen),int(volwassen)]
+      Iedere ongetrouwde volwassen man is een bruidegom voor het leven.
+      Iedere ongetrouwde man is een bruidegom voor het leven.
+
+3214: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Mijn moeder kijkt niet graag alleen TV.
+      Mijn moeder kijkt niet graag TV.
+
+3274: [unknown],     yes,  closed, 'Ter',10    XP: [int(vers)]
+      Tom en Mary eten geen vers vlees meer.
+      Tom en Mary eten geen vlees meer.
+
+3294: [unknown],     yes,  closed, 'Ter',4     XP: [int(vers)]
+      Veel mensen in Fiji hebben geen toegang tot schoon vers drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3482: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom spendeert niet veel tijd in Boston vandaag.
+      Tom spendeert niet veel tijd in Boston.
+
+3105: [unknown],     yes,  closed, 'Ter',13    XP: []
+      De weersverwachting is helemaal niet betrouwbaar in de zomer.
+      De weersverwachting is helemaal niet betrouwbaar.
+
+3314: [unknown],     yes,  closed, 'Ter',13    XP: [isa(ieder@(in@c1@avond)@dezelfde@tijd,dezelfde@tijd)]
+      Tom gaat naar bed om dezelfde tijd iedere avond in zijn huis.
+      Tom gaat naar bed om dezelfde tijd iedere avond.
+
+3394: [unknown],     yes,  closed, 'Ter',4     XP: [int(geweldig)]
+      Er was geen geweldige genie voor nodig.
+      Er was geen genie voor nodig.
+
+3414: [unknown],     yes,  closed, 'Ter',4     XP: [int(enorm)]
+      Dit plan heeft geen enorme gebreken.
+      Dit plan heeft geen gebreken.
+
+3514: [unknown],     yes,  closed, 'Ter',4     XP: [int(schattig)]
+      Iedere schattige android is een robot.
+      Iedere android is een robot.
+
+3921: [unknown],     yes,  closed, 'Ter',4     XP: [int(klein)]
+      Geen klein kind zou achtergelaten moeten worden.
+      Geen kind zou achtergelaten moeten worden.
+
+3092: [unknown],     yes,  closed, 'Ter',12    XP: [int(mobiel),int(no),int(zwart)]
+      Dan gebruikte geen zwarte mobiele telefoon.
+      Dan gebruikte geen telefoon.
+
+3212: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Mijn moeder kijkt niet graag TV overdag.
+      Mijn moeder kijkt niet graag TV.
+
+3919: [unknown],     yes,  closed, 'Ter',4     XP: [int(schattig)]
+      Geen schattig kind zou achtergelaten moeten worden.
+      Geen kind zou achtergelaten moeten worden.
+
+3642: [unknown],     yes,  closed, 'Ter',10    XP: [int(gewoonlijk)]
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone gewoonlijke manieren.
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
+
+3722: [unknown],     yes,  closed, 'Ter',18    XP: [isa(Adidas@schoen@no@(nieuw@paar),no@(nieuw@paar))]
+      Tom heeft al drie jaar geen nieuw paar adidas schoenen gekocht.
+      Tom heeft al drie jaar geen nieuw paar schoenen gekocht.
+
+3762: [unknown],     yes,  closed, 'Ter',11    XP: [int(eerlijk),int(ieder),int(spreken)]
+      Ieder eerlijk woord gesproken wekt zijn tegenspraak op.
+      Ieder gesproken woord wekt zijn tegenspraak op.
+
+3593: [unknown],     yes,  closed, 'Ter',11    XP: [int(beleven),int(no),int(voor@(s@meisje))]
+      Jongens hebben geen beleefd respect voor meisjes.
+      Jongens hebben geen respect voor meisjes.
+
+3429: [unknown],     yes,  closed, 'Ter',4     XP: [int(hydraulisch)]
+      Mijn eerste auto had geen hydraulische stuurbekrachtiging.
+      Mijn eerste auto had geen stuurbekrachtiging.
+
+3689: [unknown],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Het bedrijf maakte geen grote winst.
+      Het bedrijf maakte geen winst.
+
+3829: [unknown],     yes,  closed, 'Ter',6     XP: [int(eng)]
+      Er gaat geen dag voorbij zonder enge verkeersongelukken.
+      Er gaat geen dag voorbij zonder verkeersongelukken.
+
+3969: [unknown],     yes,  closed, 'Ter',9     XP: []
+      Tom speelt geen voetbal meer in Japan.
+      Tom speelt geen voetbal.
+
+3205: [unknown],     yes,  closed, 'Ter',37    XP: [int(al),int(hemels),int(klein),int(kunstmatig),int(who@(draaien@(om@groot)))]
+      Het woord werd gebruikt voor alle kleine hemelse kunstmatige lichamen die om grotere draaien.
+      Het woord werd gebruikt voor alle kleine hemelse lichamen die om grotere draaien.
+
+3787: [unknown],     yes,  closed, 'Ter',17    XP: []
+      Geld maakt niet altijd gelukkig in het hart.
+      Geld maakt niet altijd gelukkig.
+
+3292: [unknown],     yes,  closed, 'Ter',4     XP: [int(warm)]
+      Veel mensen in Fiji hebben geen toegang tot schoon warm drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3312: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Tom gaat naar bed om dezelfde tijd iedere avond in april.
+      Tom gaat naar bed om dezelfde tijd iedere avond.
+
+4182: [unknown],     yes,  closed, 'Ter',12    XP: [isa(voor@c1@no@appel,no@appel)]
+      Millie eet geen appel voor de lunch vandaag.
+      Millie eet geen appel.
+
+3392: [unknown],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Er was geen grote genie voor nodig.
+      Er was geen genie voor nodig.
+
+3284: [unknown],     yes,  closed, 'Ter',68    XP: [int(no),int(tot@(a@(schoon@drink_water))),isa(helemaal@no@toegang,toegang)]
+      Veel mensen in Fiji hebben te voet helemaal geen toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3512: [unknown],     yes,  closed, 'Ter',4     XP: [int(mobiel)]
+      Iedere mobiele android is een robot.
+      Iedere android is een robot.
+
+3544: [unknown],     yes,  closed, 'Ter',44    XP: [int(no),int(slecht),isa(voor@c1@coach,coach),isa(voor@c1@(no@(slecht@coach)),no@(slecht@coach))]
+      Tom is geen slechte coach voor zijn teamspelers.
+      Tom is geen slechte coach.
+
+3987: [unknown],     yes,  closed, 'Ter',4     XP: [int(eerlijk)]
+      Iedere eerlijke toeschouwer koopt een kaartje.
+      Iedere toeschouwer koopt een kaartje.
+
+3644: [unknown],     yes,  closed, 'Ter',10    XP: [int(gewoontelijk)]
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone gewoontelijke manieren.
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
+
+3732: [unknown],     yes,  closed, 'Ter',11    XP: [int(groot)]
+      Dat meisje kan geen fiets berijden voor grotere kinderen.
+      Dat meisje kan geen fiets berijden.
+
+3983: [unknown],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Iedere goede toeschouwer koopt een kaartje.
+      Iedere toeschouwer koopt een kaartje.
+
+3734: [unknown],     yes,  closed, 'Ter',10    XP: [int(hoog)]
+      Dat meisje kan geen hoge fiets berijden.
+      Dat meisje kan geen fiets berijden.
+
+3824: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Jane leed geen natuurlijke dood zonder pijn.
+      Jane leed geen natuurlijke dood.
+
+3864: [unknown],     yes,  closed, 'Ter',11    XP: [int(rood)]
+      Mijn kinderen weigeren rode vis te eten.
+      Mijn kinderen weigeren vis te eten.
+
+3985: [unknown],     yes,  closed, 'Ter',4     XP: [int(aardig)]
+      Iedere aardige toeschouwer koopt een kaartje.
+      Iedere toeschouwer koopt een kaartje.
+
+3235: [unknown],     yes,  closed, 'Ter',11    XP: [int(echt),isa(in@c1@no@tv,no@tv)]
+      Tom kijkt geen TV in echte tijd meer.
+      Tom kijkt geen TV meer.
+
+4174: [unknown],     yes,  closed, 'Ter',4     XP: [int(stevig)]
+      Tom heeft geen stevige bankrekening.
+      Tom heeft geen bankrekening.
+
+4024: [unknown],     yes,  closed, 'Ter',25    XP: [isa(genoeg@(om@(te@abst(_1902910,a@(wit@koffie@kop)@abst(_1903132,kopen@_1903132@_1902910))))@geld,geld),isa(wit@koffie@kop,kop)]
+      Tom had niet eens genoeg geld om een kopje witte koffie te kopen.
+      Tom had niet eens genoeg geld om een kopje koffie te kopen.
+
+3755: [unknown],     yes,  closed, 'Ter',11    XP: [int(goed),int(ieder),int(spreken)]
+      Ieder goed woord gesproken wekt zijn tegenspraak op.
+      Ieder gesproken woord wekt zijn tegenspraak op.
+
+3795: [unknown],     yes,  closed, 'Ter',25    XP: [int(goed),int(no),int(praktisch)]
+      Geen praktische goede grappenmaker zou zonder een scheetkussen moeten zijn.
+      Geen praktische grappenmaker zou zonder een scheetkussen moeten zijn.
+
+3913: [unknown],     yes,  closed, 'Ter',4     XP: [int(arm),isa(jongen,kind)]
+      Geen arme jongen zou achtergelaten moeten worden.
+      Geen kind zou achtergelaten moeten worden.
+
+3973: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom speelt geen voetbal vanavond.
+      Tom speelt geen voetbal.
+
+3915: [unknown],     yes,  closed, 'Ter',4     XP: [int(arm)]
+      Geen arm kind zou achtergelaten moeten worden.
+      Geen kind zou achtergelaten moeten worden.
+
+3995: [unknown],     yes,  closed, 'Ter',20    XP: [isa(van@c4@veld,veld)]
+      Tom heeft nooit een goede baan gehad in zijn veld van expertise.
+      Tom heeft nooit een goede baan gehad.
+
+3431: [unknown],     yes,  closed, 'Ter',4     XP: [int(elektrisch)]
+      Mijn eerste auto had geen elektrische stuurbekrachtiging.
+      Mijn eerste auto had geen stuurbekrachtiging.
+
+3571: [unknown],     yes,  closed, 'Ter',10    XP: [int(frauduleus)]
+      Het internet kan geen frauduleuze misdaden plegen!
+      Het internet kan geen misdaden plegen!
+
+3911: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Deze brief bevat geen handtekening hier.
+      Deze brief bevat geen handtekening.
+
+3971: [unknown],     yes,  closed, 'Ter',8     XP: []
+      Tom speelt geen voetbal op zondag.
+      Tom speelt geen voetbal.
+
+4051: [unknown],     yes,  closed, 'Ter',4     XP: [int(nieuw)]
+      Tom heeft geen nieuwe kabelTV.
+      Tom heeft geen kabelTV.
 

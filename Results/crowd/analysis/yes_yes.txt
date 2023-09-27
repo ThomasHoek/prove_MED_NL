@@ -66,7 +66,11 @@
  
 485:     [yes],     yes,  closed, 'Ter',4     XP: [int(jong)]
 
-379:     [yes],     yes,  closed, 'Ter',4     XP: [int(gigantisch)]
+ERROR: sentence id=4558
+Failed to align term tokens and lexical annotations
+term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ 379:     [yes],     yes,  closed, 'Ter',4     XP: [int(gigantisch)]
 
 514:     [yes],     yes,  closed, 'Ter',4     XP: [int(droog)]
  
@@ -93,7 +97,11 @@ Error in gen_quant_tt
 
 1065:     [yes],     yes,  closed, 'Ter',7     XP: []
 
-614:     [yes],     yes,  closed, 'Ter',5     XP: [int(fantastisch),int(modern)]
+ERROR: sentence id=4558
+Failed to align term tokens and lexical annotations
+term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ 614:     [yes],     yes,  closed, 'Ter',5     XP: [int(fantastisch),int(modern)]
 
 654:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
  
@@ -270,4 +278,152 @@ Error in gen_quant_tt
 1613:     [yes],     yes,  closed, 'Ter',1     XP: []
 
 1355:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+1829:     [yes],     yes,  closed, 'Ter',8     XP: [int(a_few)]
+
+2229:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+2266:     [yes],     yes,  closed, 'Ter',8     XP: [isa(kameraad,vriend),isa(vriend,kameraad)]
+
+1738:     [yes],     yes,  closed, 'Ter',6     XP: [int(geweldig)]
+
+2349:     [yes],     yes,  closed, 'Ter',6     XP: [int(oud)]
+
+2464:     [yes],     yes,  closed, 'Ter',1     XP: [isa(auto,automobiel),isa(automobiel,auto)]
+
+2057:     [yes],     yes,  closed, 'Ter',16    XP: []
+
+3030:     [yes],     yes,  closed, 'Ter',16    XP: []
+
+2098:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+2566:     [yes],     yes,  closed, 'Ter',16    XP: [int(heffen),int(scherp)]
+
+2679:     [yes],     yes,  closed, 'Ter',1     XP: [isa(hoer,prostituee),isa(prostituee,hoer)]
+
+2726:     [yes],     yes,  closed, 'Ter',12    XP: [int(al),isa(in@c1@zee_egel,zee_egel)]
+
+2011:     [yes],     yes,  closed, 'Ter',6     XP: []
+
+2091:     [yes],     yes,  closed, 'Ter',6     XP: [int(mannelijk)]
+
+2397:     [yes],     yes,  closed, 'Ter',1     XP: [isa(gedrocht,monster),isa(monster,gedrocht)]
+
+2680:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+2582:     [yes],     yes,  closed, 'Ter',38    XP: []
+
+2441:     [yes],     yes,  closed, 'Ter',6     XP: [int(zwart)]
+
+2465:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+2331:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+2351:     [yes],     yes,  closed, 'Ter',6     XP: [int(complex)]
+
+3120:     [yes],     yes,  closed, 'Ter',6     XP: [int(woest)]
+
+2353:     [yes],     yes,  closed, 'Ter',6     XP: [int(appl)]
+
+3029:     [yes],     yes,  closed, 'Ter',16    XP: []
+
+2214:     [yes],     yes,  closed, 'Ter',1     XP: [isa(baan,werk),isa(werk,baan)]
+
+2396:     [yes],     yes,  closed, 'Ter',1     XP: [isa(beest,monster),isa(monster,beest)]
+
+2656:     [yes],     yes,  closed, 'Ter',12    XP: [int(stedelijk)]
+
+2653:     [yes],     yes,  closed, 'Ter',12    XP: [int(oud)]
+
+2736:     [yes],     yes,  closed, 'Ter',12    XP: [int(jazz)]
+
+2738:     [yes],     yes,  closed, 'Ter',6     XP: [int(jazz)]
+
+3036:     [yes],     yes,  closed, 'Ter',9     XP: [int(ander),int(no),isa(optie,mogelijkheid)]
+
+3690:     [yes],     yes,  closed, 'Ter',34    XP: [int(vies)]
+
+4110:     [yes],     yes,  closed, 'Ter',16    XP: [isa(assistentie,hulp),isa(hulp,assistentie)]
+
+2803:     [yes],     yes,  closed, 'Ter',10    XP: [int(schoon)]
+
+3317:     [yes],     yes,  closed, 'Ter',16    XP: [int(geloof),int(no),isa(geloof,religie),isa(religie,geloof)]
+
+3637:     [yes],     yes,  closed, 'Ter',5     XP: []
+
+4080:     [yes],     yes,  closed, 'Ter',8     XP: [isa(in@c1@kat,kat)]
+
+4100:     [yes],     yes,  closed, 'Ter',12    XP: []
+
+4140:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+2734:     [yes],     yes,  closed, 'Ter',6     XP: [int(jazz)]
+
+4106:     [yes],     yes,  closed, 'Ter',20    XP: [isa(van@c1@tijd,tijd)]
+
+3998:     [yes],     yes,  closed, 'Ter',6     XP: [int(lang)]
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2805:     [yes],     yes,  closed, 'Ter',22    XP: []
+
+2802:     [yes],     yes,  closed, 'Ter',8     XP: [int(no)]
+
+2724:     [yes],     yes,  closed, 'Ter',6     XP: [int(rood)]
+
+3042:     [yes],     yes,  closed, 'Ter',9     XP: [int(ander),int(no),isa(optie,keuze)]
+
+3122:     [yes],     yes,  closed, 'Ter',6     XP: []
+
+2075:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+3948:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+2655:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+4148:     [yes],     yes,  closed, 'Ter',6     XP: [int(normaal)]
+
+3443:     [yes],     yes,  closed, 'Ter',16    XP: [isa(van@c1@kritiek,kritiek)]
+
+3922:     [yes],     yes,  closed, 'Ter',10    XP: []
+
+3609:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+3949:     [yes],     yes,  closed, 'Ter',4     XP: []
+
+3225:     [yes],     yes,  closed, 'Ter',4     XP: []
+
+4109:     [yes],     yes,  closed, 'Ter',8     XP: [isa(hulp,medewerking),isa(medewerking,hulp)]
+
+3035:     [yes],     yes,  closed, 'Ter',9     XP: [int(ander),int(no),isa(optie,alternatief)]
+
+3364:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+3365:     [yes],     yes,  closed, 'Ter',12    XP: []
+
+3445:     [yes],     yes,  closed, 'Ter',12    XP: [isa(dit@soort@kritiek,kritiek)]
+
+3927:     [yes],     yes,  closed, 'Ter',10    XP: []
+
+4107:     [yes],     yes,  closed, 'Ter',1     XP: []
+
+4147:     [yes],     yes,  closed, 'Ter',6     XP: [int(geweldig)]
+
+3692:     [yes],     yes,  closed, 'Ter',33    XP: []
+
+3892:     [yes],     yes,  closed, 'Ter',18    XP: []
+
+4032:     [yes],     yes,  closed, 'Ter',1     XP: [isa(dier,wezen),isa(wezen,dier)]
+
+4104:     [yes],     yes,  closed, 'Ter',17    XP: []
+
+4184:     [yes],     yes,  closed, 'Ter',46    XP: []
+
+4143:     [yes],     yes,  closed, 'Ter',17    XP: []
+
+3893:     [yes],     yes,  closed, 'Ter',16    XP: [int(verdrietig)]
+
+3891:     [yes],     yes,  closed, 'Ter',18    XP: []
+
+4171:     [yes],     yes,  closed, 'Ter',1     XP: [isa(garantie,verzekering),isa(verzekering,garantie)]
 

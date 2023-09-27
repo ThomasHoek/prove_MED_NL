@@ -1,0 +1,4 @@
+1992: [unknown],      no,  closed, 'Ter',16    XP: [int(no)]
+      Het probleem is jouw overweging niet waard.
+      Het probleem is geen overweging waard.
+
