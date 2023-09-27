@@ -1,25 +1,56 @@
 import re
 from pathlib import Path
 
-# get unparsed
+def to_print(x: str) -> str:
+    """to_print removes regex preprocessing"""
+    return x.replace("|", "\n")
+
+
+# extract data
+def get_data_from_log(sent: str) -> tuple[str, str, str]:
+    """
+    get_data_from_log parses the data from log files to labels
+
+    Args:
+        sent (str): sentence with label info
+
+    Returns:
+        tuple[str, str, str]: two labels and the rest of the information
+    """
+    # remove whitespace
+    sent = re.sub(" +", " ", sent)
+    sent = sent.strip()
+
+    # split based on space
+    split_sent: list[str] = sent.split(" ")
+
+    # remove comma for target, predict and solve
+    split_sent[0:2] = [x.replace(",", "").strip() for x in split_sent[0:2]]
+
+    # get info and merge rest back together
+    target = split_sent[0][1:-1]
+    predict = split_sent[1]
+    other = " ".join(split_sent[2:])
+
+    return target, predict, other
+
+
+# MAIN Function
 # TODO: replace with parse data for produce
+split = "crowd"
+
+
+# get unparsed
 broken = open("MED_NL/broken_num.txt", "r").readlines()
 broken = [int(x.rstrip()) for x in broken]
 
 # get data
-# TODO: replace with parse data for produce
-split = "crowd"
 result_path = f"Results/{split}"
 analysis_path = f"{result_path}/analysis"
 
-# TODO: replace with parse data for produce
+# open files from input
 file_info = open(f"{result_path}/alpino_aethel.alpino.log").readlines()
 all_info = "".join([x.replace("\n", "|") for x in file_info])
-
-
-def to_print(x: str) -> str:
-    return x.replace("|", "\n")
-
 
 # regex match and remove empty whitespace lines
 regex_match = r"(ERROR|Error|Inconsistency in node types \(entail\/8\)\||\d+:)"
@@ -46,24 +77,6 @@ d_a = open(f"{analysis_path}/defected_aethel.txt", "w+")
 d_o = open(f"{analysis_path}/defected_other.txt", "w+")
 
 error_file = open(f"{analysis_path}/error.txt", "w+")
-
-
-# extract data
-def get_data_from_log(sent: str) -> tuple[str, str, str]:
-    # sent = re.sub("[^a-zA-Z0-9_ ]", '', sent)
-    sent = re.sub(" +", " ", sent)
-    sent = sent.strip()
-    split_sent: list[str] = sent.split(" ")
-
-    # remove comma for target, predict and solve
-    split_sent[0:2] = [x.replace(",", "").strip() for x in split_sent[0:2]]
-
-    target = split_sent[0][1:-1]
-    predict = split_sent[1]
-    other = " ".join(split_sent[2:])
-
-    return target, predict, other
-
 
 # set flags and size
 re_split_length = len(re_split)
