@@ -1,4 +1,28 @@
+1706:     [yes],      no,  closed, 'Ter',3     XP: []
+      Ik hou niet van varkensvlees.
+      Ik hou helemaal niet van varkensvlees.
+
+2043:     [yes],      no,  closed, 'Ter',3     XP: []
+      Ik hou niet van kinderen.
+      Ik hou helemaal niet van kinderen.
+
+1827:     [yes],      no,  closed, 'Ter',10    XP: [int(no)]
+      Ik heb geen bedden nodig.
+      Ik heb jouw bedden niet nodig.
+
+2484:     [yes],      no,  closed, 'Ter',3     XP: []
+      Ze hebben niet genoeg ruimte op de grond om te kamperen.
+      Ze hebben helemaal niet genoeg ruimte op de grond om te kamperen.
+
 1991:     [yes],      no,  closed, 'Ter',16    XP: [int(no)]
       Het probleem is geen overweging waard.
       Het probleem is jouw overweging niet waard.
+
+2033:     [yes],      no,  closed, 'Ter',5     XP: [int(no)]
+      Ik wil geen liefdadigheid.
+      Ik wil jouw liefdadigheid niet.
+
+3418:     [yes],      no,  closed, 'Ter',12    XP: [int(goed)]
+      Hij kan niet tegen een grap.
+      Hij kan nooit tegen een goede grap.
 

@@ -1,116 +1,146 @@
 Inconsistency in node types (entail/8)
-5:     [yes], unknown,      NA, 'Defected'  XP: _850
-      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
-      Meerdere afgevaardigden kregen resultaten gepubliceerd.
-
-Inconsistency in node types (entail/8)
 20:     [yes], unknown,      NA, 'Defected'  XP: _838
       Meerdere Portugese afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
       Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
 
 Inconsistency in node types (entail/8)
 13: [unknown], unknown,      NA, 'Defected'  XP: _838
-  
+
 Inconsistency in node types (entail/8)
-60:     [yes], unknown,      NA, 'Defected'  XP: _80740
-      Het laatste iincident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
-      Het laatste fatale incident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
+5:     [yes], unknown,      NA, 'Defected'  XP: _850
+      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+      Meerdere afgevaardigden kregen resultaten gepubliceerd.
    
 Inconsistency in node types (entail/8)
-80:     [yes], unknown,      NA, 'Defected'  XP: _81698
-      Net het eerste kwartier gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
-      Net de eerste 15 minuten gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
+60:     [yes], unknown,      NA, 'Defected'  XP: _81032
+      Het laatste iincident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
+      Het laatste fatale incident, maandagochtend aangegeven, doodde een 17 jarige jongen en verwonde een vrouw.
   
 Inconsistency in node types (entail/8)
-30: [unknown], unknown,      NA, 'Defected'  XP: _2363436
+80:     [yes], unknown,      NA, 'Defected'  XP: _81990
+      Net het eerste kwartier gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
+      Net de eerste 15 minuten gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
 
 Inconsistency in node types (entail/8)
-59: [unknown], unknown,      NA, 'Defected'  XP: _2679926
+30: [unknown], unknown,      NA, 'Defected'  XP: _2360136
   
 Inconsistency in node types (entail/8)
-79:     [yes], unknown,      NA, 'Defected'  XP: _2680730
+59: [unknown], unknown,      NA, 'Defected'  XP: _492248
+
+Inconsistency in node types (entail/8)
+79:     [yes], unknown,      NA, 'Defected'  XP: _493052
       Net de eerste 15 minuten gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
       Net het eerste kwartier gekeken, vond het saai, doorgespoeld naar het magiestukje, het is grappiger als een gif.
 
 Inconsistency in node types (entail/8)
-67:     [yes], unknown,      NA, 'Defected'  XP: _3778096
+67:     [yes], unknown,      NA, 'Defected'  XP: _1588156
       De kroonprins’ moeder zou niet de eerste saoedische koninklijke zijn van wie de bewegingen beperkt waren sinds juni 2017.
       De kroonprins’ moeder zou niet de eerste koninklijke zijn van wie de bewegingen beperkt waren sinds juni 2017.
 
 Inconsistency in node types (entail/8)
-113:     [yes], unknown,      NA, 'Defected'  XP: _1736518
+113:     [yes], unknown,      NA, 'Defected'  XP: _3920880
       De leidende auto verplaatste geleidelijk naar de linker baan.
       De leidende auto verplaatste naar de linker baan.
+ 
+Inconsistency in node types (entail/8)
+68: [unknown], unknown,      NA, 'Defected'  XP: _3967392
   
 Inconsistency in node types (entail/8)
 114: [unknown], unknown,      NA, 'Defected'  XP: _3791654
   
 Inconsistency in node types (entail/8)
-68: [unknown], unknown,      NA, 'Defected'  XP: _3969722
-  
-Inconsistency in node types (entail/8)
-116:     [yes], unknown,      NA, 'Defected'  XP: _5093866
+116:     [yes], unknown,      NA, 'Defected'  XP: _3125254
       Over de timing van de bijeenkomst is niet nagedacht, aldus een woordvoerder van starbucks.
       De timing van de bijeenkomst is niet vastgesteld, aldus een woordvoerder van starbucks.
 
 Inconsistency in node types (entail/8)
-83: [unknown], unknown,      NA, 'Defected'  XP: _4360430
-
-Inconsistency in node types (entail/8)
-103: [unknown], unknown,      NA, 'Defected'  XP: _4349312
+83: [unknown], unknown,      NA, 'Defected'  XP: _2170478
  
 Inconsistency in node types (entail/8)
-104: [unknown], unknown,      NA, 'Defected'  XP: _2131520
+103: [unknown], unknown,      NA, 'Defected'  XP: _4349640
+ 
+Inconsistency in node types (entail/8)
+104: [unknown], unknown,      NA, 'Defected'  XP: _4318374
 
 Inconsistency in node types (entail/8)
 84:     [yes], unknown,      NA, 'Defected'  XP: _4771238
       Op de leeftijd van 24 was ze verloofd met prins albert victor, hertog van clarence en avondale, het oudste kind van de prins van wales, maar zes weken na de aankondiging van de verloving stierf hij onverwachts aan longontsteking.
       Op de leeftijd van 24 was ze verloofd met prins albert victor, hertog van clarence en avondale, de oudste zoon van de prins van wales, maar zes weken na de aankondiging van de verloving stierf hij onverwachts aan longontsteking.
- 
-Inconsistency in node types (entail/8)
-115: [unknown], unknown,      NA, 'Defected'  XP: _5146408
 
 Inconsistency in node types (entail/8)
-96: [unknown], unknown,      NA, 'Defected'  XP: _4960734
-
-Inconsistency in node types (entail/8)
-118: [unknown], unknown,      NA, 'Defected'  XP: _4961538
+115: [unknown], unknown,      NA, 'Defected'  XP: _3089038
 
 Inconsistency in node types (entail/8)
 86: [unknown], unknown,      NA, 'Defected'  XP: _6152784
+ 
+Inconsistency in node types (entail/8)
+96: [unknown], unknown,      NA, 'Defected'  XP: _922
 
 Inconsistency in node types (entail/8)
-95: [unknown], unknown,      NA, 'Defected'  XP: _4170394
+118: [unknown], unknown,      NA, 'Defected'  XP: _1680
 
 Inconsistency in node types (entail/8)
-117: [unknown], unknown,      NA, 'Defected'  XP: _4171198
+95: [unknown], unknown,      NA, 'Defected'  XP: _4324812
 
 Inconsistency in node types (entail/8)
-85: [unknown], unknown,      NA, 'Defected'  XP: _5364056
+117: [unknown], unknown,      NA, 'Defected'  XP: _4325616
 
 Inconsistency in node types (entail/8)
-4849: [unknown], unknown,      NA, 'Defected'  XP: _1681256
+85: [unknown], unknown,      NA, 'Defected'  XP: _1135110
 
 Inconsistency in node types (entail/8)
-4869:     [yes], unknown,      NA, 'Defected'  XP: _1682060
+4849: [unknown], unknown,      NA, 'Defected'  XP: _484636
+
+Inconsistency in node types (entail/8)
+4869:     [yes], unknown,      NA, 'Defected'  XP: _485440
       Ieder buitenaards wezen die met geen enkele speelgoedauto’s speelde is harig.
       Ieder buitenaards wezen die niet met speeltjes speelde is harig.
 
 Inconsistency in node types (entail/8)
-4801: [unknown], unknown,      NA, 'Defected'  XP: _4550206
+4801: [unknown], unknown,      NA, 'Defected'  XP: _1315878
 
 Inconsistency in node types (entail/8)
-4821:     [yes], unknown,      NA, 'Defected'  XP: _4551010
+4821:     [yes], unknown,      NA, 'Defected'  XP: _1316682
       Ieder buitenaards wezen die geen enkele duiven zag is harig.
       Ieder buitenaards wezen die geen vogels zag is harig.
 
 Inconsistency in node types (entail/8)
-4803:     [yes], unknown,      NA, 'Defected'  XP: _1517282
+4803:     [yes], unknown,      NA, 'Defected'  XP: _471158
       Ieder buitenaards wezen die niet wat cola dronk is harig.
       Ieder buitenaards wezen die geen frisdrank dronk is harig.
 
 Inconsistency in node types (entail/8)
-4881: [unknown], unknown,      NA, 'Defected'  XP: _1780
+4881: [unknown], unknown,      NA, 'Defected'  XP: _3342704
+
+Inconsistency in node types (entail/8)
+4833: [unknown], unknown,      NA, 'Defected'  XP: _1287092
+
+Inconsistency in node types (entail/8)
+4853:     [yes], unknown,      NA, 'Defected'  XP: _1287896
+      Ieder buitenaards wezen die niet een paar shirts kocht is harig.
+      Ieder buitenaards wezen die geen kleding kocht is harig.
+
+Inconsistency in node types (entail/8)
+4863: [unknown], unknown,      NA, 'Defected'  XP: _2690528
+
+Inconsistency in node types (entail/8)
+4883:     [yes], unknown,      NA, 'Defected'  XP: _2691332
+      Ieder buitenaards wezen die geen varkensvlees at is harig.
+      Ieder buitenaards wezen die geen vlees at is harig.
+
+Inconsistency in node types (entail/8)
+4847: [unknown], unknown,      NA, 'Defected'  XP: _1726
+
+Inconsistency in node types (entail/8)
+4867:     [yes], unknown,      NA, 'Defected'  XP: _2484
+      Ieder buitenaards wezen die geen enkele cola dronk is harig.
+      Ieder buitenaards wezen die geen frisdrank dronk is harig.
+
+Inconsistency in node types (entail/8)
+4981: [unknown], unknown,      NA, 'Defected'  XP: _5787980
+
+Inconsistency in node types (entail/8)
+5209: [unknown], unknown,      NA, 'Defected'  XP: _6105268
 
 Inconsistency in node types (entail/8)
 4802: [unknown], unknown,      NA, 'Defected'  XP: _1690
@@ -121,128 +151,62 @@ Inconsistency in node types (entail/8)
       Ieder buitenaards wezen die geen munten gebruikte is harig.
 
 Inconsistency in node types (entail/8)
-4799: [unknown], unknown,      NA, 'Defected'  XP: _4513808
+4818: [unknown], unknown,      NA, 'Defected'  XP: _2036890
 
 Inconsistency in node types (entail/8)
-4819:     [yes], unknown,      NA, 'Defected'  XP: _4514612
-      Ieder buitenaards wezen die geen enkel varkensvlees at is harig.
-      Ieder buitenaards wezen die geen vlees at is harig.
-
-Inconsistency in node types (entail/8)
-4818: [unknown], unknown,      NA, 'Defected'  XP: _1708
-
-Inconsistency in node types (entail/8)
-4838:     [yes], unknown,      NA, 'Defected'  XP: _2466
+4838:     [yes], unknown,      NA, 'Defected'  XP: _2037694
       Ieder buitenaards wezen die geen suv’s reed is harig.
       Ieder buitenaards wezen die geen auto’s reed is harig.
 
 Inconsistency in node types (entail/8)
-4833: [unknown], unknown,      NA, 'Defected'  XP: _3530696
+4817: [unknown], unknown,      NA, 'Defected'  XP: _4202514
 
 Inconsistency in node types (entail/8)
-4853:     [yes], unknown,      NA, 'Defected'  XP: _3531500
-      Ieder buitenaards wezen die niet een paar shirts kocht is harig.
-      Ieder buitenaards wezen die geen kleding kocht is harig.
-
-Inconsistency in node types (entail/8)
-4863: [unknown], unknown,      NA, 'Defected'  XP: _3736652
-
-Inconsistency in node types (entail/8)
-4883:     [yes], unknown,      NA, 'Defected'  XP: _3737456
-      Ieder buitenaards wezen die geen varkensvlees at is harig.
-      Ieder buitenaards wezen die geen vlees at is harig.
-
-Inconsistency in node types (entail/8)
-4817: [unknown], unknown,      NA, 'Defected'  XP: _5176888
-
-Inconsistency in node types (entail/8)
-4837:     [yes], unknown,      NA, 'Defected'  XP: _5177692
+4837:     [yes], unknown,      NA, 'Defected'  XP: _4203318
       Ieder buitenaards wezen die geen shirts kocht is harig.
       Ieder buitenaards wezen die geen kleding kocht is harig.
 
 Inconsistency in node types (entail/8)
-4879: [unknown], unknown,      NA, 'Defected'  XP: _5731646
+4893: [unknown], unknown,      NA, 'Defected'  XP: _2397512
 
 Inconsistency in node types (entail/8)
-4847: [unknown], unknown,      NA, 'Defected'  XP: _4911700
+5241: [unknown], unknown,      NA, 'Defected'  XP: _884000
 
 Inconsistency in node types (entail/8)
-4899: [unknown], unknown,      NA, 'Defected'  XP: _5732450
+4898:     [yes], unknown,      NA, 'Defected'  XP: _3162538
+      Ieder buitenaards wezen die geen kwartjes gebruikte is harig.
+      Ieder buitenaards wezen die geen munten gebruikte is harig.
 
 Inconsistency in node types (entail/8)
-4867:     [yes], unknown,      NA, 'Defected'  XP: _4912504
-      Ieder buitenaards wezen die geen enkele cola dronk is harig.
-      Ieder buitenaards wezen die geen frisdrank dronk is harig.
+4953: [unknown], unknown,      NA, 'Defected'  XP: _3709568
 
 Inconsistency in node types (entail/8)
 4882: [unknown], unknown,      NA, 'Defected'  XP: _1219478
 
 Inconsistency in node types (entail/8)
-4898:     [yes], unknown,      NA, 'Defected'  XP: _1127310
-      Ieder buitenaards wezen die geen kwartjes gebruikte is harig.
-      Ieder buitenaards wezen die geen munten gebruikte is harig.
+4799: [unknown], unknown,      NA, 'Defected'  XP: _1696
 
 Inconsistency in node types (entail/8)
-4981: [unknown], unknown,      NA, 'Defected'  XP: _2447010
-
-Inconsistency in node types (entail/8)
-5209: [unknown], unknown,      NA, 'Defected'  XP: _331796
-
-Inconsistency in node types (entail/8)
-4893: [unknown], unknown,      NA, 'Defected'  XP: _4641116
-
-Inconsistency in node types (entail/8)
-4897: [unknown], unknown,      NA, 'Defected'  XP: _147614
-
-Inconsistency in node types (entail/8)
-4957: [unknown], unknown,      NA, 'Defected'  XP: _585928
-
-Inconsistency in node types (entail/8)
-4977: [unknown], unknown,      NA, 'Defected'  XP: _586732
-
-Inconsistency in node types (entail/8)
-5241: [unknown], unknown,      NA, 'Defected'  XP: _3774506
-
-Inconsistency in node types (entail/8)
-4978:     [yes], unknown,      NA, 'Defected'  XP: _2702144
-      Ieder buitenaards wezen die niet wat varkensvlees at is harig.
+4819:     [yes], unknown,      NA, 'Defected'  XP: _2454
+      Ieder buitenaards wezen die geen enkel varkensvlees at is harig.
       Ieder buitenaards wezen die geen vlees at is harig.
 
 Inconsistency in node types (entail/8)
-4953: [unknown], unknown,      NA, 'Defected'  XP: _5953172
+4897: [unknown], unknown,      NA, 'Defected'  XP: _5430670
 
 Inconsistency in node types (entail/8)
-4979: [unknown], unknown,      NA, 'Defected'  XP: _1761958
+4804:     [yes], unknown,      NA, 'Defected'  XP: _6176534
+      Ieder buitenaards wezen die niet een paar sci-fi romans las is harig.
+      Ieder buitenaards wezen die geen boeken las is harig.
 
 Inconsistency in node types (entail/8)
-4982:     [yes], unknown,      NA, 'Defected'  XP: _3981956
-      Ieder buitenaards wezen die niet een paar duiven zag is harig.
-      Ieder buitenaards wezen die geen vogels zag is harig.
+4957: [unknown], unknown,      NA, 'Defected'  XP: _5868984
 
 Inconsistency in node types (entail/8)
-5159:     [yes], unknown,      NA, 'Defected'  XP: _2272724
-      Niet meer dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
-      Niet meer dan vijf kinderen gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5337: [unknown], unknown,      NA, 'Defected'  XP: _2544510
-
-Inconsistency in node types (entail/8)
-5338: [unknown], unknown,      NA, 'Defected'  XP: _4492040
-
-Inconsistency in node types (entail/8)
-5259: [unknown], unknown,      NA, 'Defected'  XP: _2891696
-
-Inconsistency in node types (entail/8)
-5163:     [yes], unknown,      NA, 'Defected'  XP: _1421898
-      Niet meer dan de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
-      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+4977: [unknown], unknown,      NA, 'Defected'  XP: _5869788
 
 Inconsistency in node types (entail/8)
 4850: [unknown], unknown,      NA, 'Defected'  XP: _1714
-
-Inconsistency in node types (entail/8)
-5339: [unknown], unknown,      NA, 'Defected'  XP: _3255254
 
 Inconsistency in node types (entail/8)
 4870:     [yes], unknown,      NA, 'Defected'  XP: _2472
@@ -250,63 +214,60 @@ Inconsistency in node types (entail/8)
       Ieder buitenaards wezen die geen auto’s reed is harig.
 
 Inconsistency in node types (entail/8)
-4848: [unknown], unknown,      NA, 'Defected'  XP: _3522068
+5163:     [yes], unknown,      NA, 'Defected'  XP: _1561512
+      Niet meer dan de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-4868:     [yes], unknown,      NA, 'Defected'  XP: _3522872
-      Ieder buitenaards wezen die geen enkele honkbalwedstrijden keek is harig.
-      Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
+4958:     [yes], unknown,      NA, 'Defected'  XP: _4736414
+      Ieder buitenaards wezen die geen enkele nieuwstijdschriften las is harig.
+      Ieder buitenaards wezen die geen tijdschriften las is harig.
 
 Inconsistency in node types (entail/8)
-5242: [unknown], unknown,      NA, 'Defected'  XP: _5689846
+4978:     [yes], unknown,      NA, 'Defected'  XP: _4737372
+      Ieder buitenaards wezen die niet wat varkensvlees at is harig.
+      Ieder buitenaards wezen die geen vlees at is harig.
 
 Inconsistency in node types (entail/8)
-5243: [unknown], unknown,      NA, 'Defected'  XP: _2223516
+4879: [unknown], unknown,      NA, 'Defected'  XP: _1219488
 
 Inconsistency in node types (entail/8)
-5263: [unknown], unknown,      NA, 'Defected'  XP: _2224320
+4899: [unknown], unknown,      NA, 'Defected'  XP: _1220292
 
 Inconsistency in node types (entail/8)
-5303:     [yes], unknown,      NA, 'Defected'  XP: _2225928
+5243: [unknown], unknown,      NA, 'Defected'  XP: _2363130
+
+Inconsistency in node types (entail/8)
+5263: [unknown], unknown,      NA, 'Defected'  XP: _2363934
+
+Inconsistency in node types (entail/8)
+5303:     [yes], unknown,      NA, 'Defected'  XP: _2365542
       Ten minste vijf kinderen gingen voor de suikerspin.
       Ten minste vijf kinderen kozen enige mint chocolaatjes of ging voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-4864: [unknown], unknown,      NA, 'Defected'  XP: _3059466
+4816: [unknown], unknown,      NA, 'Defected'  XP: _1720
 
 Inconsistency in node types (entail/8)
-4884:     [yes], unknown,      NA, 'Defected'  XP: _3060270
-      Ieder buitenaards wezen die geen sci-fi romans las is harig.
-      Ieder buitenaards wezen die geen boeken las is harig.
-
-Inconsistency in node types (entail/8)
-4816: [unknown], unknown,      NA, 'Defected'  XP: _1714
-
-Inconsistency in node types (entail/8)
-4836:     [yes], unknown,      NA, 'Defected'  XP: _2472
+4836:     [yes], unknown,      NA, 'Defected'  XP: _2478
       Ieder buitenaards wezen die geen honkbalwedstrijden keek is harig.
       Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
 
 Inconsistency in node types (entail/8)
-4896:     [yes], unknown,      NA, 'Defected'  XP: _154154
+4896:     [yes], unknown,      NA, 'Defected'  XP: _154160
       Ieder buitenaards wezen die niet met speelgoedauto’s speelde is harig.
       Ieder buitenaards wezen die niet met speeltjes speelde is harig.
 
 Inconsistency in node types (entail/8)
-4815: [unknown], unknown,      NA, 'Defected'  XP: _3307936
+4864: [unknown], unknown,      NA, 'Defected'  XP: _166724
 
 Inconsistency in node types (entail/8)
-4835:     [yes], unknown,      NA, 'Defected'  XP: _3308740
-      Ieder buitenaards wezen die geen nieuwstijdschriften las is harig.
-      Ieder buitenaards wezen die geen tijdschriften las is harig.
+4884:     [yes], unknown,      NA, 'Defected'  XP: _167528
+      Ieder buitenaards wezen die geen sci-fi romans las is harig.
+      Ieder buitenaards wezen die geen boeken las is harig.
 
 Inconsistency in node types (entail/8)
-4800: [unknown], unknown,      NA, 'Defected'  XP: _382492
-
-Inconsistency in node types (entail/8)
-4820:     [yes], unknown,      NA, 'Defected'  XP: _383296
-      Ieder buitenaards wezen die bij geen enkele Mexicaanse restaurants at is harig.
-      Ieder buitenaards wezen die niet bij restaurants at is harig.
+5337: [unknown], unknown,      NA, 'Defected'  XP: _1825400
 
 Inconsistency in node types (entail/8)
 4834: [unknown], unknown,      NA, 'Defected'  XP: _4216536
@@ -317,37 +278,20 @@ Inconsistency in node types (entail/8)
       Ieder buitenaards wezen die geen munten gebruikte is harig.
 
 Inconsistency in node types (entail/8)
-4806:     [yes], unknown,      NA, 'Defected'  XP: _5807500
-      Ieder buitenaards wezen die niet een paar tennisballen gooide is harig.
-      Ieder buitenaards wezen die geen ballen gooide is harig.
+4982:     [yes], unknown,      NA, 'Defected'  XP: _3981956
+      Ieder buitenaards wezen die niet een paar duiven zag is harig.
+      Ieder buitenaards wezen die geen vogels zag is harig.
 
 Inconsistency in node types (entail/8)
-4895: [unknown], unknown,      NA, 'Defected'  XP: _4314438
+4848: [unknown], unknown,      NA, 'Defected'  XP: _5454750
 
 Inconsistency in node types (entail/8)
-5236: [unknown], unknown,      NA, 'Defected'  XP: _2725760
+5338: [unknown], unknown,      NA, 'Defected'  XP: _441576
 
 Inconsistency in node types (entail/8)
-5256: [unknown], unknown,      NA, 'Defected'  XP: _2726564
-
-Inconsistency in node types (entail/8)
-4831: [unknown], unknown,      NA, 'Defected'  XP: _3249722
-
-Inconsistency in node types (entail/8)
-4851:     [yes], unknown,      NA, 'Defected'  XP: _3250526
-      Ieder buitenaards wezen die niet een paar nieuwstijdschriften las is harig.
-      Ieder buitenaards wezen die geen tijdschriften las is harig.
-
-Inconsistency in node types (entail/8)
-5167:     [yes], unknown,      NA, 'Defected'  XP: _3665496
-      Minder dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
-      Minder dan vijf kinderen gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5207: [unknown], unknown,      NA, 'Defected'  XP: _3667412
-
-Inconsistency in node types (entail/8)
-5267: [unknown], unknown,      NA, 'Defected'  XP: _3981776
+4868:     [yes], unknown,      NA, 'Defected'  XP: _5455554
+      Ieder buitenaards wezen die geen enkele honkbalwedstrijden keek is harig.
+      Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
 
 Inconsistency in node types (entail/8)
 4894:     [yes], unknown,      NA, 'Defected'  XP: _5288436
@@ -355,35 +299,47 @@ Inconsistency in node types (entail/8)
       Ieder buitenaards wezen die niet bij restaurants at is harig.
 
 Inconsistency in node types (entail/8)
-5307:     [yes], unknown,      NA, 'Defected'  XP: _4252720
+5242: [unknown], unknown,      NA, 'Defected'  XP: _5757948
+
+Inconsistency in node types (entail/8)
+5236: [unknown], unknown,      NA, 'Defected'  XP: _2972936
+
+Inconsistency in node types (entail/8)
+5256: [unknown], unknown,      NA, 'Defected'  XP: _2973740
+
+Inconsistency in node types (entail/8)
+4805:     [yes], unknown,      NA, 'Defected'  XP: _4983240
+      Ieder buitenaards wezen die niet met een paar speelgoedauto’s speelde is harig.
+      Ieder buitenaards wezen die niet met speeltjes speelde is harig.
+
+Inconsistency in node types (entail/8)
+4806:     [yes], unknown,      NA, 'Defected'  XP: _471086
+      Ieder buitenaards wezen die niet een paar tennisballen gooide is harig.
+      Ieder buitenaards wezen die geen ballen gooide is harig.
+
+Inconsistency in node types (entail/8)
+5167:     [yes], unknown,      NA, 'Defected'  XP: _5781034
+      Minder dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+      Minder dan vijf kinderen gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5207: [unknown], unknown,      NA, 'Defected'  XP: _5782950
+
+Inconsistency in node types (entail/8)
+5267: [unknown], unknown,      NA, 'Defected'  XP: _6097314
+
+Inconsistency in node types (entail/8)
+5307:     [yes], unknown,      NA, 'Defected'  XP: _2206
       Ten minste de helft van de kinderen gingen voor de suikerspin.
       Ten minste de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-4832: [unknown], unknown,      NA, 'Defected'  XP: _2464246
+4832: [unknown], unknown,      NA, 'Defected'  XP: _5625788
 
 Inconsistency in node types (entail/8)
-4852:     [yes], unknown,      NA, 'Defected'  XP: _2465050
+4852:     [yes], unknown,      NA, 'Defected'  XP: _5626592
       Ieder buitenaards wezen die niet bij een paar Mexicaanse restaurants at is harig.
       Ieder buitenaards wezen die niet bij restaurants at is harig.
-
-Inconsistency in node types (entail/8)
-4880: [unknown], unknown,      NA, 'Defected'  XP: _1680732
-
-Inconsistency in node types (entail/8)
-4900:     [yes], unknown,      NA, 'Defected'  XP: _1681536
-      Ieder buitenaards wezen die geen cola dronk is harig.
-      Ieder buitenaards wezen die geen frisdrank dronk is harig.
-
-Inconsistency in node types (entail/8)
-4980:     [yes], unknown,      NA, 'Defected'  XP: _2363576
-      Ieder buitenaards wezen die niet een paar honkbalwedstrijden keek is harig.
-      Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
-
-Inconsistency in node types (entail/8)
-4805:     [yes], unknown,      NA, 'Defected'  XP: _4983234
-      Ieder buitenaards wezen die niet met een paar speelgoedauto’s speelde is harig.
-      Ieder buitenaards wezen die niet met speeltjes speelde is harig.
 
 Inconsistency in node types (entail/8)
 4954:     [yes], unknown,      NA, 'Defected'  XP: _1876
@@ -391,106 +347,160 @@ Inconsistency in node types (entail/8)
       Ieder buitenaards wezen die geen ballen gooide is harig.
 
 Inconsistency in node types (entail/8)
-5160:     [yes], unknown,      NA, 'Defected'  XP: _2786894
-      Niet meer dan vijf kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+4979: [unknown], unknown,      NA, 'Defected'  XP: _4007068
+
+Inconsistency in node types (entail/8)
+5159:     [yes], unknown,      NA, 'Defected'  XP: _4517834
+      Niet meer dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
       Niet meer dan vijf kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-4952:     [yes], unknown,      NA, 'Defected'  XP: _3842878
+4815: [unknown], unknown,      NA, 'Defected'  XP: _2091430
+
+Inconsistency in node types (entail/8)
+4835:     [yes], unknown,      NA, 'Defected'  XP: _2092234
+      Ieder buitenaards wezen die geen nieuwstijdschriften las is harig.
+      Ieder buitenaards wezen die geen tijdschriften las is harig.
+
+Inconsistency in node types (entail/8)
+5259: [unknown], unknown,      NA, 'Defected'  XP: _5136806
+
+Inconsistency in node types (entail/8)
+4952:     [yes], unknown,      NA, 'Defected'  XP: _1864
       Ieder buitenaards wezen die geen enkele shirts kocht is harig.
       Ieder buitenaards wezen die geen kleding kocht is harig.
 
 Inconsistency in node types (entail/8)
-5340: [unknown], unknown,      NA, 'Defected'  XP: _3668840
+5339: [unknown], unknown,      NA, 'Defected'  XP: _5500364
 
 Inconsistency in node types (entail/8)
-5172:     [yes], unknown,      NA, 'Defected'  XP: _5345236
-      Minder dan vijf van de kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
-      Minder dan vijf van de kinderen gingen voor de suikerspin.
+4800: [unknown], unknown,      NA, 'Defected'  XP: _2505602
 
 Inconsistency in node types (entail/8)
-5235: [unknown], unknown,      NA, 'Defected'  XP: _1335396
+4831: [unknown], unknown,      NA, 'Defected'  XP: _3249722
 
 Inconsistency in node types (entail/8)
-5255: [unknown], unknown,      NA, 'Defected'  XP: _1336200
+4820:     [yes], unknown,      NA, 'Defected'  XP: _2506406
+      Ieder buitenaards wezen die bij geen enkele Mexicaanse restaurants at is harig.
+      Ieder buitenaards wezen die niet bij restaurants at is harig.
 
 Inconsistency in node types (entail/8)
-5212: [unknown], unknown,      NA, 'Defected'  XP: _5781212
+4851:     [yes], unknown,      NA, 'Defected'  XP: _3250526
+      Ieder buitenaards wezen die niet een paar nieuwstijdschriften las is harig.
+      Ieder buitenaards wezen die geen tijdschriften las is harig.
 
 Inconsistency in node types (entail/8)
-4865: [unknown], unknown,      NA, 'Defected'  XP: _1744
+4865: [unknown], unknown,      NA, 'Defected'  XP: _1750
 
 Inconsistency in node types (entail/8)
-4885:     [yes], unknown,      NA, 'Defected'  XP: _2502
+4885:     [yes], unknown,      NA, 'Defected'  XP: _2508
       Ieder buitenaards wezen die geen duiven zag is harig.
       Ieder buitenaards wezen die geen vogels zag is harig.
 
 Inconsistency in node types (entail/8)
-5332:     [yes], unknown,      NA, 'Defected'  XP: _3148
+4895: [unknown], unknown,      NA, 'Defected'  XP: _3097932
+
+Inconsistency in node types (entail/8)
+5210: [unknown], unknown,      NA, 'Defected'  XP: _4957482
+
+Inconsistency in node types (entail/8)
+5172:     [yes], unknown,      NA, 'Defected'  XP: _1785272
+      Minder dan vijf van de kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+      Minder dan vijf van de kinderen gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+4866: [unknown], unknown,      NA, 'Defected'  XP: _2558476
+
+Inconsistency in node types (entail/8)
+4886:     [yes], unknown,      NA, 'Defected'  XP: _2559280
+      Ieder buitenaards wezen die geen tennisballen gooide is harig.
+      Ieder buitenaards wezen die geen ballen gooide is harig.
+
+Inconsistency in node types (entail/8)
+5212: [unknown], unknown,      NA, 'Defected'  XP: _2221248
+
+Inconsistency in node types (entail/8)
+5332:     [yes], unknown,      NA, 'Defected'  XP: _2703612
       Niet minder dan vijf kinderen gingen voor de suikerspin.
       Niet minder dan vijf kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5210: [unknown], unknown,      NA, 'Defected'  XP: _4701706
+4880: [unknown], unknown,      NA, 'Defected'  XP: _3803842
 
 Inconsistency in node types (entail/8)
-5244: [unknown], unknown,      NA, 'Defected'  XP: _2337818
+4900:     [yes], unknown,      NA, 'Defected'  XP: _3804646
+      Ieder buitenaards wezen die geen cola dronk is harig.
+      Ieder buitenaards wezen die geen frisdrank dronk is harig.
 
 Inconsistency in node types (entail/8)
-5264: [unknown], unknown,      NA, 'Defected'  XP: _2338622
+4980:     [yes], unknown,      NA, 'Defected'  XP: _4486686
+      Ieder buitenaards wezen die niet een paar honkbalwedstrijden keek is harig.
+      Ieder buitenaards wezen die geen sportwedstrijden keek is harig.
 
 Inconsistency in node types (entail/8)
-5304:     [yes], unknown,      NA, 'Defected'  XP: _2340230
+5244: [unknown], unknown,      NA, 'Defected'  XP: _6159976
+
+Inconsistency in node types (entail/8)
+5264: [unknown], unknown,      NA, 'Defected'  XP: _6160780
+
+Inconsistency in node types (entail/8)
+5304:     [yes], unknown,      NA, 'Defected'  XP: _6162388
       Ten minste vijf kinderen gingen voor de suikerspin.
       Ten minste vijf kinderen kozen mint chocolaatjes of ging voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5168:     [yes], unknown,      NA, 'Defected'  XP: _2592804
+5160:     [yes], unknown,      NA, 'Defected'  XP: _4910004
+      Niet meer dan vijf kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijf kinderen gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5340: [unknown], unknown,      NA, 'Defected'  XP: _5791950
+
+Inconsistency in node types (entail/8)
+5168:     [yes], unknown,      NA, 'Defected'  XP: _4663640
       Minder dan vijf kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
       Minder dan vijf kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5208: [unknown], unknown,      NA, 'Defected'  XP: _2594720
+5208: [unknown], unknown,      NA, 'Defected'  XP: _4665556
 
 Inconsistency in node types (entail/8)
-5268: [unknown], unknown,      NA, 'Defected'  XP: _2891862
+5268: [unknown], unknown,      NA, 'Defected'  XP: _4962698
 
 Inconsistency in node types (entail/8)
-5308:     [yes], unknown,      NA, 'Defected'  XP: _3120058
+5308:     [yes], unknown,      NA, 'Defected'  XP: _5190894
       Ten minste de helft van de kinderen gingen voor de suikerspin.
       Ten minste de helft van de kinderen kozen mint chocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-4866: [unknown], unknown,      NA, 'Defected'  XP: _1142500
+5235: [unknown], unknown,      NA, 'Defected'  XP: _780828
 
 Inconsistency in node types (entail/8)
-4886:     [yes], unknown,      NA, 'Defected'  XP: _1143304
-      Ieder buitenaards wezen die geen tennisballen gooide is harig.
-      Ieder buitenaards wezen die geen ballen gooide is harig.
+5255: [unknown], unknown,      NA, 'Defected'  XP: _781632
 
 Inconsistency in node types (entail/8)
 4951: [unknown], unknown,      NA, 'Defected'  XP: _600066
 
 Inconsistency in node types (entail/8)
-5171:     [yes], unknown,      NA, 'Defected'  XP: _2164564
+5171:     [yes], unknown,      NA, 'Defected'  XP: _2416276
       Minder dan vijf van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
       Minder dan vijf van de kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5211: [unknown], unknown,      NA, 'Defected'  XP: _2629122
-
-Inconsistency in node types (entail/8)
-5331:     [yes], unknown,      NA, 'Defected'  XP: _3179440
-      Niet minder dan vijf kinderen gingen voor de suikerspin.
-      Niet minder dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5306:     [yes], unknown,      NA, 'Defected'  XP: _148540
+5306:     [yes], unknown,      NA, 'Defected'  XP: _1055918
       Ten minste de helft van de kampeerders hebben kou gevat.
       Ten minste de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5305:     [yes], unknown,      NA, 'Defected'  XP: _1288434
+5211: [unknown], unknown,      NA, 'Defected'  XP: _2880834
+
+Inconsistency in node types (entail/8)
+5331:     [yes], unknown,      NA, 'Defected'  XP: _3431152
+      Niet minder dan vijf kinderen gingen voor de suikerspin.
+      Niet minder dan vijf kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5305:     [yes], unknown,      NA, 'Defected'  XP: _1288440
       Ten minste de helft van de kampeerders hebben kou gevat.
       Ten minste de helft van de kampeerders hebben weleens zonnebrand gehad of kou gevat.
 

@@ -1,123 +1,98 @@
 Inconsistency in node types (entail/8)
 15: [unknown], unknown,      NA, 'Defected'  XP: _838
-
-Inconsistency in node types (entail/8)
-9: [unknown], unknown,      NA, 'Defected'  XP: _850
   
-Inconsistency in node types (entail/8)
-8:     [yes], unknown,      NA, 'Defected'  XP: _850
-      Ten minste drie commissarissen spenderen veel tijd thuis.
-      Ten minste drie commissarissen spenderen tijd thuis.
-
-Inconsistency in node types (entail/8)
-26:     [yes], unknown,      NA, 'Defected'  XP: _2262466
-      Ten minste drie vrouwelijke commissarissen spenderen tijd thuis.
-      Ten minste drie commissarissen spenderen tijd thuis.
-
 Inconsistency in node types (entail/8)
 16:     [yes], unknown,      NA, 'Defected'  XP: _838
       Niet meer dan tien commissarissen spenderen tijd thuis.
       Niet meer dan tien commissarissen spenderen veel tijd thuis.
   
 Inconsistency in node types (entail/8)
+9: [unknown], unknown,      NA, 'Defected'  XP: _850
+
+Inconsistency in node types (entail/8)
 36: [unknown], unknown,      NA, 'Defected'  XP: _2191068
 
 Inconsistency in node types (entail/8)
-37:     [yes], unknown,      NA, 'Defected'  XP: _2280038
+8:     [yes], unknown,      NA, 'Defected'  XP: _850
+      Ten minste drie commissarissen spenderen veel tijd thuis.
+      Ten minste drie commissarissen spenderen tijd thuis.
+  
+Inconsistency in node types (entail/8)
+26:     [yes], unknown,      NA, 'Defected'  XP: _2262466
+      Ten minste drie vrouwelijke commissarissen spenderen tijd thuis.
+      Ten minste drie commissarissen spenderen tijd thuis.
+  
+Inconsistency in node types (entail/8)
+37:     [yes], unknown,      NA, 'Defected'  XP: _2277070
       Niet meer dan tien commissarissen spenderen tijd thuis.
       Niet meer dan tien vrouwelijke commissarissen spenderen tijd thuis.
 
-ERROR: sentence id=3167
-Failed to align term tokens and lexical annotations
-term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
-lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,evon)',pt:vnw,r:ieder,rel:det,s:ieder,t:ieder},j{l:aantal,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:aantal,rel:hd,s:aantal,t:aantal},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:voorbeeld,rel:mod,s:voorbeeld,t:voorbeelden},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-ERROR: sentence id=3166
-Failed to align term tokens and lexical annotations
-term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
-lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:voorbeeld,rel:hd,s:voorbeeld,t:voorbeeld},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-102: [unknown], unknown,      NA, 'Defected'  XP: _82656
+73: [unknown], unknown,      NA, 'Defected'  XP: _279394
+
+Inconsistency in node types (entail/8)
+102: [unknown], unknown,      NA, 'Defected'  XP: _82948
    
 Inconsistency in node types (entail/8)
-53: [unknown], unknown,      NA, 'Defected'  XP: _2335960
-
-Inconsistency in node types (entail/8)
-51: [unknown], unknown,      NA, 'Defected'  XP: _339642
+27: [unknown], unknown,      NA, 'Defected'  XP: _177848
   
 Inconsistency in node types (entail/8)
-27: [unknown], unknown,      NA, 'Defected'  XP: _2367788
+51: [unknown], unknown,      NA, 'Defected'  XP: _2524004
+  
+Inconsistency in node types (entail/8)
+49:     [yes], unknown,      NA, 'Defected'  XP: _2376412
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
 
 Inconsistency in node types (entail/8)
-71:     [yes], unknown,      NA, 'Defected'  XP: _340446
+71:     [yes], unknown,      NA, 'Defected'  XP: _2524808
       Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
       Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
 
-Inconsistency in node types (entail/8)
-73: [unknown], unknown,      NA, 'Defected'  XP: _2336764
-  
-Inconsistency in node types (entail/8)
-50: [unknown], unknown,      NA, 'Defected'  XP: _2364240
-  
-Inconsistency in node types (entail/8)
-70: [unknown], unknown,      NA, 'Defected'  XP: _2365044
-
-Inconsistency in node types (entail/8)
-42:     [yes], unknown,    open, 'Ter',7     XP: []
-      Socrates is rationeel.
-      Iemand is rationeel.
-  
 Inconsistency in node types (entail/8)
 52:     [yes], unknown,      NA, 'Defected'  XP: _2463798
       We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
       We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
 
 Inconsistency in node types (entail/8)
-69: [unknown], unknown,      NA, 'Defected'  XP: _2376626
-  
+69: [unknown], unknown,      NA, 'Defected'  XP: _2377370
+
 Inconsistency in node types (entail/8)
 72: [unknown], unknown,      NA, 'Defected'  XP: _2464756
-  
-Inconsistency in node types (entail/8)
-78:     [yes], unknown,      NA, 'Defected'  XP: _2837582
-      Ik heb nog nooit een vogel gezien die niet vliegt.
-      Ik heb nog nooit een kolibrie gezien die niet vliegt.
 
+Inconsistency in node types (entail/8)
+50: [unknown], unknown,      NA, 'Defected'  XP: _2360940
+
+Inconsistency in node types (entail/8)
+70: [unknown], unknown,      NA, 'Defected'  XP: _2361744
+  
+ERROR: sentence id=3166
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:voorbeeld,rel:hd,s:voorbeeld,t:voorbeeld},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 ERROR: sentence id=3167
 Failed to align term tokens and lexical annotations
 term tokes: [[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
 lexical annotation: [j{l:inderdaad,lcat:advp,p:tag,postag:'BW()',pt:bw,r:inderdaad,rel:tag,s:inderdaad,t:'Inderdaad'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:het,lcat:np,p:noun,postag:'VNW(pers,pron,stan,red,3,ev,onz)',pt:vnw,r:het,rel:su,s:het,t:het},j{l:worden,lcat:smain,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:word,rel:hd,s:word,t:wordt},j{l:vaak,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:vaak,rel:mod,s:vaak,t:vaak},j{l:zeggen,lcat:ppart,p:verb,postag:'WW(vd,vrij,zonder)',pt:ww,r:zeg,rel:hd,s:zeg,t:gezegd},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:adequaat,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:adequaat,rel:mod,s:adequaat,t:adequaat},j{l:leren,lcat:np,p:verb,postag:'WW(inf,nom,zonder,zonder-n)',pt:ww,r:leer,rel:hd,s:leer,t:leren},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:taak,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:taak,rel:hd,s:taak,t:taak},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:domein,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:domein,rel:hd,s:domein,t:domein},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mens,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens,rel:obj1,s:mens,t:mensen},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,evon)',pt:vnw,r:ieder,rel:det,s:ieder,t:ieder},j{l:aantal,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:aantal,rel:hd,s:aantal,t:aantal},j{l:voorbeeld,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:voorbeeld,rel:mod,s:voorbeeld,t:voorbeelden},j{l:genoeg,lcat:ap,p:adj,postag:'BW()',pt:bw,r:genoeg,rel:hd,s:genoeg,t:genoeg},j{l:zijn,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:om,lcat:oti,p:comp,postag:'VZ(init)',pt:vz,r:om,rel:cmp,s:om,t:om},j{l:van,lcat:pp,p:prep,postag:'VZ(fin)',pt:vz,r:van,rel:pc,s:van,t:van},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:leren,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:leer,rel:hd,s:'leer-van',t:leren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-101: [unknown], unknown,      NA, 'Defected'  XP: _2681688
-
+101: [unknown], unknown,      NA, 'Defected'  XP: _494010
+  
+Inconsistency in node types (entail/8)
+74:     [yes], unknown,      NA, 'Defected'  XP: _671592
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+  
+ERROR: sentence id=694
+Failed to align term tokens and lexical annotations
+term tokes: [[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+lexical annotation: [j{l:dus,lcat:du,p:comp,postag:'BW()',pt:bw,r:dus,rel:dlink,s:dus,t:'Dus'},j{l:er,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel:mod,s:er,t:er},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:speciaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:speciaal,rel:mod,s:speciaal,t:speciaal},j{l:hoog_dimensionaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:hoog_dimensionaal,rel:mod,s:hoog_dimensionaal,t:hoogdimensionaal},j{l:geheugen_blok,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:geheugen_blok,rel:hd,s:geheugen_blok,t:geheugenblok},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:elk,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:elk,rel:det,s:elk,t:elke},j{l:entiteit,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:entiteit,rel:hd,s:entiteit,t:entiteit},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:onderscheid,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:onderscheid,rel:hd,s:onderscheid,t:onderscheid},j{l:tussen,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:tussen,rel:hd,s:tussen,t:tussen},j{l:entiteit_vermelding,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:entiteit_vermelding,rel:cnj,s:entiteit_vermelding,t:entiteitsvermeldingen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:niet_vermelden,lcat:ppart,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:niet_vermelden,rel:mod,s:niet_vermelden,t:'niet-vermelde'},j{l:woord,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:woord,rel:hd,s:woord,t:woorden},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 ERROR: sentence id=693
 Failed to align term tokens and lexical annotations
 term tokes: [[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
 lexical annotation: [j{l:dus,lcat:du,p:comp,postag:'BW()',pt:bw,r:dus,rel:dlink,s:dus,t:'Dus'},j{l:er,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel:mod,s:er,t:er},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:speciaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:speciaal,rel:mod,s:speciaal,t:speciaal},j{l:geheugen_blok,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:geheugen_blok,rel:hd,s:geheugen_blok,t:geheugenblok},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:elk,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:elk,rel:det,s:elk,t:elke},j{l:entiteit,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:entiteit,rel:hd,s:entiteit,t:entiteit},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:onderscheid,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:onderscheid,rel:hd,s:onderscheid,t:onderscheid},j{l:tussen,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:tussen,rel:hd,s:tussen,t:tussen},j{l:entiteit_vermelding,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:entiteit_vermelding,rel:cnj,s:entiteit_vermelding,t:entiteitsvermeldingen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:niet_vermelden,lcat:ppart,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:niet_vermelden,rel:mod,s:niet_vermelden,t:'niet-vermelde'},j{l:woord,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:woord,rel:hd,s:woord,t:woorden},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-100: [unknown], unknown,      NA, 'Defected'  XP: _2838540
-
-Inconsistency in node types (entail/8)
-54:     [yes], unknown,      NA, 'Defected'  XP: _2639246
-      Alle dieren vinden het leuk om hun oren te krabben.
-      Alle honden vinden het leuk om hun oren te krabben.
-
-Inconsistency in node types (entail/8)
-74:     [yes], unknown,      NA, 'Defected'  XP: _2640204
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+100: [unknown], unknown,      NA, 'Defected'  XP: _3719452
   
-Inconsistency in node types (entail/8)
-111: [unknown], unknown,      NA, 'Defected'  XP: _3918280
-
-Inconsistency in node types (entail/8)
-109: [unknown], unknown,      NA, 'Defected'  XP: _3958182
-
-Inconsistency in node types (entail/8)
-77: [unknown], unknown,      NA, 'Defected'  XP: _3656210
-
-Inconsistency in node types (entail/8)
-129: [unknown], unknown,      NA, 'Defected'  XP: _3958986
-
 ERROR: sentence id=693
 Failed to align term tokens and lexical annotations
 term tokes: [[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
@@ -127,16 +102,10 @@ Failed to align term tokens and lexical annotations
 term tokes: [[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
 lexical annotation: [j{l:dus,lcat:du,p:comp,postag:'BW()',pt:bw,r:dus,rel:dlink,s:dus,t:'Dus'},j{l:er,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel:mod,s:er,t:er},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:speciaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:speciaal,rel:mod,s:speciaal,t:speciaal},j{l:hoog_dimensionaal,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:hoog_dimensionaal,rel:mod,s:hoog_dimensionaal,t:hoogdimensionaal},j{l:geheugen_blok,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:geheugen_blok,rel:hd,s:geheugen_blok,t:geheugenblok},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:elk,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:elk,rel:det,s:elk,t:elke},j{l:entiteit,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:entiteit,rel:hd,s:entiteit,t:entiteit},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:onderscheid,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:onderscheid,rel:hd,s:onderscheid,t:onderscheid},j{l:tussen,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:tussen,rel:hd,s:tussen,t:tussen},j{l:entiteit_vermelding,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:entiteit_vermelding,rel:cnj,s:entiteit_vermelding,t:entiteitsvermeldingen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:niet_vermelden,lcat:ppart,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:niet_vermelden,rel:mod,s:niet_vermelden,t:'niet-vermelde'},j{l:woord,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:woord,rel:hd,s:woord,t:woorden},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-99:     [yes], unknown,      NA, 'Defected'  XP: _3657014
+99:     [yes], unknown,      NA, 'Defected'  XP: _4535924
       Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
       Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
 
-Inconsistency in node types (entail/8)
-110: [unknown], unknown,      NA, 'Defected'  XP: _4232950
-
-Inconsistency in node types (entail/8)
-130: [unknown], unknown,      NA, 'Defected'  XP: _4233754
-
 ERROR: sentence id=3822
 Failed to align term tokens and lexical annotations
 term tokes: [[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
@@ -146,7 +115,7 @@ Failed to align term tokens and lexical annotations
 term tokes: [[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 lexical annotation: [j{l:raar,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:raar,rel:dp,s:raar,t:'Raar'},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:je,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,red,2v,ev)',pt:vnw,r:je,rel:su,s:je,t:je},j{l:deze,lcat:detp,p:det,postag:'VNW(aanw,det,stan,prenom,met-e,rest)',pt:vnw,r:deze,rel:det,s:deze,t:deze},j{l:video,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:video,rel:hd,s:video,t:video},j{l:willen,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:wil,rel:hd,s:wil,t:wil},j{l:laten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:laat,rel:hd,s:'aan-laat-zie',t:laten},j{l:zien,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zie,rel:svp,s:zie,t:zien},j{l:aan,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:aan,rel:hd,s:aan,t:aan},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:stapel,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:stapel,rel:hd,s:stapel,t:stapel},j{l:papier,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:papier,rel:mod,s:papier,t:papieren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-81: [unknown], unknown,      NA, 'Defected'  XP: _4348508
+81: [unknown], unknown,      NA, 'Defected'  XP: _4348836
 
 ERROR: sentence id=3821
 Failed to align term tokens and lexical annotations
@@ -157,590 +126,467 @@ Failed to align term tokens and lexical annotations
 term tokes: [[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 lexical annotation: [j{l:raar,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:raar,rel:dp,s:raar,t:'Raar'},j{l:dat,lcat:cp,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel:cmp,s:dat,t:dat},j{l:je,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,red,2v,ev)',pt:vnw,r:je,rel:su,s:je,t:je},j{l:iets,lcat:np,p:noun,postag:'VNW(onbep,pron,stan,vol,3o,ev)',pt:vnw,r:iets,rel:obj1,s:iets,t:iets},j{l:willen,lcat:ssub,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:wil,rel:hd,s:wil,t:wil},j{l:laten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:laat,rel:hd,s:'aan-laat-zie',t:laten},j{l:zien,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zie,rel:svp,s:zie,t:zien},j{l:aan,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:aan,rel:hd,s:aan,t:aan},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:stapel,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:stapel,rel:hd,s:stapel,t:stapel},j{l:papier,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:papier,rel:mod,s:papier,t:papieren},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-82:     [yes], unknown,      NA, 'Defected'  XP: _2130562
+82:     [yes], unknown,      NA, 'Defected'  XP: _4317416
       Raar dat je deze video wil laten zien aan een stapel papieren.
       Raar dat je iets wil laten zien aan een stapel papieren.
 
 Inconsistency in node types (entail/8)
-112: [unknown], unknown,      NA, 'Defected'  XP: _4146906
+4989: [unknown], unknown,      NA, 'Defected'  XP: _4454138
 
 Inconsistency in node types (entail/8)
-76:     [yes], unknown,      NA, 'Defected'  XP: _4959776
-      Ik heb nog nooit een kolibrie gezien.
-      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+5009: [unknown], unknown,      NA, 'Defected'  XP: _4454942
 
 Inconsistency in node types (entail/8)
-108:     [yes], unknown,      NA, 'Defected'  XP: _6153588
-      Ik wil niet mensen blijven vermaken.
-      Ik wil niet mensen blijven vermaken die mijn tijd niet waarderen.
+5069: [unknown], unknown,      NA, 'Defected'  XP: _4692964
 
 Inconsistency in node types (entail/8)
-75: [unknown], unknown,      NA, 'Defected'  XP: _4169590
-
-Inconsistency in node types (entail/8)
-107: [unknown], unknown,      NA, 'Defected'  XP: _5364860
-
-Inconsistency in node types (entail/8)
-4989: [unknown], unknown,      NA, 'Defected'  XP: _5650758
-
-Inconsistency in node types (entail/8)
-5009: [unknown], unknown,      NA, 'Defected'  XP: _5651562
-
-Inconsistency in node types (entail/8)
-5029:     [yes], unknown,      NA, 'Defected'  XP: _5652366
-      Ze gaf hem een roos.
-      Ze gaf hem een bloem.
-
-Inconsistency in node types (entail/8)
-5049: [unknown], unknown,      NA, 'Defected'  XP: _5653324
-
-Inconsistency in node types (entail/8)
-5069: [unknown], unknown,      NA, 'Defected'  XP: _5654128
-
-Inconsistency in node types (entail/8)
-5109:     [yes], unknown,      NA, 'Defected'  XP: _5743788
+5109:     [yes], unknown,      NA, 'Defected'  XP: _4782624
       Een paar van de sopranen zongen met meer dan drie van de tenoren.
       Een paar van de sopranen zongen met meer dan drie van de mannelijke zangers.
 
 Inconsistency in node types (entail/8)
-5129:     [yes], unknown,      NA, 'Defected'  XP: _5744746
+5129:     [yes], unknown,      NA, 'Defected'  XP: _4783582
       Niet meer dan drie dikhuiden zijn roze.
       Niet meer dan drie olifanten zijn roze.
 
 Inconsistency in node types (entail/8)
-5169:     [yes], unknown,      NA, 'Defected'  XP: _2062
+5169:     [yes], unknown,      NA, 'Defected'  XP: _5775488
       Minder dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Minder dan vijf van de kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5001:     [yes], unknown,      NA, 'Defected'  XP: _2447814
+5001:     [yes], unknown,      NA, 'Defected'  XP: _5788784
       Een of andere lange man rende.
       Een of andere man rende.
 
 Inconsistency in node types (entail/8)
-5229: [unknown], unknown,      NA, 'Defected'  XP: _332600
-
-ERROR: sentence id=4915
-Failed to align term tokens and lexical annotations
-term tokes: [[[geen],[roos],[.]]]
-lexical annotation: [j{l:ze,lcat: --,p:pron,postag:'VNW(pers,pron,stan,red,3,mv)',pt:vnw,r:ze,rel: --,s:ze,t:'Ze'},j{l:gad,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:gad,rel:dp,s:gad,t:gad},j{l:hem,lcat:np,p:pron,postag:'VNW(pers,pron,obl,vol,3,ev,masc)',pt:vnw,r:hem,rel:dp,s:hem,t:hem},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:roos,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:roos,rel:hd,s:roos,t:roos},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-Inconsistency in node types (entail/8)
-5041: [unknown], unknown,      NA, 'Defected'  XP: _2539216
+5229: [unknown], unknown,      NA, 'Defected'  XP: _6106072
 
 Inconsistency in node types (entail/8)
-5061:     [yes], unknown,      NA, 'Defected'  XP: _2540020
+5061:     [yes], unknown,      NA, 'Defected'  XP: _5939728
       Ze zei minder dan drie woorden.
       Ze fluisterde minder dan drie woorden.
 
 Inconsistency in node types (entail/8)
-5141:     [yes], unknown,      NA, 'Defected'  XP: _2892522
+5141:     [yes], unknown,      NA, 'Defected'  XP: _2062
       Niet meer dan drie olifanten zijn blauw.
       Niet meer dan drie olifanten zijn marineblauw.
 
 Inconsistency in node types (entail/8)
-5161:     [yes], unknown,      NA, 'Defected'  XP: _2893480
+5161:     [yes], unknown,      NA, 'Defected'  XP: _2974
       Niet meer dan de helft van de kampeerders hebben weleens een zonnebrand gehad of kou gevat.
       Niet meer dan de helft van de kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5181:     [yes], unknown,      NA, 'Defected'  XP: _2894438
+5181:     [yes], unknown,      NA, 'Defected'  XP: _3932
       Niet meer dan vijftig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Niet meer dan vijftig kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5309:     [yes], unknown,      NA, 'Defected'  XP: _1050292
+5309:     [yes], unknown,      NA, 'Defected'  XP: _391320
       Meer dan vijf kampeerders hebben kou gevat.
       Meer dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5329:     [yes], unknown,      NA, 'Defected'  XP: _1051250
+5329:     [yes], unknown,      NA, 'Defected'  XP: _392278
       Niet minder dan vijf kampeerders hebben kou gevat.
       Niet minder dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5261: [unknown], unknown,      NA, 'Defected'  XP: _3775310
+5261: [unknown], unknown,      NA, 'Defected'  XP: _884804
 
 Inconsistency in node types (entail/8)
-5057:     [yes], unknown,      NA, 'Defected'  XP: _874366
-      Hij raakte geen vrouw aan.
-      Hij kuste geen vrouw.
+5281: [unknown], unknown,      NA, 'Defected'  XP: _885608
 
 Inconsistency in node types (entail/8)
-5281: [unknown], unknown,      NA, 'Defected'  XP: _3776114
-
-Inconsistency in node types (entail/8)
-5077:     [yes], unknown,      NA, 'Defected'  XP: _875324
-      We raakten elkaar nooit aan.
-      We kusten nooit.
-
-Inconsistency in node types (entail/8)
-5301:     [yes], unknown,      NA, 'Defected'  XP: _3776918
+5301:     [yes], unknown,      NA, 'Defected'  XP: _886412
       Ten minste vijf kampeerders hebben kou gevat.
       Ten minste vijf kampeerders hebben weleens een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5157:     [yes], unknown,      NA, 'Defected'  XP: _1154518
-      Niet meer dan vijf kampeerders hebben weleens een zonnebrand gehad of kou gevat.
-      Niet meer dan vijf kampeerders hebben kou gevat.
-
-Inconsistency in node types (entail/8)
-4695: [unknown], unknown,    open, 'Lim',418   XP: []
-
-Inconsistency in node types (entail/8)
-5058: [unknown], unknown,      NA, 'Defected'  XP: _3023190
-
-Inconsistency in node types (entail/8)
-5078: [unknown], unknown,      NA, 'Defected'  XP: _3023994
-
-Inconsistency in node types (entail/8)
-5158:     [yes], unknown,      NA, 'Defected'  XP: _3302726
-      Niet meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
-      Niet meer dan vijf kampeerders hebben kou gevat.
-
-Inconsistency in node types (entail/8)
-5217: [unknown], unknown,      NA, 'Defected'  XP: _1828538
-
-Inconsistency in node types (entail/8)
-5043: [unknown], unknown,      NA, 'Defected'  XP: _186214
-
-Inconsistency in node types (entail/8)
-5063:     [yes], unknown,      NA, 'Defected'  XP: _187018
-      Hij had nooit een gebrek aan briefgeld.
-      Hij had nooit een gebrek aan geld.
-
-Inconsistency in node types (entail/8)
-5257: [unknown], unknown,      NA, 'Defected'  XP: _2048796
-
-Inconsistency in node types (entail/8)
-5103:     [yes], unknown,      NA, 'Defected'  XP: _340144
+5103:     [yes], unknown,      NA, 'Defected'  XP: _479758
       Meer dan de helft van de tenoren hebben de griep.
       Meer dan de helft van de tenoren zijn ziek.
 
 Inconsistency in node types (entail/8)
-5277: [unknown], unknown,      NA, 'Defected'  XP: _2049600
+4993: [unknown], unknown,      NA, 'Defected'  XP: _4610476
 
 Inconsistency in node types (entail/8)
-5218: [unknown], unknown,      NA, 'Defected'  XP: _3880876
-
-Inconsistency in node types (entail/8)
-5059:     [yes], unknown,      NA, 'Defected'  XP: _2042754
-      Ze fluisterde meer dan drie woorden.
-      Ze zei meer dan drie woorden.
-
-Inconsistency in node types (entail/8)
-5099:     [yes], unknown,      NA, 'Defected'  XP: _2157428
-      Minder dan vijf stippen zijn rood.
-      Minder dan vijf stippen zijn scharlaken.
-
-Inconsistency in node types (entail/8)
-5258: [unknown], unknown,      NA, 'Defected'  XP: _4052618
-
-Inconsistency in node types (entail/8)
-5139:     [yes], unknown,      NA, 'Defected'  XP: _2271766
-      Ten minste drie olifanten zijn marineblauw.
-      Ten minste drie olifanten zijn blauw.
-
-Inconsistency in node types (entail/8)
-5278: [unknown], unknown,      NA, 'Defected'  XP: _4053422
-
-Inconsistency in node types (entail/8)
-5219: [unknown], unknown,      NA, 'Defected'  XP: _2575834
-
-Inconsistency in node types (entail/8)
-5357:     [yes], unknown,      NA, 'Defected'  XP: _2545314
-      Een of andere jongen, de broer van wie Mary houdt, liep.
-      Een of andere jongen liep.
-
-Inconsistency in node types (entail/8)
-4993: [unknown], unknown,      NA, 'Defected'  XP: _1924
-
-Inconsistency in node types (entail/8)
-5013:     [yes], unknown,      NA, 'Defected'  XP: _2682
+5013:     [yes], unknown,      NA, 'Defected'  XP: _4611280
       Ten minste een man danste.
       Ten minste een man zong of danste.
 
 Inconsistency in node types (entail/8)
-5033:     [yes], unknown,      NA, 'Defected'  XP: _3640
-      Ze heeft een Duitse auto.
-      Ze heeft een Europese auto.
+5157:     [yes], unknown,      NA, 'Defected'  XP: _435408
+      Niet meer dan vijf kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+      Niet meer dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5053:     [yes], unknown,      NA, 'Defected'  XP: _4598
-      Hij kocht marmer.
-      Hij kocht steen.
-
-Inconsistency in node types (entail/8)
-5279: [unknown], unknown,      NA, 'Defected'  XP: _2892500
-
-Inconsistency in node types (entail/8)
-5042:     [yes], unknown,      NA, 'Defected'  XP: _4616210
-      Ze gaf hem geen bloem.
-      Ze gad hem geen roos.
-
-Inconsistency in node types (entail/8)
-5062: [unknown], unknown,      NA, 'Defected'  XP: _4617168
-
-Inconsistency in node types (entail/8)
-Inconsistency in node types (entail/8)
-5183:     [yes], unknown,      NA, 'Defected'  XP: _1422856
+5183:     [yes], unknown,      NA, 'Defected'  XP: _1562470
       Niet meer dan vijftig kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
       Niet meer dan vijftig kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5142: [unknown], unknown,      NA, 'Defected'  XP: _4969208
+5217: [unknown], unknown,      NA, 'Defected'  XP: _1109428
 
 Inconsistency in node types (entail/8)
-5162:     [yes], unknown,      NA, 'Defected'  XP: _4970012
-      Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
-      Niet meer dan de helft van de kampeerders hebben kou gevat.
+5213: [unknown], unknown,      NA, 'Defected'  XP: _6127052
 
 Inconsistency in node types (entail/8)
-5182:     [yes], unknown,      NA, 'Defected'  XP: _4970970
-      Niet meer dan vijftig kampeerders hebben een zonnebrand gehad of kou gevat.
-      Niet meer dan vijftig kampeerders hebben kou gevat.
+5233: [unknown], unknown,      NA, 'Defected'  XP: _6127856
 
 Inconsistency in node types (entail/8)
-5262: [unknown], unknown,      NA, 'Defected'  XP: _5690650
+5253: [unknown], unknown,      NA, 'Defected'  XP: _6128660
 
 Inconsistency in node types (entail/8)
-5282: [unknown], unknown,      NA, 'Defected'  XP: _5691454
+5158:     [yes], unknown,      NA, 'Defected'  XP: _5596082
+      Niet meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5302:     [yes], unknown,      NA, 'Defected'  XP: _5692258
-      Ten minste vijf kampeerders hebben kou gevat.
-      Ten minste vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+5257: [unknown], unknown,      NA, 'Defected'  XP: _1329686
 
 Inconsistency in node types (entail/8)
-5213: [unknown], unknown,      NA, 'Defected'  XP: _1273096
+5277: [unknown], unknown,      NA, 'Defected'  XP: _1330490
 
 Inconsistency in node types (entail/8)
-5233: [unknown], unknown,      NA, 'Defected'  XP: _1273900
+5283: [unknown], unknown,      NA, 'Defected'  XP: _2364738
 
 Inconsistency in node types (entail/8)
-5253: [unknown], unknown,      NA, 'Defected'  XP: _1274704
-
-Inconsistency in node types (entail/8)
-5283: [unknown], unknown,      NA, 'Defected'  XP: _2225124
-
-Inconsistency in node types (entail/8)
-5313:     [yes], unknown,      NA, 'Defected'  XP: _1900976
+5313:     [yes], unknown,      NA, 'Defected'  XP: _411550
       Meer dan vijf van de kampeerders hebben kou gevat.
       Meer dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5056: [unknown], unknown,      NA, 'Defected'  XP: _1708342
+5357:     [yes], unknown,      NA, 'Defected'  XP: _1826204
+      Een of andere jongen, de broer van wie Mary houdt, liep.
+      Een of andere jongen liep.
 
 Inconsistency in node types (entail/8)
-5096: [unknown], unknown,      NA, 'Defected'  XP: _1764152
+5218: [unknown], unknown,      NA, 'Defected'  XP: _6174232
 
 Inconsistency in node types (entail/8)
-5007:     [yes], unknown,      NA, 'Defected'  XP: _3231410
+5258: [unknown], unknown,      NA, 'Defected'  XP: _2200
+
+Inconsistency in node types (entail/8)
+5278: [unknown], unknown,      NA, 'Defected'  XP: _2958
+
+Inconsistency in node types (entail/8)
+5062: [unknown], unknown,      NA, 'Defected'  XP: _4685270
+
+Inconsistency in node types (entail/8)
+5142: [unknown], unknown,      NA, 'Defected'  XP: _5037310
+
+Inconsistency in node types (entail/8)
+5162:     [yes], unknown,      NA, 'Defected'  XP: _5038114
+      Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+
+Inconsistency in node types (entail/8)
+5182:     [yes], unknown,      NA, 'Defected'  XP: _5039072
+      Niet meer dan vijftig kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan vijftig kampeerders hebben kou gevat.
+
+Inconsistency in node types (entail/8)
+5096: [unknown], unknown,      NA, 'Defected'  XP: _2011328
+
+Inconsistency in node types (entail/8)
+5262: [unknown], unknown,      NA, 'Defected'  XP: _5758752
+
+Inconsistency in node types (entail/8)
+5282: [unknown], unknown,      NA, 'Defected'  XP: _5759556
+
+Inconsistency in node types (entail/8)
+5302:     [yes], unknown,      NA, 'Defected'  XP: _5760360
+      Ten minste vijf kampeerders hebben kou gevat.
+      Ten minste vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+
+Inconsistency in node types (entail/8)
+5216: [unknown], unknown,      NA, 'Defected'  XP: _2972132
+
+Inconsistency in node types (entail/8)
+5007:     [yes], unknown,      NA, 'Defected'  XP: _5346948
       Ten minste een man zong en danste.
       Ten minste een man danste.
 
 Inconsistency in node types (entail/8)
-5216: [unknown], unknown,      NA, 'Defected'  XP: _2724956
-
-Inconsistency in node types (entail/8)
-5067: [unknown], unknown,      NA, 'Defected'  XP: _3562302
-
-Inconsistency in node types (entail/8)
-5316:     [yes], unknown,      NA, 'Defected'  XP: _3012476
+5316:     [yes], unknown,      NA, 'Defected'  XP: _3259652
       Meer dan vijf van de kinderen gingen voor de suikerspin.
       Meer dan vijf van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5087:     [yes], unknown,      NA, 'Defected'  XP: _3563106
+5067: [unknown], unknown,      NA, 'Defected'  XP: _5677840
+
+Inconsistency in node types (entail/8)
+5087:     [yes], unknown,      NA, 'Defected'  XP: _5678644
       Het is niet waar dat Betty niet in Berlijn woont.
       Het is niet waar dat Betty niet in Duitsland woont.
 
 Inconsistency in node types (entail/8)
-5107:     [yes], unknown,      NA, 'Defected'  XP: _3564064
+5107:     [yes], unknown,      NA, 'Defected'  XP: _5679602
       Geen van de sopranen zong met minder dan drie van de tenoren.
       Geen van de sopranen zong met minder dan drie van de mannelijke zangers.
 
 Inconsistency in node types (entail/8)
-5127:     [yes], unknown,      NA, 'Defected'  XP: _3565022
+5127:     [yes], unknown,      NA, 'Defected'  XP: _5680560
       Ten minste drie olifanten zijn roze.
       Ten minste drie dikhuiden zijn roze.
 
 Inconsistency in node types (entail/8)
-5187:     [yes], unknown,      NA, 'Defected'  XP: _3666454
+5187:     [yes], unknown,      NA, 'Defected'  XP: _5781992
       Niet meer dan vijf kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
       Niet meer dan vijf kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5327:     [yes], unknown,      NA, 'Defected'  XP: _4253678
+5327:     [yes], unknown,      NA, 'Defected'  XP: _3118
       Niet minder dan vijftig kinderen gingen voor de suikerspin.
       Niet minder dan vijftig kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5367:     [yes], unknown,      NA, 'Defected'  XP: _4378730
+5367:     [yes], unknown,      NA, 'Defected'  XP: _128170
       Een of andere republikein betrad de race vroeg.
       Een of andere republikein betrad de race.
 
 Inconsistency in node types (entail/8)
-5000: [unknown], unknown,      NA, 'Defected'  XP: _2364534
+5059:     [yes], unknown,      NA, 'Defected'  XP: _4287864
+      Ze fluisterde meer dan drie woorden.
+      Ze zei meer dan drie woorden.
 
 Inconsistency in node types (entail/8)
-5060: [unknown], unknown,      NA, 'Defected'  XP: _2557694
+5099:     [yes], unknown,      NA, 'Defected'  XP: _4402538
+      Minder dan vijf stippen zijn rood.
+      Minder dan vijf stippen zijn scharlaken.
 
 Inconsistency in node types (entail/8)
-5100: [unknown], unknown,      NA, 'Defected'  XP: _2672060
+5139:     [yes], unknown,      NA, 'Defected'  XP: _4516876
+      Ten minste drie olifanten zijn marineblauw.
+      Ten minste drie olifanten zijn blauw.
 
 Inconsistency in node types (entail/8)
-5140: [unknown], unknown,      NA, 'Defected'  XP: _2786090
+5219: [unknown], unknown,      NA, 'Defected'  XP: _4820944
 
 Inconsistency in node types (entail/8)
-5044:     [yes], unknown,      NA, 'Defected'  XP: _90242
-      Ze raakte hem nooit aan.
-      Ze kuste hem nooit.
-
-Inconsistency in node types (entail/8)
-5064: [unknown], unknown,      NA, 'Defected'  XP: _91200
-
-Inconsistency in node types (entail/8)
-5220: [unknown], unknown,      NA, 'Defected'  XP: _3072782
-
-Inconsistency in node types (entail/8)
-5104: [unknown], unknown,      NA, 'Defected'  XP: _244018
-
-Inconsistency in node types (entail/8)
-5260: [unknown], unknown,      NA, 'Defected'  XP: _3361078
-
-Inconsistency in node types (entail/8)
-5280: [unknown], unknown,      NA, 'Defected'  XP: _3361882
-
-Inconsistency in node types (entail/8)
-5360: [unknown], unknown,      NA, 'Defected'  XP: _3669644
-
-Inconsistency in node types (entail/8)
-5034: [unknown], unknown,      NA, 'Defected'  XP: _1056198
-
-Inconsistency in node types (entail/8)
-5054: [unknown], unknown,      NA, 'Defected'  XP: _1057002
+5279: [unknown], unknown,      NA, 'Defected'  XP: _5137610
 
 Inconsistency in node types (entail/8)
 5010: [unknown], unknown,      NA, 'Defected'  XP: _3429652
 
 Inconsistency in node types (entail/8)
-5030: [unknown], unknown,      NA, 'Defected'  XP: _3430456
+5070: [unknown], unknown,      NA, 'Defected'  XP: _3687994
 
 Inconsistency in node types (entail/8)
-5050:     [yes], unknown,      NA, 'Defected'  XP: _3431260
-      Voordat zij hem aanraakte, poetste zij haar tanden.
-      Voordat zij hem kuste, poetste zij haar tanden.
+5110: [unknown], unknown,      NA, 'Defected'  XP: _3777500
 
 Inconsistency in node types (entail/8)
-5070: [unknown], unknown,      NA, 'Defected'  XP: _3432218
+5130: [unknown], unknown,      NA, 'Defected'  XP: _3778304
 
 Inconsistency in node types (entail/8)
-5110: [unknown], unknown,      NA, 'Defected'  XP: _3521724
+5214: [unknown], unknown,      NA, 'Defected'  XP: _2415504
 
 Inconsistency in node types (entail/8)
-5130: [unknown], unknown,      NA, 'Defected'  XP: _3522528
+5234: [unknown], unknown,      NA, 'Defected'  XP: _2416308
 
 Inconsistency in node types (entail/8)
-5055:     [yes], unknown,      NA, 'Defected'  XP: _270306
-      Hij kent een stad in spanje.
-      Hij kent een stad in Europa.
+5254: [unknown], unknown,      NA, 'Defected'  XP: _2417112
 
 Inconsistency in node types (entail/8)
-5095:     [yes], unknown,      NA, 'Defected'  XP: _327522
-      Ten minste vijf stippen zijn scharlaken.
-      Ten minste vijf stippen zijn rood.
+5104: [unknown], unknown,      NA, 'Defected'  XP: _4066176
 
 Inconsistency in node types (entail/8)
-4992:     [yes], unknown,      NA, 'Defected'  XP: _4732210
+4992:     [yes], unknown,      NA, 'Defected'  XP: _891150
       Een of andere man rende snel.
       Een of andere man rende.
 
 Inconsistency in node types (entail/8)
-5012:     [yes], unknown,      NA, 'Defected'  XP: _4733168
+5012:     [yes], unknown,      NA, 'Defected'  XP: _892108
       Ten minste een man zong.
       Ten minste een man zong of danste.
 
 Inconsistency in node types (entail/8)
-5032: [unknown], unknown,      NA, 'Defected'  XP: _4734126
-
-Inconsistency in node types (entail/8)
-5052: [unknown], unknown,      NA, 'Defected'  XP: _4734930
-
-Inconsistency in node types (entail/8)
-5214: [unknown], unknown,      NA, 'Defected'  XP: _2170146
-
-Inconsistency in node types (entail/8)
-5234: [unknown], unknown,      NA, 'Defected'  XP: _2170950
-
-Inconsistency in node types (entail/8)
-5254: [unknown], unknown,      NA, 'Defected'  XP: _2171754
-
-Inconsistency in node types (entail/8)
-5215: [unknown], unknown,      NA, 'Defected'  XP: _1334592
-
-Inconsistency in node types (entail/8)
-5164:     [yes], unknown,      NA, 'Defected'  XP: _1572258
-      Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
-      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5184:     [yes], unknown,      NA, 'Defected'  XP: _1573216
-      Niet meer dan vijftig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
-      Niet meer dan vijftig kinderen gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5315:     [yes], unknown,      NA, 'Defected'  XP: _1647318
-      Meer dan vijf van de kinderen gingen voor de suikerspin.
-      Meer dan vijf van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5232: [unknown], unknown,      NA, 'Defected'  XP: _5782016
-
-Inconsistency in node types (entail/8)
-5314:     [yes], unknown,      NA, 'Defected'  XP: _2751076
+5314:     [yes], unknown,      NA, 'Defected'  XP: _2996434
       Meer dan vijf van de kampeerders hebben kou gevat.
       Meer dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5170:     [yes], unknown,      NA, 'Defected'  XP: _4435392
+5170:     [yes], unknown,      NA, 'Defected'  XP: _4691168
       Minder dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
       Minder dan vijf van de kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5312:     [yes], unknown,      NA, 'Defected'  XP: _2236
-      Meer dan vijf kinderen gingen voor de suikerspin.
-      Meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+5230: [unknown], unknown,      NA, 'Defected'  XP: _4958286
 
 Inconsistency in node types (entail/8)
-5375: [unknown], unknown,      NA, 'Defected'  XP: _2140530
-
-Inconsistency in node types (entail/8)
-5008: [unknown], unknown,      NA, 'Defected'  XP: _2061016
-
-Inconsistency in node types (entail/8)
-5230: [unknown], unknown,      NA, 'Defected'  XP: _4702510
-
-Inconsistency in node types (entail/8)
-5068: [unknown], unknown,      NA, 'Defected'  XP: _2436932
-
-Inconsistency in node types (entail/8)
-5088: [unknown], unknown,      NA, 'Defected'  XP: _2437736
-
-Inconsistency in node types (entail/8)
-5284: [unknown], unknown,      NA, 'Defected'  XP: _2339426
-
-Inconsistency in node types (entail/8)
-5108: [unknown], unknown,      NA, 'Defected'  XP: _2438540
-
-Inconsistency in node types (entail/8)
-5128: [unknown], unknown,      NA, 'Defected'  XP: _2439344
-
-Inconsistency in node types (entail/8)
-5188:     [yes], unknown,      NA, 'Defected'  XP: _2593762
-      Niet meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
-      Niet meer dan vijf kinderen gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5310:     [yes], unknown,      NA, 'Defected'  XP: _5333472
+5310:     [yes], unknown,      NA, 'Defected'  XP: _5589248
       Meer dan vijf kampeerders hebben kou gevat.
       Meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5330:     [yes], unknown,      NA, 'Defected'  XP: _5334430
+5232: [unknown], unknown,      NA, 'Defected'  XP: _2222052
+
+Inconsistency in node types (entail/8)
+5330:     [yes], unknown,      NA, 'Defected'  XP: _5590206
       Niet minder dan vijf kampeerders hebben kou gevat.
       Niet minder dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5328:     [yes], unknown,      NA, 'Defected'  XP: _3121016
+5312:     [yes], unknown,      NA, 'Defected'  XP: _2702654
+      Meer dan vijf kinderen gingen voor de suikerspin.
+      Meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5164:     [yes], unknown,      NA, 'Defected'  XP: _5394416
+      Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5184:     [yes], unknown,      NA, 'Defected'  XP: _5395374
+      Niet meer dan vijftig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijftig kinderen gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5000: [unknown], unknown,      NA, 'Defected'  XP: _4487644
+
+Inconsistency in node types (entail/8)
+5060: [unknown], unknown,      NA, 'Defected'  XP: _4680804
+
+Inconsistency in node types (entail/8)
+5284: [unknown], unknown,      NA, 'Defected'  XP: _6161584
+
+Inconsistency in node types (entail/8)
+5100: [unknown], unknown,      NA, 'Defected'  XP: _4795170
+
+Inconsistency in node types (entail/8)
+5140: [unknown], unknown,      NA, 'Defected'  XP: _4909200
+
+Inconsistency in node types (entail/8)
+5220: [unknown], unknown,      NA, 'Defected'  XP: _5195892
+
+Inconsistency in node types (entail/8)
+5260: [unknown], unknown,      NA, 'Defected'  XP: _5484188
+
+Inconsistency in node types (entail/8)
+5280: [unknown], unknown,      NA, 'Defected'  XP: _5484992
+
+Inconsistency in node types (entail/8)
+5360: [unknown], unknown,      NA, 'Defected'  XP: _5792754
+
+Inconsistency in node types (entail/8)
+5095:     [yes], unknown,      NA, 'Defected'  XP: _5994696
+      Ten minste vijf stippen zijn scharlaken.
+      Ten minste vijf stippen zijn rood.
+
+Inconsistency in node types (entail/8)
+5008: [unknown], unknown,      NA, 'Defected'  XP: _4131852
+
+Inconsistency in node types (entail/8)
+5068: [unknown], unknown,      NA, 'Defected'  XP: _4507768
+
+Inconsistency in node types (entail/8)
+5088: [unknown], unknown,      NA, 'Defected'  XP: _4508572
+
+Inconsistency in node types (entail/8)
+5006:     [yes], unknown,      NA, 'Defected'  XP: _5277158
+      Ten minste een man zong en danste.
+      Ten minste een man zong.
+
+Inconsistency in node types (entail/8)
+5108: [unknown], unknown,      NA, 'Defected'  XP: _4509376
+
+Inconsistency in node types (entail/8)
+5128: [unknown], unknown,      NA, 'Defected'  XP: _4510180
+
+Inconsistency in node types (entail/8)
+5188:     [yes], unknown,      NA, 'Defected'  XP: _4664598
+      Niet meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Niet meer dan vijf kinderen gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5328:     [yes], unknown,      NA, 'Defected'  XP: _5191852
       Niet minder dan vijftig kinderen gingen voor de suikerspin.
       Niet minder dan vijftig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5215: [unknown], unknown,      NA, 'Defected'  XP: _780024
+
+Inconsistency in node types (entail/8)
+5315:     [yes], unknown,      NA, 'Defected'  XP: _1092750
+      Meer dan vijf van de kinderen gingen voor de suikerspin.
+      Meer dan vijf van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5375: [unknown], unknown,      NA, 'Defected'  XP: _1585962
 
 Inconsistency in node types (entail/8)
 5011: [unknown], unknown,      NA, 'Defected'  XP: _1551880
 
 Inconsistency in node types (entail/8)
-5031:     [yes], unknown,      NA, 'Defected'  XP: _1552684
-      Ze kuste hem.
-      Ze raakte hem aan.
+5066: [unknown], unknown,      NA, 'Defected'  XP: _1966
 
 Inconsistency in node types (entail/8)
-5051:     [yes], unknown,      NA, 'Defected'  XP: _1553642
-      Hij houdt van een vrouw.
-      Hij houdt van een persoon.
+5086: [unknown], unknown,      NA, 'Defected'  XP: _2724
 
 Inconsistency in node types (entail/8)
-5231: [unknown], unknown,      NA, 'Defected'  XP: _2629926
-
-Inconsistency in node types (entail/8)
-5311:     [yes], unknown,      NA, 'Defected'  XP: _3178482
-      Meer dan vijf kinderen gingen voor de suikerspin.
-      Meer dan vijf kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
-
-Inconsistency in node types (entail/8)
-5006:     [yes], unknown,      NA, 'Defected'  XP: _3861182
-      Ten minste een man zong en danste.
-      Ten minste een man zong.
-
-Inconsistency in node types (entail/8)
-5066: [unknown], unknown,      NA, 'Defected'  XP: _5586716
-
-Inconsistency in node types (entail/8)
-5086: [unknown], unknown,      NA, 'Defected'  XP: _5587520
-
-Inconsistency in node types (entail/8)
-5166:     [yes], unknown,      NA, 'Defected'  XP: _5900780
+5166:     [yes], unknown,      NA, 'Defected'  XP: _315984
       Minder dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
       Minder dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5186:     [yes], unknown,      NA, 'Defected'  XP: _5901738
+5186:     [yes], unknown,      NA, 'Defected'  XP: _316942
       Niet meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
       Niet meer dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5206: [unknown], unknown,      NA, 'Defected'  XP: _5902696
+5206: [unknown], unknown,      NA, 'Defected'  XP: _317900
 
 Inconsistency in node types (entail/8)
-5266: [unknown], unknown,      NA, 'Defected'  XP: _2170
+5266: [unknown], unknown,      NA, 'Defected'  XP: _909502
 
 Inconsistency in node types (entail/8)
-5326:     [yes], unknown,      NA, 'Defected'  XP: _149498
+5326:     [yes], unknown,      NA, 'Defected'  XP: _1056876
       Niet minder dan vijftig kampeerders hebben kou gevat.
       Niet minder dan vijftig kampeerders hebben een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5366:     [yes], unknown,      NA, 'Defected'  XP: _287672
+5231: [unknown], unknown,      NA, 'Defected'  XP: _2881638
+
+Inconsistency in node types (entail/8)
+5366:     [yes], unknown,      NA, 'Defected'  XP: _1195050
       Een of andere creatieve intelligente jongen lachte.
       Een of andere slimme jongen lachte.
 
 Inconsistency in node types (entail/8)
-5065:     [yes], unknown,      NA, 'Defected'  XP: _1972
+5311:     [yes], unknown,      NA, 'Defected'  XP: _3430194
+      Meer dan vijf kinderen gingen voor de suikerspin.
+      Meer dan vijf kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+Inconsistency in node types (entail/8)
+5065:     [yes], unknown,      NA, 'Defected'  XP: _1978
       Niet meer dan drie meisjes dansten niet.
       Niet meer dan drie meisjes bewogen niet.
 
 Inconsistency in node types (entail/8)
-5085:     [yes], unknown,      NA, 'Defected'  XP: _2884
+5085:     [yes], unknown,      NA, 'Defected'  XP: _2890
       Het is niet waar dat Betty in Duitsland woont.
       Het is niet waar dat Betty in Berlijn woont.
 
 Inconsistency in node types (entail/8)
-5165:     [yes], unknown,      NA, 'Defected'  XP: _453880
+5165:     [yes], unknown,      NA, 'Defected'  XP: _453886
       Minder dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Minder dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5185:     [yes], unknown,      NA, 'Defected'  XP: _454838
+5185:     [yes], unknown,      NA, 'Defected'  XP: _454844
       Niet meer dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Niet meer dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5205: [unknown], unknown,      NA, 'Defected'  XP: _455796
+5205: [unknown], unknown,      NA, 'Defected'  XP: _455802
 
 Inconsistency in node types (entail/8)
-5265: [unknown], unknown,      NA, 'Defected'  XP: _1114518
+5265: [unknown], unknown,      NA, 'Defected'  XP: _1114524
 
 Inconsistency in node types (entail/8)
-5325:     [yes], unknown,      NA, 'Defected'  XP: _1289392
+5325:     [yes], unknown,      NA, 'Defected'  XP: _1289398
       Niet minder dan vijftig kampeerders hebben kou gevat.
       Niet minder dan vijftig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
 

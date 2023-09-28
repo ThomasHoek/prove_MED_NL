@@ -38,6 +38,8 @@ Future tutorial and helpful commands to be added soon.
 ```bash
 #  loading the prover with alpino (or npn_robbert) trees
 produce langpro
+
+swipl -f ../prove_SICK_NL/prolog/main.pl  MED_NL/sen.pl  MED_NL/parses/alpino_aethel.pl  ../prove_SICK_NL/WNProlog/wn.pl
 ```
 
 ```prolog
@@ -50,4 +52,7 @@ parList([parts([crowd]), lang(nl), anno_json('MED_NL/anno/alpino.json'), complet
 
 parList([parts([paper]), parallel(X), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck, waif('Results/result.txt')]).
 parList([parts([crowd]), parallel(X), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck, waif('Results/result.txt')]).
+
+parList([nil,effCr([equi,nonBr,nonProd,nonCons]),ral(400),parts([crowd]),lang(nl), aall,wn_ant,wn_sim,wn_der,constchck,allInt,anno_json('MED_NL/anno/alpino.json'), waif('Results/result.txt')]).
+parList([nil,effCr([equi,nonBr,nonProd,nonCons]),ral(400),parts([crowd]),lang(nl),parallel(20),aall,wn_ant,wn_sim,wn_der,constchck,allInt,anno_json('MED_NL/anno/alpino.json'), waif('Results/result.txt')]).
 ```

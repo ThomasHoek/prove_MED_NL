@@ -1,15 +1,19 @@
-2: [unknown],     yes,  closed, 'Ter',10    XP: []
-      Geen afgevaardigde had het verslag op tijd af.
-      Geen afgevaardigde had het verslag af.
-   
-7: [unknown],     yes,  closed, 'Ter',10    XP: [int(veel)]
-      Geen van beide commissarissen brengt veel tijd thuis door.
-      Geen van beide commissarissen brengt tijd thuis door.
-
 23: [unknown],     yes,  closed, 'Ter',4     XP: [int(vrouwelijk)]
       Weinig vrouwelijke comitéleden komen uit zuid-Europa.
       Weinig comitéleden komen uit zuid-Europa.
+   
+53: [unknown],     yes,  closed, 'Ter',3     XP: [isa(hond,dier)]
+      Alle honden vinden het leuk om hun oren te krabben.
+      Alle dieren vinden het leuk om hun oren te krabben.
 
+7: [unknown],     yes,  closed, 'Ter',10    XP: [int(veel)]
+      Geen van beide commissarissen brengt veel tijd thuis door.
+      Geen van beide commissarissen brengt tijd thuis door.
+   
+2: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Geen afgevaardigde had het verslag op tijd af.
+      Geen afgevaardigde had het verslag af.
+  
 21: [unknown],     yes,  closed, 'Ter',4     XP: []
       De meeste Europeanen die inwoner zijn in Europa kunnen vrij reizen binnen Europa.
       De meeste Europeanen kunnen vrij reizen binnen Europa.
@@ -17,34 +21,38 @@
 24: [unknown],     yes,  closed, 'Ter',10    XP: [int(vrouwelijk)]
       Beide vrouwelijke commissarissen zaten ooit in de handel.
       Beide commissarissen zaten ooit in de handel.
-  
+
 58: [unknown],     yes,  closed, 'Ter',10    XP: [int(ontwikkelen)]
       In alle ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
       In alle gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
-
+  
 4229: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
       Geen buitenaards wezen zag enige duiven.
       Geen buitenaards wezen zag vogels.
-
+  
+109: [unknown],     yes,  closed, 'Ter',12    XP: [int(a),int(aangenaam),int(who@abst(_1768766,hebben@(met@(om_gaan@(met@(a@(ander@mens)))))@_1768766@ik))]
+      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+      De eerste ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+ 
 4237: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
       Alleen 12 buitenaardse wezens zagen enige duiven.
       Alleen 12 buitenaardse wezens zagen vogels.
-
-4228: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
-      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
-      Geen buitenaards wezen at bij restaurants.
 
 4221: [unknown],     yes,  closed, 'Ter',11    XP: [int(enkel),int(no),isa(duif,vogel)]
       Het blauwe buitenaardse wezen zag geen enkele duif.
       Het blauwe buitenaardse wezen zag geen vogels.
 
+4261: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Weinig buitenaardse wezens kochten shirts.
+      Weinig buitenaardse wezens kochten kleren.
+
 4277: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
       Het gele buitenaardse wezen kocht geen shirts.
       Het gele buitenaardse wezen kocht geen kleren.
 
-4261: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
-      Weinig buitenaardse wezens kochten shirts.
-      Weinig buitenaardse wezens kochten kleren.
+4228: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+      Geen buitenaards wezen at bij restaurants.
 
 4204: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
       Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
@@ -57,7 +65,7 @@
 4213: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
       Weinig buitenaardse wezens zagen enige duiven.
       Weinig buitenaardse wezens zagen vogels.
-
+  
 4253: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
       Precies 12 buitenaardse wezens kochtten shirts.
       Precies 12 buitenaardse wezens kochtten kleren.
@@ -70,21 +78,13 @@
       Het gele buitenaardse wezen zag geen duiven.
       Het gele buitenaardse wezen zag geen vogels.
 
-4212: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
-      Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
-      Weinig buitenaardse wezens aten bij restaurants.
-
 4389: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
       Geen buitenaards wezen zag duiven.
       Geen buitenaards wezen zag vogels.
 
-4347: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(cola,frisdrank)]
-      Weinig buitenaardse wezens dronken enige cola.
-      Weinig buitenaardse wezens dronken frisdrank.
-
-4437: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
-      Alleen 12 buitenaardse wezens kochten wat shirts.
-      Alleen 12 buitenaardse wezens kochten kleren.
+4212: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
+      Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Weinig buitenaardse wezens aten bij restaurants.
 
 4421: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
       Alleen 12 buitenaardse wezens zagen duiven.
@@ -94,6 +94,18 @@
       Precies 12 buitenaardse wezens kochtten enige shirts.
       Precies 12 buitenaardse wezens kochtten kleren.
 
+4347: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(cola,frisdrank)]
+      Weinig buitenaardse wezens dronken enige cola.
+      Weinig buitenaardse wezens dronken frisdrank.
+
+4437: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten wat shirts.
+      Alleen 12 buitenaardse wezens kochten kleren.
+  
+4373: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Weinig buitenaardse wezens zagen duiven.
+      Weinig buitenaardse wezens zagen vogels.
+
 4363: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(cola,frisdrank)]
       Geen buitenaards wezen dronk enige cola.
       Geen buitenaards wezen dronk frisdrank.
@@ -102,41 +114,41 @@
       Alleen 12 buitenaardse wezens dronken enige cola.
       Alleen 12 buitenaardse wezens dronken frisdrank.
 
-4373: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
-      Weinig buitenaardse wezens zagen duiven.
-      Weinig buitenaardse wezens zagen vogels.
-
 4501: [unknown],     yes,  closed, 'Ter',7     XP: [int(enkel),int(no),isa(shirt,kleren)]
       Het blauwe buitenaardse wezen kocht geen enkele shirts.
       Het blauwe buitenaardse wezen kocht geen enkele kleren.
-
-4236: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
-      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
-      Alleen 12 buitenaardse wezens aten bij restaurants.
 
 4541: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
       Precies 12 buitenaardse wezens kochtten wat shirts.
       Precies 12 buitenaardse wezens kochtten wat kleren.
 
-4428: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
-      Precies 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
-      Precies 12 buitenaardse wezens aten bij restaurants.
-
-4205: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
-      Precies 12 buitenaardse wezens zagen enige duiven.
-      Precies 12 buitenaardse wezens zagen vogels.
-
-4509: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
-      Geen buitenaards wezen kocht enige shirts.
-      Geen buitenaards wezen kocht enige kleren.
+4236: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enig)]
+      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij restaurants.
 
 4413: [unknown],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
       Precies 12 buitenaardse wezens zagen duiven.
       Precies 12 buitenaardse wezens zagen vogels.
 
+75: [unknown],     yes,  closed, 'Ter',16    XP: []
+      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+      Ik heb nog nooit een kolibrie gezien.
+
+4509: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Geen buitenaards wezen kocht enige shirts.
+      Geen buitenaards wezen kocht enige kleren.
+
+4205: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(duif,vogel)]
+      Precies 12 buitenaardse wezens zagen enige duiven.
+      Precies 12 buitenaardse wezens zagen vogels.
+
 4549: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
       Alleen 12 buitenaardse wezens kochten enige shirts.
       Alleen 12 buitenaardse wezens kochten enige kleren.
+
+4428: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+      Precies 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij restaurants.
 
 4581: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
       Alleen 12 buitenaardse wezens zagen een paar duiven.
@@ -145,10 +157,6 @@
 4331: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
       Alleen 12 buitenaardse wezens dronken wat cola.
       Alleen 12 buitenaardse wezens dronken frisdrank.
-
-4523: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
-      Het gele buitenaardse wezen dronk geen cola.
-      Het gele buitenaardse wezen dronk geen frisdrank.
 
 4285: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
       Geen buitenaards wezen kocht shirts.
@@ -162,6 +170,10 @@
       Precies 12 buitenaardse wezens zagen enige duiven.
       Precies 12 buitenaardse wezens zagen enige vogels.
 
+4523: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Het gele buitenaardse wezen dronk geen cola.
+      Het gele buitenaardse wezen dronk geen frisdrank.
+
 4563: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Alleen 12 buitenaardse wezens dronken cola.
       Alleen 12 buitenaardse wezens dronken frisdrank.
@@ -174,6 +186,18 @@
       Precies 12 buitenaardse wezens zagen een paar duiven.
       Precies 12 buitenaardse wezens zagen een paar vogels.
 
+4653: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Geen buitenaards wezen zag enige duiven.
+      Geen buitenaards wezen zag enige vogels.
+
+4436: [unknown],     yes,  closed, 'Ter',4     XP: [int(a_few)]
+      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
+      Alleen 12 buitenaardse wezens aten bij restaurants.
+
+4432: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+      Alleen 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+
 4315: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
       Precies 12 buitenaardse wezens dronken een beetje cola.
       Precies 12 buitenaardse wezens dronken frisdrank.
@@ -182,105 +206,85 @@
       Het blauwe buitenaardse wezen dronk geen enkele cola.
       Het blauwe buitenaardse wezen dronk geen frisdrank.
 
+4516: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
+      Weinig buitenaardse wezens aten bij restaurants.
+
 4395: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
       Precies 12 buitenaardse wezens dronken wat cola.
       Precies 12 buitenaardse wezens dronken frisdrank.
-
-4637: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
-      Weinig buitenaardse wezens zagen enige duiven.
-      Weinig buitenaardse wezens zagen enige vogels.
-
-4653: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
-      Geen buitenaards wezen zag enige duiven.
-      Geen buitenaards wezen zag enige vogels.
 
 4683: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
       Alleen 12 buitenaardse wezens dronken wat cola.
       Alleen 12 buitenaardse wezens dronken wat frisdrank.
 
-4436: [unknown],     yes,  closed, 'Ter',4     XP: [int(a_few)]
-      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
-      Alleen 12 buitenaardse wezens aten bij restaurants.
-
-4516: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
-      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
-      Weinig buitenaardse wezens aten bij restaurants.
-
-4432: [unknown],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
-      Alleen 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
-      Alleen 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+4637: [unknown],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Weinig buitenaardse wezens zagen enige duiven.
+      Weinig buitenaardse wezens zagen enige vogels.
 
 4564: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Alleen 12 buitenaardse wezens aten bij Mexicaanse restaurants.
       Alleen 12 buitenaardse wezens aten bij restaurants.
 
-4723: [unknown],     yes,  closed, 'Ter',7     XP: [int(enkel),int(no),isa(cola,frisdrank)]
-      Het blauwe buitenaardse wezen dronk geen enkele cola.
-      Het blauwe buitenaardse wezen dronk geen enkele frisdrank.
-
 4556: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Precies 12 buitenaardse wezens aten bij Mexicaanse restaurants.
       Precies 12 buitenaardse wezens aten bij restaurants.
 
-4668: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
-      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
-      Alleen 12 buitenaardse wezens aten bij enige restaurants.
+4723: [unknown],     yes,  closed, 'Ter',7     XP: [int(enkel),int(no),isa(cola,frisdrank)]
+      Het blauwe buitenaardse wezen dronk geen enkele cola.
+      Het blauwe buitenaardse wezen dronk geen enkele frisdrank.
 
 4644: [unknown],     yes,  closed, 'Ter',25    XP: [int(Mexicaans),int(enkel),int(no)]
       Het blauwe buitenaardse wezen at bij geen enkel Mexicaans restaurant.
       Het blauwe buitenaardse wezen at bij geen enkel restaurant.
 
-4531: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
-      Geen buitenaards wezen dronk cola.
-      Geen buitenaards wezen dronk frisdrank.
-
-4515: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
-      Weinig buitenaardse wezens dronken cola.
-      Weinig buitenaardse wezens dronken frisdrank.
-
 4636: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
       Weinig buitenaardse wezens aten bij enige restaurants.
+
+4668: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij enige restaurants.
+
+4531: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Geen buitenaards wezen dronk cola.
+      Geen buitenaards wezen dronk frisdrank.
 
 4909: [unknown],     yes,  closed, 'Ter',4     XP: [int(enkel),isa(shirt,kleren)]
       Het rode buitenaardse wezen kocht geen enkele shirts.
       Het rode buitenaardse wezen kocht geen kleren.
 
-4555: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
-      Precies 12 buitenaardse wezens dronken cola.
-      Precies 12 buitenaardse wezens dronken frisdrank.
-
-4739: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
-      Precies 12 buitenaardse wezens dronken wat cola.
-      Precies 12 buitenaardse wezens dronken wat frisdrank.
-
 4532: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Geen buitenaards wezen at bij Mexicaanse restaurants.
       Geen buitenaards wezen at bij restaurants.
+
+4515: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Weinig buitenaardse wezens dronken cola.
+      Weinig buitenaardse wezens dronken frisdrank.
 
 4747: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
       Alleen 12 buitenaardse wezens dronken enige cola.
       Alleen 12 buitenaardse wezens dronken enige frisdrank.
 
-4757: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
-      Precies 12 buitenaardse wezens kochtten enige shirts.
-      Precies 12 buitenaardse wezens kochtten enige kleren.
+4555: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken cola.
+      Precies 12 buitenaardse wezens dronken frisdrank.
 
 4645: [unknown],     yes,  closed, 'Ter',7     XP: [int(enkel),int(no),isa(duif,vogel)]
       Het blauwe buitenaardse wezen zag geen enkele duif.
       Het blauwe buitenaardse wezen zag geen enkele vogel.
 
+4757: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Precies 12 buitenaardse wezens kochtten enige shirts.
+      Precies 12 buitenaardse wezens kochtten enige kleren.
+
 4903: [unknown],     yes,  closed, 'Ter',11    XP: [int(enkel),int(no),isa(duif,vogel)]
       Het rode buitenaardse wezen zag geen enkele duif.
       Het rode buitenaardse wezen zag geen vogels.
 
-4675: [unknown],     yes,  closed, 'Ter',4     XP: [isa(cola,frisdrank)]
-      Precies 12 buitenaardse wezens dronken een beetje cola.
-      Precies 12 buitenaardse wezens dronken een beetje frisdrank.
-
-4660: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
-      Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
-      Precies 12 buitenaardse wezens aten bij enige restaurants.
+4739: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken wat cola.
+      Precies 12 buitenaardse wezens dronken wat frisdrank.
 
 4756: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Precies 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
@@ -294,13 +298,9 @@
       Weinig taalkundigen betraden de race vroeg.
       Weinig taalkundigen betraden de race.
 
-4715: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
-      Weinig buitenaardse wezens dronken enige cola.
-      Weinig buitenaardse wezens dronken enige frisdrank.
-
-5018: [unknown],     yes,  closed, 'Ter',5     XP: []
-      Iedere man zong of danste.
-      Iedere man zong.
+4675: [unknown],     yes,  closed, 'Ter',4     XP: [isa(cola,frisdrank)]
+      Precies 12 buitenaardse wezens dronken een beetje cola.
+      Precies 12 buitenaardse wezens dronken een beetje frisdrank.
 
 5003: [unknown],     yes,  closed, 'Ter',5     XP: [int(lang),int(precies)]
       Precies een lange man rende.
@@ -310,37 +310,41 @@
       Geen buitenaards wezen dronk enige cola.
       Geen buitenaards wezen dronk enige frisdrank.
 
-4999: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
-      Iedere lange man rende.
-      Iedere man rende.
+4715: [unknown],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Weinig buitenaardse wezens dronken enige cola.
+      Weinig buitenaardse wezens dronken enige frisdrank.
 
-5022: [unknown],     yes,  closed, 'Ter',5     XP: []
-      Precies een man zong of danste.
-      Precies een man zong.
+4660: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij enige restaurants.
 
-ERROR: sentence id=4915
-Failed to align term tokens and lexical annotations
-term tokes: [[[geen],[roos],[.]]]
-lexical annotation: [j{l:ze,lcat: --,p:pron,postag:'VNW(pers,pron,stan,red,3,mv)',pt:vnw,r:ze,rel: --,s:ze,t:'Ze'},j{l:gad,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:gad,rel:dp,s:gad,t:gad},j{l:hem,lcat:np,p:pron,postag:'VNW(pers,pron,obl,vol,3,ev,masc)',pt:vnw,r:hem,rel:dp,s:hem,t:hem},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:roos,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:roos,rel:hd,s:roos,t:roos},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-5358: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
-      John zag geen lange student.
-      John zag geen student.
+5018: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Iedere man zong of danste.
+      Iedere man zong.
 
 5353: [unknown],     yes,  closed, 'Ter',6     XP: [int(lang)]
       Geen lange leraar rende gisteren.
       Geen leraar rende.
 
-4760: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
-      Alleen 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
-      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
+4765: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten wat shirts.
+      Alleen 12 buitenaardse wezens kochten wat kleren.
 
 4910: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
       Geen buitenaards wezen kocht enige shirts.
       Geen buitenaards wezen kocht kleren.
 
-4765: [unknown],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
-      Alleen 12 buitenaardse wezens kochten wat shirts.
-      Alleen 12 buitenaardse wezens kochten wat kleren.
+5358: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      John zag geen lange student.
+      John zag geen student.
+
+5022: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Precies een man zong of danste.
+      Precies een man zong.
+
+4914: [unknown],     yes,  closed, 'Ter',4     XP: [int(enkel),isa(cola,frisdrank)]
+      Het rode buitenaardse wezen dronk geen enkele cola.
+      Het rode buitenaardse wezen dronk geen frisdrank.
 
 5027: [unknown],     yes,  closed, 'Ter',28    XP: [int(ieder),int(lang),isa(uit@Japan@man,man),isa(uit@Japan@(ieder@(lang@man)),ieder@(lang@man))]
       Iedere lange man uit Japan rende snel.
@@ -350,21 +354,9 @@ lexical annotation: [j{l:ze,lcat: --,p:pron,postag:'VNW(pers,pron,stan,red,3,mv)
       Iedere zebra is gestreept.
       Ieder zoogdier is gestreept.
 
-4914: [unknown],     yes,  closed, 'Ter',4     XP: [int(enkel),isa(cola,frisdrank)]
-      Het rode buitenaardse wezen dronk geen enkele cola.
-      Het rode buitenaardse wezen dronk geen frisdrank.
-
-4920: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
-      Precies 12 buitenaardse wezens kochtten wat shirts.
-      Precies 12 buitenaardse wezens kochtten kleren.
-
-4960: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
-      Weinig buitenaardse wezens kochten enige shirts.
-      Weinig buitenaardse wezens kochten kleren.
-
-4984: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
-      Alleen 12 buitenaardse wezens kochten enige shirts.
-      Alleen 12 buitenaardse wezens kochten kleren.
+4999: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Iedere lange man rende.
+      Iedere man rende.
 
 4994: [unknown],     yes,  closed, 'Ter',2     XP: []
       Geen man rende snel.
@@ -374,15 +366,31 @@ lexical annotation: [j{l:ze,lcat: --,p:pron,postag:'VNW(pers,pron,stan,red,3,mv)
       Precies 12 buitenaardse wezens zagen een paar duiven.
       Precies 12 buitenaardse wezens zagen vogels.
 
+4984: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten enige shirts.
+      Alleen 12 buitenaardse wezens kochten kleren.
+
+4760: [unknown],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Alleen 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
+
+4920: [unknown],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+      Precies 12 buitenaardse wezens kochtten wat shirts.
+      Precies 12 buitenaardse wezens kochtten kleren.
+
+4960: [unknown],     yes,  closed, 'Ter',4     XP: [int(enig),isa(shirt,kleren)]
+      Weinig buitenaardse wezens kochten enige shirts.
+      Weinig buitenaardse wezens kochten kleren.
+
 5028: [unknown],     yes,  closed, 'Ter',27    XP: [int(ieder),int(lang),isa(uit@Japan@man,man)]
       Iedere lange man uit Japan die de blues zingt rende snel.
       Iedere lange man rende.
 
-5351: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
-      Iedere student kuste iedere lange leraar.
-      Iedere student kuste iedere leraar.
-
 5146: [unknown],     yes,  closed, 'Ter',6     XP: []
       Mary is verdrietig of moe.
       Mary is verdrietig.
+
+5351: [unknown],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Iedere student kuste iedere lange leraar.
+      Iedere student kuste iedere leraar.
 

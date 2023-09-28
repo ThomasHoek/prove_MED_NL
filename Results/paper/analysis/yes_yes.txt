@@ -1,39 +1,41 @@
-4:     [yes],     yes,  closed, 'Ter',4     XP: [int(interessant)]
-  
-1:     [yes],     yes,  closed, 'Ter',10    XP: [isa(voor@c1@nobel_prijs,nobel_prijs)]
-  
 3:     [yes],     yes,  closed, 'Ter',10    XP: []
-  
+
+4:     [yes],     yes,  closed, 'Ter',4     XP: [int(interessant)]
+
+1:     [yes],     yes,  closed, 'Ter',10    XP: [isa(voor@c1@nobel_prijs,nobel_prijs)]
+
 43:     [yes],     yes,  closed, 'Ter',9     XP: [isa(hond,dier)]
   
 4269:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
 
-4301:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
-  
 105:     [yes],     yes,  closed, 'Ter',4     XP: [int(sereen)]
 
-4339:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
-
+4301:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+ 
 90:     [yes],     yes,  closed, 'Ter',90    XP: [isa(koning,persoon)]
 
 4307:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
 
 4323:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
 
-4477:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
+4339:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
+
+108:     [yes],     yes,  closed, 'Ter',20    XP: []
 
 4461:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
 
-4469:     [yes],     yes,  closed, 'Ter',10    XP: [int(a_few),isa(shirt,kleding)]
+4477:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
 
-4468:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+4469:     [yes],     yes,  closed, 'Ter',10    XP: [int(a_few),isa(shirt,kleding)]
 
 4621:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
 
-4245:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleding)]
-
 4453:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
 
+4245:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleding)]
+
+4468:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+  
 4629:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
 
 4603:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
@@ -42,9 +44,9 @@
 
 4613:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
 
-4588:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
-
 4476:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
+
+4588:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
 
 4587:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
 
@@ -52,15 +54,11 @@
 
 4485:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
 
-4520:     [yes],     yes,  closed, 'Ter',6     XP: [int(Mexicaans)]
-
 4789:     [yes],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
 
 4604:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
 
 4829:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleren)]
-
-4699:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
 
 4596:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
 
@@ -68,15 +66,21 @@
 
 4707:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
 
+4520:     [yes],     yes,  closed, 'Ter',6     XP: [int(Mexicaans)]
+
+5029:     [yes],     yes,  closed, 'Ter',2     XP: [isa(roos,bloem)]
+
+4699:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+
 4595:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
 
 4941:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(shirt,kleren)]
 
-4788:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+5369:     [yes],     yes,  closed, 'Ter',2     XP: []
 
 4943:     [yes],     yes,  closed, 'Ter',4     XP: [int(a),isa(cola,frisdrank)]
 
-5369:     [yes],     yes,  closed, 'Ter',2     XP: []
+4788:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
 
 4691:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
 
@@ -84,13 +88,7 @@
 
 4937:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(a_few)]
 
-5342:     [yes],     yes,  closed, 'Ter',6     XP: []
-
 4844:     [yes],     yes,  closed, 'Ter',12    XP: [int(Mexicaans),int(a_few)]
-
-4795:     [yes],     yes,  closed, 'Ter',11    XP: [int(a),isa(cola,frisdrank)]
-
-4780:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
 
 4936:     [yes],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
 
@@ -98,7 +96,7 @@
 
 4976:     [yes],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
 
-4935:     [yes],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
+5342:     [yes],     yes,  closed, 'Ter',6     XP: []
 
 4772:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
 
@@ -106,25 +104,33 @@
 
 4892:     [yes],     yes,  closed, 'Ter',11    XP: [int(a_few),isa(duif,vogel)]
 
-5004:     [yes],     yes,  closed, 'Ter',11    XP: [int(lang)]
+4795:     [yes],     yes,  closed, 'Ter',11    XP: [int(a),isa(cola,frisdrank)]
 
 5014:     [yes],     yes,  closed, 'Ter',4     XP: []
 
 4990:     [yes],     yes,  closed, 'Ter',2     XP: []
 
+5004:     [yes],     yes,  closed, 'Ter',11    XP: [int(lang)]
+
+4780:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+
+4845:     [yes],     yes,  closed, 'Ter',11    XP: [int(a),isa(shirt,kleren)]
+
+4935:     [yes],     yes,  closed, 'Ter',4     XP: [int(a_few),isa(duif,vogel)]
+
+5370:     [yes],     yes,  closed, 'Ter',2     XP: []
+
+4946:     [yes],     yes,  closed, 'Ter',11    XP: [int(Mexicaans)]
+
 5015:     [yes],     yes,  closed, 'Ter',4     XP: []
 
 5075:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dansen,bewegen)]
 
-4845:     [yes],     yes,  closed, 'Ter',11    XP: [int(a),isa(shirt,kleren)]
-
-5370:     [yes],     yes,  closed, 'Ter',2     XP: []
+5026:     [yes],     yes,  closed, 'Ter',2     XP: []
 
 5368:     [yes],     yes,  closed, 'Ter',2     XP: []
 
-4946:     [yes],     yes,  closed, 'Ter',11    XP: [int(Mexicaans)]
-
-5026:     [yes],     yes,  closed, 'Ter',2     XP: []
+5051:     [yes],     yes,  closed, 'Ter',2     XP: [isa(vrouw,persoon)]
 
 5345:     [yes],     yes,  closed, 'Ter',11    XP: [int(lang)]
 
