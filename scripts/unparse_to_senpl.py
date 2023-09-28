@@ -9,19 +9,18 @@ unparsed = open("MED_NL/unparse.txt", "r")
 unparsed = [int(re.findall("[0-9]+", x)[0]) for x in unparsed]
 
 
-def grep(inp_lst: list[str], inp_str: str) -> int:
-    # https://stackoverflow.com/a/53537365
-    ide = [i for i, item in enumerate(inp_lst) if re.search(inp_str, item)]
-    return ide[0]
-
-
 num_lst: list[int] = []
-for i in unparsed:
-    sen_index = grep(sen_pl, f"%problem id = {i}\n")
-    for plus in [1, 2]:
-        num_lst.append(
-            int(sen_pl[sen_index + plus].split(",")[0].replace("sen_id(", ""))
-        )
+for prob_line in sen_pl:
+    if prob_line[0] == "%":
+        continue
+
+    print(prob_line)
+    sent_id, problem_id = prob_line.split(",")[0:2]
+    problem_id = int(problem_id)
+    sent_id = int(sent_id.replace("sen_id(", ""))
+
+    if sent_id in unparsed:
+        num_lst.append(problem_id)
 
 
 with open("MED_NL/broken.txt", "w+") as broken:
