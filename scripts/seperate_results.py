@@ -50,7 +50,7 @@ split = args.kind
 
 
 # get unparsed
-broken = open("MED_NL/broken_num.txt", "r").readlines()
+broken = open("MED_NL/problems/broken_alpino_aethel_sentences.txt", "r").readlines()
 broken = [int(x.rstrip()) for x in broken]
 
 # get data
