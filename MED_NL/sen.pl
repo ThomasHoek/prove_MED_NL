@@ -287,11 +287,11 @@ sen_id(2017, 95, 'h', 'paper', 'unknown', 'Hoewel de meeste aanpakken voor begri
 sen_id(2017, 96, 'p', 'paper', 'unknown', 'Hoewel de meeste aanpakken voor begrijpend lezen afhankelijk zijn van recurrent neurale netwerken (RNN\'s), is het onbetaalbaar langzaam om ze over lange documenten te laten lopen omdat het moeilijk is om over reeksen te parallelliseren.').
 sen_id(2018, 96, 'h', 'paper', 'unknown', 'Hoewel de meeste succesvolle aanpakken voor begrijpend lezen afhankelijk zijn van recurrent neurale netwerken (RNN\'s), is het onbetaalbaar langzaam om ze over lange documenten te laten lopen omdat het moeilijk is om over reeksen te parallelliseren.').
 %problem id = 97
-%sen_id(1344, 97, 'p', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
-%sen_id(1345, 97, 'h', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
+sen_id(1344, 97, 'p', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
+sen_id(1345, 97, 'h', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
 %problem id = 98
-%sen_id(1345, 98, 'p', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
-%sen_id(1344, 98, 'h', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
+sen_id(1345, 98, 'p', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
+sen_id(1344, 98, 'h', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
 %problem id = 99
 sen_id(693, 99, 'p', 'paper', 'yes', 'Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.').
 sen_id(694, 99, 'h', 'paper', 'yes', 'Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.').

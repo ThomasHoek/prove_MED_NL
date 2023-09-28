@@ -1,243 +1,262 @@
 Inconsistency in node types (entail/8)
-138: [unknown], unknown,      NA, 'Defected'  XP: _2494
+150: [unknown], unknown,      NA, 'Defected'  XP: _2494
+      Alles is in handen van de mens, was ze daarom vaak.
+      Alles is in handen van andere entiteit, was ze daarom vaak.
 
 Inconsistency in node types (entail/8)
-150: [unknown], unknown,      NA, 'Defected'  XP: _2494
+138: [unknown], unknown,      NA, 'Defected'  XP: _2494
+      Een paar kinderen leren talen makkelijk en anderen met moeite.
+      Een paar kinderen leren wiskunde makkelijk en anderen met moeite.
  
 Inconsistency in node types (entail/8)
-309: [unknown], unknown,      NA, 'Defected'  XP: _3466826
+309: [unknown], unknown,      NA, 'Defected'  XP: _3463734
+      In ieder geval, dat is een illusie.
+      In ieder geval, dat is een illusie en paranoïde.
  
 Inconsistency in node types (entail/8)
-329: [unknown], unknown,      NA, 'Defected'  XP: _3467630
+329: [unknown], unknown,      NA, 'Defected'  XP: _3464692
+      Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
+      Ik denk dat de meeste jonge mensen het liefst naar heavy metal muziek luisteren.
  
 Inconsistency in node types (entail/8)
-466: [unknown], unknown,      NA, 'Defected'  XP: _2676860
- 
+466: [unknown], unknown,      NA, 'Defected'  XP: _2675024
+      Het heeft geen zin om mij voor de gek proberen te houden.
+      Het heeft geen zin om mij proberen pijn te doen.
+
 Inconsistency in node types (entail/8)
 316: [unknown], unknown,      NA, 'Defected'  XP: _2704
+      Als de hemel op de aarde zou vallen, zou vogels vangen een simpele taak zijn.
+      Als de hemel op de aarde zou vallen, zou vogels vangen en dansen in de hemel een simpele taak zijn.
  
 Inconsistency in node types (entail/8)
-743: [unknown], unknown,      NA, 'Defected'  XP: _6172358
+743: [unknown], unknown,      NA, 'Defected'  XP: _298894
+      Een tsunami is een reeks van golven gecreëerd wanneer een waterlichaam snel ontheemde op een enorme schaal.
+      Een seismische golf in de zee is een reeks van golven gecreëerd wanneer een waterlichaam snel ontheemde op een enorme schaal.
  
 Inconsistency in node types (entail/8)
-1763:     [yes], unknown,      NA, 'Defected'  XP: _5407536
+1763:     [yes], unknown,      NA, 'Defected'  XP: _4390
       We kunnen hier praten, geen probleem.
       We kunnen hier praten, geen probleem en begin met praten.
 
 Inconsistency in node types (entail/8)
-1870:     [yes], unknown,      NA, 'Defected'  XP: _2289050
-      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
-      Tom zei dat hij nooit droog hondenvoer heeft geprobeerd te eten.
-
-Inconsistency in node types (entail/8)
-1747:     [yes], unknown,      NA, 'Defected'  XP: _1110104
-      Tom zei dat hij nooit walvisvlees heeft geprobeerd te eten.
-      Tom zei dat hij nooit in zijn leven walvisvlees heeft geprobeerd te eten.
-
-Inconsistency in node types (entail/8)
-1868:     [yes], unknown,      NA, 'Defected'  XP: _2048100
+1868:     [yes], unknown,      NA, 'Defected'  XP: _4951764
       Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
       Tom zei dat hij nooit in zijn leven hondenvoer heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-1602:     [yes], unknown,      NA, 'Defected'  XP: _175592
+1870:     [yes], unknown,      NA, 'Defected'  XP: _2289672
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
+      Tom zei dat hij nooit droog hondenvoer heeft geprobeerd te eten.
+
+Inconsistency in node types (entail/8)
+1602:     [yes], unknown,      NA, 'Defected'  XP: _3024780
       Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
       Als je een zinsvolgorde verandert in deze tekst, die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
 
 Inconsistency in node types (entail/8)
-1072: [unknown], unknown,      NA, 'Defected'  XP: _4204366
-
-Inconsistency in node types (entail/8)
-1764:     [yes], unknown,      NA, 'Defected'  XP: _6107246
+1764:     [yes], unknown,      NA, 'Defected'  XP: _5301080
       We kunnen hier praten, geen probleem.
       We kunnen hier praten, geen probleem en ik ben een en al oor.
 
 Inconsistency in node types (entail/8)
-1869:     [yes], unknown,      NA, 'Defected'  XP: _4864594
-      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
-      Tom zei dat hij nooit papperig hondenvoer heeft geprobeerd te eten.
+1747:     [yes], unknown,      NA, 'Defected'  XP: _1110264
+      Tom zei dat hij nooit walvisvlees heeft geprobeerd te eten.
+      Tom zei dat hij nooit in zijn leven walvisvlees heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-1571:     [yes], unknown,      NA, 'Defected'  XP: _944024
+1072: [unknown], unknown,      NA, 'Defected'  XP: _4363406
+      Ze heeft hepatitis geen wonder dat ze zo veel gewicht verliest.
+      Ze heeft een lange tijd hepatitis geen wonder dat ze zo veel gewicht verliest.
+
+Inconsistency in node types (entail/8)
+1571:     [yes], unknown,      NA, 'Defected'  XP: _944338
       Het heeft geen zin om Tom proberen te overtuigen.
       Het heeft simpelweg geen zin om Tom proberen te overtuigen.
 
 Inconsistency in node types (entail/8)
-1871: [unknown], unknown,      NA, 'Defected'  XP: _3718214
+1869:     [yes], unknown,      NA, 'Defected'  XP: _762098
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
+      Tom zei dat hij nooit papperig hondenvoer heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-1873: [unknown], unknown,      NA, 'Defected'  XP: _3747514
- 
-Inconsistency in node types (entail/8)
-2470:     [yes], unknown,      NA, 'Defected'  XP: _5792552
-      Toms vader keurt het niet goed dat hij lang haar en een baard heeft.
-      Toms vader keurt het niet goed dat hij lang haar en een getrimde baard heeft.
+1871: [unknown], unknown,      NA, 'Defected'  XP: _3719144
+      Tom zei dat hij nooit droog hondenvoer heeft geprobeerd te eten.
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-2471:     [yes], unknown,      NA, 'Defected'  XP: _5942662
-      Toms vader keurt het niet goed dat hij lang haar en een baard heeft.
-      Toms vader keurt het niet goed dat hij lang haar en een ringbaard heeft.
-
-Inconsistency in node types (entail/8)
-2439:     [yes], unknown,      NA, 'Defected'  XP: _5152
+2439:     [yes], unknown,      NA, 'Defected'  XP: _3209772
       Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
       Ga niet tot zulke uitersten, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-2954:     [yes], unknown,      NA, 'Defected'  XP: _355590
+2470:     [yes], unknown,      NA, 'Defected'  XP: _1945532
+      Toms vader keurt het niet goed dat hij lang haar en een baard heeft.
+      Toms vader keurt het niet goed dat hij lang haar en een getrimde baard heeft.
+
+Inconsistency in node types (entail/8)
+1873: [unknown], unknown,      NA, 'Defected'  XP: _3748290
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten voor ontbijt.
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
+
+Inconsistency in node types (entail/8)
+2471:     [yes], unknown,      NA, 'Defected'  XP: _5943746
+      Toms vader keurt het niet goed dat hij lang haar en een baard heeft.
+      Toms vader keurt het niet goed dat hij lang haar en een ringbaard heeft.
+
+Inconsistency in node types (entail/8)
+2954:     [yes], unknown,      NA, 'Defected'  XP: _2714946
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind venijn drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2323:     [yes], unknown,      NA, 'Defected'  XP: _5908
+2323:     [yes], unknown,      NA, 'Defected'  XP: _3217592
       Geloof dat niet, het is allemaal een sprookje.
       Geloof dat niet, het is allemaal een oud sprookje.
 
 Inconsistency in node types (entail/8)
-1160: [unknown], unknown,      NA, 'Defected'  XP: _5090170
+1160: [unknown], unknown,      NA, 'Defected'  XP: _3945338
+      Het is jammer dat ze niet kon komen.
+      Het is een toedracht dat ze niet kon komen.
 
 Inconsistency in node types (entail/8)
-1599:     [yes], unknown,      NA, 'Defected'  XP: _5523330
+1599:     [yes], unknown,      NA, 'Defected'  XP: _1846196
       Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
       Als je een betekenis verandert die al een paar andere vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
-
+ 
 Inconsistency in node types (entail/8)
-1872:     [yes], unknown,      NA, 'Defected'  XP: _6154820
-      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
-      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten voor ontbijt.
-
-Inconsistency in node types (entail/8)
-1759:     [yes], unknown,      NA, 'Defected'  XP: _167278
+1759:     [yes], unknown,      NA, 'Defected'  XP: _3470610
       Geen noodzaak om deze tekst te vertalen, ik heb de Spaanse versie al.
       Geen verdere noodzaak om deze tekst te vertalen, ik heb de Spaanse versie al.
 
 Inconsistency in node types (entail/8)
-2952:     [yes], unknown,      NA, 'Defected'  XP: _5369198
+1872:     [yes], unknown,      NA, 'Defected'  XP: _6155602
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten voor ontbijt.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2952:     [yes], unknown,      NA, 'Defected'  XP: _5746
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind dit gevaarlijke gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-1600:     [yes], unknown,      NA, 'Defected'  XP: _4439786
+1600:     [yes], unknown,      NA, 'Defected'  XP: _3225090
       Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
       Als je deze soort zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
 
 Inconsistency in node types (entail/8)
-2951:     [yes], unknown,      NA, 'Defected'  XP: _4061300
-      Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
-      Als jouw kind een soort gif drinkt, haast hem naar het ziekenhuis.
-
-Inconsistency in node types (entail/8)
-2438:     [yes], unknown,      NA, 'Defected'  XP: _3084248
+2438:     [yes], unknown,      NA, 'Defected'  XP: _3084870
       Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
       Ga niet tot belachelijke uitersten, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-1601:     [yes], unknown,      NA, 'Defected'  XP: _2032874
-      Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
-      Als je een zin verandert in deze tekst, die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
-
-Inconsistency in node types (entail/8)
-2950:     [yes], unknown,      NA, 'Defected'  XP: _3203306
+2950:     [yes], unknown,      NA, 'Defected'  XP: _5794
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind een fles gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2949:     [yes], unknown,      NA, 'Defected'  XP: _3871826
-      Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
-      Als jouw kind vloeistof van gif drinkt, haast hem naar het ziekenhuis.
+1601:     [yes], unknown,      NA, 'Defected'  XP: _4192
+      Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
+      Als je een zin verandert in deze tekst, die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
 
 Inconsistency in node types (entail/8)
-2953:     [yes], unknown,      NA, 'Defected'  XP: _249024
+2951:     [yes], unknown,      NA, 'Defected'  XP: _4455014
+      Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
+      Als jouw kind een soort gif drinkt, haast hem naar het ziekenhuis.
+
+Inconsistency in node types (entail/8)
+2953:     [yes], unknown,      NA, 'Defected'  XP: _249190
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind een beetje gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-3664:     [yes], unknown,      NA, 'Defected'  XP: _522044
+3664:     [yes], unknown,      NA, 'Defected'  XP: _5830124
       Ga niet op die doos zitten, je zal het kapot maken!
       Ga niet op die fragiele doos zitten, je zal het kapot maken!
 
 Inconsistency in node types (entail/8)
-3812:     [yes], unknown,      NA, 'Defected'  XP: _6724
-      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
-      Als je wil dat een man een aanzoek doet voor een snel huwelijk, voed hem goed.
+2949:     [yes], unknown,      NA, 'Defected'  XP: _883122
+      Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
+      Als jouw kind vloeistof van gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2437:     [yes], unknown,      NA, 'Defected'  XP: _3545812
-      Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
-      Ga niet tot stomme uitersten, gematigd zijn is belangrijk in alles.
-
-Inconsistency in node types (entail/8)
-2440:     [yes], unknown,      NA, 'Defected'  XP: _5943486
-      Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
-      Ga niet tot uitersten op zulk niveau, gematigd zijn is belangrijk in alles.
-
-Inconsistency in node types (entail/8)
-2936:     [yes], unknown,      NA, 'Defected'  XP: _1344766
-      Je kunt hier niet leren, dit is een school!
-      Je kunt hier niet leren, dit is een geweldige school!
-
-Inconsistency in node types (entail/8)
-4044:     [yes], unknown,      NA, 'Defected'  XP: _5755484
+4044:     [yes], unknown,      NA, 'Defected'  XP: _2968842
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een heer een huwelijksaanzoek doet, voed hem goed.
 
 Inconsistency in node types (entail/8)
-4099:     [yes], unknown,      NA, 'Defected'  XP: _1576740
-      Tom wilde geen rechtvaardigheid, hij wilde wraak.
-      Tom wilde geen eerlijke rechtvaardigheid, hij wilde wraak.
+2437:     [yes], unknown,      NA, 'Defected'  XP: _284924
+      Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
+      Ga niet tot stomme uitersten, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-4119:     [yes], unknown,      NA, 'Defected'  XP: _1577698
-      Het heeft geen zin om mij om geld te vragen.
-      Het heeft geen zin om mij en Tom om geld te vragen.
+3812:     [yes], unknown,      NA, 'Defected'  XP: _1584766
+      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
+      Als je wil dat een man een aanzoek doet voor een snel huwelijk, voed hem goed.
 
 Inconsistency in node types (entail/8)
-3676:     [yes], unknown,      NA, 'Defected'  XP: _230158
-      Tom zei dat hij niet geniet van honkbal kijken.
-      Tom zei dat hij niet geniet van honkbalwedstrijden kijken wanneer het regent.
+2440:     [yes], unknown,      NA, 'Defected'  XP: _3443028
+      Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
+      Ga niet tot uitersten op zulk niveau, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-3743:     [yes], unknown,      NA, 'Defected'  XP: _234408
+2936:     [yes], unknown,      NA, 'Defected'  XP: _1345234
+      Je kunt hier niet leren, dit is een school!
+      Je kunt hier niet leren, dit is een geweldige school!
+
+Inconsistency in node types (entail/8)
+3743:     [yes], unknown,      NA, 'Defected'  XP: _2132674
       Geen noodzaak om deze zin te vertalen, ik begrijp het.
       Geen noodzaak om in een woordenboek te zoeken om deze zin te vertalen, ik begrijp het.
 
 Inconsistency in node types (entail/8)
-4046:     [yes], unknown,      NA, 'Defected'  XP: _945896
-      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
-      Als je wil dat een goede man een huwelijksaanzoek doet, voed hem goed.
+4099:     [yes], unknown,      NA, 'Defected'  XP: _1931496
+      Tom wilde geen rechtvaardigheid, hij wilde wraak.
+      Tom wilde geen eerlijke rechtvaardigheid, hij wilde wraak.
 
 Inconsistency in node types (entail/8)
-4082:     [yes], unknown,      NA, 'Defected'  XP: _722562
-      Als je de service niet goed vindt, laat geen fooi achter.
-      Als je de service niet goed vindt, laat geen grote fooi achter.
+3676:     [yes], unknown,      NA, 'Defected'  XP: _1674020
+      Tom zei dat hij niet geniet van honkbal kijken.
+      Tom zei dat hij niet geniet van honkbalwedstrijden kijken wanneer het regent.
 
 Inconsistency in node types (entail/8)
-4043:     [yes], unknown,      NA, 'Defected'  XP: _5558414
+4043:     [yes], unknown,      NA, 'Defected'  XP: _6976
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een jongen een huwelijksaanzoek doet, voed hem goed.
 
 Inconsistency in node types (entail/8)
-3811:     [yes], unknown,      NA, 'Defected'  XP: _185828
+4046:     [yes], unknown,      NA, 'Defected'  XP: _946116
+      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
+      Als je wil dat een goede man een huwelijksaanzoek doet, voed hem goed.
+
+Inconsistency in node types (entail/8)
+3811:     [yes], unknown,      NA, 'Defected'  XP: _446390
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een man een aanzoek doet voor een verassend huwelijk, voed hem goed.
 
 Inconsistency in node types (entail/8)
-4097:     [yes], unknown,      NA, 'Defected'  XP: _5527364
+4082:     [yes], unknown,      NA, 'Defected'  XP: _722592
+      Als je de service niet goed vindt, laat geen fooi achter.
+      Als je de service niet goed vindt, laat geen grote fooi achter.
+
+Inconsistency in node types (entail/8)
+4045:     [yes], unknown,      NA, 'Defected'  XP: _350994
+      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
+      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
+
+Inconsistency in node types (entail/8)
+4097:     [yes], unknown,      NA, 'Defected'  XP: _258240
       Tom wilde geen rechtvaardigheid, hij wilde wraak.
       Tom wilde niet alleen rechtvaardigheid, hij wilde wraak.
 
 Inconsistency in node types (entail/8)
-4045:     [yes], unknown,      NA, 'Defected'  XP: _3771410
-      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
-      Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
-
-Inconsistency in node types (entail/8)
-4098:     [yes], unknown,      NA, 'Defected'  XP: _1721742
-      Tom wilde geen rechtvaardigheid, hij wilde wraak.
-      Tom wilde geen rechtvaardigheid voor zichzelf, hij wilde wraak.
-
-Inconsistency in node types (entail/8)
-4047:     [yes], unknown,      NA, 'Defected'  XP: _2869288
+4047:     [yes], unknown,      NA, 'Defected'  XP: _2869502
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een jonge man een huwelijksaanzoek doet, voed hem goed.
+
+Inconsistency in node types (entail/8)
+4098:     [yes], unknown,      NA, 'Defected'  XP: _115998
+      Tom wilde geen rechtvaardigheid, hij wilde wraak.
+      Tom wilde geen rechtvaardigheid voor zichzelf, hij wilde wraak.
 
