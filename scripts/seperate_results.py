@@ -49,15 +49,20 @@ args = parser.parse_args()
 split = args.kind
 
 
-# get unparsed
-broken = open("MED_NL/problems/broken_alpino_aethel_sentences.txt", "r").readlines()
-broken = [int(x.rstrip()) for x in broken]
-
 # get data
 result_path = f"Results/{split}"
 analysis_path = f"{result_path}/analysis"
 
+broken_conj = open("MED_NL/problems/broken_conjunction_problems.txt", "r").readlines()
+broken_conj = [int(x.rstrip()) for x in broken_conj]
+
+broken = open("MED_NL/problems/broken_alpino_aethel_sentences.txt", "r").readlines()
+broken = [int(x.rstrip()) for x in broken]
+
+
 # open files from input
+
+
 file_info = open(f"{result_path}/alpino_aethel.alpino.log").readlines()
 all_info = "".join([x.replace("\n", "|") for x in file_info])
 
@@ -82,23 +87,25 @@ y_u = open(f"{analysis_path}/yes_unknown.txt", "w+")
 y_y = open(f"{analysis_path}/yes_yes.txt", "w+")
 y_n = open(f"{analysis_path}/yes_no.txt", "w+")
 
+# defected files
 d_a = open(f"{analysis_path}/defected_aethel.txt", "w+")
+d_cp = open(f"{analysis_path}/defected_cp.txt", "w+")
 d_o = open(f"{analysis_path}/defected_other.txt", "w+")
 
+# all errrors
 error_file = open(f"{analysis_path}/error.txt", "w+")
 
 # set flags and size
 re_split_length = len(re_split)
 index_pointer = 0
-defected_flag = False
-aethel_flag = False
-
 while index_pointer != re_split_length:
     defected_flag = False
     aethel_flag = False
     error_flag = False
+    conj_flag = False
     prior_text = ""
 
+    # get first / next line
     cur_line = re_split[index_pointer]
 
     # error, inconsistant etc messages
@@ -112,7 +119,7 @@ while index_pointer != re_split_length:
         # keep error data
         prior_text += cur_line
 
-        # goto number
+        # stay in loop until number is found
         index_pointer += 1
         cur_line = re_split[index_pointer]
 
@@ -120,6 +127,8 @@ while index_pointer != re_split_length:
     number_info = cur_line
     if int(cur_line[:-1]) in broken:
         aethel_flag = True
+    elif int(cur_line[:-1]) in broken_conj:
+        conj_flag = True
 
     # get info and paste info file
     index_pointer += 1
@@ -131,6 +140,8 @@ while index_pointer != re_split_length:
         case (True, _, _):
             if aethel_flag:
                 file = d_a
+            elif conj_flag:
+                file = d_cp
             else:
                 file = d_o
         case (False, "unknown", "unknown"):

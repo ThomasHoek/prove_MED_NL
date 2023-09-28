@@ -2,6 +2,35 @@ import os
 from collections import Counter
 
 
+def find_broken_conj() -> list[int]:
+    """To be fixed so no need for modular"""
+
+    def to_int(pl_str: str) -> int:
+        return int(pl_str.split(",")[0][1:])
+
+    alpino_pl = open("MED_NL/parses/alpino_aethel.pl", "r").readlines()
+    alpino_pl = "".join(alpino_pl).split("sen_id_tlg_tok")[1:]
+
+    # number path_name -> split on space and first bit to int
+    max_problems = int(os.popen(f"wc -l MED_NL/raw.spl").read().split(" ")[0])
+    print(max_problems)
+
+    # set range to max_problems as False -> False; not encountered
+    truth_table = dict(zip(range(1, max_problems), [False] * max_problems))
+
+    # set all found numbers to true
+    for line in alpino_pl:
+        truth_table[to_int(line)] = "cp" in line
+
+    # remove True values, keep keys
+    conj_sent = sorted(list({int(k) for k, v in truth_table.items() if v is True}))
+
+    # write all
+    broken_conj = open("MED_NL/problems/broken_conjunction.txt", "w+")
+    broken_conj.writelines(str(line) + "\n" for line in conj_sent)
+    return conj_sent
+
+
 def get_missing_numbers(
     alpino_path: str, raw_path: str, broken_sent_path: str
 ) -> list[int]:
@@ -86,6 +115,34 @@ def problem_to_sent(problem_lst: list[int], sen_pl_path: str, broken_path: str) 
             broken.write("{} - {}\n".format(k, v))
 
 
+def sent_to_problem(sent_lst: list[int], sen_pl_path: str, broken_path: str) -> None:
+    num_lst: list[int] = []
+    for prob_line in open(sen_pl_path, "r").readlines():
+        if prob_line[0] == "%":
+            # check if number:
+            if "%problem" in prob_line:
+                continue
+
+            prob_line = prob_line[1:]
+
+        sent_id, problem_id = prob_line.split(",")[0:2]
+        problem_id = int(problem_id)
+        sent_id = int(sent_id.replace("sen_id(", ""))
+
+        if sent_id in sent_lst:
+            num_lst.append(problem_id)
+
+    num_lst.sort()
+    with open(broken_path, "w+") as broken:
+        for line in Counter(num_lst):
+            broken.write(f"{line}\n")
+
+    broken_path = broken_path.replace(".txt", "_count.txt")
+    with open(broken_path, "w+") as broken:
+        for k, v in Counter(num_lst).most_common():
+            broken.write("{} - {}\n".format(k, v))
+
+
 # general
 sen_pl = "MED_NL/sen.pl"
 raw_sp = "MED_NL/raw.spl"
@@ -100,5 +157,12 @@ problem_to_sent(missing_num, sen_pl, broken_alpino_sent)
 # sen_pl
 broken_sent = "MED_NL/problems/broken_sen_pl.txt"
 broken_alpino_sent = "MED_NL/problems/broken_sen_pl_sentences.txt"
-missing_num: list[int] = sen_pl_comments(sen_pl, broken_sent)
+missing_num = sen_pl_comments(sen_pl, broken_sent)
 problem_to_sent(missing_num, sen_pl, broken_alpino_sent)
+
+
+# remove when done
+broken_conj = "MED_NL/problems/broken_conjunction_problems.txt"
+missing_num = find_broken_conj()
+sent_to_problem(missing_num, sen_pl, broken_conj)
+

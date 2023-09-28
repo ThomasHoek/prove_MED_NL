@@ -1,0 +1,724 @@
+Inconsistency in node types (entail/8)
+134: [unknown], unknown,      NA, 'Defected'  XP: _2494
+      Een paar mensen zeggen dat dertien een ongeluksgetal is.
+      Een paar mensen zeggen dat dertien een ongelukkige datum is om een meisje ten huwelijk te vragen.
+ 
+Inconsistency in node types (entail/8)
+430: [unknown], unknown,      NA, 'Defected'  XP: _2045308
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere ochtend een douche neemt voor ze weg gaat.
+ 
+Inconsistency in node types (entail/8)
+327: [unknown], unknown,      NA, 'Defected'  XP: _3771664
+      Ze is niets dan een kind.
+      Ze is niets dan een meisje met staartjes.
+ 
+Inconsistency in node types (entail/8)
+260:     [yes], unknown,      NA, 'Defected'  XP: _1592584
+      Ze zei dat ze iedere ochtend een koude douche neemt.
+      Ze zei dat ze iedere ochtend een douche neemt.
+ 
+Inconsistency in node types (entail/8)
+294: [unknown], unknown,      NA, 'Defected'  XP: _4211714
+      Een paar mensen denken dat adverteren een vorm van hersenspoelen is.
+      Een paar mensen denken dat overdonderend adverteren een vorm van hersenspoelen is.
+ 
+Inconsistency in node types (entail/8)
+429: [unknown], unknown,      NA, 'Defected'  XP: _4937358
+      Een violist die ik ken zegt dat hij een stradivarius heeft.
+      Een violist die ik ken zegt dat hij een vioolwinkel heeft.
+ 
+Inconsistency in node types (entail/8)
+305: [unknown], unknown,      NA, 'Defected'  XP: _2016872
+      Straciatella ijs is niets dan een gewoon ijsje met chocoladesnippers.
+      Algida-ijs is niets anders dan een gewoon ijsje met chocoladesnippers.
+ 
+Inconsistency in node types (entail/8)
+258: [unknown], unknown,      NA, 'Defected'  XP: _4161332
+      Straciatella ijs is niets dan een gewoon ijsje met chocoladesnippers.
+      Mcdonalds ijs is niets dan een gewoon ijsje met chocoladesnippers.
+ 
+Inconsistency in node types (entail/8)
+298: [unknown], unknown,      NA, 'Defected'  XP: _4286104
+      Hij doet niets anders dan de hele dag spelen.
+      Hij doet niets anders dan de hele dag online poker spelen.
+ 
+Inconsistency in node types (entail/8)
+338: [unknown], unknown,      NA, 'Defected'  XP: _4456956
+      Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
+      Ik denk dat de meeste mannen het liefst naar rock muziek luisteren.
+ 
+Inconsistency in node types (entail/8)
+259: [unknown], unknown,      NA, 'Defected'  XP: _4408174
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere ochtend een koude douche neemt.
+ 
+Inconsistency in node types (entail/8)
+299: [unknown], unknown,      NA, 'Defected'  XP: _5682606
+      Hij doet niets anders dan de hele dag spelen.
+      Hij doet niets anders dan de hele dag spelen en lachen.
+ 
+Inconsistency in node types (entail/8)
+339: [unknown], unknown,      NA, 'Defected'  XP: _5859574
+      Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
+      Ik denk dat de meeste verslaafden het liefst naar rock muziek luisteren.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+295:     [yes], unknown,      NA, 'Defected'  XP: _2680
+      Een paar mensen denken dat overdonderend adverteren een vorm van hersenspoelen is.
+      Een paar mensen denken dat adverteren een vorm van hersenspoelen is.
+ 
+Inconsistency in node types (entail/8)
+806: [unknown], unknown,      NA, 'Defected'  XP: _585530
+      Sommigen beschouwen taal als een vorm van kennis.
+      Sommigen beschouwen taal als belangrijke kennis.
+
+Inconsistency in node types (entail/8)
+985: [unknown], unknown,      NA, 'Defected'  XP: _2183170
+      Hij deed niets anders dan huilen.
+      Hij deed gisteren niets anders dan huilen.
+ 
+Inconsistency in node types (entail/8)
+617: [unknown], unknown,      NA, 'Defected'  XP: _2162842
+      Hij droomt dat iedereen in China Esperanto spreekt.
+      Hij droomt dat iedereen in China Esperanto en Engels spreekt.
+ 
+Inconsistency in node types (entail/8)
+698: [unknown], unknown,      NA, 'Defected'  XP: _2409104
+      Die mayonaise is niets dan chemicaliën!
+      Die ketchup is niets dan chemicaliën!
+ 
+Inconsistency in node types (entail/8)
+986:     [yes], unknown,      NA, 'Defected'  XP: _2009632
+      Hij deed gisteren niets anders dan huilen.
+      Hij deed niets anders dan huilen.
+ 
+Inconsistency in node types (entail/8)
+733: [unknown], unknown,      NA, 'Defected'  XP: _3506604
+      Ik weet dat jij en Tom een paar problemen gehad hebben.
+      Ik weet dat jij en Tom een paar emoties gehad hebben.
+
+Inconsistency in node types (entail/8)
+697: [unknown], unknown,      NA, 'Defected'  XP: _3026050
+      Meisjes zijn niets dan problemen.
+      Scherpe meisjes zijn niets dan problemen.
+ 
+Inconsistency in node types (entail/8)
+1008: [unknown], unknown,      NA, 'Defected'  XP: _5238682
+      Dat team heeft niets dan sterke spelers.
+      Dat team heeft niets dan sterke werkers.
+ 
+Inconsistency in node types (entail/8)
+674: [unknown], unknown,      NA, 'Defected'  XP: _2873446
+      Naar mijn mening is permanente vrede niets dan illusie.
+      Naar mijn mening is permanente gezondheid niets dan illusie.
+
+Inconsistency in node types (entail/8)
+694: [unknown], unknown,      NA, 'Defected'  XP: _2874404
+      Meisjes zijn niets dan problemen.
+      Tieners zijn niets dan problemen.
+
+Inconsistency in node types (entail/8)
+734: [unknown], unknown,      NA, 'Defected'  XP: _2984550
+      Ik weet dat jij en Tom een paar problemen gehad hebben.
+      Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
+
+Inconsistency in node types (entail/8)
+1002:     [yes], unknown,      NA, 'Defected'  XP: _3514
+      Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
+      Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
+ 
+Inconsistency in node types (entail/8)
+1042:     [yes], unknown,      NA, 'Defected'  XP: _159212
+      Koude mayonaise is niets dan chemicaliën!
+      Mayo is niets dan chemicaliën.
+ 
+Inconsistency in node types (entail/8)
+1162: [unknown], unknown,      NA, 'Defected'  XP: _1144214
+      Het is jammer dat ze niet kon komen.
+      Het is jammer maar ik hoorde dat ze een ongeluk had dus ze kon niet komen.
+ 
+Inconsistency in node types (entail/8)
+695: [unknown], unknown,      NA, 'Defected'  XP: _5247894
+      Meisjes zijn niets dan problemen.
+      Gekke meisjes zijn niets dan problemen.
+ 
+Inconsistency in node types (entail/8)
+1043: [unknown], unknown,      NA, 'Defected'  XP: _4211124
+      Die mayonaise is niets dan chemicaliën!
+      Dat geblikte eten is niets dan chemicaliën!
+
+Inconsistency in node types (entail/8)
+735:     [yes], unknown,      NA, 'Defected'  XP: _5432100
+      Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
+      Ik weet dat jij en Tom een paar problemen gehad hebben.
+
+Inconsistency in node types (entail/8)
+1426:     [yes], unknown,      NA, 'Defected'  XP: _84858
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder uitgebreid geweld.
+ 
+Inconsistency in node types (entail/8)
+794: [unknown], unknown,      NA, 'Defected'  XP: _4040116
+      Mijn vader doet niets dan TV kijken op zondagen.
+      Mijn vader doet niets dan TV kijken op zaterdagen.
+
+Inconsistency in node types (entail/8)
+814: [unknown], unknown,      NA, 'Defected'  XP: _4041074
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een Amerikaan is.
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een Indiaan is.
+
+Inconsistency in node types (entail/8)
+1466: [unknown], unknown,      NA, 'Defected'  XP: _225226
+      Tom zei dat hij niet van ondankbare kinderen houdt.
+      Tom zei dat hij niet van kinderen houdt.
+
+Inconsistency in node types (entail/8)
+1486: [unknown], unknown,      NA, 'Defected'  XP: _226184
+      Het probleem met ons is dat we geen actieve fondsen hebben.
+      Het probleem met ons is dat we geen fondsen hebben.
+
+Inconsistency in node types (entail/8)
+815: [unknown], unknown,      NA, 'Defected'  XP: _5919344
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een Amerikaan is.
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een schotse is.
+ 
+Inconsistency in node types (entail/8)
+696: [unknown], unknown,      NA, 'Defected'  XP: _3148
+      Meisjes zijn niets dan problemen.
+      Luide meisjes zijn niets dan problemen.
+
+Inconsistency in node types (entail/8)
+1425: [unknown], unknown,      NA, 'Defected'  XP: _2223752
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld en rellen.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+ 
+Inconsistency in node types (entail/8)
+1465:     [yes], unknown,      NA, 'Defected'  XP: _2463690
+      Tom zei dat hij niet van kinderen houdt.
+      Tom zei dat hij niet van ondankbare kinderen houdt.
+
+Inconsistency in node types (entail/8)
+1485:     [yes], unknown,      NA, 'Defected'  XP: _2464648
+      Het probleem met ons is dat we geen fondsen hebben.
+      Het probleem met ons is dat we geen actieve fondsen hebben.
+
+Inconsistency in node types (entail/8)
+1488: [unknown], unknown,      NA, 'Defected'  XP: _5814586
+      Het probleem met ons is dat we geen beschikbare fondsen hebben.
+      Het probleem met ons is dat we geen fondsen hebben.
+
+Inconsistency in node types (entail/8)
+1423:     [yes], unknown,      NA, 'Defected'  XP: _2220914
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld te gebruiken.
+
+Inconsistency in node types (entail/8)
+1463:     [yes], unknown,      NA, 'Defected'  XP: _2376384
+      Tom zei dat hij niet van kinderen houdt.
+      Tom zei dat hij niet van luide kinderen houdt.
+
+Inconsistency in node types (entail/8)
+1478:     [yes], unknown,      NA, 'Defected'  XP: _6178754
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een knappe man van zijn vermogen succesvol is.
+ 
+Inconsistency in node types (entail/8)
+1424:     [yes], unknown,      NA, 'Defected'  XP: _4030
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld en rellen.
+
+Inconsistency in node types (entail/8)
+1464: [unknown], unknown,      NA, 'Defected'  XP: _233208
+      Tom zei dat hij niet van luide kinderen houdt.
+      Tom zei dat hij niet van kinderen houdt.
+
+Inconsistency in node types (entail/8)
+1484:     [yes], unknown,      NA, 'Defected'  XP: _234166
+      Het probleem met ons is dat we geen fondsen hebben.
+      Het probleem met ons is dat we geen tracker fondsen hebben.
+
+Inconsistency in node types (entail/8)
+1770:     [yes], unknown,      NA, 'Defected'  XP: _1805474
+      Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+      Meneer Thomas had geen echt bezwaar tegen het gekozen worden van meneer white als voorzitter.
+
+Inconsistency in node types (entail/8)
+1422: [unknown], unknown,      NA, 'Defected'  XP: _618764
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder enig serieus geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+
+Inconsistency in node types (entail/8)
+1427: [unknown], unknown,      NA, 'Defected'  XP: _2263152
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder uitgebreid geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+
+Inconsistency in node types (entail/8)
+1487:     [yes], unknown,      NA, 'Defected'  XP: _2743260
+      Het probleem met ons is dat we geen fondsen hebben.
+      Het probleem met ons is dat we geen beschikbare fondsen hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1930:     [yes], unknown,      NA, 'Defected'  XP: _3489368
+      Je kunt geen woord geloven dat hij zegt.
+      Je kunt geen spul geloven dat hij zegt.
+
+Inconsistency in node types (entail/8)
+2088: [unknown], unknown,      NA, 'Defected'  XP: _2553886
+      De bestuurder zei dat we geen juiste remmen hebben!
+      De bestuurder zei dat we geen remmen hebben!
+
+Inconsistency in node types (entail/8)
+1798:     [yes], unknown,      NA, 'Defected'  XP: _5193798
+      Engeland verwacht dat iedere man zijn plicht vervult.
+      Engeland verwacht dat iedere goede man zijn plicht vervult.
+
+Inconsistency in node types (entail/8)
+1838: [unknown], unknown,      NA, 'Defected'  XP: _5338408
+      Ze zei dat ze iedere zonnige ochtend een douche neemt.
+      Ze zei dat ze iedere ochtend een douche neemt.
+
+Inconsistency in node types (entail/8)
+2469:     [yes], unknown,      NA, 'Defected'  XP: _1290522
+      Het is geen geheim dat Tom het niet met je eens is.
+      Het is geen geheim dat Tom het niet met je eens is na valsspelen.
+
+Inconsistency in node types (entail/8)
+2090: [unknown], unknown,      NA, 'Defected'  XP: _109214
+      De bestuurder zei dat we geen solide remmen hebben!
+      De bestuurder zei dat we geen remmen hebben!
+
+Inconsistency in node types (entail/8)
+1477: [unknown], unknown,      NA, 'Defected'  XP: _2732986
+      Het is geen wonder dat een aardige man van zijn vermogen succesvol is.
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+
+Inconsistency in node types (entail/8)
+1929:     [yes], unknown,      NA, 'Defected'  XP: _1925872
+      Je kunt geen woord geloven dat hij zegt.
+      Je kunt geen ding geloven dat hij zegt.
+
+Inconsistency in node types (entail/8)
+1474:     [yes], unknown,      NA, 'Defected'  XP: _4042
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een mens van zijn vermogen succesvol is.
+
+Inconsistency in node types (entail/8)
+2089:     [yes], unknown,      NA, 'Defected'  XP: _4218270
+      De bestuurder zei dat we geen remmen hebben!
+      De bestuurder zei dat we geen solide remmen hebben!
+
+Inconsistency in node types (entail/8)
+2459:     [yes], unknown,      NA, 'Defected'  XP: _3210730
+      We wensten dat we geen toets hoefden te maken in Engels.
+      We wensten dat we geen toets hoefden te maken in moeilijk Engels.
+
+Inconsistency in node types (entail/8)
+2467:     [yes], unknown,      NA, 'Defected'  XP: _4816208
+      Het is geen geheim dat Tom het niet met je eens is.
+      Het is geen groot geheim dat Tom het niet met je eens is.
+
+Inconsistency in node types (entail/8)
+2087:     [yes], unknown,      NA, 'Defected'  XP: _432342
+      De bestuurder zei dat we geen remmen hebben!
+      De bestuurder zei dat we geen juiste remmen hebben!
+
+Inconsistency in node types (entail/8)
+699: [unknown], unknown,      NA, 'Defected'  XP: _5512790
+      Die mayonaise is niets dan chemicaliën!
+      Dat sap is niets dan chemicaliën!
+
+Inconsistency in node types (entail/8)
+2559:     [yes], unknown,      NA, 'Defected'  XP: _4984620
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen antwoorden verwacht.
+ 
+Inconsistency in node types (entail/8)
+700: [unknown], unknown,      NA, 'Defected'  XP: _4653680
+      Die mayonaise is niets dan chemicaliën!
+      Die mayonaise is niets dan slecht eten!
+ 
+Inconsistency in node types (entail/8)
+1797:     [yes], unknown,      NA, 'Defected'  XP: _2475926
+      Engeland verwacht dat iedere man zijn plicht vervult.
+      Engeland verwacht dat iedere manspersoon zijn plicht vervult.
+
+Inconsistency in node types (entail/8)
+1837:     [yes], unknown,      NA, 'Defected'  XP: _2620536
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere zonnige ochtend een douche neemt.
+
+Inconsistency in node types (entail/8)
+1419:     [yes], unknown,      NA, 'Defected'  XP: _4725608
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
+
+Inconsistency in node types (entail/8)
+1479: [unknown], unknown,      NA, 'Defected'  XP: _5011820
+      Het is geen wonder dat een knappe man van zijn vermogen succesvol is.
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+
+Inconsistency in node types (entail/8)
+1475:     [yes], unknown,      NA, 'Defected'  XP: _4707036
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een man met de mogelijkheid om zijn succes te kiezen succesvol is.
+
+Inconsistency in node types (entail/8)
+701: [unknown], unknown,      NA, 'Defected'  XP: _434034
+      Die mayonaise is niets dan chemicaliën!
+      Die mayonaise is niets dan gif!
+
+Inconsistency in node types (entail/8)
+1420: [unknown], unknown,      NA, 'Defected'  XP: _6039440
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+
+Inconsistency in node types (entail/8)
+1480:     [yes], unknown,      NA, 'Defected'  XP: _150228
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een bekwame man van zijn vermogen succesvol is.
+ 
+Inconsistency in node types (entail/8)
+2884:     [yes], unknown,      NA, 'Defected'  XP: _3855040
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen autoongeluk heeft gehad recentelijk.
+
+Inconsistency in node types (entail/8)
+2924:     [yes], unknown,      NA, 'Defected'  XP: _3856956
+      Het is geen wonder dat een man van zijn vermogen zo succesvol is.
+      Het is geen wonder dat een geweldige man van zijn vermogen succesvol is.
+
+Inconsistency in node types (entail/8)
+1476:     [yes], unknown,      NA, 'Defected'  XP: _4072
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een aardige man van zijn vermogen succesvol is.
+
+Inconsistency in node types (entail/8)
+1001: [unknown], unknown,      NA, 'Defected'  XP: _3520444
+      Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
+      Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
+
+Inconsistency in node types (entail/8)
+1041: [unknown], unknown,      NA, 'Defected'  XP: _3676236
+      Mayo is niets dan chemicaliën.
+      Koude mayonaise is niets dan chemicaliën!
+
+Inconsistency in node types (entail/8)
+1772:     [yes], unknown,      NA, 'Defected'  XP: _5147640
+      Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+      Meneer Thomas had helemaal geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+
+Inconsistency in node types (entail/8)
+1799: [unknown], unknown,      NA, 'Defected'  XP: _3543902
+      Engeland verwacht dat iedere goede man zijn plicht vervult.
+      Engeland verwacht dat iedere man zijn plicht vervult.
+
+Inconsistency in node types (entail/8)
+1839:     [yes], unknown,      NA, 'Defected'  XP: _3695048
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere late ochtend een douche neemt.
+
+Inconsistency in node types (entail/8)
+2468:     [yes], unknown,      NA, 'Defected'  XP: _1896132
+      Het is geen geheim dat Tom het niet met je eens is.
+      Het is geen geheim in welke vorm dan ook dat Tom het niet met je eens is.
+
+Inconsistency in node types (entail/8)
+2955:     [yes], unknown,      NA, 'Defected'  XP: _4669976
+      Tom zei dat hij geen vriendin wil.
+      Tom zei dat hij geen vriendin en vriend wil.
+
+Inconsistency in node types (entail/8)
+1680:     [yes], unknown,      NA, 'Defected'  XP: _3675748
+      Mary zei dat ze geen jongens kiest voor hun uiterlijk.
+      Mary zei dat ze geen jongens en vrienden kiest voor hun uiterlijk.
+
+Inconsistency in node types (entail/8)
+2458:     [yes], unknown,      NA, 'Defected'  XP: _3085828
+      We wensten dat we geen toets hoefden te maken in Engels.
+      We wensten dat we geen toets hoefden te maken in Engelse les.
+
+Inconsistency in node types (entail/8)
+2645:     [yes], unknown,      NA, 'Defected'  XP: _3142022
+      Ik neem aan dat dit niet het beste moment is om om een promotie te vragen.
+      Ik neem aan dat dit niet het beste moment is om om een langverwachte promotie te vragen.
+
+Inconsistency in node types (entail/8)
+2558:     [yes], unknown,      NA, 'Defected'  XP: _3908074
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen oplossingen verwacht.
+
+Inconsistency in node types (entail/8)
+2718: [unknown], unknown,      NA, 'Defected'  XP: _5024354
+      Tom zei dat hij geen zwarte koffie drinkt.
+      Tom zei dat hij geen koffie drinkt.
+
+Inconsistency in node types (entail/8)
+2474:     [yes], unknown,      NA, 'Defected'  XP: _115036
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij nieuwe oogstrozen zal oogsten.
+
+Inconsistency in node types (entail/8)
+2554:     [yes], unknown,      NA, 'Defected'  XP: _545330
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen perfecte resultaten verwacht.
+
+Inconsistency in node types (entail/8)
+1421:     [yes], unknown,      NA, 'Defected'  XP: _4837352
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder enig serieus geweld.
+
+Inconsistency in node types (entail/8)
+1681: [unknown], unknown,      NA, 'Defected'  XP: _354516
+      Mary zei dat ze geen jongens en vrienden kiest voor hun uiterlijk.
+      Mary zei dat ze geen jongens kiest voor hun uiterlijk.
+
+Inconsistency in node types (entail/8)
+2883:     [yes], unknown,      NA, 'Defected'  XP: _1358118
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen noodongeluk heeft gehad.
+
+Inconsistency in node types (entail/8)
+2923:     [yes], unknown,      NA, 'Defected'  XP: _1360034
+      Het is geen wonder dat een man van zijn vermogen zo succesvol is.
+      Het is geen wonder dat een goede man van zijn vermogen succesvol is.
+
+Inconsistency in node types (entail/8)
+2983:     [yes], unknown,      NA, 'Defected'  XP: _1763634
+      Het punt van hipster-subcultuur is om te voorkomen dat je je aan maatschappelijke normen aanpast.
+      Het punt van hipster-subcultuur tegenwoordig is om te voorkomen dat je je aan maatschappelijke normen aanpast.
+
+Inconsistency in node types (entail/8)
+2776:     [yes], unknown,      NA, 'Defected'  XP: _3095988
+      George weegt niet minder dan 70 kilogram.
+      George weegt niet kleiner dan 70 kilogram.
+
+Inconsistency in node types (entail/8)
+2000:     [yes], unknown,      NA, 'Defected'  XP: _3743218
+      Hij zei dat hij iedere ochtend een wandeling maakt in het park.
+      Hij zei dat hij iedere zonnige of wolkloze ochtend een wandeling maakt in het park.
+
+Inconsistency in node types (entail/8)
+3110:     [yes], unknown,      NA, 'Defected'  XP: _2991910
+      Ik weet dat het geen grap is.
+      Ik weet dat het geen goede grap is.
+
+Inconsistency in node types (entail/8)
+3724:     [yes], unknown,      NA, 'Defected'  XP: _6049398
+      Ik hoop dat dit geen fout is.
+      Ik hoop dat dit geen fout is.
+
+Inconsistency in node types (entail/8)
+3111: [unknown], unknown,      NA, 'Defected'  XP: _2746572
+      Ik weet dat het geen goede grap is.
+      Ik weet dat het geen grap is.
+
+Inconsistency in node types (entail/8)
+2001: [unknown], unknown,      NA, 'Defected'  XP: _4660
+      Hij zei dat hij iedere zonnige of wolkloze ochtend een wandeling maakt in het park.
+      Hij zei dat hij iedere ochtend een wandeling maakt in het park.
+
+Inconsistency in node types (entail/8)
+2475:     [yes], unknown,      NA, 'Defected'  XP: _1025748
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij enige rozen zal oogsten.
+
+Inconsistency in node types (entail/8)
+4064:     [yes], unknown,      NA, 'Defected'  XP: _2969800
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet in het centrum van Boston zou willen wonen.
+
+Inconsistency in node types (entail/8)
+2555: [unknown], unknown,      NA, 'Defected'  XP: _1768456
+      Ik hoop dat je niet meteen perfecte resultaten verwacht.
+      Ik hoop dat je niet meteen resultaten verwacht.
+
+Inconsistency in node types (entail/8)
+3108:     [yes], unknown,      NA, 'Defected'  XP: _1302286
+      Ik weet dat het geen grap is.
+      Ik weet dat het geen grap is die niet eerder door mij gemaakt is.
+
+Inconsistency in node types (entail/8)
+2477:     [yes], unknown,      NA, 'Defected'  XP: _419086
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij zelfs een roos zal oogsten.
+
+Inconsistency in node types (entail/8)
+3109: [unknown], unknown,      NA, 'Defected'  XP: _5854894
+      Ik weet dat het geen grap is die niet eerder door mij gemaakt is.
+      Ik weet dat het geen grap is.
+
+Inconsistency in node types (entail/8)
+3612: [unknown], unknown,      NA, 'Defected'  XP: _6514
+      Ik dacht dat Tom geen pindasnoep mocht eten.
+      Ik dacht dat Tom geen snoep mocht eten.
+
+Inconsistency in node types (entail/8)
+2557: [unknown], unknown,      NA, 'Defected'  XP: _1330304
+      Ik hoop dat je niet meteen duidelijke resultaten verwacht.
+      Ik hoop dat je niet meteen resultaten verwacht.
+
+Inconsistency in node types (entail/8)
+2717:     [yes], unknown,      NA, 'Defected'  XP: _2536106
+      Tom zei dat hij geen koffie drinkt.
+      Tom zei dat hij geen zwarte koffie drinkt.
+
+Inconsistency in node types (entail/8)
+2561: [unknown], unknown,      NA, 'Defected'  XP: _3399460
+      Ik hoop niet dat je resultaten verwacht die we niet meteen vinden.
+      Ik hoop dat je niet meteen de resultaten verwacht.
+
+Inconsistency in node types (entail/8)
+2460: [unknown], unknown,      NA, 'Defected'  XP: _3443986
+      We wensten dat we geen toets hoefden te maken in moeilijk Engels.
+      We wensten dat we geen toets hoefden te maken in Engels.
+
+Inconsistency in node types (entail/8)
+2922:     [yes], unknown,      NA, 'Defected'  XP: _230908
+      Het is geen wonder dat een man van zijn vermogen zo succesvol is.
+      Het is geen wonder dat een persoon van zijn vermogen succesvol is.
+
+Inconsistency in node types (entail/8)
+2886:     [yes], unknown,      NA, 'Defected'  XP: _1663312
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen autoongeluk heeft gehad.
+
+Inconsistency in node types (entail/8)
+2560:     [yes], unknown,      NA, 'Defected'  XP: _5229024
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop niet dat je de resultaten verwacht die we niet meteen vinden.
+
+Inconsistency in node types (entail/8)
+3106:     [yes], unknown,      NA, 'Defected'  XP: _3081158
+      Ik weet dat het geen grap is.
+      Ik weet dat het geen grappige grap is.
+
+Inconsistency in node types (entail/8)
+2473:     [yes], unknown,      NA, 'Defected'  XP: _5008404
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij nieuwe rozen zal oogsten.
+
+Inconsistency in node types (entail/8)
+3675:     [yes], unknown,      NA, 'Defected'  XP: _4281934
+      Tom zei dat hij niet geniet van honkbal kijken.
+      Tom zei dat hij niet geniet van honkbalwedstrijden kijken.
+
+Inconsistency in node types (entail/8)
+2885:     [yes], unknown,      NA, 'Defected'  XP: _3436628
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen ongeluk heeft gehad met een auto.
+
+Inconsistency in node types (entail/8)
+2472:     [yes], unknown,      NA, 'Defected'  XP: _3263498
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij rode rozen zal oogsten.
+
+Inconsistency in node types (entail/8)
+3955: [unknown], unknown,      NA, 'Defected'  XP: _1216804
+      Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+
+Inconsistency in node types (entail/8)
+2476:     [yes], unknown,      NA, 'Defected'  XP: _1036422
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij zelfs een enkele roos zal oogsten.
+
+Inconsistency in node types (entail/8)
+3723:     [yes], unknown,      NA, 'Defected'  XP: _2131716
+      Ik hoop dat dit geen fout is.
+      Ik hoop dat dit geen overtreding is.
+
+Inconsistency in node types (entail/8)
+3950:     [yes], unknown,      NA, 'Defected'  XP: _4906524
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een groot huis zo mooi als dat kunnen veroorloven.
+
+Inconsistency in node types (entail/8)
+2556:     [yes], unknown,      NA, 'Defected'  XP: _1520340
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen duidelijke resultaten verwacht.
+
+Inconsistency in node types (entail/8)
+4095:     [yes], unknown,      NA, 'Defected'  XP: _2451578
+      Tom zei dat hij niet in Boston zou willen wonen.
+      Tom zei dat hij niet in de stad van Boston zou willen wonen.
+
+Inconsistency in node types (entail/8)
+3954:     [yes], unknown,      NA, 'Defected'  XP: _4625024
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
+
+Inconsistency in node types (entail/8)
+3952:     [yes], unknown,      NA, 'Defected'  XP: _5642794
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een strandhuis zo mooi als dat kunnen veroorloven.
+
+Inconsistency in node types (entail/8)
+4103:     [yes], unknown,      NA, 'Defected'  XP: _329976
+      Een rapper zonder bling is als een paus zonder kruis.
+      Een rapper zonder bling is als een paus zonder een incompleet kruis.
+
+Inconsistency in node types (entail/8)
+3611:     [yes], unknown,      NA, 'Defected'  XP: _3522008
+      Ik dacht dat Tom geen snoep mocht eten.
+      Ik dacht dat Tom geen pindasnoep mocht eten.
+
+Inconsistency in node types (entail/8)
+4066:     [yes], unknown,      NA, 'Defected'  XP: _947074
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet in zo’n overvolle omgeving als Boston zou willen wonen.
+
+Inconsistency in node types (entail/8)
+3107: [unknown], unknown,      NA, 'Defected'  XP: _1520268
+      Ik weet dat het geen grappige grap is.
+      Ik weet dat het geen grap is.
+
+Inconsistency in node types (entail/8)
+3951: [unknown], unknown,      NA, 'Defected'  XP: _2673472
+      Ik zou me nooit een groot huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+
+Inconsistency in node types (entail/8)
+3953: [unknown], unknown,      NA, 'Defected'  XP: _4891258
+      Ik zou me nooit een strandhuis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+
+Inconsistency in node types (entail/8)
+4076:     [yes], unknown,      NA, 'Defected'  XP: _2571974
+      Ik hoop dat dit geen fout is.
+      Ik hoop dat dit geen grote fout is.
+
+Inconsistency in node types (entail/8)
+4096:     [yes], unknown,      NA, 'Defected'  XP: _2572932
+      Tom zei dat hij niet in Boston zou willen wonen.
+      Tom zei dat hij niet in het mooie Boston zou willen wonen.
+
+Inconsistency in node types (entail/8)
+3518: [unknown], unknown,      NA, 'Defected'  XP: _96444
+      Hij droomt dat alle mannen in China Esperanto spreken.
+      Hij droomt dat iedereen in China Esperanto spreekt.
+
+Inconsistency in node types (entail/8)
+3517:     [yes], unknown,      NA, 'Defected'  XP: _942688
+      Hij droomt dat iedereen in China Esperanto spreekt.
+      Hij droomt dat alle mannen in China Esperanto spreken.
+
+Inconsistency in node types (entail/8)
+4065:     [yes], unknown,      NA, 'Defected'  XP: _351952
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet in een grote stad als Boston zou willen wonen.
+
+Inconsistency in node types (entail/8)
+3677:     [yes], unknown,      NA, 'Defected'  XP: _2959376
+      Tom zei dat hij niet geniet van honkbal kijken.
+      Tom zei dat hij niet geniet van honkbalwedstrijden van zijn zoon kijken.
+
+Inconsistency in node types (entail/8)
+4067:     [yes], unknown,      NA, 'Defected'  XP: _2870460
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet weg van haar familie in Boston zou willen wonen.
+
