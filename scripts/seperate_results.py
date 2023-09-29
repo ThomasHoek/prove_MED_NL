@@ -1,6 +1,7 @@
 import re
 from pathlib import Path
 import argparse
+import os
 
 
 def to_print(x: str) -> str:
@@ -50,19 +51,20 @@ split = args.kind
 
 
 # get data
+def file_to_int_lst(path_str: str) -> list[int]:
+    return [int(x.rstrip()) for x in open(path_str, "r").readlines()]
+
+
 result_path = f"Results/{split}"
 analysis_path = f"{result_path}/analysis"
 
-broken_conj = open("MED_NL/problems/broken_conjunction_problems.txt", "r").readlines()
-broken_conj = [int(x.rstrip()) for x in broken_conj]
-
-broken = open("MED_NL/problems/broken_alpino_aethel_sentences.txt", "r").readlines()
-broken = [int(x.rstrip()) for x in broken]
+broken_conj = file_to_int_lst("MED_NL/problems/broken_cp_problems.txt")
+broken_sv = file_to_int_lst("MED_NL/problems/broken_sv1_problems.txt")
+broken_unparse = file_to_int_lst("MED_NL/problems/broken_alpino_aethel_sentences.txt")
+broken_string = file_to_int_lst("MED_NL/problems/broken_alpino_aethel_sent_sentences.txt")
 
 
 # open files from input
-
-
 file_info = open(f"{result_path}/alpino_aethel.alpino.log").readlines()
 all_info = "".join([x.replace("\n", "|") for x in file_info])
 
@@ -90,10 +92,12 @@ y_n = open(f"{analysis_path}/yes_no.txt", "w+")
 # defected files
 d_a = open(f"{analysis_path}/defected_aethel.txt", "w+")
 d_cp = open(f"{analysis_path}/defected_cp.txt", "w+")
+d_sv = open(f"{analysis_path}/defected_sv1.txt", "w+")
 d_o = open(f"{analysis_path}/defected_other.txt", "w+")
 
 # all errrors
 error_file = open(f"{analysis_path}/error.txt", "w+")
+incorrect_str = open(f"{analysis_path}/incorrect_str.txt", "w+")
 
 # set flags and size
 re_split_length = len(re_split)
@@ -103,6 +107,8 @@ while index_pointer != re_split_length:
     aethel_flag = False
     error_flag = False
     conj_flag = False
+    sv1_flag = False
+    string_flag = False
     prior_text = ""
 
     # get first / next line
@@ -125,10 +131,16 @@ while index_pointer != re_split_length:
 
     # check if number in aethel
     number_info = cur_line
-    if int(cur_line[:-1]) in broken:
+    num = int(cur_line[:-1])
+    if num in broken_unparse:
         aethel_flag = True
-    elif int(cur_line[:-1]) in broken_conj:
+    elif num in broken_conj:
         conj_flag = True
+    elif num in broken_sv:
+        sv1_flag = True
+
+    if num in broken_string:
+        string_flag = True
 
     # get info and paste info file
     index_pointer += 1
@@ -142,6 +154,8 @@ while index_pointer != re_split_length:
                 file = d_a
             elif conj_flag:
                 file = d_cp
+            elif sv1_flag:
+                file = d_sv
             else:
                 file = d_o
         case (False, "unknown", "unknown"):
@@ -179,4 +193,15 @@ while index_pointer != re_split_length:
         error_file.write(to_print(cur_line))
         error_file.write("\n")
 
+    if string_flag:
+        incorrect_str.write(to_print(prior_text))
+        incorrect_str.write(to_print(number_info))
+        incorrect_str.write(to_print(cur_line))
+        incorrect_str.write("\n")
+
     index_pointer += 1
+
+for i in [u_u, u_y, u_n,  y_u, y_y, y_n, d_a, d_cp, d_sv, d_o, error_file, incorrect_str]:
+    i.close()
+
+os.system(f"/bin/python {os.getcwd()}/scripts/sort_file.py")

@@ -2,13 +2,13 @@
       Ik heb jouw bedden niet nodig.
       Ik heb geen bedden nodig.
 
-2034: [unknown],      no,  closed, 'Ter',5     XP: [int(no)]
-      Ik wil jouw liefdadigheid niet.
-      Ik wil geen liefdadigheid.
-
 1992: [unknown],      no,  closed, 'Ter',16    XP: [int(no)]
       Het probleem is jouw overweging niet waard.
       Het probleem is geen overweging waard.
+
+2034: [unknown],      no,  closed, 'Ter',5     XP: [int(no)]
+      Ik wil jouw liefdadigheid niet.
+      Ik wil geen liefdadigheid.
 
 3419: [unknown],      no,  closed, 'Ter',12    XP: [int(goed)]
       Hij kan nooit tegen een goede grap.
