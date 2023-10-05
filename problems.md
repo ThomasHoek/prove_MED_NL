@@ -79,3 +79,4 @@ geen zus -> a@((no@zus))
 ERROR: mooi@(no@zus) == no@zus \
 fix? no@(mooi@zus) != (no@zus)
 
+Also incorrect application of monotonocity raising when its negated, eg geen.
