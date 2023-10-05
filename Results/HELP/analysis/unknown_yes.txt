@@ -1,0 +1,228 @@
+12: [unknown],     yes,  closed, 'Ter',4     XP: [int(dodelijk)]
+      Tom heeft geen dodelijke vijanden.
+      Tom heeft geen vijanden.
+  
+33: [unknown],     yes,  closed, 'Ter',3     XP: [isa(panamahoed,hoed)]
+      Tom heeft geen panamahoed op.
+      Tom heeft geen hoed op.
+   
+40: [unknown],     yes,  closed, 'Ter',3     XP: [isa(bolhoed,hoed)]
+      Tom heeft geen bolhoed op.
+      Tom heeft geen hoed op.
+  
+51: [unknown],     yes,  closed, 'Ter',4     XP: [int(arrogant)]
+      Tom heeft geen arrogante hoed op.
+      Tom heeft geen hoed op.
+  
+38: [unknown],     yes,  closed, 'Ter',3     XP: [isa(strohoed,hoed)]
+      Tom heeft geen strohoed op.
+      Tom heeft geen hoed op.
+  
+53: [unknown],     yes,  closed, 'Ter',4     XP: [int(slap)]
+      Tom heeft geen slappe hoed op.
+      Tom heeft geen hoed op.
+  
+45: [unknown],     yes,  closed, 'Ter',3     XP: [isa(derby,hoed)]
+      Tom heeft geen derby op .
+      Tom heeft geen hoed op.
+  
+63: [unknown],     yes,  closed, 'Ter',4     XP: [int(net)]
+      Tom heeft geen nette hoed op.
+      Tom heeft geen hoed op.
+  
+79: [unknown],     yes,  closed, 'Ter',4     XP: [int(vilten)]
+      Tom heeft geen vilten hoed op.
+      Tom heeft geen hoed op.
+  
+95: [unknown],     yes,  closed, 'Ter',12    XP: []
+      Tom heeft geen hoed met drukknopen op.
+      Tom heeft geen hoed op.
+ 
+67: [unknown],     yes,  closed, 'Ter',4     XP: [int(zijden)]
+      Tom heeft geen zijden hoed op.
+      Tom heeft geen hoed op.
+ 
+232: [unknown],     yes,  closed, 'Ter',4     XP: [int(enkel),isa(emotie,gevoel),isa(gevoel,emotie)]
+      Tom toonde geen enkele emotie.
+      Tom toonde geen gevoel.
+ 
+281: [unknown],     yes,  closed, 'Ter',1     XP: [isa(zekerheid,zelfvertrouwen),isa(zelfvertrouwen,zekerheid)]
+      Tom heeft geen zelfvertrouwen.
+      Tom heeft geen zekerheid.
+ 
+209: [unknown],     yes,  closed, 'Ter',1     XP: [isa(ongeluk,ongeval),isa(ongeval,ongeluk)]
+      Tom heeft geen herinnering aan het ongeluk.
+      Tom heeft geen herinnering aan het ongeval.
+ 
+229: [unknown],     yes,  closed, 'Ter',4     XP: [int(golf)]
+      Tom heeft geen interesse in een rondje golf.
+      Tom heeft geen interesse in golf.
+ 
+305: [unknown],     yes,  closed, 'Ter',13    XP: [isa(politiek,activiteit),isa(in@c1@no@interesse,no@interesse)]
+      Tom heeft geen interesse in politiek.
+      Tom heeft geen interesse in activiteiten.
+ 
+379: [unknown],     yes,  closed, 'Ter',1     XP: [isa(lijden,pijn),isa(pijn,lijden)]
+      Tom vertelde de dokter dat hij geen lijden voelde.
+      Tom vertelde de dokter dat hij geen pijn voelde.
+ 
+385: [unknown],     yes,  closed, 'Ter',1     XP: [isa(lijden,pijn),isa(pijn,lijden)]
+      Tom vertelde de dokter dat hij geen lijden voelde.
+      Tom vertelde de dokter dat hij geen pijn voelde.
+ 
+883: [unknown],     yes,  closed, 'Ter',27    XP: [int(Indiaas),int(al@zijn),isa(op@the@kamer@maaltijd,maaltijd),isa(op@the@kamer@(al@zijn@(Indiaas@maaltijd)),al@zijn@(Indiaas@maaltijd))]
+      Tom at al zijn Indiase maaltijden op zijn kamer.
+      Tom at al zijn maaltijden op zijn kamer.
+ 
+227: [unknown],     yes,  closed, 'Ter',4     XP: [int(professioneel)]
+      Tom heeft geen interesse in professioneel golf.
+      Tom heeft geen interesse in golf.
+ 
+592: [unknown],     yes,  closed, 'Ter',4     XP: [int(buiten_lichamelijk)]
+      Tom heeft geen buitenlichamelijke ervaring.
+      Tom heeft geen ervaring.
+
+611: [unknown],     yes,  closed, 'Ter',4     XP: [int(Hobsons)]
+      Tom heeft geen Hobsons keus.
+      Tom heeft geen keus.
+ 
+565: [unknown],     yes,  closed, 'Ter',10    XP: [int(no),isa(ervaring,gebeurtenis)]
+      Tom heeft geen ervaring.
+      Tom heeft geen gebeurtenissen.
+ 
+625: [unknown],     yes,  closed, 'Ter',3     XP: [isa(voorkeur,keus)]
+      Tom heeft geen voorkeur.
+      Tom heeft geen keus.
+
+629: [unknown],     yes,  closed, 'Ter',4     XP: [int(zacht),isa(optie,keus)]
+      Tom heeft geen zachte optie.
+      Tom heeft geen keus.
+
+798: [unknown],     yes,  closed, 'Ter',3     XP: [isa(soevereiniteit,autoriteit)]
+      Tom heeft geen soevereiniteit.
+      Tom heeft geen autoriteit.
+
+689: [unknown],     yes,  closed, 'Ter',13    XP: [int(gemakkelijk),int(no),isa(leven,geschiedenis)]
+      Tom leidt echt geen gemakkelijk leven.
+      Tom leidt echt geen gemakkelijke geschiedenis.
+ 
+1208: [unknown],     yes,  closed, 'Ter',47    XP: [int(enkel),int(indirect),int(no)]
+      Tom kon geen enkel indirect bewijs leveren om zijn verklaring te ondersteunen.
+      Tom kon geen enkel bewijs leveren om zijn verklaring te ondersteunen.
+
+1265: [unknown],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Tom wil niets van Mary's grote geld.
+      Tom wil niets van Mary's geld.
+ 
+807: [unknown],     yes,  closed, 'Ter',4     XP: [int(Indiaas)]
+      Tom poetst zijn tanden na elke Indiase maaltijd.
+      Tom poetst zijn tanden na elke maaltijd.
+ 
+867: [unknown],     yes,  closed, 'Ter',3     XP: [isa(slachtoffer,persoon)]
+      Tom gaf Mary een lijst van alle slachtoffers.
+      Tom gaf Mary een lijst van alle personen.
+ 
+1269: [unknown],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Tom wil niets van Mary's grote geld.
+      Tom wil niets van Mary's geld.
+
+602: [unknown],     yes,  closed, 'Ter',3     XP: [isa(keus,besluitvorming)]
+      Tom heeft geen keus.
+      Tom heeft geen besluitvorming.
+ 
+2235: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+1282: [unknown],     yes,  closed, 'Ter',1     XP: [isa(misdrijf,overtreding),isa(overtreding,misdrijf)]
+      Tom is niet beschuldigd van enig misdrijf.
+      Tom is niet beschuldigd van enige overtreding.
+
+3343: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Tom klaagt dat zijn nieuwe telefoon te groot is en dat hij niet in zijn broek past.
+      Tom klaagt dat zijn nieuwe telefoon te groot is
+
+2727: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Tom ging slapen en werd nooit meer wakker.
+      Tom ging slapen
+
+2832: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Tom heeft het erg druk en heeft niet veel tijd voor relaties.
+      Tom heeft het erg druk
+
+2241: [unknown],     yes,  closed, 'Ter',3     XP: [isa(foto,afdruk)]
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele afdrukken aan Mary zien.
+
+3194: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom's derde huwelijk was niet gelukkig en hij overwoog opnieuw te scheiden.
+      Toms derde huwelijk was niet gelukkig
+
+2872: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Tom is net opgestaan en is nog steeds niet helemaal wakker.
+      Tom is net opgestaan
+
+3072: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom heeft een eeneiige tweelingbroer en weinig mensen kunnen ze uit elkaar houden.
+      Tom heeft een eeneiige tweelingbroer
+
+2627: [unknown],     yes,  closed, 'Ter',55    XP: []
+      Tom slaapt meestal uit op zaterdag
+      Tom slaapt meestal uit op zaterdag en zondag.
+
+3101: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Tom had de hele dag niets gegeten en had veel honger.
+      Tom had de hele dag niets gegeten
+
+3462: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom kwam te vroeg en Mary was nog niet klaar.
+      Tom kwam te vroeg
+
+2331: [unknown],     yes,  closed, 'Ter',1     XP: [isa(boodschappentas,tas),isa(tas,boodschappentas)]
+      Tom had een paar tassen bij zich.
+      Tom had een paar boodschappentassen bij zich.
+
+2256: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+933: [unknown],     yes,  closed, 'Ter',19    XP: [int(groot)]
+      Tom stopte al zijn grote geld in een doos en verborg het onder zijn bed.
+      Tom stopte al zijn geld in een doos en verborg het onder zijn bed.
+
+3384: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Tom had sinds het ontbijt niet meer gegeten en kreeg honger.
+      Tom had sinds het ontbijt niet meer gegeten
+
+3288: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Tom is boos en niet blij.
+      Tom is boos
+
+3186: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Tom houdt ervan om bezig te zijn en heeft er een hekel aan om niets te doen.
+      Tom houdt ervan om bezig te zijn
+
+2258: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+3372: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Tom lijkt het altijd erg druk te hebben en lijkt niet veel vrije tijd te hebben.
+      Tom lijkt het altijd erg druk te hebben
+
+3242: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom voelde diep van binnen dat Mary nog leefde, en hij gaf de hoop niet op haar te vinden en te redden.
+      Tom voelde diep van binnen dat Mary nog leefde,
+
+2708: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Tom begon Mary steeds leuker te vinden
+      Tom begon Mary steeds leuker te vinden.
+
+3028: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Tom is eenzaam en ongelukkig.
+      Tom is eenzaam
+
+2699: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom is het soort persoon dat alles bij elkaar noemt en veel mensen houden daar niet van.
+      Tom is het soort persoon dat alles bij elkaar noemt
+

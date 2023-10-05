@@ -1,0 +1,547 @@
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1455: [unknown], unknown,      NA, 'Defected'  XP: _3241836
+      Tom zei tegen Mary dat ze wat koffie en tabaksrolletjes moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1461:     [yes], unknown,      NA, 'Defected'  XP: _6258098
+      Tom zei tegen Mary dat ze wat koffie en cubeb-sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1325:     [yes], unknown,      NA, 'Defected'  XP: _5995662
+      Tom kocht wat groenten en fruit.
+      Tom kocht wat groenten en gevolg.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1459:     [yes], unknown,      NA, 'Defected'  XP: _3047794
+      Tom zei tegen Mary dat ze wat koffie en cubebs moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1328: [unknown], unknown,      NA, 'Defected'  XP: _2328620
+      Tom kocht wat groenten en nasleep.
+      Tom kocht wat groenten en fruit.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1465:     [yes], unknown,      NA, 'Defected'  XP: _1397988
+      Tom zei tegen Mary dat ze wat koffie en marihuanasigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1519: [unknown], unknown,    open, 'Lim',431   XP: []
+      Tom kocht wat bloemen voor Mary.
+      Tom kocht wat ageratums voor Mary.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1454:     [yes], unknown,      NA, 'Defected'  XP: _6240230
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en tabaksrolletjes moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1468: [unknown], unknown,      NA, 'Defected'  XP: _1495102
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en stokken moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1327:     [yes], unknown,      NA, 'Defected'  XP: _3736
+      Tom kocht wat groenten en fruit.
+      Tom kocht wat groenten en nasleep.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1349: [unknown], unknown,    open, 'Lim',412   XP: []
+      Tom heeft een aantal heel belangrijke dingen die hij vandaag moet doen.
+      Tom heeft een aantal heel belangrijke dingen die hij nu moet doen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1467:     [yes], unknown,      NA, 'Defected'  XP: _1623574
+      Tom zei tegen Mary dat ze wat koffie en koelcontainers moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 836:     [yes], unknown,    open, 'Lim',408   XP: []
+      Tom bood zich vrijwillig aan om alles te doen.
+      Tom bood zich vrijwillig aan om alle dingen te doen die niemand anders wilde doen.
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1469:     [yes], unknown,      NA, 'Defected'  XP: _3199670
+      Tom zei tegen Mary dat ze wat koffie en stokken moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2395: [unknown], unknown,    open, 'Ter',150   XP: []
+      Tom kocht wat chocolaatjes voor Soul.
+      Tom kocht wat chocolaatjes voor Mary.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1456:     [yes], unknown,      NA, 'Defected'  XP: _400138
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en rook moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1925:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kocht wat boter en eieren voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1463:     [yes], unknown,      NA, 'Defected'  XP: _2649908
+      Tom zei tegen Mary dat ze wat koffie en sigaretten met filtertip moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1017:     [yes], unknown,    open, 'Ter',20    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's E.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1464: [unknown], unknown,      NA, 'Defected'  XP: _1793206
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en marihuanasigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1460: [unknown], unknown,      NA, 'Defected'  XP: _3486684
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en cubeb-sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1462: [unknown], unknown,      NA, 'Defected'  XP: _5913716
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten met filtertip moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1326: [unknown], unknown,      NA, 'Defected'  XP: _1439246
+      Tom kocht wat groenten en gevolg.
+      Tom kocht wat groenten en fruit.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1457: [unknown], unknown,      NA, 'Defected'  XP: _2752162
+      Tom zei tegen Mary dat ze wat koffie en rook moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2521:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de vriezer en haalde het ijs eruit.
+      Tom opende de vriezer
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2139: [unknown], unknown,      NA, 'Defected'  XP: _2451518
+      Tom vroeg Mary om wat tandpasta en toiletartikelen uit de supermarkt voor hem terug te brengen.
+      Tom vroeg Mary om wat tandpasta en toiletpapier uit de supermarkt voor hem terug te brengen.
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2494: [unknown], unknown,      NA, 'Defected'  XP: _6369232
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als meneer.
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2514: [unknown], unknown,      NA, 'Defected'  XP: _6370190
+      Tom kent zowel Mary als de mens.
+      Tom kent zowel Mary als John.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2614:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde zijn zakdoek tevoorschijn en snoot zijn neus.
+      Tom haalde zijn zakdoek tevoorschijn
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1466: [unknown], unknown,      NA, 'Defected'  XP: _716148
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en koelcontainers moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2956:     [yes], unknown,    open, 'Ter',82    XP: []
+      Tom stopte voor Mary's huis en stapte uit zijn auto.
+      Tom stopte voor het huis van Mary
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3516: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom besteedt veel tijd aan het zoeken naar zijn autosleutels, mobiele telefoon of bril.
+      Tom besteedt veel tijd aan het zoeken naar zijn autosleutels, mobiele telefoon
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2854:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom doet meestal mosterd en ketchup op zijn hotdogs.
+      Tom doet meestal mosterd
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1458: [unknown], unknown,      NA, 'Defected'  XP: _228052
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en cubebs moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3234:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom schreef Mary's naam en telefoonnummer in zijn notitieboekje.
+      Tom schreef de naam van Mary
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3509: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom moet zeker een bezoek brengen aan een kunstmuseum of twee als hij in Frankrijk is.
+      Tom moet zeker eens een kunstmuseum bezoeken
+
+Error in gen_quant_tt
+2992:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vulde zijn glas en vulde er daarna één voor Mary.
+      Tom vulde zijn glas
+
+Error in gen_quant_tt
+1546: [unknown], unknown,    open, 'Ter',47    XP: []
+      Tom kocht wat bloemen voor Mary.
+      Tom kocht wat Mentzelia livicauliss voor Mary.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3092: [unknown], unknown,    open, 'Ter',24    XP: []
+      Tom omhelsde Mary stevig
+      Tom omhelsde Mary stevig en wilde haar nooit meer loslaten.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 253: [unknown], unknown,    open, 'Ter',50    XP: []
+      Tom toonde geen verering.
+      Tom toonde geen enkele emotie.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2751:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom is een gewoontedier en doet vrijwel elke dag dezelfde dingen.
+      Tom is een gewoontedier,
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3502:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom had geen broers of zussen.
+      Tom had geen broers
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1842:     [yes], unknown,    open, 'Lim',430   XP: []
+      Tom kocht wat shortia's voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+Error in gen_quant_tt
+3355: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom voegde de zijne toe
+      Tom heeft zowel zijn naam als die van Mary aan de lijst toegevoegd.
+
+Error in gen_quant_tt
+3497: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom houdt van sinaasappels en eet er drie of vier per week.
+      Tom houdt van sinaasappels en eet er drie
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3395: [unknown], unknown,    open, 'Ter',40    XP: []
+      Tom sloot zijn paraplu
+      Tom sloot zijn paraplu en zette hem in het paraplurek bij de deur.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1817: [unknown], unknown,    open, 'Lim',431   XP: []
+      Tom kocht wat bloemen voor Mary.
+      Tom kocht wat zandkruid voor Mary.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2693:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom houdt van sinaasappels en eet er drie of vier per week.
+      Tom houdt van sinaasappels
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1273: [unknown], unknown,      NA, 'Defected'  XP: _2666300
+      Tom is irritant omdat hij bij elke discussie altijd het laatste woord moet hebben.
+      Tom is irritant omdat hij altijd het laatste woord moet hebben, in welke variabele hoeveelheid dan ook.
+
+Error in gen_quant_tt
+3018: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom probeerde niet te luisteren naar Mary en John die hun financiële situatie bespraken.
+      Tom probeerde niet naar Mary te luisteren
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2082:     [yes], unknown,    open, 'Lim',413   XP: []
+      Tom nam een artistieke licentie.
+      Tom nam wat artistieke empowerment.
+
+Error in gen_quant_tt
+3404: [unknown], unknown,    open, 'Ter',13    XP: []
+      Tom's eerste vrouw heeft hem beroofd,
+      Toms eerste vrouw heeft hem beroofd, en hij was blut toen hij Mary ontmoette.
+
+Error in gen_quant_tt
+1453: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom zei tegen Mary dat ze wat sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+ERROR: sentence id=2687
+Failed to align term tokens and lexical annotations
+term tokes: [[[nog,eens],[15],[minuten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:om_draaien,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:draai_om,rel:hd,s:draai_om,t:draaide},j{l:zich,lcat:np,p:pron,postag:'VNW(refl,pron,obl,red,3,getal)',pt:vnw,r:zich,rel:obj1,s:zich,t:zich},j{l:om,lcat:part,p:part,postag:'VZ(fin)',pt:vz,r:om,rel:svp,s:om,t:om},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:snoozede,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:snoozede,rel:dp,s:snoozede,t:snoozede},j{l:nog,lcat:advp,p:adv,postag:'BW()',pt:bw,r:nog,rel:mwp,s:nog,t:nog},j{l:eens,lcat:advp,p:adv,postag:'BW()',pt:bw,r:eens,rel:mwp,s:eens,t:eens},j{l:'15',lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:'15',rel:det,s:'15',t:'15'},j{l:minuut,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:minuut,rel:hd,s:minuut,t:minuten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2542:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom draaide zich om en snoozede nog eens 15 minuten.
+      Tom rolde zich om
+
+ERROR: sentence id=2687
+Failed to align term tokens and lexical annotations
+term tokes: [[[nog,eens],[15],[minuten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:om_draaien,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:draai_om,rel:hd,s:draai_om,t:draaide},j{l:zich,lcat:np,p:pron,postag:'VNW(refl,pron,obl,red,3,getal)',pt:vnw,r:zich,rel:obj1,s:zich,t:zich},j{l:om,lcat:part,p:part,postag:'VZ(fin)',pt:vz,r:om,rel:svp,s:om,t:om},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:snoozede,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:snoozede,rel:dp,s:snoozede,t:snoozede},j{l:nog,lcat:advp,p:adv,postag:'BW()',pt:bw,r:nog,rel:mwp,s:nog,t:nog},j{l:eens,lcat:advp,p:adv,postag:'BW()',pt:bw,r:eens,rel:mwp,s:eens,t:eens},j{l:'15',lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:'15',rel:det,s:'15',t:'15'},j{l:minuut,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:minuut,rel:hd,s:minuut,t:minuten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2543: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom rolde zich om
+      Tom draaide zich om en snoozede nog eens 15 minuten.
+
+ERROR: sentence id=43
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier}]
+2704: [unknown], unknown,    open, 'Ter',41    XP: []
+      Tom probeerde zijn ademhaling onder controle te houden
+      Tom probeerde zijn ademhaling onder controle te houden en kalm te blijven.
+
+ERROR: sentence id=44
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier],[en],[kom],[bij],[mij],[zitten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:bij,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:bij,rel:hd,s:bij,t:bij},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:zitten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zit,rel:hd,s:zit,t:zitten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+2845: [unknown], unknown,      NA, 'Defected'  XP: _1060986
+      Tom, kom hier
+      Tom, kom hier en kom bij mij zitten.
+
+ERROR: sentence id=44
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier],[en],[kom],[bij],[mij],[zitten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:bij,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:bij,rel:hd,s:bij,t:bij},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:zitten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zit,rel:hd,s:zit,t:zitten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=43
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier}]
+Inconsistency in node types (entail/8)
+2844:     [yes], unknown,      NA, 'Defected'  XP: _4121282
+      Tom, kom hier en kom bij mij zitten.
+      Tom, kom hier
+
+ERROR: sentence id=822
+Failed to align term tokens and lexical annotations
+term tokes: [[[ook],[niet],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:kunnen,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel:hd,s:kan,t:kan},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:zwemmen,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zwem,rel:hd,s:zwem,t:zwemmen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:'Mary',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Mary',rel:dp,s:'Mary',t:'Mary'},j{l:ook,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ook,rel:mod,s:ook,t:ook},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:hd,s:niet,t:niet},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2026: [unknown], unknown,    open, 'Ter',40    XP: []
+      Tom gaf wat melk aan de kat.
+      Tom gaf de kat wat chocolademelk.
+
+ERROR: sentence id=822
+Failed to align term tokens and lexical annotations
+term tokes: [[[ook],[niet],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:kunnen,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel:hd,s:kan,t:kan},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:zwemmen,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zwem,rel:hd,s:zwem,t:zwemmen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:'Mary',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Mary',rel:dp,s:'Mary',t:'Mary'},j{l:ook,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ook,rel:mod,s:ook,t:ook},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:hd,s:niet,t:niet},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+3086:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom was en is nog steeds een constante bron van zorgen voor zijn ouders.
+      Tom is geweest,
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3411: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom doet veel suiker
+      Tom doet veel suiker en room in zijn koffie.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2902:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie moest kopen
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3511: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom heeft geen broers
+      Tom heeft geen broers of zussen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3330:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde iets uit zijn zak en legde het op zijn bureau.
+      Tom haalde iets uit zijn zak
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3410:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom doet veel suiker en room in zijn koffie.
+      Tom doet veel suiker
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3510:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom heeft geen broers of zussen.
+      Tom heeft geen broers
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2138:     [yes], unknown,      NA, 'Defected'  XP: _165216
+      Tom vroeg Mary om wat tandpasta en toiletpapier uit de supermarkt voor hem terug te brengen.
+      Tom vroeg Mary om wat tandpasta en toiletartikelen uit de supermarkt voor hem terug te brengen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3508: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom en Mary hebben geen tijd
+      Tom en Mary hebben geen tijd of geld om op reis te gaan.
+
+Error in gen_quant_tt
+2688: [unknown], unknown,    open, 'Ter',35    XP: []
+      Tom sloot zijn koffertje
+      Tom sloot zijn koffertje en overhandigde het aan Mary.
+
+Error in gen_quant_tt
+3273:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kocht wat groenten en fruit.
+      Tom kocht wat groenten
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3499:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom was er niet klaar voor om Mary's liefde of vriendschap te accepteren.
+      Tom was niet klaar om Mary's liefde te accepteren
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3292: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom heeft geen broers en zussen.
+      Tom heeft geen broers
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3000:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom maakte Mary kwaadaardig tegen al zijn vrienden en familie na hun uiteenvallen.
+      Tom maakte Mary kwaadaardig tegen al zijn vrienden
+
+ERROR: sentence id=1537
+Failed to align term tokens and lexical annotations
+term tokes: [[[Tom],[was],[van,plan],[slechts],[een,of],[dag],[twee],[in],[Boston],[te],[blijven],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ben,rel:hd,s:'van-plan-ben',t:was},j{l:van,lcat:fixed,p:fixed,postag:'VZ(init)',pt:vz,r:van,rel:mwp,s:van,t:van},j{l:plan,lcat:fixed,p:fixed,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:plan,rel:mwp,s:plan,t:plan},j{l:slechts,lcat:advp,p:adv,postag:'BW()',pt:bw,r:slechts,rel:mod,s:slechts,t:slechts},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:mwp,s:een,t:een},j{l:dag,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:dag,rel:hd,s:dag,t:dag},j{l:of,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:of,rel:mwp,s:of,t:of},j{l:twee,lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:twee,rel:hd,s:twee,t:twee},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:'Boston',lcat:np,p:name,postag:'N(eigen,ev,basis,onz,stan)',pt:n,r:'Boston',rel:obj1,s:'Boston',t:'Boston'},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:blijven,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:blijf,rel:hd,s:blijf,t:blijven},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+3506:     [yes], unknown,      NA, 'Defected'  XP: _5828966
+      Tom was van plan slechts een dag in Boston te blijven
+      Tom was van plan slechts een dag of twee in Boston te blijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1793: [unknown], unknown,    open, 'Lim',431   XP: []
+      Tom kocht wat bloemen voor Mary.
+      Tom kocht wat tuinroze voor Mary.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3019:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom probeerde niet naar Mary te luisteren
+      Tom probeerde niet te luisteren naar Mary en John die hun financiële situatie bespraken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1933:     [yes], unknown,    open, 'Lim',430   XP: []
+      Tom kocht wat tuberozen voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+ERROR: sentence id=1537
+Failed to align term tokens and lexical annotations
+term tokes: [[[Tom],[was],[van,plan],[slechts],[een,of],[dag],[twee],[in],[Boston],[te],[blijven],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ben,rel:hd,s:'van-plan-ben',t:was},j{l:van,lcat:fixed,p:fixed,postag:'VZ(init)',pt:vz,r:van,rel:mwp,s:van,t:van},j{l:plan,lcat:fixed,p:fixed,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:plan,rel:mwp,s:plan,t:plan},j{l:slechts,lcat:advp,p:adv,postag:'BW()',pt:bw,r:slechts,rel:mod,s:slechts,t:slechts},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:mwp,s:een,t:een},j{l:dag,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:dag,rel:hd,s:dag,t:dag},j{l:of,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:of,rel:mwp,s:of,t:of},j{l:twee,lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:twee,rel:hd,s:twee,t:twee},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:'Boston',lcat:np,p:name,postag:'N(eigen,ev,basis,onz,stan)',pt:n,r:'Boston',rel:obj1,s:'Boston',t:'Boston'},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:blijven,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:blijf,rel:hd,s:blijf,t:blijven},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+3505: [unknown], unknown,      NA, 'Defected'  XP: _1014406
+      Tom was van plan slechts een dag of twee in Boston te blijven.
+      Tom was van plan slechts een dag in Boston te blijven
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2855: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom doet meestal mosterd
+      Tom doet meestal mosterd en ketchup op zijn hotdogs.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3235: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom schreef de naam van Mary
+      Tom schreef Mary's naam en telefoonnummer in zijn notitieboekje.
+

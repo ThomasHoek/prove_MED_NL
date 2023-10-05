@@ -9830,8 +9830,8 @@ sen_id(1308, 3275, 'h', 'HELP', 'unknown', 'Tom pakte een deken en legde die ove
 %sen_id(2868, 3277, 'p', 'HELP', 'unknown', 'Tom gleed uit op het ijs').
 %sen_id(2869, 3277, 'h', 'HELP', 'unknown', 'Tom gleed uit op het ijs en brak afgelopen winter zijn heup.').
 %problem id = 3278
-sen_id(2401, 3278, 'p', 'HELP', 'yes', 'Tom bestelde een grote dubbele cheeseburger en friet.').
-sen_id(2400, 3278, 'h', 'HELP', 'yes', 'Tom bestelde een grote dubbele cheeseburger').
+%sen_id(2401, 3278, 'p', 'HELP', 'yes', 'Tom bestelde een grote dubbele cheeseburger en friet.').
+%sen_id(2400, 3278, 'h', 'HELP', 'yes', 'Tom bestelde een grote dubbele cheeseburger').
 %problem id = 3279
 %sen_id(2400, 3279, 'p', 'HELP', 'unknown', 'Tom bestelde een grote dubbele cheeseburger').
 %sen_id(2401, 3279, 'h', 'HELP', 'unknown', 'Tom bestelde een grote dubbele cheeseburger en friet.').
@@ -9980,11 +9980,11 @@ sen_id(2102, 3326, 'h', 'HELP', 'yes', 'Tom wordt op zondag dubbel betaald').
 sen_id(2102, 3327, 'p', 'HELP', 'unknown', 'Tom wordt op zondag dubbel betaald').
 sen_id(2103, 3327, 'h', 'HELP', 'unknown', 'Op zon- en feestdagen wordt Tom dubbel betaald.').
 %problem id = 3328
-sen_id(3197, 3328, 'p', 'HELP', 'yes', 'Tom wil weten wanneer we hem komen helpen.').
-sen_id(3196, 3328, 'h', 'HELP', 'yes', 'Tom wil weten wanneer we langskomen').
+%sen_id(3197, 3328, 'p', 'HELP', 'yes', 'Tom wil weten wanneer we hem komen helpen.').
+%sen_id(3196, 3328, 'h', 'HELP', 'yes', 'Tom wil weten wanneer we langskomen').
 %problem id = 3329
-sen_id(3196, 3329, 'p', 'HELP', 'unknown', 'Tom wil weten wanneer we langskomen').
-sen_id(3197, 3329, 'h', 'HELP', 'unknown', 'Tom wil weten wanneer we hem komen helpen.').
+%sen_id(3196, 3329, 'p', 'HELP', 'unknown', 'Tom wil weten wanneer we langskomen').
+%sen_id(3197, 3329, 'h', 'HELP', 'unknown', 'Tom wil weten wanneer we hem komen helpen.').
 %problem id = 3330
 sen_id(2562, 3330, 'p', 'HELP', 'yes', 'Tom haalde iets uit zijn zak en legde het op zijn bureau.').
 sen_id(2561, 3330, 'h', 'HELP', 'yes', 'Tom haalde iets uit zijn zak').

@@ -1,0 +1,499 @@
+283:     [yes], unknown,    open, 'Ter',4     XP: []
+      Tom heeft geen is.
+      Tom heeft geen idee wie Mary is.
+ 
+396:     [yes], unknown,    open, 'Ter',20    XP: []
+      Tom heeft geen ik.
+      Tom heeft geen geheimen voor mij.
+ 
+1041:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's he.
+
+1055:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's j.
+ 
+1115: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's q.
+      Tom antwoordde niet op Mary's letter.
+ 
+1141:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's t.
+ 
+1181: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's y.
+      Tom antwoordde niet op Mary's letter.
+ 
+1019:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's e.
+ 
+1039:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's h.
+
+1059: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's k.
+      Tom antwoordde niet op Mary's letter.
+ 
+1119:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's r.
+ 
+1159:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's v.
+ 
+972:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's a.
+ 
+985: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's b.
+      Tom antwoordde niet op Mary's letter.
+
+1005:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's d.
+
+1165:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's w.
+ 
+1091: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's o.
+      Tom antwoordde niet op Mary's letter.
+ 
+1028: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's f.
+      Tom antwoordde niet op Mary's letter.
+
+1128: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's s.
+      Tom antwoordde niet op Mary's letter.
+
+1188:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's z.
+ 
+1090:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's o.
+ 
+1170: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's waw.
+      Tom antwoordde niet op Mary's letter.
+ 
+1114:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's q.
+
+1174: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's x.
+      Tom antwoordde niet op Mary's letter.
+
+1027:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's f.
+ 
+1127:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's s.
+
+1169:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's waw.
+
+1189: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's z.
+      Tom antwoordde niet op Mary's letter.
+
+996:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's c.
+
+1056: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's j.
+      Tom antwoordde niet op Mary's letter.
+
+1020: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's e.
+      Tom antwoordde niet op Mary's letter.
+
+1040: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's h.
+      Tom antwoordde niet op Mary's letter.
+
+1120: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's r.
+      Tom antwoordde niet op Mary's letter.
+
+1160: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's v.
+      Tom antwoordde niet op Mary's letter.
+
+1180:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's y.
+ 
+984:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's b.
+
+2315:     [yes], unknown,    open, 'Ter',28    XP: []
+      Tom kan ook een beetje Waals spreken.
+      Tom kan ook een beetje Frans spreken.
+
+1083: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's n.
+      Tom antwoordde niet op Mary's letter.
+ 
+1058:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's k.
+
+1042: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's he.
+      Tom antwoordde niet op Mary's letter.
+
+2575:     [yes], unknown,    open, 'Ter',16    XP: []
+      Tom heeft een oudere zus, Mary,
+      Tom heeft een oudere zus, Mary, en twee jongere zussen, maar ik weet hun namen niet meer.
+
+1082:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's n.
+
+2697:     [yes], unknown,    open, 'Ter',12    XP: []
+      Tom vertelde me dat hij en Mary hun zomervakantie op het strand doorbrachten.
+      Tom vertelde me dat hij
+
+1142: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's t.
+      Tom antwoordde niet op Mary's letter.
+
+2797:     [yes], unknown,    open, 'Ter',14    XP: []
+      Tom spreekt Spaans, en Betty ook.
+      Tom spreekt Spaans,
+
+3017: [unknown], unknown,    open, 'Ter',8     XP: []
+      Tom merkte dat hij
+      Tom merkte dat hij en Mary eindelijk samen alleen waren.
+
+997: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's c.
+      Tom antwoordde niet op Mary's letter.
+
+3197: [unknown], unknown,    open, 'Ter',42    XP: []
+      Tom hielp Mary in de bus,
+      Tom hielp Mary in de bus en stapte vervolgens zelf in.
+
+3403:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Toms eerste vrouw heeft hem beroofd, en hij was blut toen hij Mary ontmoette.
+      Tom's eerste vrouw heeft hem beroofd,
+
+2827: [unknown], unknown,    open, 'Ter',13    XP: []
+      Tom verloor zijn pet,
+      Tom verloor zijn pet en hij vond dat hij een nieuwe moest kopen.
+
+2967:     [yes], unknown,    open, 'Ter',39    XP: []
+      Tom heeft zijn nieuwe schoenen niet genoeg ingereden voor de marathon,
+      Tom had zijn nieuwe schoenen voor de marathon niet voldoende ingereden en kreeg ernstige blaren op zijn voeten.
+
+1006: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's d.
+      Tom antwoordde niet op Mary's letter.
+
+1166: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's w.
+      Tom antwoordde niet op Mary's letter.
+
+2590:     [yes], unknown,    open, 'Ter',45    XP: []
+      Tom paste gisteravond op de kinderen van John en Mary.
+      Tom paste op John ø
+
+2752: [unknown], unknown,    open, 'Ter',39    XP: []
+      Tom is een gewoontedier,
+      Tom is een gewoontedier en doet vrijwel elke dag dezelfde dingen.
+
+3087: [unknown], unknown,    open, 'Lim',402   XP: []
+      Tom is geweest,
+      Tom was en is nog steeds een constante bron van zorgen voor zijn ouders.
+
+2314: [unknown], unknown,    open, 'Ter',15    XP: []
+      Tom kan ook een beetje Frans spreken.
+      Tom kan ook een beetje Waals spreken.
+
+2588:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom's ogen zijn rood en hij ziet er erg moe uit.
+      Tom's ogen zijn rood,
+
+2608:     [yes], unknown,    open, 'Ter',42    XP: []
+      Tom heeft twee zoons. De een is arts en de ander advocaat.
+      Tom heeft twee zoons. Eén is een dokter
+
+2461: [unknown], unknown,    open, 'Ter',39    XP: []
+      Tom kuste Mary vanwege beide onbeleefdheid.
+      Tom kuste Maria op beide wangen.
+
+2950: [unknown], unknown,    open, 'Ter',14    XP: []
+      Tom merkte dat op, John
+      Tom merkte dat John en Mary elkaars hand vasthielden.
+
+2574: [unknown], unknown,    open, 'Ter',22    XP: []
+      Tom heeft een oudere zus, Mary, en twee jongere zussen, maar ik weet hun namen niet meer.
+      Tom heeft een oudere zus, Mary,
+
+3270: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom vertelde me dat hij
+      Tom vertelde me dat hij en Mary van plan waren komend weekend naar het strand te gaan.
+
+3294:     [yes], unknown,    open, 'Ter',8     XP: []
+      Tom zei dat hij en Mary ruzie hadden gehad.
+      Tom zei dat hij
+
+3336: [unknown], unknown,    open, 'Ter',33    XP: []
+      Toms geest was verdeeld in tien verschillende persoonlijkheden, die afwisselend de controle overnamen. Ze kenden elkaar allemaal
+      Toms geest was verdeeld in tien verschillende persoonlijkheden, die afwisselend de controle overnamen. Ze kenden elkaar allemaal en beschouwden zichzelf als verschillende individuen.
+
+3016:     [yes], unknown,    open, 'Ter',8     XP: []
+      Tom merkte dat hij en Mary eindelijk samen alleen waren.
+      Tom merkte dat hij
+
+3243:     [yes], unknown,    open, 'Ter',11    XP: []
+      Tom voelde diep van binnen dat Mary nog leefde,
+      Tom voelde diep van binnen dat Mary nog leefde, en hij gaf de hoop niet op haar te vinden en te redden.
+
+3196:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom hielp Mary in de bus en stapte vervolgens zelf in.
+      Tom hielp Mary in de bus,
+
+3114: [unknown], unknown,    open, 'Ter',10    XP: []
+      Tom is niet dood. Hij is springlevend.
+      Tom is niet dood. Hij leeft
+
+3469: [unknown], unknown,    open, 'Ter',8     XP: []
+      Tom zei dat hij
+      Tom zei dat hij en Mary waarschijnlijk een beetje laat zouden zijn.
+
+3420:     [yes], unknown,    open, 'Ter',11    XP: []
+      Tom vond John en Mary altijd zo'n leuk stel.
+      Tom dacht altijd dat John
+
+2821: [unknown], unknown,    open, 'Ter',35    XP: []
+      Tom hield een van Mary's handen vast,
+      Tom hield een van Mary's handen vast, en John hield de andere vast.
+
+3012:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom kuste Mary terwijl John en Alice de andere kant op keken.
+      Tom kuste Mary terwijl John
+
+2607: [unknown], unknown,    open, 'Ter',8     XP: []
+      Tom zei dat jij
+      Tom zei dat jij en hij afgelopen weekend gingen kamperen.
+
+2589: [unknown], unknown,    open, 'Ter',11    XP: []
+      Tom's ogen zijn rood,
+      Tom's ogen zijn rood en hij ziet er erg moe uit.
+
+3285: [unknown], unknown,    open, 'Ter',17    XP: []
+      Tom keek er naar uit om naar de voetbalwedstrijd te kijken die hij thuis had opgenomen,
+      Tom keek er naar uit om naar de voetbalwedstrijd te kijken die hij thuis had opgenomen, en hij werd boos toen hij iemand de einduitslag hoorde noemen.
+
+2609: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom heeft twee zoons. Eén is een dokter
+      Tom heeft twee zoons. De een is arts en de ander advocaat.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2751:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom is een gewoontedier en doet vrijwel elke dag dezelfde dingen.
+      Tom is een gewoontedier,
+
+2949:     [yes], unknown,    open, 'Ter',13    XP: []
+      Tom merkte dat John en Mary elkaars hand vasthielden.
+      Tom merkte dat op, John
+
+3295: [unknown], unknown,    open, 'Ter',8     XP: []
+      Tom zei dat hij
+      Tom zei dat hij en Mary ruzie hadden gehad.
+
+3269:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom vertelde me dat hij en Mary van plan waren komend weekend naar het strand te gaan.
+      Tom vertelde me dat hij
+
+3335:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Toms geest was verdeeld in tien verschillende persoonlijkheden, die afwisselend de controle overnamen. Ze kenden elkaar allemaal en beschouwden zichzelf als verschillende individuen.
+      Toms geest was verdeeld in tien verschillende persoonlijkheden, die afwisselend de controle overnamen. Ze kenden elkaar allemaal
+
+2591: [unknown], unknown,    open, 'Ter',29    XP: []
+      Tom paste op John ø
+      Tom paste gisteravond op de kinderen van John en Mary.
+
+973: [unknown], unknown,    open, 'Ter',30    XP: []
+      Tom antwoordde niet op Mary's a.
+      Tom antwoordde niet op Mary's letter.
+ 
+1173:     [yes], unknown,    open, 'Ter',15    XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's x.
+
+2698: [unknown], unknown,    open, 'Ter',12    XP: []
+      Tom vertelde me dat hij
+      Tom vertelde me dat hij en Mary hun zomervakantie op het strand doorbrachten.
+
+2798: [unknown], unknown,    open, 'Ter',14    XP: []
+      Tom spreekt Spaans,
+      Tom spreekt Spaans, en Betty ook.
+
+2958:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kent zowel Mary als John.
+      Tom kent beide Maria
+
+2826:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom verloor zijn pet en hij vond dat hij een nieuwe moest kopen.
+      Tom verloor zijn pet,
+
+Error in gen_quant_tt
+3404: [unknown], unknown,    open, 'Ter',13    XP: []
+      Tom's eerste vrouw heeft hem beroofd,
+      Toms eerste vrouw heeft hem beroofd, en hij was blut toen hij Mary ontmoette.
+
+3424:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom spreekt Spaans, en Betty spreekt ook Spaans.
+      Tom spreekt Spaans,
+
+ERROR: sentence id=2687
+Failed to align term tokens and lexical annotations
+term tokes: [[[nog,eens],[15],[minuten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:om_draaien,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:draai_om,rel:hd,s:draai_om,t:draaide},j{l:zich,lcat:np,p:pron,postag:'VNW(refl,pron,obl,red,3,getal)',pt:vnw,r:zich,rel:obj1,s:zich,t:zich},j{l:om,lcat:part,p:part,postag:'VZ(fin)',pt:vz,r:om,rel:svp,s:om,t:om},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:snoozede,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:snoozede,rel:dp,s:snoozede,t:snoozede},j{l:nog,lcat:advp,p:adv,postag:'BW()',pt:bw,r:nog,rel:mwp,s:nog,t:nog},j{l:eens,lcat:advp,p:adv,postag:'BW()',pt:bw,r:eens,rel:mwp,s:eens,t:eens},j{l:'15',lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:'15',rel:det,s:'15',t:'15'},j{l:minuut,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:minuut,rel:hd,s:minuut,t:minuten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2542:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom draaide zich om en snoozede nog eens 15 minuten.
+      Tom rolde zich om
+
+2966: [unknown], unknown,    open, 'Lim',427   XP: []
+      Tom had zijn nieuwe schoenen voor de marathon niet voldoende ingereden en kreeg ernstige blaren op zijn voeten.
+      Tom heeft zijn nieuwe schoenen niet genoeg ingereden voor de marathon,
+
+ERROR: sentence id=2687
+Failed to align term tokens and lexical annotations
+term tokes: [[[nog,eens],[15],[minuten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:om_draaien,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:draai_om,rel:hd,s:draai_om,t:draaide},j{l:zich,lcat:np,p:pron,postag:'VNW(refl,pron,obl,red,3,getal)',pt:vnw,r:zich,rel:obj1,s:zich,t:zich},j{l:om,lcat:part,p:part,postag:'VZ(fin)',pt:vz,r:om,rel:svp,s:om,t:om},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:snoozede,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:snoozede,rel:dp,s:snoozede,t:snoozede},j{l:nog,lcat:advp,p:adv,postag:'BW()',pt:bw,r:nog,rel:mwp,s:nog,t:nog},j{l:eens,lcat:advp,p:adv,postag:'BW()',pt:bw,r:eens,rel:mwp,s:eens,t:eens},j{l:'15',lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:'15',rel:det,s:'15',t:'15'},j{l:minuut,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:minuut,rel:hd,s:minuut,t:minuten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2543: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom rolde zich om
+      Tom draaide zich om en snoozede nog eens 15 minuten.
+
+ERROR: sentence id=44
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier],[en],[kom],[bij],[mij],[zitten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:bij,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:bij,rel:hd,s:bij,t:bij},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:zitten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zit,rel:hd,s:zit,t:zitten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+2845: [unknown], unknown,      NA, 'Defected'  XP: _1060986
+      Tom, kom hier
+      Tom, kom hier en kom bij mij zitten.
+
+ERROR: sentence id=44
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier],[en],[kom],[bij],[mij],[zitten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:bij,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:bij,rel:hd,s:bij,t:bij},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:zitten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zit,rel:hd,s:zit,t:zitten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=43
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier}]
+Inconsistency in node types (entail/8)
+2844:     [yes], unknown,      NA, 'Defected'  XP: _4121282
+      Tom, kom hier en kom bij mij zitten.
+      Tom, kom hier
+
+3005: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom kan niet zwemmen
+      Tom kan niet zwemmen en Mary ook niet.
+
+3045: [unknown], unknown,    open, 'Ter',92    XP: []
+      Tom at een deel van de ham,
+      Tom at een deel van de ham op en zette de rest in de koelkast.
+
+ERROR: sentence id=822
+Failed to align term tokens and lexical annotations
+term tokes: [[[ook],[niet],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:kunnen,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel:hd,s:kan,t:kan},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:zwemmen,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zwem,rel:hd,s:zwem,t:zwemmen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:'Mary',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Mary',rel:dp,s:'Mary',t:'Mary'},j{l:ook,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ook,rel:mod,s:ook,t:ook},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:hd,s:niet,t:niet},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+3086:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom was en is nog steeds een constante bron van zorgen voor zijn ouders.
+      Tom is geweest,
+
+3004:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kan niet zwemmen en Mary ook niet.
+      Tom kan niet zwemmen
+
+2460: [unknown], unknown,    open, 'Ter',35    XP: []
+      Tom kuste Maria op beide wangen.
+      Tom kuste Mary vanwege beide onbeleefdheid.
+
+3044:     [yes], unknown,    open, 'Ter',103   XP: []
+      Tom at een deel van de ham op en zette de rest in de koelkast.
+      Tom at een deel van de ham,
+
+3242: [unknown],     yes,  closed, 'Ter',2     XP: []
+      Tom voelde diep van binnen dat Mary nog leefde, en hij gaf de hoop niet op haar te vinden en te redden.
+      Tom voelde diep van binnen dat Mary nog leefde,
+
+3468:     [yes], unknown,    open, 'Ter',8     XP: []
+      Tom zei dat hij en Mary waarschijnlijk een beetje laat zouden zijn.
+      Tom zei dat hij
+
+3013: [unknown], unknown,    open, 'Ter',12    XP: []
+      Tom kuste Mary terwijl John
+      Tom kuste Mary terwijl John en Alice de andere kant op keken.
+
+2606:     [yes], unknown,    open, 'Ter',8     XP: []
+      Tom zei dat jij en hij afgelopen weekend gingen kamperen.
+      Tom zei dat jij
+
+2820:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom hield een van Mary's handen vast, en John hield de andere vast.
+      Tom hield een van Mary's handen vast,
+
+3284:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom keek er naar uit om naar de voetbalwedstrijd te kijken die hij thuis had opgenomen, en hij werd boos toen hij iemand de einduitslag hoorde noemen.
+      Tom keek er naar uit om naar de voetbalwedstrijd te kijken die hij thuis had opgenomen,
+
+ERROR: sentence id=1537
+Failed to align term tokens and lexical annotations
+term tokes: [[[Tom],[was],[van,plan],[slechts],[een,of],[dag],[twee],[in],[Boston],[te],[blijven],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ben,rel:hd,s:'van-plan-ben',t:was},j{l:van,lcat:fixed,p:fixed,postag:'VZ(init)',pt:vz,r:van,rel:mwp,s:van,t:van},j{l:plan,lcat:fixed,p:fixed,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:plan,rel:mwp,s:plan,t:plan},j{l:slechts,lcat:advp,p:adv,postag:'BW()',pt:bw,r:slechts,rel:mod,s:slechts,t:slechts},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:mwp,s:een,t:een},j{l:dag,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:dag,rel:hd,s:dag,t:dag},j{l:of,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:of,rel:mwp,s:of,t:of},j{l:twee,lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:twee,rel:hd,s:twee,t:twee},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:'Boston',lcat:np,p:name,postag:'N(eigen,ev,basis,onz,stan)',pt:n,r:'Boston',rel:obj1,s:'Boston',t:'Boston'},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:blijven,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:blijf,rel:hd,s:blijf,t:blijven},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+3506:     [yes], unknown,      NA, 'Defected'  XP: _5828966
+      Tom was van plan slechts een dag in Boston te blijven
+      Tom was van plan slechts een dag of twee in Boston te blijven.
+
+2477: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom kent beide John.
+      Tom kent zowel Mary als John.
+
+2959: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom kent beide Maria
+      Tom kent zowel Mary als John.
+
+3425: [unknown], unknown,    open, 'Ter',13    XP: []
+      Tom spreekt Spaans,
+      Tom spreekt Spaans, en Betty spreekt ook Spaans.
+
+ERROR: sentence id=1537
+Failed to align term tokens and lexical annotations
+term tokes: [[[Tom],[was],[van,plan],[slechts],[een,of],[dag],[twee],[in],[Boston],[te],[blijven],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ben,rel:hd,s:'van-plan-ben',t:was},j{l:van,lcat:fixed,p:fixed,postag:'VZ(init)',pt:vz,r:van,rel:mwp,s:van,t:van},j{l:plan,lcat:fixed,p:fixed,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:plan,rel:mwp,s:plan,t:plan},j{l:slechts,lcat:advp,p:adv,postag:'BW()',pt:bw,r:slechts,rel:mod,s:slechts,t:slechts},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:mwp,s:een,t:een},j{l:dag,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:dag,rel:hd,s:dag,t:dag},j{l:of,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:of,rel:mwp,s:of,t:of},j{l:twee,lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:twee,rel:hd,s:twee,t:twee},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:'Boston',lcat:np,p:name,postag:'N(eigen,ev,basis,onz,stan)',pt:n,r:'Boston',rel:obj1,s:'Boston',t:'Boston'},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:blijven,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:blijf,rel:hd,s:blijf,t:blijven},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+3505: [unknown], unknown,      NA, 'Defected'  XP: _1014406
+      Tom was van plan slechts een dag of twee in Boston te blijven.
+      Tom was van plan slechts een dag in Boston te blijven
+
+3115:     [yes], unknown,    open, 'Ter',10    XP: []
+      Tom is niet dood. Hij leeft
+      Tom is niet dood. Hij is springlevend.
+
+3421: [unknown], unknown,    open, 'Ter',11    XP: []
+      Tom dacht altijd dat John
+      Tom vond John en Mary altijd zo'n leuk stel.
+

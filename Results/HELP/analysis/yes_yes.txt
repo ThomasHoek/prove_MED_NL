@@ -1,0 +1,1397 @@
+321:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Tom heeft er geen spijt van.
+      Tom heeft geen spijt.
+ 
+323:     [yes],     yes,  closed, 'Ter',12    XP: [int(no),isa(spijt,zelfverwijt),isa(zelfverwijt,spijt)]
+      Tom heeft er geen spijt van.
+      Tom heeft geen zelfverwijt.
+ 
+315:     [yes],     yes,  closed, 'Ter',12    XP: [int(no),isa(berouw,spijt),isa(spijt,berouw)]
+      Tom heeft er geen spijt van.
+      Tom heeft geen berouw.
+ 
+208:     [yes],     yes,  closed, 'Ter',1     XP: [isa(ongeluk,ongeval),isa(ongeval,ongeluk)]
+      Tom heeft geen herinnering aan het ongeval.
+      Tom heeft geen herinnering aan het ongeluk.
+ 
+472:     [yes],     yes,  closed, 'Ter',3     XP: [isa(vriend,weldoener)]
+      Tom heeft geen vrienden.
+      Tom heeft geen weldoeners.
+ 
+721:     [yes],     yes,  closed, 'Ter',2     XP: [isa(humor,plezier)]
+      Tom heeft geen gevoel voor humor.
+      Tom heeft geen gevoel voor plezier.
+ 
+378:     [yes],     yes,  closed, 'Ter',1     XP: [isa(lijden,pijn),isa(pijn,lijden)]
+      Tom vertelde de dokter dat hij geen pijn voelde.
+      Tom vertelde de dokter dat hij geen lijden voelde.
+ 
+618:     [yes],     yes,  closed, 'Ter',3     XP: [isa(keus,mogelijkheid)]
+      Tom heeft geen keus.
+      Tom heeft geen mogelijkheid.
+ 
+1021:     [yes],     yes,  closed, 'Ter',5     XP: [isa(epsilon,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's epsilon.
+
+1135:     [yes],     yes,  closed, 'Ter',5     XP: [isa(sigma,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's sigma.
+ 
+1155:     [yes],     yes,  closed, 'Ter',5     XP: [isa(upsilon,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's upsilon.
+ 
+1335:     [yes],     yes,  closed, 'Ter',18    XP: [isa(water,vloeistof)]
+      Tom had dorst en vroeg om wat water.
+      Tom had dorst en vroeg om wat vloeistof.
+ 
+1361:     [yes],     yes,  closed, 'Ter',3     XP: [isa(sok,kous)]
+      Tom verborg het pistool onder een paar sokken in de la.
+      Tom verborg het pistool onder een paar kousen in de la.
+ 
+905:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom lachte om alle grappen van Mary, zelfs de grappen waarvan hij dacht dat ze niet grappig waren.
+      Tom lachte om alle grappen van Mary, zelfs de grappen waarvan hij dacht dat ze niet grappig waren.
+ 
+1092:     [yes],     yes,  closed, 'Ter',5     XP: [isa(omega,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's omega.
+
+1068:     [yes],     yes,  closed, 'Ter',5     XP: [isa(lambda,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's lambda.
+
+1110:     [yes],     yes,  closed, 'Ter',5     XP: [isa(psi,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's psi.
+
+1535:     [yes],     yes,  closed, 'Ter',7     XP: [int(a),int(voor@'Mary'),isa(begonia,bloem)]
+      Tom kocht wat begonia's voor Mary.
+      Tom kocht wat bloemen voor Mary.
+ 
+1650:     [yes],     yes,  closed, 'Ter',13    XP: [int(a),int(voor@'Mary'),isa(kosmos,bloem)]
+      Tom kocht wat kosmos voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+1748:     [yes],     yes,  closed, 'Ter',12    XP: [int(Mexicaans),int(a),int(voor@'Mary'),isa(zonnebloem,bloem)]
+      Tom kocht wat Mexicaanse zonnebloemen voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+1527:     [yes],     yes,  closed, 'Ter',7     XP: [int(a),int(voor@'Mary'),isa(aster,bloem)]
+      Tom kocht wat asters voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+1768:     [yes],     yes,  closed, 'Ter',7     XP: [int(a),int(voor@'Mary'),isa(margriet,bloem)]
+      Tom kocht wat margrieten voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+1674:     [yes],     yes,  closed, 'Ter',7     XP: [int(a),int(voor@'Mary'),isa(dahlia,bloem)]
+      Tom kocht wat dahlia's voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+384:     [yes],     yes,  closed, 'Ter',1     XP: [isa(lijden,pijn),isa(pijn,lijden)]
+      Tom vertelde de dokter dat hij geen pijn voelde.
+      Tom vertelde de dokter dat hij geen lijden voelde.
+
+282:     [yes],     yes,  closed, 'Ter',1     XP: [isa(zekerheid,zelfvertrouwen),isa(zelfvertrouwen,zekerheid)]
+      Tom heeft geen zekerheid.
+      Tom heeft geen zelfvertrouwen.
+
+2015:     [yes],     yes,  closed, 'Ter',3     XP: [isa(melk,drank)]
+      Tom gaf wat melk aan de kat.
+      Tom gaf wat drank aan de kat.
+
+904:     [yes],     yes,  closed, 'Ter',6     XP: [isa(periode,tijd),isa(tijd,periode),isa(van@c1@(al@zijn@periode),al@zijn@periode)]
+      Tom besteedt al zijn periode van tijd aan het denken aan Mary.
+      Tom besteedt al zijn tijd aan het denken aan Mary.
+
+2195:     [yes],     yes,  closed, 'Ter',3     XP: [isa(foto,afbeelding)]
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele afbeeldingen aan Mary zien.
+
+963:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's letter.
+
+1123:     [yes],     yes,  closed, 'Ter',5     XP: [isa(rho,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's rho.
+
+1143:     [yes],     yes,  closed, 'Ter',5     XP: [isa(tau,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's tau.
+ 
+1078:     [yes],     yes,  closed, 'Ter',5     XP: [isa(mu,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's mu.
+
+1890:     [yes],     yes,  closed, 'Ter',7     XP: [int(a),int(voor@'Mary'),isa(zonnebloem,bloem)]
+      Tom kocht wat zonnebloemen voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+902:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom besteedt al zijn tijd periode aan het denken aan Mary.
+      Tom besteedt al zijn tijd aan het denken aan Mary.
+
+2535:     [yes],     yes,  closed, 'Ter',7     XP: [int(Tom),int(mobiel)]
+      Tom's mobiele telefoon ging en hij nam op.
+      Toms mobiel ging
+
+1283:     [yes],     yes,  closed, 'Ter',1     XP: [isa(misdrijf,overtreding),isa(overtreding,misdrijf)]
+      Tom is niet beschuldigd van enige overtreding.
+      Tom is niet beschuldigd van enig misdrijf.
+
+1102:     [yes],     yes,  closed, 'Ter',5     XP: [isa(phi,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's phi.
+
+2635:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom verdraaide Mary's arm en ze stemde ermee in om wat geld te doneren aan onze liefdadigheidsinstelling.
+      Tom verdraaide Mary's arm
+
+2677:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom lachte en Mary lachte met hem mee.
+      Tom lachte
+
+2737:     [yes],     yes,  closed, 'Ter',8     XP: [isa(pakken,halen)]
+      Tom pakte de fles whisky uit zijn koffertje en overhandigde die aan Mary.
+      Tom haalde de fles whisky uit zijn koffertje
+
+2757:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom houdt van voetbal en muziek.
+      Tom houdt van voetbal
+
+2045:     [yes],     yes,  closed, 'Ter',4     XP: [int(rauw)]
+      Tom gaf wat rauwe melk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+3097:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom overwon eindelijk zijn verlegenheid en vroeg Mary om met hem uit te gaan.
+      Tom overwon eindelijk zijn verlegenheid
+
+3403:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Toms eerste vrouw heeft hem beroofd, en hij was blut toen hij Mary ontmoette.
+      Tom's eerste vrouw heeft hem beroofd,
+
+2525:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom speelde piano en Mary zong.
+      Tom speelde piano
+
+3503:     [yes],     yes,  closed, 'Ter',13    XP: []
+      Tom ging drie jaar naar de middelbare school zonder ook maar één dag te missen of ooit te laat te komen.
+      Tom ging drie jaar naar de middelbare school zonder ook maar één dag te missen
+
+2667:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een boek van de plank en overhandigde het aan Mary.
+      Tom pakte een boek van de plank
+
+2687:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sloot zijn koffertje en overhandigde het aan Mary.
+      Tom sloot zijn koffertje
+
+2707:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom begon Mary steeds leuker te vinden.
+      Tom begon Mary steeds leuker te vinden
+
+2747:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stopte al zijn bezittingen in dozen en stuurde ze naar Boston.
+      Tom stopte al zijn bezittingen in dozen
+
+2767:     [yes],     yes,  closed, 'Ter',6     XP: [isa(nemen,pakken),isa(pakken,nemen)]
+      Tom nam Mary's lege glas uit haar hand en vulde het opnieuw.
+      Tom pakte Mary's lege glas uit haar hand
+
+2787:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom maakte zijn das los en zette zijn bril af.
+      Tom maakte zijn das los
+
+2330:     [yes],     yes,  closed, 'Ter',1     XP: [isa(boodschappentas,tas),isa(tas,boodschappentas)]
+      Tom had een paar boodschappentassen bij zich.
+      Tom had een paar tassen bij zich.
+
+2041:     [yes],     yes,  closed, 'Ter',4     XP: [int(droog)]
+      Tom gaf wat droge melk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+2550:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom klopte en Mary antwoordde.
+      Tom klopte
+
+2610:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom klopte op de deur en Mary deed open.
+      Tom klopte op de deur
+
+2630:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Tom kent het verschil niet tussen wijn
+      Tom kent het verschil niet tussen wijn en champagne.
+
+1257:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom wil niets van Mary's geld.
+      Tom wil niets van Mary's geld.
+
+2812:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom houdt van sinaasappels en eet er zo'n drie tot vier per week.
+      Tom houdt van sinaasappels
+
+2548:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn rugzak en vertrok.
+      Tom pakte zijn rugzak
+
+2568:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom maakte zijn veiligheidsgordel los en stapte uit de auto.
+      Tom maakte zijn veiligheidsgordel los
+
+2588:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom's ogen zijn rood en hij ziet er erg moe uit.
+      Tom's ogen zijn rood,
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2521:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de vriezer en haalde het ijs eruit.
+      Tom opende de vriezer
+
+3493:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom belt Mary elke avond en praat minstens 45 minuten met haar.
+      Tom belt Mary elke avond
+
+2810:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Tom zat op de veranda koffie te drinken en een sigaret te roken en keek naar de wereld die voorbijging.
+      Tom zat op de veranda koffie te drinken
+
+2830:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de vriezer en pakte wat ijs voor zijn drankje.
+      Tom opende de vriezer
+
+2663:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een biertje uit de koelkast en overhandigde het aan Mary.
+      Tom pakte een biertje uit de koelkast
+
+2890:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zette zijn hoed op en ging naar buiten.
+      Tom zette zijn hoed op
+
+2683:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom draaide zich om en rende achter Mary aan.
+      Tom draaide zich om
+
+2910:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn speelgoed op en stopte het in een doos.
+      Tom pakte zijn speelgoed op
+
+2703:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Tom probeerde zijn ademhaling onder controle te houden en kalm te blijven.
+      Tom probeerde zijn ademhaling onder controle te houden
+
+2930:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom wil je antwoord en hij wil het nu.
+      Tom wil je antwoord
+
+2723:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte de afstandsbediening van de tv en zette het volume zachter.
+      Tom pakte de afstandsbediening van de tv
+
+2259:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+2970:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom droeg een spijkerbroek en een cowboyhoed.
+      Tom droeg een spijkerbroek
+
+2990:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de doos en gluurde erin.
+      Tom opende de doos
+
+3010:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom werd het wachten op Mary waarschijnlijk beu en vertrok.
+      Tom werd het wachten op Mary waarschijnlijk beu
+
+3030:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sloot het tijdschrift en stopte het in zijn rugzak.
+      Tom sloot het tijdschrift
+
+2783:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom liep met Mary naar de deur en ze vertrok.
+      Tom liep met Mary naar de deur
+
+3070:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom heeft bruin haar en blauwe ogen.
+      Tom heeft bruin haar
+
+2554:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom gooide iets naar mij en ik dook weg.
+      Tom gooide iets naar mij
+
+2943:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom overmeesterde de bewaker en pakte zijn pistool.
+      Tom overmeesterde de bewaker
+
+2594:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom keek Mary vies aan en verliet toen de kamer.
+      Tom keek Mary vies aan
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2614:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde zijn zakdoek tevoorschijn en snoot zijn neus.
+      Tom haalde zijn zakdoek tevoorschijn
+
+2047:     [yes],     yes,  closed, 'Ter',4     XP: [int(koken)]
+      Tom gaf wat gekookte melk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+2816:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte het glas water en nam een slok.
+      Tom pakte het glas water
+
+2552:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom achtervolgde de overvaller en ving hem op.
+      Tom achtervolgde de overvaller
+
+2836:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stapte op een paard en volgde Maria.
+      Tom stapte op een paard
+
+2572:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom fluisterde iets in Mary's oor en ze knikte.
+      Tom fluisterde iets in Mary's oor
+
+2856:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kwam terug uit de keuken met twee mokken koffie en ging naast Mary zitten.
+      Tom kwam terug uit de keuken met twee mokken koffie
+
+2876:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zette zijn koffie neer en pakte zijn telefoon.
+      Tom zette zijn koffie neer
+
+3130:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom is nu van middelbare leeftijd en heeft ernstige gezondheidsproblemen.
+      Tom is nu van middelbare leeftijd
+
+2896:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kocht een krant en las die in de trein.
+      Tom kocht een krant
+
+2916:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok een pistool en schoot Mary neer.
+      Tom trok een pistool
+
+3150:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom belde Mary gisteravond en moedigde haar aan om zich bij het team aan te sluiten.
+      Tom belde Mary gisteravond
+
+3170:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom besteeg zijn paard en reed weg.
+      Tom besteeg zijn paard
+
+3190:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn kleren uit en stapte in de badkuip.
+      Tom trok zijn kleren uit
+
+2612:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende zijn koffertje en haalde er een paar documenten uit.
+      Tom opende zijn koffertje
+
+3210:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom nam een slok en bood de fles aan Mary aan.
+      Tom nam een slok
+
+3230:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom hief zijn glas en zei: "Op het gelukkige stel!"
+      Tom hief zijn glas
+
+3250:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde zijn jas van de hanger en trok hem aan.
+      Tom haalde zijn jas van de hanger
+
+3314:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom raakte van streek en begon te huilen.
+      Tom raakte van streek
+
+2247:     [yes],     yes,  closed, 'Ter',3     XP: [isa(röntgenfoto,foto)]
+      Tom liet enkele röntgenfoto's aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+3376:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kwam de kamer binnen en deed het licht aan.
+      Tom kwam de kamer binnen
+
+3396:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Tom draagt altijd een zonnebril en een trenchcoat.
+      Tom draagt altijd een zonnebril
+
+3416:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom deed twee sneetjes brood in de broodrooster en duwde de hendel naar beneden.
+      Tom deed twee sneetjes brood in de broodrooster
+
+3056:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte het slot en ging de kamer binnen.
+      Tom pakte het slot
+
+3456:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn camera en begon foto's te maken.
+      Tom pakte zijn camera
+
+3116:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom was uitgeput na zijn reis en het kostte hem minstens een week om ervan te herstellen.
+      Tom was uitgeput na zijn reis
+
+3156:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Tom trok zijn sokken en schoenen uit en liep de zee in.
+      Tom trok zijn sokken uit
+
+2814:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom trok zijn jas en handschoenen uit.
+      Tom trok zijn jas uit
+
+3103:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stapte weer in zijn auto en reed weg.
+      Tom stapte weer in zijn auto
+
+2834:     [yes],     yes,  closed, 'Ter',15    XP: [isa(and@rond@in@Boston@veel@plaats,veel@plaats)]
+      Tom is op veel plaatsen in en rond Boston geweest.
+      Tom is op veel plaatsen geweest
+
+2874:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom legde zijn lepel neer en pakte een vork.
+      Tom legde zijn lepel neer
+
+2894:     [yes],     yes,  closed, 'Ter',15    XP: [isa(gok,kans)]
+      Tom waagde gewoon een gokje en belde Mary om haar mee uit te vragen.
+      Tom waagde gewoon een kans
+
+2914:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stak zijn hand in zijn bureaula en haalde er een medicijnflesje uit.
+      Tom stak zijn hand in zijn bureaula
+
+2954:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vulde de pot met water en zette hem op het vuur.
+      Tom vulde de pot met water
+
+2974:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom's kussen is roze en er staat een afbeelding van een fee op.
+      Tom's kussen is roze
+
+2994:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sneed een stuk vlees af en legde het op zijn bord.
+      Tom sneed een stuk vlees af
+
+3034:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom gooide zijn oude persoonlijke papieren weg en stuurde ze ter vernietiging.
+      Tom gooide zijn oude persoonlijke papieren weg
+
+3054:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zette zijn zonnebril af en gaf die aan Mary.
+      Tom zette zijn zonnebril af
+
+3074:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom vroeg me of ik gelukkig was en ik zei dat ik dat was.
+      Tom vroeg me of ik gelukkig was
+
+3196:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom hielp Mary in de bus en stapte vervolgens zelf in.
+      Tom hielp Mary in de bus,
+
+3216:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom nam de fles van Mary aan en schonk zichzelf een drankje in.
+      Tom nam de fles van Mary aan
+
+3236:     [yes],     yes,  closed, 'Ter',17    XP: []
+      Tom komt uit Boston en Mary ook.
+      Tom komt uit Boston
+
+3174:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een deken van het bed en wikkelde die om zich heen.
+      Tom pakte een deken van het bed
+
+3214:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom nam afscheid en liep vervolgens de voordeur uit.
+      Tom nam afscheid
+
+3254:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom schreef Mary een slappe liefdesbrief en ze bleef hem steeds opnieuw lezen.
+      Tom schreef Mary een slappe liefdesbrief
+
+3274:     [yes],     yes,  closed, 'Ter',5     XP: [isa(hebben,pakken),isa(pakken,hebben)]
+      Tom pakte een deken en legde die over Mary heen.
+      Tom heeft een deken
+
+3489:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kreeg ruzie met Mary's broer en brak zijn neus.
+      Tom kreeg ruzie met Mary's broer
+
+3298:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende een blik soep en goot het in een pan.
+      Tom opende een blik soep
+
+3360:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn kleren uit en stapte onder de douche.
+      Tom trok zijn kleren uit
+
+3380:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zag Mary bij de open haard staan en ging naar haar toe om met haar te praten.
+      Tom zag Mary bij de open haard staan
+
+2519:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte de diamant op en keek ernaar.
+      Tom pakte de diamant op
+
+2661:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom kocht een zak appels en hij at er een derde van op één dag.
+      Tom kocht een zak appels
+
+2681:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn pistool en schoot een van de mannen neer.
+      Tom trok zijn pistool
+
+2701:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom ging op de bank in het park zitten en begon zijn boek te lezen.
+      Tom ging op de bank in het park zitten
+
+3460:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom ging op een rots zitten en haalde een steen uit zijn schoen.
+      Tom ging op een rots zitten
+
+2741:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom legde zijn oor tegen de deur en luisterde.
+      Tom legde zijn oor tegen de deur
+
+2761:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom startte de auto en reed weg.
+      Tom startte de auto
+
+2801:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom gluurde door het raam en zag Mary en John kussen.
+      Tom gluurde door het raam
+
+2892:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte het mes en bekeek het aandachtig.
+      Tom pakte het mes
+
+2527:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom glimlachte en knikte.
+      Tom glimlachte
+
+2912:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Tom was erg verlegen en nerveus.
+      Tom was erg verlegen
+
+2972:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom kan Mary niet uitstaan en dat weet ze.
+      Tom kan Mary niet uitstaan
+
+Error in gen_quant_tt
+2992:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vulde zijn glas en vulde er daarna één voor Mary.
+      Tom vulde zijn glas
+
+3012:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom kuste Mary terwijl John en Alice de andere kant op keken.
+      Tom kuste Mary terwijl John
+
+3032:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom stelde ons een paar vragen en wij beantwoordden ze.
+      Tom stelde ons een paar vragen
+
+3052:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zei welterusten tegen Mary en vertrok.
+      Tom zei welterusten tegen Mary
+
+3112:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom at het gratis brood en liep toen het restaurant uit.
+      Tom at het gratis brood
+
+3132:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom startte zijn auto en reed weg.
+      Tom startte zijn auto
+
+3152:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stopte de auto en zette de motor af.
+      Tom stopte de auto
+
+3192:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende het doosje en haalde er een mooie ring uit.
+      Tom opende de doos
+
+3232:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom gooide de munt in de lucht en ving hem toen op.
+      Tom gooide de munt in de lucht
+
+3316:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom keek Mary diep in de ogen en glimlachte.
+      Tom keek Mary diep in de ogen
+
+3358:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Tom is lui en verwend.
+      Tom is lui
+
+2649:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de kluis en haalde er zijn paspoort uit.
+      Tom opende de kluis
+
+3398:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte de doos op en keek erin.
+      Tom pakte de doos op
+
+2671:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de schoenendoos en haalde er de schoenen uit.
+      Tom opende de schoenendoos
+
+3438:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom at drie eieren en een sneetje toast.
+      Tom at drie eieren
+
+2691:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte het glas sap en nam een slok.
+      Tom pakte het glas sap
+
+3458:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn kleren uit en trok zijn pyjama aan.
+      Tom trok zijn kleren uit
+
+2711:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom is de beste danser van de groep en dat weet hij.
+      Tom is de beste danser van de groep
+
+3487:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Tom kreeg voor Kerstmis een speelgoedhamer en gereedschapskist.
+      Tom kreeg een speelgoedhamer
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2751:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom is een gewoontedier en doet vrijwel elke dag dezelfde dingen.
+      Tom is een gewoontedier,
+
+3280:     [yes],     yes,  closed, 'Ter',63    XP: [int(Mary),isa(op@the@vliegveld@auto,auto)]
+      Tom huurde een auto op het vliegveld en reed ermee naar Mary's huis.
+      Tom huurde een auto op het vliegveld
+ 
+3518:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Tom eet eieren zonder zout of peper.
+      Tom eet eieren zonder zout
+ 
+3362:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn telefoon en belde Mary.
+      Tom pakte zijn telefoon
+ 
+3382:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vond zijn bril en zette hem op.
+      Tom vond zijn bril
+
+2709:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom gooide zijn handen in de lucht en zei dat hij het opgaf.
+      Tom gooide zijn handen in de lucht
+
+2729:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom schraapte zijn keel en sprak verder.
+      Tom schraapte zijn keel
+
+3091:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom omhelsde Mary stevig en wilde haar nooit meer loslaten.
+      Tom omhelsde Mary stevig
+
+2051:     [yes],     yes,  closed, 'Ter',4     XP: [int(mager)]
+      Tom gaf wat magere melk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+3477:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn jas uit de kast en trok hem aan.
+      Tom pakte zijn jas uit de kast
+
+3335:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Toms geest was verdeeld in tien verschillende persoonlijkheden, die afwisselend de controle overnamen. Ze kenden elkaar allemaal en beschouwden zichzelf als verschillende individuen.
+      Toms geest was verdeeld in tien verschillende persoonlijkheden, die afwisselend de controle overnamen. Ze kenden elkaar allemaal
+
+3475:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom blokkeerde Mary's klap en schopte haar opnieuw.
+      Tom blokkeerde Mary's klap
+
+1760:     [yes],     yes,  closed, 'Ter',7     XP: [int(a),int(voor@'Mary'),isa(orchidee,bloem)]
+      Tom kocht wat orchideeën voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+2531:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn paraplu en liep naar de lift.
+      Tom pakte zijn paraplu
+
+2236:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+2631:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Tom is erg vriendelijk en extravert.
+      Tom is erg vriendelijk
+
+2713:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Tom ging tussen Maria en haar man zitten.
+      Tom ging tussen Maria zitten
+
+2733:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sprong in de auto en zette hem in de versnelling.
+      Tom sprong in de auto
+
+2753:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een tijdschrift en begon door de pagina's te bladeren.
+      Tom pakte een tijdschrift
+
+2773:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de envelop en haalde er de brief uit.
+      Tom opende de envelop
+
+1033:     [yes],     yes,  closed, 'Ter',5     XP: [isa(gamma,letter)]
+      Tom antwoordde niet op Mary's letter.
+      Tom antwoordde niet op Mary's gamma.
+
+2556:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom arriveerde bij de poort en belde aan.
+      Tom arriveerde bij de poort
+
+2616:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom digitaliseerde een oude familiefoto en mailde deze naar zijn moeder.
+      Tom digitaliseerde een oude familiefoto
+
+2818:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een servet en veegde Mary's kin af.
+      Tom pakte een servet
+
+2564:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom draaide de dop eraf en overhandigde de pot aan Mary.
+      Tom draaide de dop eraf
+
+2584:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom snelde zijn kantoor binnen en sloeg de deur dicht.
+      Tom snelde zijn kantoor binnen
+
+2878:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Tom liet Mary een foto zien van John en een andere jongen.
+      Tom liet Mary een foto van John zien
+
+2604:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom viel tijdens het joggen en brak zijn arm.
+      Tom viel tijdens het joggen
+
+2898:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kocht een eekhoornmagneet en plaatste deze op de koelkast.
+      Tom kocht een eekhoornmagneet
+
+2978:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom waste zijn gezicht en handen.
+      Tom waste zijn gezicht
+
+2998:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom bestuurt een bus en Mary is een gids.
+      Tom bestuurt een bus
+
+3058:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde wat geld uit zijn portemonnee en gaf het aan Mary.
+      Tom haalde wat geld uit zijn portemonnee
+
+3118:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte de munt op en bekeek hem nauwkeuriger.
+      Tom pakte de munt op
+
+3138:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom is nieuw in de stad en heeft een baan nodig.
+      Tom is nieuw in de stad
+
+3158:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zette het pistool tegen zijn eigen hoofd en haalde de trekker over.
+      Tom zette het pistool tegen zijn eigen hoofd
+
+3178:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom deed zijn trouwring af en gooide hem in de vijver.
+      Tom deed zijn trouwring af
+
+3198:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom plukte wat bessen en at ze op.
+      Tom plukte wat bessen
+
+2806:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stak de sleutel in het slot en wachtte even voordat hij hem omdraaide.
+      Tom stak de sleutel in het slot
+
+2826:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom verloor zijn pet en hij vond dat hij een nieuwe moest kopen.
+      Tom verloor zijn pet,
+
+2846:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom maakte zijn das los en schonk zichzelf een drankje in.
+      Tom maakte zijn das los
+
+2866:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom heeft een groot huis en drie auto's.
+      Tom heeft een groot huis
+
+2023:     [yes],     yes,  closed, 'Ter',3     XP: [isa(karnemelk,melk)]
+      Tom gaf wat karnemelk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+2043:     [yes],     yes,  closed, 'Ter',4     XP: [int(drogen)]
+      Tom gaf wat gedroogde melk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+3282:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zette het eten op tafel en zei tegen iedereen dat ze moesten gaan eten.
+      Tom zette het eten op tafel
+
+2906:     [yes],     yes,  closed, 'Ter',5     XP: [isa(nemen,pakken),isa(pakken,nemen)]
+      Tom pakte een pil uit het flesje en slikte het door.
+      Tom nam een pil uit het flesje
+
+3302:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom arriveerde om 14.30 uur en Mary arriveerde korte tijd later.
+      Tom arriveerde om 14.30 uur
+
+3322:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende zijn kluisje en haalde er zijn boeken uit.
+      Tom opende zijn kluisje
+
+3344:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom draaide de kaart om en zag dat het schoppenaas was.
+      Tom draaide de kaart om
+
+3364:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn jas uit en hing hem op.
+      Tom trok zijn jas uit
+
+3424:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom spreekt Spaans, en Betty spreekt ook Spaans.
+      Tom spreekt Spaans,
+
+3444:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom liep de kroeg binnen en bestelde een pint bier.
+      Tom liep de kroeg binnen
+
+3464:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn jas uit en gooide hem op de grond.
+      Tom trok zijn jas uit
+
+2562:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn gitaar en liep naar de deur.
+      Tom pakte zijn gitaar
+
+2986:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom ging terug naar zijn auto en pakte een zaklamp.
+      Tom ging terug naar zijn auto
+
+3006:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn hoed op en zette hem weer op.
+      Tom pakte zijn hoed op
+
+3026:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn jas uit en hing hem over een stoel.
+      Tom trok zijn jas uit
+
+3046:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zag de krant op de grond liggen en pakte hem op.
+      Tom zag de krant op de grond liggen
+
+3066:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom heeft blond haar en groene ogen.
+      Tom heeft blond haar
+
+2602:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kwam na de les naar mij toe en stelde mij een paar vragen.
+      Tom kwam na de les naar mij toe
+
+2685:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok een revolver en schoot John's hoed van zijn hoofd.
+      Tom trok een revolver
+
+2705:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Tom was moe en hongerig.
+      Tom was moe
+
+2745:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zat tijdens de warme zomeravonden graag buiten en staarde naar de sterren.
+      Tijdens de warme zomeravonden zat Tom graag buiten
+
+2785:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom liep naar de gootsteen en draaide de kraan open.
+      Tom liep naar de gootsteen
+
+2804:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de kofferbak en vond hem leeg.
+      Tom opende de kofferbak
+
+2864:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn vuile kleren uit en stopte ze direct in de wasmachine.
+      Tom trok zijn vuile kleren uit
+
+2884:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn shirt uit en gooide het in de wasmachine.
+      Tom trok zijn shirt uit
+
+2964:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom heeft onze hulp nodig en ik ga ervoor zorgen dat hij die krijgt.
+      Tom heeft onze hulp nodig
+
+ERROR: sentence id=822
+Failed to align term tokens and lexical annotations
+term tokes: [[[ook],[niet],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:kunnen,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel:hd,s:kan,t:kan},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:zwemmen,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zwem,rel:hd,s:zwem,t:zwemmen},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:'Mary',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Mary',rel:dp,s:'Mary',t:'Mary'},j{l:ook,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ook,rel:mod,s:ook,t:ook},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:hd,s:niet,t:niet},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+3086:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom was en is nog steeds een constante bron van zorgen voor zijn ouders.
+      Tom is geweest,
+
+2540:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom fluisterde iets in Mary's oor en ze glimlachte.
+      Tom fluisterde iets in Mary's oor
+
+2560:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom speelde gitaar en Mary zong.
+      Tom speelde gitaar
+
+2580:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom blijft graag thuis en leest in het weekend graag boeken.
+      Tom blijft graag thuis
+
+2600:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sloot zijn ogen en begon schapen te tellen.
+      Tom sloot zijn ogen
+
+3064:     [yes],     yes,  closed, 'Ter',17    XP: []
+      Tom ging vrijdagavond uit met Mary en zaterdagavond met Alice.
+      Tom ging vrijdagavond met Mary uit
+
+3084:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom was hoogopgeleid en sprak vloeiend meerdere talen.
+      Tom was hoogopgeleid
+
+3265:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom nam een slok van zijn margarita en glimlachte.
+      Tom nam een slok van zijn margarita
+
+3144:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom verloor zijn geduld en schreeuwde tegen Mary.
+      Tom verloor zijn geduld
+
+3184:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom's vader verkocht zijn Buick en kocht een Cadillac.
+      Tom's vader verkocht zijn Buick
+
+2842:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom gaf Mary het ontvangstbewijs en zei dat ze het in haar tas moest stoppen.
+      Tom gaf Mary het ontvangstbewijs
+
+2862:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende zijn bier en nam een slok.
+      Tom opende zijn bier
+
+2922:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sprak met Mary's buren en vroeg hen of ze wisten waar ze heen was.
+      Tom sprak met Mary's buren
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3330:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde iets uit zijn zak en legde het op zijn bureau.
+      Tom haalde iets uit zijn zak
+
+3390:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte de telefoon en begon te praten.
+      Tom pakte de telefoon
+
+2982:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom ging op de bank zitten en sloeg zijn benen over elkaar.
+      Tom ging op de bank zitten
+
+3470:     [yes],     yes,  closed, 'Ter',17    XP: [isa(verbouwen,kweken)]
+      Tom verbouwt tomaten en sla in zijn tuin.
+      Tom kweekt tomaten
+
+3146:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom barstte in tranen uit en rende naar boven.
+      Tom barstte in tranen uit
+
+3226:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte de vijf kaarten die hij had gekregen en zag dat hij een paar azen en drie heren had.
+      Tom pakte de vijf kaarten die hij had gekregen
+
+2238:     [yes],     yes,  closed, 'Ter',3     XP: [isa(fotokopie,foto)]
+      Tom liet enkele fotokopieën aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+3022:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Tom ging en sloot het raam.
+      Tom ging
+
+3310:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom werd midden in de nacht wakker en at een hele zak chips op.
+      Tom werd midden in de nacht wakker
+
+3042:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom heeft het momenteel druk en kan je niet helpen.
+      Tom heeft het momenteel druk
+
+3332:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde adem en begon toen onder water te zwemmen.
+      Tom haalde adem
+
+3352:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde de ijzerzaag uit zijn gereedschapskist en vroeg Mary of ze hem wilde hebben.
+      Tom haalde de ijzerzaag uit zijn gereedschapskist
+
+3082:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een van zijn handschoenen en trok hem aan.
+      Tom pakte een van zijn handschoenen
+
+3122:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende zijn ogen en zag Maria.
+      Tom opende zijn ogen
+
+3392:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom fluisterde iets tegen Mary en verliet toen de kamer.
+      Tom fluisterde iets tegen Mary
+
+3142:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn jas uit en hing hem aan de haak achter de deur.
+      Tom trok zijn jas uit
+
+3412:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn broek uit en hing hem voorzichtig over de rugleuning van een stoel.
+      Tom trok zijn broek uit
+
+3162:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom bleef maar zijn boek lezen en negeerde Mary.
+      Tom bleef maar zijn boek lezen
+
+3432:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zette zijn hoge hoed af en stapte in zijn auto.
+      Tom zette zijn hoge hoed af
+
+3182:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte de krant en las de krantenkoppen.
+      Tom pakte de krant
+
+3286:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vouwde zijn kleren op en stopte ze in zijn koffer.
+      Tom vouwde zijn kleren op
+
+3306:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de kofferbak van zijn auto en haalde het reservewiel eruit.
+      Tom opende de kofferbak van zijn auto
+
+3368:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vouwde de brief op en stopte hem in de envelop.
+      Tom vouwde de brief op
+
+3388:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom waste de lenzen van zijn bril met warm zeepsop en droogde ze op een doek.
+      Tom waste de lenzen van zijn bril met warm zeepsop
+
+3408:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde de kurkentrekker uit de la en opende de fles wijn die Mary had meegebracht.
+      Tom haalde de kurkentrekker uit de la
+
+3448:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn spullen en stopte ze in zijn koffertje.
+      Tom pakte zijn spullen
+
+2546:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom poetste zijn tanden en waste zijn gezicht.
+      Tom poetste zijn tanden
+
+2566:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kroop in bed en trok de dekens over zich heen.
+      Tom kroop in bed
+
+3093:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom verloor zijn geduld en sloeg Mary.
+      Tom verloor zijn geduld
+
+2626:     [yes],     yes,  closed, 'Ter',33    XP: []
+      Tom slaapt meestal uit op zaterdag en zondag.
+      Tom slaapt meestal uit op zaterdag
+
+2808:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom betaalde voor het shirt en de verkoopster stopte het in een tas.
+      Tom betaalde voor het shirt
+
+2868:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vond Mary's dagboek en las de laatste drie pagina's.
+      Tom vond Mary's dagboek
+
+2888:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom keek om zich heen en fluisterde toen iets in Mary's oor.
+      Tom keek om zich heen
+
+2908:     [yes],     yes,  closed, 'Ter',6     XP: [int(pindakaas)]
+      Tom maakte voor zichzelf een broodje pindakaas en jam.
+      Tom maakte voor zichzelf een pindakaas
+
+2928:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom werd boos en riep Mary uit.
+      Tom werd boos
+
+2968:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn klarinet en begon te spelen.
+      Tom pakte zijn klarinet
+
+2988:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte Mary's sieradendoosje op en opende het.
+      Tom pakte Mary's sieradendoosje op
+
+3008:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de kist met een koevoet en haalde er een staaf dynamiet uit.
+      Tom opende de kist met een koevoet
+
+3088:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Tom is kalm en geduldig.
+      Tom is kalm
+
+3108:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom leunde achterover en glimlachte.
+      Tom leunde achterover
+
+3148:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom at de heerlijke maaltijd en dacht dat hij in de hemel was.
+      Tom at de heerlijke maaltijd
+
+3168:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom droeg een helm en knipoogde naar ons.
+      Tom droeg een helm
+
+3188:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom gaf Mary een snelle kus en liep de deur uit.
+      Tom gaf Mary een snelle kus
+
+2558:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom liep naar de voordeur en klopte aan.
+      Tom liep naar de voordeur
+
+2578:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom bestuurt een vrachtwagen en zijn vrouw bestuurt een stationwagen.
+      Tom bestuurt een vrachtwagen
+
+2598:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sloot zijn ogen en haalde diep adem.
+      Tom sloot zijn ogen
+
+2618:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn boterham uit en at hem op.
+      Tom pakte zijn boterham uit
+
+3228:     [yes],     yes,  closed, 'Ter',5     XP: [isa(nemen,pakken),isa(pakken,nemen)]
+      Tom pakte de helft van de koekjes en legde ze op zijn bord.
+      Tom nam de helft van de koekjes
+
+3248:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom legde zijn vork neer en pakte de drumstok met zijn vingers op.
+      Tom legde zijn vork neer
+
+3312:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kon zijn emoties niet beheersen en barstte in tranen uit.
+      Tom kon zijn emoties niet beheersen
+
+3374:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een van de kranten van de tafel en wachtte tot zijn naam werd afgeroepen.
+      Tom pakte een van de kranten van de tafel
+
+3394:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom sloot zijn paraplu en zette hem in het paraplurek bij de deur.
+      Tom sloot zijn paraplu
+
+3414:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom schonk wijn in een plastic beker en overhandigde die aan Mary.
+      Tom schonk wijn in een plastic beker
+
+3454:     [yes],     yes,  closed, 'Ter',29    XP: [int(koffie)]
+      Tom zette de appeltaart en de pot koffie op tafel.
+      Tom zette de appeltaart
+
+2820:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom hield een van Mary's handen vast, en John hield de andere vast.
+      Tom hield een van Mary's handen vast,
+
+2860:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom opende de deur en de hond rende naar buiten.
+      Tom opende de deur
+
+2900:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom houdt van Frans en hij is er goed in.
+      Tom houdt van Frans
+
+2960:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom is erg onzeker en heeft voortdurend geruststelling en goedkeuring nodig.
+      Tom is erg onzeker
+
+2980:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom verfrommelde het papier en gooide het in de prullenbak.
+      Tom verfrommelde het papier
+
+3040:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de deur en hield hem open voor Mary.
+      Tom opende de deur
+
+3060:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom liet zijn koffer vallen en rende weg.
+      Tom liet zijn koffer vallen
+
+3080:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom had dorst en vroeg om wat water.
+      Tom had dorst
+
+3120:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de vriezer en haalde er een bakje ijs uit.
+      Tom opende de vriezer
+
+3140:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom gaf me een paar sneetjes toast en een glas melk.
+      Tom gaf me een paar sneetjes toast
+
+3160:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom zette zijn fietshelm af en legde hem op tafel.
+      Tom zette zijn fietshelm af
+
+3180:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom waste zijn handen en gezicht.
+      Tom waste zijn handen
+
+3200:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom opende de koelkast en haalde er een van de flessen uit.
+      Tom opende de koelkast
+
+3220:     [yes],     yes,  closed, 'Ter',9     XP: [int(a)]
+      Tom at de ene appel en Mary at de andere.
+      Tom at één appel
+
+3240:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom vouwde de brief open en las hem.
+      Tom vouwde de brief open
+
+3284:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom keek er naar uit om naar de voetbalwedstrijd te kijken die hij thuis had opgenomen, en hij werd boos toen hij iemand de einduitslag hoorde noemen.
+      Tom keek er naar uit om naar de voetbalwedstrijd te kijken die hij thuis had opgenomen,
+
+3304:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom verliet dit voorjaar het huis van zijn ouders en woont sindsdien alleen.
+      Tom verliet dit voorjaar het huis van zijn ouders
+
+3324:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom gooide de autosleutels naar Mary en zij ving ze op.
+      Tom gooide de autosleutels naar Mary
+
+3346:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom glimlachte naar het publiek en maakte een buiging.
+      Tom glimlachte naar het publiek
+
+3426:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom rolde de poster op en stopte hem in een kartonnen koker.
+      Tom rolde de poster op
+
+3446:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom gooide een kussen naar Mary en het kussen raakte haar recht in haar gezicht.
+      Tom gooide een kussen naar Mary
+
+2257:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom liet enkele foto's aan Mary zien.
+      Tom liet enkele foto's aan Mary zien.
+
+2397:     [yes],     yes,  closed, 'Ter',11    XP: [int(a),int(bitter),int(voor@'Mary')]
+      Tom kocht wat bittere chocolaatjes voor Mary.
+      Tom kocht wat chocolaatjes voor Mary.
+
+2537:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte zijn jas en liep naar de deur.
+      Tom pakte zijn jas
+
+2637:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trok zijn schoenen uit en trok een paar pantoffels aan.
+      Tom trok zijn schoenen uit
+
+2659:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom doopte een aardbei in chocolade en stopte hem vervolgens in zijn mond.
+      Tom doopte een aardbei in chocolade
+
+2679:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte John's koffer op en overhandigde hem aan hem.
+      Tom pakte John's koffertje op
+
+2759:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom trad in de voetsporen van zijn vader en werd advocaat.
+      Tom trad in de voetsporen van zijn vader
+
+2779:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom is een goede echtgenoot en een goede vader.
+      Tom is een goede echtgenoot
+
+2799:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Tom stopte met huilen zodra hij Mary en John zag.
+      Tom stopte met huilen zodra hij Mary zag
+
+3259:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom pakte een potlood en begon te schrijven.
+      Tom pakte een potlood
+
+3405:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom liet een kopje op de grond vallen en het viel in duizend stukken uiteen.
+      Tom liet een kopje op de grond vallen
+
+3485:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom is een centaur en Maria is een nimf.
+      Tom is een centaur
+
+2033:     [yes],     yes,  closed, 'Ter',4     XP: [int(verdampen)]
+      Tom gaf wat verdampte melk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+2053:     [yes],     yes,  closed, 'Ter',4     XP: [int(zuur)]
+      Tom gaf wat zure melk aan de kat.
+      Tom gaf wat melk aan de kat.
+
+2533:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom liet zijn kopje vallen en brak het.
+      Tom liet zijn kopje vallen
+
+2633:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stopte al zijn geld in een doos en verborg het onder zijn bed.
+      Tom stopte al zijn geld in een doos
+
+2655:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom legde het boek terzijde en keek op.
+      Tom legde het boek terzijde
+
+2695:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom liep naar de deur en belde aan.
+      Tom liep naar de deur
+
+2735:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom schopte de deur open en ging de kamer binnen.
+      Tom schopte de deur open
+
+2755:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom stapte uit de badkuip en droogde zich af.
+      Tom stapte uit de badkuip
+
+2775:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom wachtte tot Mary ging zitten en ging toen naast haar zitten.
+      Tom wachtte tot Mary ging zitten
+
+2795:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom vroeg Mary mee uit en zij accepteerde het.
+      Tom vroeg Mary mee uit
+
+2935:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom kwam de lege kamer binnen en zag meteen een brandende sigaret in de asbak.
+      Tom kwam de lege kamer binnen
+
+2975:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom haalde een oude schoenendoos uit zijn kast en opende hem.
+      Tom haalde een oude schoenendoos uit zijn kast
+
+3095:     [yes],     yes,  closed, 'Ter',4     XP: [isa(lied,nummer),isa(nummer,lied)]
+      Tom koos een liedje uit de lijst en begon het te zingen.
+      Tom koos een nummer uit de lijst
+
+3341:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Tom deelde het appartement met Mary en drie andere vrienden.
+      Tom deelde het appartement met Mary
+
+3481:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom pakte het zoutvaatje en zoutde zijn eieren.
+      Tom pakte het zoutvaatje
+

@@ -1,0 +1,30 @@
+Inconsistency in node types (entail/8)
+2485: [unknown], unknown,      NA, 'Defected'  XP: _6816344
+      Tom weet dat zowel Mary als Boy zich afvragen.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2490: [unknown], unknown,      NA, 'Defected'  XP: _6880228
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als feller.
+
+Inconsistency in node types (entail/8)
+3429: [unknown], unknown,      NA, 'Defected'  XP: _4586536
+      Tom is vandaag weer woedend - het geringste woord
+      Tom is vandaag weer aan het woeden, het geringste woord en hij blaast zijn topje op.
+
+Inconsistency in node types (entail/8)
+2491: [unknown], unknown,      NA, 'Defected'  XP: _6439420
+      Tom kent zowel Mary als feller.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2484: [unknown], unknown,      NA, 'Defected'  XP: _3452708
+      Tom kent zowel Mary als John.
+      Tom weet dat zowel Mary als Boy zich afvragen.
+
+Inconsistency in node types (entail/8)
+3428:     [yes], unknown,      NA, 'Defected'  XP: _880934
+      Tom is vandaag weer aan het woeden, het geringste woord en hij blaast zijn topje op.
+      Tom is vandaag weer woedend - het geringste woord
+

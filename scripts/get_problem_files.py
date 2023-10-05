@@ -190,37 +190,37 @@ def sent_to_problem(sent_lst: list[int], sen_pl_path: str, broken_path: str) -> 
 
 
 # general
-sen_pl = "MED_NL/sen.pl"
-raw_sp = "MED_NL/raw.spl"
+sen_pl = "HELP_NL/sen.pl"
+raw_sp = "HELP_NL/raw.spl"
 
 # alpino
-alpino_path = "MED_NL/parses/alpino_aethel.pl"
-broken_alpino = "MED_NL/problems/broken_alpino_aethel.txt"
-broken_alpino_sent = "MED_NL/problems/broken_alpino_aethel_sentences.txt"
+alpino_path = "HELP_NL/parses/alpino_aethel.pl"
+broken_alpino = "HELP_NL/problems/broken_alpino_aethel.txt"
+broken_alpino_sent = "HELP_NL/problems/broken_alpino_aethel_sentences.txt"
 missing_num: list[int] = get_missing_numbers(alpino_path, raw_sp, broken_alpino)
 problem_to_sent(missing_num, sen_pl, broken_alpino_sent)
 
 # alpino2
-alpino_path = "MED_NL/parses/alpino_aethel.pl"
-broken_alpino = "MED_NL/problems/broken_alpino_aethel_sent.txt"
-broken_alpino_sent = "MED_NL/problems/broken_alpino_aethel_sent_sentences.txt"
+alpino_path = "HELP_NL/parses/alpino_aethel.pl"
+broken_alpino = "HELP_NL/problems/broken_alpino_aethel_sent.txt"
+broken_alpino_sent = "HELP_NL/problems/broken_alpino_aethel_sent_sentences.txt"
 missing_num: list[int] = get_missing_text(alpino_path, raw_sp, broken_alpino)
 sent_to_problem(missing_num, sen_pl, broken_alpino_sent)
 
 
 # sen_pl
-broken_sent = "MED_NL/problems/broken_sen_pl.txt"
-broken_alpino_sent = "MED_NL/problems/broken_sen_pl_sentences.txt"
+broken_sent = "HELP_NL/problems/broken_sen_pl.txt"
+broken_alpino_sent = "HELP_NL/problems/broken_sen_pl_sentences.txt"
 missing_num = sen_pl_comments(sen_pl, broken_sent)
 problem_to_sent(missing_num, sen_pl, broken_alpino_sent)
 
 
 # remove when done
-broken_conj = "MED_NL/problems/broken_cp_problems.txt"
+broken_conj = "HELP_NL/problems/broken_cp_problems.txt"
 missing_num = find_broken_phrase("cp")
 sent_to_problem(missing_num, sen_pl, broken_conj)
 
 # remove when done
-broken_sv = "MED_NL/problems/broken_sv1_problems.txt"
+broken_sv = "HELP_NL/problems/broken_sv1_problems.txt"
 missing_num = find_broken_phrase("sv1")
 sent_to_problem(missing_num, sen_pl, broken_sv)

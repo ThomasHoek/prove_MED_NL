@@ -1,0 +1,909 @@
+Inconsistency in node types (entail/8)
+261:     [yes], unknown,      NA, 'Defected'  XP: _423354
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary een bundel te geven.
+ 
+Inconsistency in node types (entail/8)
+257: [unknown], unknown,      NA, 'Defected'  XP: _420660
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary enige rijkdom te geven.
+
+Inconsistency in node types (entail/8)
+259:     [yes], unknown,      NA, 'Defected'  XP: _367710
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary een stapel te geven.
+ 
+Inconsistency in node types (entail/8)
+297: [unknown], unknown,      NA, 'Defected'  XP: _607878
+      Tom en Mary zijn niet van plan iets wenselijks te doen.
+      Tom en Mary zijn niets goeds van plan.
+ 
+Inconsistency in node types (entail/8)
+263:     [yes], unknown,      NA, 'Defected'  XP: _825820
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary een megabok te geven.
+ 
+Inconsistency in node types (entail/8)
+260: [unknown], unknown,      NA, 'Defected'  XP: _669394
+      Tom was niet van plan Mary een stapel te geven.
+      Tom was niet van plan Mary geld te geven.
+ 
+Inconsistency in node types (entail/8)
+264: [unknown], unknown,      NA, 'Defected'  XP: _684648
+      Tom was niet van plan Mary een megabok te geven.
+      Tom was niet van plan Mary geld te geven.
+ 
+Inconsistency in node types (entail/8)
+296:     [yes], unknown,      NA, 'Defected'  XP: _2488
+      Tom en Mary zijn niets goeds van plan.
+      Tom en Mary zijn niet van plan iets wenselijks te doen.
+ 
+Inconsistency in node types (entail/8)
+258:     [yes], unknown,      NA, 'Defected'  XP: _621342
+      Tom was niet van plan Mary enige rijkdom te geven.
+      Tom was niet van plan Mary geld te geven.
+ 
+Inconsistency in node types (entail/8)
+632:     [yes], unknown,      NA, 'Defected'  XP: _4653652
+      Tom had geen zin om met een sterveling in discussie te gaan.
+      Tom had geen zin om met Mary in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+650: [unknown], unknown,      NA, 'Defected'  XP: _4943720
+      Tom had geen zin om met een vrouw in discussie te gaan.
+      Tom had geen zin om met Mary in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+631: [unknown], unknown,      NA, 'Defected'  XP: _499758
+      Tom had geen zin om met Mary in discussie te gaan.
+      Tom had geen zin om met een sterveling in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+645:     [yes], unknown,      NA, 'Defected'  XP: _5185202
+      Tom had geen zin om met Mary in discussie te gaan.
+      Tom had geen zin om met een vrouw in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+1241: [unknown], unknown,      NA, 'Defected'  XP: _2496958
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Soul geld te geven.
+ 
+Inconsistency in node types (entail/8)
+649:     [yes], unknown,      NA, 'Defected'  XP: _2324614
+      Tom had geen zin om met Mary in discussie te gaan.
+      Tom had geen zin om met een vrouw in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+1239: [unknown], unknown,      NA, 'Defected'  XP: _6549226
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan de sterveling geld te geven.
+
+Inconsistency in node types (entail/8)
+646: [unknown], unknown,      NA, 'Defected'  XP: _832548
+      Tom had geen zin om met een vrouw in discussie te gaan.
+      Tom had geen zin om met Mary in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+1281: [unknown], unknown,      NA, 'Defected'  XP: _3903302
+      Tom doet alles behalve opnieuw onderzoeken.
+      Tom doet alles behalve studeren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1455: [unknown], unknown,      NA, 'Defected'  XP: _3241836
+      Tom zei tegen Mary dat ze wat koffie en tabaksrolletjes moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+ 
+Inconsistency in node types (entail/8)
+634:     [yes], unknown,      NA, 'Defected'  XP: _3657850
+      Tom had geen zin om met de ziel in discussie te gaan.
+      Tom had geen zin om met Mary in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+1279:     [yes], unknown,      NA, 'Defected'  XP: _3628
+      Tom doet alles behalve kritisch kijken.
+      Tom doet alles behalve studeren.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1461:     [yes], unknown,      NA, 'Defected'  XP: _6258098
+      Tom zei tegen Mary dat ze wat koffie en cubeb-sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+ 
+Inconsistency in node types (entail/8)
+1245:     [yes], unknown,      NA, 'Defected'  XP: _4065748
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary een bundel te geven.
+ 
+Inconsistency in node types (entail/8)
+1248: [unknown], unknown,      NA, 'Defected'  XP: _3646
+      Tom was niet van plan Mary een megabok te geven.
+      Tom was niet van plan Mary geld te geven.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1325:     [yes], unknown,      NA, 'Defected'  XP: _5995662
+      Tom kocht wat groenten en fruit.
+      Tom kocht wat groenten en gevolg.
+ 
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1459:     [yes], unknown,      NA, 'Defected'  XP: _3047794
+      Tom zei tegen Mary dat ze wat koffie en cubebs moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1328: [unknown], unknown,      NA, 'Defected'  XP: _2328620
+      Tom kocht wat groenten en nasleep.
+      Tom kocht wat groenten en fruit.
+ 
+Inconsistency in node types (entail/8)
+1272:     [yes], unknown,      NA, 'Defected'  XP: _5585968
+      Tom is irritant omdat hij in elke variabele altijd het laatste woord moet hebben.
+      Tom is irritant omdat hij bij elke discussie altijd het laatste woord moet hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1465:     [yes], unknown,      NA, 'Defected'  XP: _1397988
+      Tom zei tegen Mary dat ze wat koffie en marihuanasigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Inconsistency in node types (entail/8)
+1250:     [yes], unknown,      NA, 'Defected'  XP: _6580680
+      Tom was niet van plan Mary enige rijkdom te geven.
+      Tom was niet van plan Mary geld te geven.
+
+Inconsistency in node types (entail/8)
+1274:     [yes], unknown,      NA, 'Defected'  XP: _3662586
+      Tom is irritant omdat hij altijd het laatste woord moet hebben, in welke variabele hoeveelheid dan ook.
+      Tom is irritant omdat hij bij elke discussie altijd het laatste woord moet hebben.
+
+Inconsistency in node types (entail/8)
+1271: [unknown], unknown,      NA, 'Defected'  XP: _6322336
+      Tom is irritant omdat hij bij elke discussie altijd het laatste woord moet hebben.
+      Tom is irritant omdat hij in elke variabele altijd het laatste woord moet hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1454:     [yes], unknown,      NA, 'Defected'  XP: _6240230
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en tabaksrolletjes moest kopen.
+
+Inconsistency in node types (entail/8)
+1249: [unknown], unknown,      NA, 'Defected'  XP: _5145156
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary enige rijkdom te geven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1468: [unknown], unknown,      NA, 'Defected'  XP: _1495102
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en stokken moest kopen.
+
+Inconsistency in node types (entail/8)
+1247:     [yes], unknown,      NA, 'Defected'  XP: _758630
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary een megabok te geven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1327:     [yes], unknown,      NA, 'Defected'  XP: _3736
+      Tom kocht wat groenten en fruit.
+      Tom kocht wat groenten en nasleep.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1467:     [yes], unknown,      NA, 'Defected'  XP: _1623574
+      Tom zei tegen Mary dat ze wat koffie en koelcontainers moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1469:     [yes], unknown,      NA, 'Defected'  XP: _3199670
+      Tom zei tegen Mary dat ze wat koffie en stokken moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Inconsistency in node types (entail/8)
+1276: [unknown], unknown,      NA, 'Defected'  XP: _2021150
+      Tom doet alles behalve studeren.
+      Tom doet alles behalve onderzoeken.
+
+Inconsistency in node types (entail/8)
+262: [unknown], unknown,      NA, 'Defected'  XP: _651844
+      Tom was niet van plan Mary een bundel te geven.
+      Tom was niet van plan Mary geld te geven.
+ 
+Inconsistency in node types (entail/8)
+1240:     [yes], unknown,      NA, 'Defected'  XP: _5166520
+      Tom was niet van plan de sterveling geld te geven.
+      Tom was niet van plan Mary geld te geven.
+ 
+Inconsistency in node types (entail/8)
+1280:     [yes], unknown,      NA, 'Defected'  XP: _6572864
+      Tom doet alles behalve studeren.
+      Tom doet alles behalve opnieuw onderzoeken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1456:     [yes], unknown,      NA, 'Defected'  XP: _400138
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en rook moest kopen.
+
+Inconsistency in node types (entail/8)
+1243:     [yes], unknown,      NA, 'Defected'  XP: _6512310
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan Mary een stapel te geven.
+
+Inconsistency in node types (entail/8)
+1244: [unknown], unknown,      NA, 'Defected'  XP: _4860830
+      Tom was niet van plan Mary een stapel te geven.
+      Tom was niet van plan Mary geld te geven.
+
+Inconsistency in node types (entail/8)
+2435: [unknown], unknown,      NA, 'Defected'  XP: _1119306
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Anglo-Frans.
+
+Inconsistency in node types (entail/8)
+2455: [unknown], unknown,      NA, 'Defected'  XP: _1120264
+      Tom groeide op met het spreken van zowel Engels als Oudfrans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2475: [unknown], unknown,      NA, 'Defected'  XP: _1121222
+      Tom groeide op met zowel Frans als Engels.
+      Tom groeide op met zowel Frans als kunst.
+
+Inconsistency in node types (entail/8)
+2495: [unknown], unknown,      NA, 'Defected'  XP: _1122180
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als Blighter.
+
+Inconsistency in node types (entail/8)
+2515: [unknown], unknown,      NA, 'Defected'  XP: _1123138
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als de zoon van moeder.
+
+Inconsistency in node types (entail/8)
+2657:     [yes], unknown,      NA, 'Defected'  XP: _1980028
+      Tom, Mary en John zitten rond de tafel.
+      Tom, Maria
+
+Inconsistency in node types (entail/8)
+3037: [unknown], unknown,      NA, 'Defected'  XP: _5003646
+      Tom greep Mary bij de keel
+      Tom greep Mary bij de keel en wurgde haar.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1463:     [yes], unknown,      NA, 'Defected'  XP: _2649908
+      Tom zei tegen Mary dat ze wat koffie en sigaretten met filtertip moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Inconsistency in node types (entail/8)
+1242:     [yes], unknown,      NA, 'Defected'  XP: _1544852
+      Tom was niet van plan Soul geld te geven.
+      Tom was niet van plan Mary geld te geven.
+
+Inconsistency in node types (entail/8)
+1238: [unknown], unknown,      NA, 'Defected'  XP: _3604
+      Tom was niet van plan het vrouwelijke kind geld te geven.
+      Tom was niet van plan Mary geld te geven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1464: [unknown], unknown,      NA, 'Defected'  XP: _1793206
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en marihuanasigaretten moest kopen.
+
+Inconsistency in node types (entail/8)
+2445: [unknown], unknown,      NA, 'Defected'  XP: _6424268
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Langue d'oil.
+
+Inconsistency in node types (entail/8)
+3423: [unknown], unknown,      NA, 'Defected'  XP: _2249610
+      Tom, Maria
+      Tom, Mary en John deelden de kosten van het feest.
+
+Inconsistency in node types (entail/8)
+2505: [unknown], unknown,      NA, 'Defected'  XP: _6817302
+      Tom kent zowel Mary als mannelijke nakomelingen.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+1278: [unknown], unknown,      NA, 'Defected'  XP: _1409926
+      Tom doet alles behalve studeren.
+      Tom doet alles behalve kritisch kijken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1460: [unknown], unknown,      NA, 'Defected'  XP: _3486684
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en cubeb-sigaretten moest kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1462: [unknown], unknown,      NA, 'Defected'  XP: _5913716
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten met filtertip moest kopen.
+
+Inconsistency in node types (entail/8)
+2430: [unknown], unknown,      NA, 'Defected'  XP: _6877354
+      Tom groeide op met het spreken van zowel Frans als Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2450: [unknown], unknown,      NA, 'Defected'  XP: _6878312
+      Tom groeide op met het spreken van zowel Engels als Normandisch-Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2470: [unknown], unknown,      NA, 'Defected'  XP: _6879270
+      Tom groeide op met zowel Frans als Engels.
+      Tom groeide op met zowel de Franse als de humanistische discipline.
+
+Inconsistency in node types (entail/8)
+1237:     [yes], unknown,      NA, 'Defected'  XP: _5163540
+      Tom was niet van plan Mary geld te geven.
+      Tom was niet van plan het vrouwelijke kind geld te geven.
+
+Inconsistency in node types (entail/8)
+2510: [unknown], unknown,      NA, 'Defected'  XP: _6881186
+      Tom kent zowel Mary als een volwassen man.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+1246: [unknown], unknown,      NA, 'Defected'  XP: _1638390
+      Tom was niet van plan Mary een bundel te geven.
+      Tom was niet van plan Mary geld te geven.
+
+Inconsistency in node types (entail/8)
+1277:     [yes], unknown,      NA, 'Defected'  XP: _5793770
+      Tom doet alles behalve onderzoeken.
+      Tom doet alles behalve studeren.
+
+Inconsistency in node types (entail/8)
+2448: [unknown], unknown,      NA, 'Defected'  XP: _1746952
+      Tom groeide op met het spreken van zowel Engels als Langue d'oil Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2488: [unknown], unknown,      NA, 'Defected'  XP: _2168314
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als collega.
+
+Inconsistency in node types (entail/8)
+2508: [unknown], unknown,      NA, 'Defected'  XP: _2169272
+      Tom kent zowel Mary als de mens.
+      Tom kent zowel Mary als John.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1326: [unknown], unknown,      NA, 'Defected'  XP: _1439246
+      Tom kocht wat groenten en gevolg.
+      Tom kocht wat groenten en fruit.
+
+Inconsistency in node types (entail/8)
+2441: [unknown], unknown,      NA, 'Defected'  XP: _3043892
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Langue d'oc.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1457: [unknown], unknown,      NA, 'Defected'  XP: _2752162
+      Tom zei tegen Mary dat ze wat koffie en rook moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+
+Inconsistency in node types (entail/8)
+2481: [unknown], unknown,      NA, 'Defected'  XP: _3236102
+      Tom kent zowel Maria als sterveling.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2501: [unknown], unknown,      NA, 'Defected'  XP: _3237060
+      Tom kent zowel Maria als het mannelijke kind.
+      Tom kent zowel Mary als John.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2139: [unknown], unknown,      NA, 'Defected'  XP: _2451518
+      Tom vroeg Mary om wat tandpasta en toiletartikelen uit de supermarkt voor hem terug te brengen.
+      Tom vroeg Mary om wat tandpasta en toiletpapier uit de supermarkt voor hem terug te brengen.
+
+Inconsistency in node types (entail/8)
+2790: [unknown], unknown,      NA, 'Defected'  XP: _4497280
+      Tom groeide op met het spreken van zowel Frans als Frans
+      Tom groeide op met zowel Frans als Engels.
+
+Inconsistency in node types (entail/8)
+2850:     [yes], unknown,      NA, 'Defected'  XP: _4892474
+      Tom kocht een nieuwe camera voor Mary ter vervanging van de camera die hij had geleend en verloren.
+      Tom kocht een nieuwe camera voor Mary ter vervanging van de camera die hij had geleend
+
+Inconsistency in node types (entail/8)
+2434: [unknown], unknown,      NA, 'Defected'  XP: _6366358
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel de Engelse als de Latijnse taal.
+
+Inconsistency in node types (entail/8)
+2454: [unknown], unknown,      NA, 'Defected'  XP: _6367316
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Oudfrans.
+
+Inconsistency in node types (entail/8)
+2474: [unknown], unknown,      NA, 'Defected'  XP: _6368274
+      Tom groeide op met zowel Frans als Engels.
+      Tom groeide op met het spreken van zowel Franse als vrije kunsten.
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2494: [unknown], unknown,      NA, 'Defected'  XP: _6369232
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als meneer.
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2514: [unknown], unknown,      NA, 'Defected'  XP: _6370190
+      Tom kent zowel Mary als de mens.
+      Tom kent zowel Mary als John.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1466: [unknown], unknown,      NA, 'Defected'  XP: _716148
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en koelcontainers moest kopen.
+
+Inconsistency in node types (entail/8)
+2432: [unknown], unknown,      NA, 'Defected'  XP: _2786284
+      Tom groeide op met het spreken van zowel Engels als Romantiek.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2452: [unknown], unknown,      NA, 'Defected'  XP: _2787242
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Oud-Noord-Frans.
+
+Inconsistency in node types (entail/8)
+2472: [unknown], unknown,      NA, 'Defected'  XP: _2788200
+      Tom groeide op met zowel Frans als Engels.
+      Tom groeide op met het spreken van zowel Frans als menselijkheid.
+
+Inconsistency in node types (entail/8)
+2492: [unknown], unknown,      NA, 'Defected'  XP: _2789158
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als de jongen.
+
+Inconsistency in node types (entail/8)
+2512: [unknown], unknown,      NA, 'Defected'  XP: _2790116
+      Tom kent zowel Mary als de mens.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+3036:     [yes], unknown,      NA, 'Defected'  XP: _3396688
+      Tom greep Mary bij de keel en wurgde haar.
+      Tom greep Mary bij de keel
+
+Inconsistency in node types (entail/8)
+1506:     [yes], unknown,    open, 'Ter',32    XP: []
+      Tom kocht een paar gele ageratums voor Mary.
+      Tom kocht wat bloemen voor Mary.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1458: [unknown], unknown,      NA, 'Defected'  XP: _228052
+      Tom zei tegen Mary dat ze wat koffie en sigaretten moest kopen.
+      Tom zei tegen Mary dat ze wat koffie en cubebs moest kopen.
+
+Inconsistency in node types (entail/8)
+2439: [unknown], unknown,      NA, 'Defected'  XP: _4996
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Canadees Frans.
+
+Inconsistency in node types (entail/8)
+3318:     [yes], unknown,      NA, 'Defected'  XP: _2099010
+      Tom, Mary en John zijn er allemaal.
+      Tom, Maria
+
+Inconsistency in node types (entail/8)
+2479: [unknown], unknown,      NA, 'Defected'  XP: _324048
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als individu.
+
+Inconsistency in node types (entail/8)
+2499: [unknown], unknown,      NA, 'Defected'  XP: _325006
+      Tom kent zowel Mary als macho.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2841: [unknown], unknown,      NA, 'Defected'  XP: _2397758
+      Tom groeide op met het spreken van zowel Engels als Engels
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2487: [unknown], unknown,      NA, 'Defected'  XP: _6520802
+      Tom kent zowel Mary als hoofdstuk.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2507: [unknown], unknown,      NA, 'Defected'  XP: _6521760
+      Tom kent zowel Maria als het mannelijk kind.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2449: [unknown], unknown,      NA, 'Defected'  XP: _1758566
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Normandisch-Frans.
+
+Inconsistency in node types (entail/8)
+2469: [unknown], unknown,      NA, 'Defected'  XP: _1759524
+      Tom groeide op met het spreken van zowel Engels als Engels.
+      Tom groeide op met zowel Frans als Engels.
+
+Inconsistency in node types (entail/8)
+2489: [unknown], unknown,      NA, 'Defected'  XP: _1760482
+      Tom kent zowel Mary als collega.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2509: [unknown], unknown,      NA, 'Defected'  XP: _1761440
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als een volwassen man.
+
+Inconsistency in node types (entail/8)
+3422:     [yes], unknown,      NA, 'Defected'  XP: _1041064
+      Tom, Mary en John deelden de kosten van het feest.
+      Tom, Maria
+
+Inconsistency in node types (entail/8)
+2851: [unknown], unknown,      NA, 'Defected'  XP: _4548182
+      Tom kocht een nieuwe camera voor Mary ter vervanging van de camera die hij had geleend
+      Tom kocht een nieuwe camera voor Mary ter vervanging van de camera die hij had geleend en verloren.
+
+Inconsistency in node types (entail/8)
+2789:     [yes], unknown,      NA, 'Defected'  XP: _3422430
+      Tom groeide op met zowel Frans als Engels.
+      Tom groeide op met het spreken van zowel Frans als Frans
+
+Inconsistency in node types (entail/8)
+2431: [unknown], unknown,      NA, 'Defected'  XP: _6436546
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Romantiek.
+
+Inconsistency in node types (entail/8)
+2451: [unknown], unknown,      NA, 'Defected'  XP: _6437504
+      Tom groeide op met het spreken van zowel Engels als Normandisch Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2471: [unknown], unknown,      NA, 'Defected'  XP: _6438462
+      Tom groeide op met zowel de Franse als de humanistische discipline.
+      Tom groeide op met zowel Frans als Engels.
+
+Inconsistency in node types (entail/8)
+2511: [unknown], unknown,      NA, 'Defected'  XP: _6440378
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als de mens.
+
+Inconsistency in node types (entail/8)
+633: [unknown], unknown,      NA, 'Defected'  XP: _2193346
+      Tom had geen zin om met Mary in discussie te gaan.
+      Tom had geen zin om met de ziel in discussie te gaan.
+ 
+Inconsistency in node types (entail/8)
+2436: [unknown], unknown,      NA, 'Defected'  XP: _5266784
+      Tom groeide op met het spreken van zowel Engels als Anglo-Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2456: [unknown], unknown,      NA, 'Defected'  XP: _5267742
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Waals.
+
+Inconsistency in node types (entail/8)
+2476: [unknown], unknown,      NA, 'Defected'  XP: _5268700
+      Tom groeide op met zowel Frans als kunst.
+      Tom groeide op met zowel Frans als Engels.
+
+Inconsistency in node types (entail/8)
+2496: [unknown], unknown,      NA, 'Defected'  XP: _5269658
+      Tom kent zowel Mary als Blighter.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2516: [unknown], unknown,      NA, 'Defected'  XP: _5270616
+      Tom kent zowel Mary als de zoon van moeder.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2576:     [yes], unknown,      NA, 'Defected'  XP: _5529346
+      Tom, Mary en John oefenden zaterdag voor de talentenjacht.
+      Tom, Maria
+
+Inconsistency in node types (entail/8)
+2444: [unknown], unknown,      NA, 'Defected'  XP: _2931164
+      Tom groeide op met het spreken van zowel Engels als Langue d'oc Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2658: [unknown], unknown,      NA, 'Defected'  XP: _6087516
+      Tom, Maria
+      Tom, Mary en John zitten rond de tafel.
+
+Inconsistency in node types (entail/8)
+2504: [unknown], unknown,      NA, 'Defected'  XP: _3453666
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als mannelijke nakomelingen.
+
+Inconsistency in node types (entail/8)
+2918:     [yes], unknown,      NA, 'Defected'  XP: _769196
+      Tom drinkt al sinds half twee en is al een beetje dronken.
+      Tom drinkt al sinds half twee
+
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1273: [unknown], unknown,      NA, 'Defected'  XP: _2666300
+      Tom is irritant omdat hij bij elke discussie altijd het laatste woord moet hebben.
+      Tom is irritant omdat hij altijd het laatste woord moet hebben, in welke variabele hoeveelheid dan ook.
+
+Inconsistency in node types (entail/8)
+2766: [unknown], unknown,      NA, 'Defected'  XP: _5843526
+      Tom, Maria
+      Tom, Mary en John waren tikkertje aan het spelen op de speelplaats.
+
+Inconsistency in node types (entail/8)
+2000: [unknown], unknown,      NA, 'Defected'  XP: _4486
+      Tom heeft ongeveer half twee.
+      Tom heeft een aantal belangrijke dingen die hij voor half twee moet doen.
+
+Inconsistency in node types (entail/8)
+2442: [unknown], unknown,      NA, 'Defected'  XP: _5062
+      Tom groeide op met het spreken van zowel Engels als Langue d'oc.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2443: [unknown], unknown,      NA, 'Defected'  XP: _5041070
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Langue d'oc Frans.
+
+Inconsistency in node types (entail/8)
+2482: [unknown], unknown,      NA, 'Defected'  XP: _526536
+      Tom kent zowel Mary als John.
+      Tom kent zowel Maria als de ziel.
+
+Inconsistency in node types (entail/8)
+2502: [unknown], unknown,      NA, 'Defected'  XP: _527494
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als Boy.
+
+Inconsistency in node types (entail/8)
+2483: [unknown], unknown,      NA, 'Defected'  XP: _5433122
+      Tom kent zowel Maria als de ziel.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2503: [unknown], unknown,      NA, 'Defected'  XP: _5434080
+      Tom kent zowel Mary als Boy.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2623: [unknown], unknown,      NA, 'Defected'  XP: _6709990
+      Tom heeft zijn vrouw in de steek gelaten
+      Tom liet zijn vrouw en kinderen in de steek.
+
+Inconsistency in node types (entail/8)
+2622:     [yes], unknown,      NA, 'Defected'  XP: _2144170
+      Tom liet zijn vrouw en kinderen in de steek.
+      Tom heeft zijn vrouw in de steek gelaten
+
+Inconsistency in node types (entail/8)
+2765:     [yes], unknown,      NA, 'Defected'  XP: _701074
+      Tom, Mary en John waren tikkertje aan het spelen op de speelplaats.
+      Tom, Maria
+
+ERROR: sentence id=44
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier],[en],[kom],[bij],[mij],[zitten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:bij,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:bij,rel:hd,s:bij,t:bij},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:zitten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zit,rel:hd,s:zit,t:zitten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+2845: [unknown], unknown,      NA, 'Defected'  XP: _1060986
+      Tom, kom hier
+      Tom, kom hier en kom bij mij zitten.
+
+ERROR: sentence id=44
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier],[en],[kom],[bij],[mij],[zitten],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier},j{l:en,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:en,rel:crd,s:en,t:en},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:bij,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:bij,rel:hd,s:bij,t:bij},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:zitten,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:zit,rel:hd,s:zit,t:zitten},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ERROR: sentence id=43
+Failed to align term tokens and lexical annotations
+term tokes: [[[kom],[hier]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:tag,s:'Tom',t:'Tom'},j{l:',',lcat:punct,p:punct,postag:'LET()',pt:let,r:',',rel: --,s:',',t:','},j{l:komen,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kom,rel:hd,s:kom,t:kom},j{l:hier,lcat:advp,p:adv,postag:'VNW(aanw,adv-pron,obl,vol,3o,getal)',pt:vnw,r:hier,rel:ld,s:hier,t:hier}]
+Inconsistency in node types (entail/8)
+2844:     [yes], unknown,      NA, 'Defected'  XP: _4121282
+      Tom, kom hier en kom bij mij zitten.
+      Tom, kom hier
+
+Inconsistency in node types (entail/8)
+2440: [unknown], unknown,      NA, 'Defected'  XP: _5008
+      Tom groeide op met het spreken van zowel Engels als Canadees Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2480: [unknown], unknown,      NA, 'Defected'  XP: _182708
+      Tom kent zowel Mary als individu.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2500: [unknown], unknown,      NA, 'Defected'  XP: _183666
+      Tom kent zowel Mary als John.
+      Tom kent zowel Maria als het mannelijke kind.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2138:     [yes], unknown,      NA, 'Defected'  XP: _165216
+      Tom vroeg Mary om wat tandpasta en toiletpapier uit de supermarkt voor hem terug te brengen.
+      Tom vroeg Mary om wat tandpasta en toiletartikelen uit de supermarkt voor hem terug te brengen.
+
+Inconsistency in node types (entail/8)
+2446: [unknown], unknown,      NA, 'Defected'  XP: _2092178
+      Tom groeide op met het spreken van zowel Engels als Langue d'oil.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2486: [unknown], unknown,      NA, 'Defected'  XP: _2613680
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als hoofdstuk.
+
+Inconsistency in node types (entail/8)
+2506: [unknown], unknown,      NA, 'Defected'  XP: _2614638
+      Tom kent zowel Mary als John.
+      Tom kent zowel Maria als het mannelijk kind.
+
+Inconsistency in node types (entail/8)
+2438: [unknown], unknown,      NA, 'Defected'  XP: _5090130
+      Tom groeide op met het spreken van zowel Engels als Anglo-Normandisch.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2478: [unknown], unknown,      NA, 'Defected'  XP: _5409228
+      Tom kent zowel Mary als persoon.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2498: [unknown], unknown,      NA, 'Defected'  XP: _5410186
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als macho.
+
+Inconsistency in node types (entail/8)
+2840:     [yes], unknown,      NA, 'Defected'  XP: _1399902
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Engels
+
+ERROR: sentence id=1537
+Failed to align term tokens and lexical annotations
+term tokes: [[[Tom],[was],[van,plan],[slechts],[een,of],[dag],[twee],[in],[Boston],[te],[blijven],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ben,rel:hd,s:'van-plan-ben',t:was},j{l:van,lcat:fixed,p:fixed,postag:'VZ(init)',pt:vz,r:van,rel:mwp,s:van,t:van},j{l:plan,lcat:fixed,p:fixed,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:plan,rel:mwp,s:plan,t:plan},j{l:slechts,lcat:advp,p:adv,postag:'BW()',pt:bw,r:slechts,rel:mod,s:slechts,t:slechts},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:mwp,s:een,t:een},j{l:dag,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:dag,rel:hd,s:dag,t:dag},j{l:of,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:of,rel:mwp,s:of,t:of},j{l:twee,lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:twee,rel:hd,s:twee,t:twee},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:'Boston',lcat:np,p:name,postag:'N(eigen,ev,basis,onz,stan)',pt:n,r:'Boston',rel:obj1,s:'Boston',t:'Boston'},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:blijven,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:blijf,rel:hd,s:blijf,t:blijven},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+3506:     [yes], unknown,      NA, 'Defected'  XP: _5828966
+      Tom was van plan slechts een dag in Boston te blijven
+      Tom was van plan slechts een dag of twee in Boston te blijven.
+
+Inconsistency in node types (entail/8)
+2437: [unknown], unknown,      NA, 'Defected'  XP: _5407464
+      Tom groeide op met het spreken van zowel Engels als Frans.
+      Tom groeide op met het spreken van zowel Engels als Anglo-Normandisch.
+
+Inconsistency in node types (entail/8)
+2457: [unknown], unknown,      NA, 'Defected'  XP: _5408422
+      Tom groeide op met het spreken van zowel Engels als Waals.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2497: [unknown], unknown,      NA, 'Defected'  XP: _5455936
+      Tom kent zowel Mary als Cus.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2517: [unknown], unknown,      NA, 'Defected'  XP: _5456894
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als Sirrah.
+
+Inconsistency in node types (entail/8)
+2577: [unknown], unknown,      NA, 'Defected'  XP: _5746648
+      Tom, Maria
+      Tom, Mary en John oefenden zaterdag voor de talentenjacht.
+
+Inconsistency in node types (entail/8)
+2919: [unknown], unknown,      NA, 'Defected'  XP: _2373730
+      Tom drinkt al sinds half twee
+      Tom drinkt al sinds half twee en is al een beetje dronken.
+
+ERROR: sentence id=1537
+Failed to align term tokens and lexical annotations
+term tokes: [[[Tom],[was],[van,plan],[slechts],[een,of],[dag],[twee],[in],[Boston],[te],[blijven],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:su,s:'Tom',t:'Tom'},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ben,rel:hd,s:'van-plan-ben',t:was},j{l:van,lcat:fixed,p:fixed,postag:'VZ(init)',pt:vz,r:van,rel:mwp,s:van,t:van},j{l:plan,lcat:fixed,p:fixed,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:plan,rel:mwp,s:plan,t:plan},j{l:slechts,lcat:advp,p:adv,postag:'BW()',pt:bw,r:slechts,rel:mod,s:slechts,t:slechts},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:mwp,s:een,t:een},j{l:dag,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:dag,rel:hd,s:dag,t:dag},j{l:of,lcat:vg,p:vg,postag:'VG(neven)',pt:vg,r:of,rel:mwp,s:of,t:of},j{l:twee,lcat:detp,p:num,postag:'TW(hoofd,prenom,stan)',pt:tw,r:twee,rel:hd,s:twee,t:twee},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:'Boston',lcat:np,p:name,postag:'N(eigen,ev,basis,onz,stan)',pt:n,r:'Boston',rel:obj1,s:'Boston',t:'Boston'},j{l:te,lcat:ti,p:comp,postag:'VZ(init)',pt:vz,r:te,rel:cmp,s:te,t:te},j{l:blijven,lcat:inf,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:blijf,rel:hd,s:blijf,t:blijven},j{l:'.',lcat:punct,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Inconsistency in node types (entail/8)
+3505: [unknown], unknown,      NA, 'Defected'  XP: _1014406
+      Tom was van plan slechts een dag of twee in Boston te blijven.
+      Tom was van plan slechts een dag in Boston te blijven
+
+Inconsistency in node types (entail/8)
+2433: [unknown], unknown,      NA, 'Defected'  XP: _2402080
+      Tom groeide op met het spreken van zowel de Engelse als de Romaanse taal.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2453: [unknown], unknown,      NA, 'Defected'  XP: _2403038
+      Tom groeide op met het spreken van zowel Engels als Oud-Noord-Frans.
+      Tom groeide op met het spreken van zowel Engels als Frans.
+
+Inconsistency in node types (entail/8)
+2473: [unknown], unknown,      NA, 'Defected'  XP: _2403996
+      Tom groeide op met het spreken van zowel Frans als menselijkheid.
+      Tom groeide op met zowel Frans als Engels.
+
+Inconsistency in node types (entail/8)
+2493: [unknown], unknown,      NA, 'Defected'  XP: _2404954
+      Tom kent zowel Mary als de jongen.
+      Tom kent zowel Mary als John.
+
+Inconsistency in node types (entail/8)
+2513: [unknown], unknown,      NA, 'Defected'  XP: _2405912
+      Tom kent zowel Mary als John.
+      Tom kent zowel Mary als de mens.
+
+Inconsistency in node types (entail/8)
+3319: [unknown], unknown,      NA, 'Defected'  XP: _1953892
+      Tom, Maria
+      Tom, Mary en John zijn er allemaal.
+

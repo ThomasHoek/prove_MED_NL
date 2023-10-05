@@ -43,7 +43,7 @@ def get_data_from_log(sent: str) -> tuple[str, str, str]:
 parser = argparse.ArgumentParser()
 
 # Adding optional argument
-parser.add_argument("-k", "--kind", default="crowd", help="select result kind")
+parser.add_argument("-k", "--kind", default="HELP", help="select result kind")
 
 # Read arguments from command line
 args = parser.parse_args()
@@ -58,14 +58,14 @@ def file_to_int_lst(path_str: str) -> list[int]:
 result_path = f"Results/{split}"
 analysis_path = f"{result_path}/analysis"
 
-broken_conj = file_to_int_lst("MED_NL/problems/broken_cp_problems.txt")
-broken_sv = file_to_int_lst("MED_NL/problems/broken_sv1_problems.txt")
-broken_unparse = file_to_int_lst("MED_NL/problems/broken_alpino_aethel_sentences.txt")
-broken_string = file_to_int_lst("MED_NL/problems/broken_alpino_aethel_sent_sentences.txt")
+broken_conj = file_to_int_lst("HELP_NL/problems/broken_cp_problems.txt")
+broken_sv = file_to_int_lst("HELP_NL/problems/broken_sv1_problems.txt")
+broken_unparse = file_to_int_lst("HELP_NL/problems/broken_alpino_aethel_sentences.txt")
+broken_string = file_to_int_lst("HELP_NL/problems/broken_alpino_aethel_sent_sentences.txt")
 
 
 # open files from input
-file_info = open(f"{result_path}/alpino_aethel.alpino.log").readlines()
+file_info = open(f"{result_path}/results.log").readlines()
 all_info = "".join([x.replace("\n", "|") for x in file_info])
 
 # regex match and remove empty whitespace lines
