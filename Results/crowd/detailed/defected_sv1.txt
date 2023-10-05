@@ -1,0 +1,7 @@
+is 2
+niet 2
+goed 2
+voor 2
+mij 2
+vandaag 1
+gisteren 1

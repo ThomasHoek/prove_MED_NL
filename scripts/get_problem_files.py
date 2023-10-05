@@ -13,7 +13,7 @@ def find_broken_phrase(phrase: str) -> list[int]:
     alpino_pl = "".join(alpino_pl).split("sen_id_tlg_tok")[1:]
 
     # number path_name -> split on space and first bit to int
-    max_problems = int(os.popen(f"wc -l MED_NL/raw.spl").read().split(" ")[0])
+    max_problems = int(os.popen("wc -l MED_NL/raw.spl").read().split(" ")[0])
 
     # set range to max_problems as False -> False; not encountered
     truth_table = dict(zip(range(1, max_problems), [False] * max_problems))
