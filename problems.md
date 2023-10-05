@@ -66,7 +66,7 @@ Warning: Sentence could not be parsed
 
 ### 1706 [sent: 2627] -> helemaal@not not recognised as a negative?
 helemaal@not@(X) ->[should be] helemaal@(not@(X))
-
+Same issue as veel?
 
 ### 3418 [sent: 1916] -> nooit
 Nooit is not recognised as: "not once"/ "not ever" / "not"
@@ -80,3 +80,37 @@ ERROR: mooi@(no@zus) == no@zus \
 fix? no@(mooi@zus) != (no@zus)
 
 Also incorrect application of monotonocity raising when its negated, eg geen.
+
+
+### 2265 -> zonder
+Zonder -> without -> with no any | negation never applied. \
+zonder also removed with same_args_tf \
+zonder should be applied to "beste vriended"  and "vrienden", not to leven.
+
+
+### 2414 -> iedere
+Wrong: iedere@hond == groot@(iedere@hond)\
+correct: iedere@hond != iedere@(groot@hond)
+correct: every@hond != every@(groot@hond)
+
+
+### Veel causing negation to dissapear.
+#### 3278 -> niet@veel  -> 'not' is not recognised
+not@veel@(hete@koffie) -> [not@veel] Hete@koffie \
+not@veel@(koffie) -> [not@veel] koffie \
+same_args -> hete@koffie == koffie
+
+solve: niet@veel -> not@much \
+there are rules for much? (right, wordnet etc?)
+
+#### same with 2763  -> veel@not
+Not not applied but connected with veel, but in the opposite position.
+
+
+#### 2456 -> veel@nooit -> 'nooit' is not recognised
+veel@nooit removed in both sentences as "same args", before applying the negation.
+
+
+
+
+
