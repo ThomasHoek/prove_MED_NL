@@ -287,11 +287,11 @@ sen_id(2017, 95, 'h', 'paper', 'unknown', 'Hoewel de meeste aanpakken voor begri
 sen_id(2017, 96, 'p', 'paper', 'unknown', 'Hoewel de meeste aanpakken voor begrijpend lezen afhankelijk zijn van recurrent neurale netwerken (RNN\'s), is het onbetaalbaar langzaam om ze over lange documenten te laten lopen omdat het moeilijk is om over reeksen te parallelliseren.').
 sen_id(2018, 96, 'h', 'paper', 'unknown', 'Hoewel de meeste succesvolle aanpakken voor begrijpend lezen afhankelijk zijn van recurrent neurale netwerken (RNN\'s), is het onbetaalbaar langzaam om ze over lange documenten te laten lopen omdat het moeilijk is om over reeksen te parallelliseren.').
 %problem id = 97
-%sen_id(1344, 97, 'p', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
-%sen_id(1345, 97, 'h', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
+sen_id(1344, 97, 'p', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
+sen_id(1345, 97, 'h', 'paper', 'yes', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
 %problem id = 98
-%sen_id(1345, 98, 'p', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
-%sen_id(1344, 98, 'h', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
+sen_id(1345, 98, 'p', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.').
+sen_id(1344, 98, 'h', 'paper', 'unknown', 'Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.').
 %problem id = 99
 sen_id(693, 99, 'p', 'paper', 'yes', 'Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.').
 sen_id(694, 99, 'h', 'paper', 'yes', 'Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.').
@@ -6839,8 +6839,8 @@ sen_id(2885, 2279, 'h', 'crowd', 'yes', 'Ik moet nodig plassen en ik kan geen wa
 sen_id(2886, 2280, 'p', 'crowd', 'yes', 'Ik moet nodig plassen en ik kan geen wasruimte vinden.').
 sen_id(2884, 2280, 'h', 'crowd', 'yes', 'Ik moet nodig plassen en ik kan geen toilet vinden.').
 %problem id = 2281
-sen_id(2886, 2281, 'p', 'crowd', 'yes', 'Ik moet nodig plassen en ik kan geen wasruimte vinden.').
-sen_id(2887, 2281, 'h', 'crowd', 'yes', 'Ik moet nodig plassen en ik kan niet vinden hoe ik naar de wasruimte moet gaan.').
+%sen_id(2886, 2281, 'p', 'crowd', 'yes', 'Ik moet nodig plassen en ik kan geen wasruimte vinden.').
+%sen_id(2887, 2281, 'h', 'crowd', 'yes', 'Ik moet nodig plassen en ik kan niet vinden hoe ik naar de wasruimte moet gaan.').
 %problem id = 2282
 sen_id(268, 2282, 'p', 'crowd', 'yes', 'Als je een draad aanraakt, zul je een schok krijgen.').
 sen_id(267, 2282, 'h', 'crowd', 'yes', 'Als je een blootgestelde draad aanraakt, zul je een schok krijgen.').
@@ -8162,11 +8162,11 @@ sen_id(4430, 2720, 'h', 'crowd', 'yes', 'Tom verplaatste geen centimeter van zij
 sen_id(4430, 2721, 'p', 'crowd', 'unknown', 'Tom verplaatste geen centimeter van zijn huis.').
 sen_id(4431, 2721, 'h', 'crowd', 'unknown', 'Tom verplaatste geen centimeter.').
 %problem id = 2722
-sen_id(4431, 2722, 'p', 'crowd', 'yes', 'Tom verplaatste geen centimeter.').
-sen_id(4428, 2722, 'h', 'crowd', 'yes', 'Tom verplaatste geen centimeter van waar hij op jou aan het wachten was.').
+% sen_id(4431, 2722, 'p', 'crowd', 'yes', 'Tom verplaatste geen centimeter.').
+% sen_id(4428, 2722, 'h', 'crowd', 'yes', 'Tom verplaatste geen centimeter van waar hij op jou aan het wachten was.').
 %problem id = 2723
-sen_id(4428, 2723, 'p', 'crowd', 'unknown', 'Tom verplaatste geen centimeter van waar hij op jou aan het wachten was.').
-sen_id(4431, 2723, 'h', 'crowd', 'unknown', 'Tom verplaatste geen centimeter.').
+% sen_id(4428, 2723, 'p', 'crowd', 'unknown', 'Tom verplaatste geen centimeter van waar hij op jou aan het wachten was.').
+% sen_id(4431, 2723, 'h', 'crowd', 'unknown', 'Tom verplaatste geen centimeter.').
 %problem id = 2724
 sen_id(3529, 2724, 'p', 'crowd', 'yes', 'Mijn broer houdt niet van de smaak van zeeegel.').
 sen_id(3528, 2724, 'h', 'crowd', 'yes', 'Mijn broer houdt niet van de smaak van rode zeeegel.').
@@ -8630,14 +8630,14 @@ sen_id(2014, 2876, 'h', 'crowd', 'yes', 'Hij zou geen politiek compromis accepte
 sen_id(2014, 2877, 'p', 'crowd', 'unknown', 'Hij zou geen politiek compromis accepteren.').
 sen_id(2011, 2877, 'h', 'crowd', 'unknown', 'Hij zou geen compromis accepteren.').
 %problem id = 2878
-sen_id(2011, 2878, 'p', 'crowd', 'yes', 'Hij zou geen compromis accepteren.').
-sen_id(2012, 2878, 'h', 'crowd', 'yes', 'Hij zou geen compromis meer accepteren.').
+% sen_id(2011, 2878, 'p', 'crowd', 'yes', 'Hij zou geen compromis accepteren.').
+% sen_id(2012, 2878, 'h', 'crowd', 'yes', 'Hij zou geen compromis meer accepteren.').
 %problem id = 2879
-sen_id(3114, 2879, 'p', 'crowd', 'unknown', 'Ik zal nooit meer schrijven in het Engels.').
-sen_id(3113, 2879, 'h', 'crowd', 'unknown', 'Ik zal nooit meer schrijven en spreken in het Engels.').
+% sen_id(3114, 2879, 'p', 'crowd', 'unknown', 'Ik zal nooit meer schrijven in het Engels.').
+% sen_id(3113, 2879, 'h', 'crowd', 'unknown', 'Ik zal nooit meer schrijven en spreken in het Engels.').
 %problem id = 2880
-sen_id(3113, 2880, 'p', 'crowd', 'yes', 'Ik zal nooit meer schrijven en spreken in het Engels.').
-sen_id(3114, 2880, 'h', 'crowd', 'yes', 'Ik zal nooit meer schrijven in het Engels.').
+% sen_id(3113, 2880, 'p', 'crowd', 'yes', 'Ik zal nooit meer schrijven en spreken in het Engels.').
+% sen_id(3114, 2880, 'h', 'crowd', 'yes', 'Ik zal nooit meer schrijven in het Engels.').
 %problem id = 2881
 sen_id(3114, 2881, 'p', 'crowd', 'yes', 'Ik zal nooit meer schrijven in het Engels.').
 sen_id(3115, 2881, 'h', 'crowd', 'yes', 'Ik zal nooit meer verhalen schrijven in het Engels.').
