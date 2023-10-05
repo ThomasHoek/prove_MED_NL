@@ -62,7 +62,7 @@
       Juan en zijn vrienden kunnen mij niet helpen.
       Juan kan mij niet helpen.
 
-308:     [yes],     yes,  closed, 'Ter',8     XP: [isa(and@abst(_1404210,_1404210@ontspannen)@abst(_1404468,_1404468@warm)@lekker@bad,bad)]
+308:     [yes],     yes,  closed, 'Ter',8     XP: [isa(and@abst(_3590180,_3590180@ontspannen)@abst(_3590438,_3590438@warm)@lekker@bad,bad)]
       Alles wat Tom wilde was een lekker warm en ontspannend bad.
       Alles wat Tom wilde was een lekker warm bad.
 
@@ -126,7 +126,8 @@
       Een rat knaagde een groot gat in de muur.
       Een rat knaagde een gat.
 
-411:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@zuurstof,zuurstof)]
+Error in gen_quant_tt
+ 411:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@zuurstof,zuurstof)]
       Hij stierf door gebrek aan zuurstof in de kamer.
       Hij stierf door een gebrek aan zuurstof.
 
@@ -330,11 +331,7 @@
       Ik ben een normaal mooi meisje.
       Ik ben een normaal meisje.
 
-ERROR: sentence id=4554
-Failed to align term tokens and lexical annotations
-term tokes: [[[ging],[niet],[goed],[.]]]
-lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:gaan,lcat:sv1,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ga,rel:hd,s:ga,t:ging},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:predc,s:goed,t:goed},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 725:     [yes],     yes,  closed, 'Ter',11    XP: []
+725:     [yes],     yes,  closed, 'Ter',11    XP: []
       Een eerlijke en religieuze man steelt nooit geld.
       Een eerlijke man steelt nooit geld.
 
@@ -422,9 +419,7 @@ lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,r
       Rudolf heeft een groot en mooi huis gebouwd.
       Rudolf heeft een groot huis gebouwd.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 905:     [yes],     yes,  closed, 'Ter',6     XP: [int(blauw)]
+905:     [yes],     yes,  closed, 'Ter',6     XP: [int(blauw)]
       Ze plantte wat blauwe en paarse viooltjes in het bloembed.
       Ze plantte wat viooltjes in het bloembed.
 
@@ -520,6 +515,10 @@ Error in gen_quant_tt
       Een groot pluizig dier vluchtte uit de dierentuin.
       Een groot dier vluchtte uit de dierentuin.
 
+ERROR: sentence id=4554
+Failed to align term tokens and lexical annotations
+term tokes: [[[ging],[niet],[goed],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:gaan,lcat:sv1,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ga,rel:hd,s:ga,t:ging},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:predc,s:goed,t:goed},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 1090:     [yes],     yes,  closed, 'Ter',3     XP: []
       Hij gaf me een ring en een horloge.
       Hij gaf me een horloge.
@@ -532,7 +531,7 @@ Error in gen_quant_tt
       De spin spint een web op de muur van peters kamer.
       De spin spint een net.
 
-1096:     [yes],     yes,  closed, 'Ter',4     XP: [isa(netwerk,web),isa(web,netwerk),isa(and@abst(_3146286,_3146286@goed_werken)@abst(_3146544,_3146544@groot)@erg@netwerk,netwerk)]
+1096:     [yes],     yes,  closed, 'Ter',4     XP: [isa(netwerk,web),isa(web,netwerk),isa(and@abst(_484680,_484680@goed_werken)@abst(_484938,_484938@groot)@erg@netwerk,netwerk)]
       De spin spint een erg groot en goedgewerkt netwerk.
       De spin spint een web.
 
@@ -559,7 +558,6 @@ Error in gen_quant_tt
 1122:     [yes],     yes,  closed, 'Ter',10    XP: [int(op_warmen)]
       Tom drinkt opgewarmde melk iedere ochtend.
       Tom drinkt melk iedere ochtend.
-Difference in Lemma Lexicons after normalization
 
 1126:     [yes],     yes,  closed, 'Ter',9     XP: []
       We gaan een pizza en een frisdrank bestellen.
@@ -629,6 +627,8 @@ Difference in Lemma Lexicons after normalization
       Ik doe een mechanische training bij ford.
       Ik doe een training bij ford.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1202:     [yes],     yes,  closed, 'Ter',6     XP: [int(handbedien)]
       Er lag een handbediende bandrecorder op de tafel.
       Er lag een bandrecorder op de tafel.
@@ -781,8 +781,6 @@ Difference in Lemma Lexicons after normalization
       Ik heb niet genoeg vrienden.
       Ik heb niet genoeg goede vrienden.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1411:     [yes],     yes,  closed, 'Ter',6     XP: [int(loyaal)]
       Ik heb niet genoeg vrienden.
       Ik heb niet genoeg loyale vrienden.
@@ -1119,6 +1117,10 @@ Error in gen_quant_tt
       Ik hou niet van horrorfilms.
       Ik hou niet van gore horrorfilms.
 
+ERROR: sentence id=2798
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[deuntje],[van],[het],[liedje]]]
+lexical annotation: [j{l:ik,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,1,ev)',pt:vnw,r:ik,rel:dp,s:ik,t:'Ik'},j{l:kunnen,lcat: --,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel: --,s:kan,t:kan},j{l:me,lcat: --,p:pron,postag:'VNW(pr,pron,obl,red,1,ev)',pt:vnw,r:me,rel: --,s:me,t:me},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:deun,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:deun_DIM,rel:hd,s:deun_DIM,t:deuntje},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:lied,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:lied_DIM,rel:hd,s:lied_DIM,t:liedje},j{l:dat,lcat: --,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel: --,s:dat,t:dat},j{l:hij,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,3,ev,masc)',pt:vnw,r:hij,rel:dp,s:hij,t:hij},j{l:ooit,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ooit,rel:dp,s:ooit,t:ooit},j{l:horen,lcat: --,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:hoor,rel: --,s:hoor,t:hoorde},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:dp,s:niet,t:niet},j{l:herinneren,lcat: --,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:herinner,rel: --,s:'zich-herinner',t:herinneren},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 2214:     [yes],     yes,  closed, 'Ter',1     XP: [isa(baan,werk),isa(werk,baan)]
       Tom kon geen baan vinden.
       Tom kon geen werk vinden.
@@ -1163,6 +1165,10 @@ Error in gen_quant_tt
       Tom lijkt geen gevoel voor humor te hebben.
       Tom lijkt geen gevoel voor humor te hebben.
 
+ERROR: sentence id=4331
+Failed to align term tokens and lexical annotations
+term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:luisteren,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:luister,rel:hd,s:'luister-naar',t:luister},j{l:zelden,lcat:ap,p:adj,postag:'BW()',pt:bw,r:zelden,rel:mod,s:zelden,t:zelden},j{l:naar,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:naar,rel:hd,s:naar,t:naar},j{l:muziek,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:muziek,rel:hd,s:muziek,t:muziek},j{l:thuis,lcat:advp,p:adv,postag:'BW()',pt:bw,r:thuis,rel:mod,s:thuis,t:thuis},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 2331:     [yes],     yes,  closed, 'Ter',1     XP: []
       Tom lijkt geen gevoel voor humor te hebben.
       Tom lijkt geen gevoel voor humor te hebben.
@@ -1195,6 +1201,8 @@ Error in gen_quant_tt
       Capitalisme hoeft geen monster te zijn.
       Capitalisme hoeft geen beest te zijn.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2397:     [yes],     yes,  closed, 'Ter',1     XP: [isa(gedrocht,monster),isa(monster,gedrocht)]
       Capitalisme hoeft geen monster te zijn.
       Capitalisme hoeft geen gedrocht te zijn.
@@ -1315,6 +1323,8 @@ Error in gen_quant_tt
       Hij had een fataal gebrek aan vermogen om logisch na te denken.
       Hij had een fataal gebrek aan vaardigheid om logisch na te denken.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2653:     [yes],     yes,  closed, 'Ter',12    XP: [int(oud)]
       Tom wil niet in een appartement wonen.
       Tom wil niet in een oud appartement wonen.
@@ -1643,8 +1653,6 @@ Error in gen_quant_tt
       Tom wilde geen overuren werken op kerstavond.
       Tom wilde geen overuren werken op kerstavond.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3613:     [yes],     yes,  closed, 'Ter',8     XP: []
       Ik kan niet Tom thuis bellen.
       Ik kan niet Tom bij mij thuis bellen.
@@ -1653,6 +1661,8 @@ Error in gen_quant_tt
       Ik kan niet Tom thuis bellen.
       Ik kan niet Tom thuis bellen omdat ik het nummer niet heb.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3619:     [yes],     yes,  closed, 'Ter',12    XP: [int(vaag)]
       Ik kan die uitleg niet accepteren.
       Ik kan die vage uitleg niet accepteren.

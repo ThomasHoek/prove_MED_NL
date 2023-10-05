@@ -70,7 +70,9 @@
       Een meid is gemaakt om je huis schoon te maken.
       Een kind is gemaakt om jouw huis schoon te maken.
 
-802: [unknown],     yes,  closed, 'Ter',1     XP: []
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 802: [unknown],     yes,  closed, 'Ter',1     XP: []
       Mijn opa kan niet lopen zonder een stok.
       Mijn opa kan niet lopen zonder een stok.
 
@@ -94,7 +96,11 @@
       Er zijn een paar tassen in de kamer.
       Er zijn een paar rugzakken in de kamer.
 
-985: [unknown],     yes,  closed, 'Ter',14    XP: []
+ERROR: sentence id=4558
+Failed to align term tokens and lexical annotations
+term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ 985: [unknown],     yes,  closed, 'Ter',14    XP: []
       Hij deed niets anders dan huilen.
       Hij deed gisteren niets anders dan huilen.
 
@@ -122,8 +128,6 @@
       Die hond bijt niet.
       Die grappige en gekke hond bijt niet.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1165: [unknown],     yes,  closed, 'Ter',4     XP: [isa(kat,hond)]
       Die hond bijt niet.
       Die kat bijt niet.
@@ -284,6 +288,10 @@ Error in gen_quant_tt
       Hij toont geen enkele interesse in nieuwe wetenschap.
       Hij toont geen enkele interesse in wetenschap.
 
+ERROR: sentence id=3964
+Failed to align term tokens and lexical annotations
+term tokes: [[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:drinken,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:drink,rel:hd,s:drink,t:drink},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:glas,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:glas,rel:hd,s:glas,t:glas},j{l:koud,lcat:ap,p:adj,postag:'ADJ(prenom,basis,met-e,stan)',pt:adj,r:koud,rel:mod,s:koud,t:koude},j{l:melk,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:melk,rel:hd,s:melk,t:melk},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:ieder,rel:det,s:ieder,t:iedere},j{l:ochtend,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:ochtend,rel:hd,s:ochtend,t:ochtend},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 1514: [unknown],     yes,  closed, 'Ter',6     XP: []
       Tom wilde geen oorlog voeren in canada.
       Tom wilde geen oorlog voeren.
@@ -752,7 +760,7 @@ Error in gen_quant_tt
       Tom kon geen redelijke baan vinden.
       Tom kon geen baan vinden.
 
-2211: [unknown],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_130596,houden@(van@_130596)@hij)@no@baan,no@baan)]
+2211: [unknown],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_4658856,houden@(van@_4658856)@hij)@no@baan,no@baan)]
       Tom kon geen baan waar hij van houdt vinden.
       Tom kon geen baan vinden.
 
@@ -956,6 +964,7 @@ Error in gen_quant_tt
       Ze draagt geen kleine strings.
       Ze draagt geen strings.
 
+Error in gen_quant_tt
 2543: [unknown],     yes,  closed, 'Ter',4     XP: [int(on_comfortabel)]
       Ze draagt geen oncomfortabele strings.
       Ze draagt geen strings.
@@ -1656,7 +1665,7 @@ Error in gen_quant_tt
       Het medicijn hielp absoluut helemaal niet.
       Het medicijn hielp helemaal niet.
 
-3454: [unknown],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_4482498,_4482498@(zeggen@(dat@(worden@dik@ze))@ze))@no@vlees,no@vlees)]
+3454: [unknown],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_5611056,_5611056@(zeggen@(dat@(worden@dik@ze))@ze))@no@vlees,no@vlees)]
       Ze zullen geen vlees eten waarvan ze zeggen dat ze dik worden.
       Ze zullen geen vlees eten.
 

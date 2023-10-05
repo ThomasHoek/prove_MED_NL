@@ -1,13 +1,9 @@
-ERROR: sentence id=4558
-Failed to align term tokens and lexical annotations
-term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
-lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 ERROR: sentence id=1327
 Failed to align term tokens and lexical annotations
 term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
 lexical annotation: [j{l:gisteren,lcat:advp,p:adv,postag:'BW()',pt:bw,r:gisteren,rel:dp,s:gisteren,t:'Gisteren'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-751: [unknown], unknown,      NA, 'Defected'  XP: _4089876
+751: [unknown], unknown,      NA, 'Defected'  XP: _1143000
       Vandaag is niet goed voor mij.
       Gisteren is niet goed voor mij.
 

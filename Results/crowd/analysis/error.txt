@@ -1,7 +1,7 @@
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-152: [unknown], unknown,      NA, 'Defected'  XP: _2455674
+152: [unknown], unknown,      NA, 'Defected'  XP: _2454366
       Een paar bloemen bloeien in de lente en anderen in de herfst.
       Een paar roosbloemen bloeien in de lente en anderen in de herfst.
 
@@ -9,52 +9,66 @@ ERROR: sentence id=1056
 Failed to align term tokens and lexical annotations
 term tokes: [[[klein],[glazen],[sculptuur],[in],[de],[tuin],[.]]]
 lexical annotation: [j{l:er,lcat: --,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel: --,s:er,t:'Er'},j{l:staan,lcat:sv1,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:sta,rel:dp,s:sta,t:staat},j{l:en,lcat: --,p:vg,postag:'VG(neven)',pt:vg,r:en,rel: --,s:en,t:en},j{l:klein,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:klein,rel:mod,s:klein,t:klein},j{l:glazen,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:glazen,rel:hd,s:glazen,t:glazen},j{l:sculptuur,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:sculptuur,rel:hd,s:sculptuur,t:sculptuur},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:de,lcat:detp,p:det,postag:'LID(bep,stan,rest)',pt:lid,r:de,rel:det,s:de,t:de},j{l:tuin,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:tuin,rel:hd,s:tuin,t:tuin},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 208: [unknown], unknown,    open, 'Ter',29    XP: []
+ 207: [unknown], unknown,    open, 'Ter',21    XP: []
       Ze studeert al een paar jaar Frans.
-      Ze studeert al een paar jaar een paar vreemde talen zoals koreaans.
+      Ze studeert al een paar jaar astrofysica.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 285: [unknown], unknown,    open, 'Ter',6     XP: []
-      Een foto kan de redenen niet verklaren.
-      Een foto helderheid kan de redenen niet verklaren.
+ 256:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom plant een vijgen en palmboom in zijn achtertuin.
+      Tom plant een palmboom in zijn achtertuin.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 303: [unknown], unknown,      NA, 'Defected'  XP: []
-      Camera’s hebben niet de neiging om realiteit vast te leggen.
-      De hoop neight niet de realiteit vast te leggen.
+ 263: [unknown], unknown,    open, 'Ter',139   XP: []
+      Een menselijk lichaam bestaat uit een ontelbaar aantal cellen.
+      Een menselijk lichaam bestaat uit een ontelbaar aantal gaas.
+
+Error in gen_quant_tt
+ 334: [unknown], unknown,    open, 'Ter',8     XP: []
+      Een man kan niet comfortabel zijn zonder zijn eigen goedkeuring.
+      Individu zal niet comfortabel zijn zonder zijn toestemming.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 355: [unknown], unknown,    open, 'Ter',30    XP: []
-      Een koekje ligt onder de tafel.
-      Een been zit onder de tafel.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
- 400: [unknown], unknown,    open, 'Ter',31    XP: []
-      Ik kocht een rode agenda.
-      Ik kocht een kleine rode agenda voor mijn moeder.
+ 344: [unknown], unknown,    open, 'Ter',94    XP: []
+      Een vreemdeling sprak tegen me in de bus.
+      Een stinkende vreemdeling sprak tegen me in de bus.
 
 ERROR: sentence id=1056
 Failed to align term tokens and lexical annotations
 term tokes: [[[klein],[glazen],[sculptuur],[in],[de],[tuin],[.]]]
 lexical annotation: [j{l:er,lcat: --,p:adv,postag:'VNW(aanw,adv-pron,stan,red,3,getal)',pt:vnw,r:er,rel: --,s:er,t:'Er'},j{l:staan,lcat:sv1,p:verb,postag:'WW(pv,tgw,met-t)',pt:ww,r:sta,rel:dp,s:sta,t:staat},j{l:en,lcat: --,p:vg,postag:'VG(neven)',pt:vg,r:en,rel: --,s:en,t:en},j{l:klein,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:klein,rel:mod,s:klein,t:klein},j{l:glazen,lcat:ap,p:adj,postag:'ADJ(prenom,basis,zonder)',pt:adj,r:glazen,rel:hd,s:glazen,t:glazen},j{l:sculptuur,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:sculptuur,rel:hd,s:sculptuur,t:sculptuur},j{l:in,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:in,rel:hd,s:in,t:in},j{l:de,lcat:detp,p:det,postag:'LID(bep,stan,rest)',pt:lid,r:de,rel:det,s:de,t:de},j{l:tuin,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:tuin,rel:hd,s:tuin,t:tuin},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 406: [unknown], unknown,    open, 'Ter',44    XP: []
-      We stonden op de rand van een klif.
-      We stonden op de rand van een zeebergklif.
+ 373: [unknown], unknown,    open, 'Ter',24    XP: []
+      Een gans is een watervogel.
+      Een sneeuwgans is een watervogel.
 
 Error in gen_quant_tt
- 452: [unknown], unknown,    open, 'Lim',407   XP: []
-      Een vergiftigde kers kan een hertog doden.
-      Een vergiftigde kleine ronde vrucht kan een hertog doden.
+ 411:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@zuurstof,zuurstof)]
+      Hij stierf door gebrek aan zuurstof in de kamer.
+      Hij stierf door een gebrek aan zuurstof.
+
+ERROR: sentence id=4554
+Failed to align term tokens and lexical annotations
+term tokes: [[[ging],[niet],[goed],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:gaan,lcat:sv1,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ga,rel:hd,s:ga,t:ging},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:predc,s:goed,t:goed},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ 414: [unknown], unknown,    open, 'Lim',438   XP: []
+      Ik nam een taxi van het station naar het hotel.
+      Ik nam een snelle taxi van het station naar het hotel.
+
+ERROR: sentence id=3860
+Failed to align term tokens and lexical annotations
+term tokes: [[[politicus],[is],[een],[mensenrechten],[militant],[.]]]
+lexical annotation: [j{l:senator,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:senator,rel:dp,s:senator,t:'Senator'},j{l:politicus,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:politicus,rel:su,s:politicus,t:politicus},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:één,lcat:np,p:pron,postag:'TW(hoofd,nom,zonder-n,basis)',pt:tw,r:één,rel:obj2,s:één,t:een},j{l:mens_recht,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens_recht,rel:predc,s:mens_recht,t:mensenrechten},j{l:militant,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:militant,rel:mod,s:militant,t:militant},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ 417: [unknown], unknown,      NA, 'Defected'  XP: []
+      Senator Rosario Ibarra is een mensenrechten militant.
+      Senator politicus is een mensenrechten militant.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
- 496: [unknown], unknown,      NA, 'Defected'  XP: []
-      Er liggen een paar sinaasappels op de tafel.
-      Er liggen een paar sinaasappels en clementines op de tafel.
+ 436: [unknown], unknown,    open, 'Ter',5     XP: []
+      Die zin bestaat in geen enkel lied.
+      Die zin over sinaasappels bestaat in geen enkel lied.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -63,90 +77,66 @@ Error in gen_quant_tt
       Er liggen een paar sinaasappels op de tafel.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
- 551: [unknown], unknown,    open, 'Ter',33    XP: []
-      Brian kocht een lippenstift voor Kate.
-      Brian kocht een rouge voor Kate.
+ 515: [unknown], unknown,    open, 'Ter',29    XP: []
+      Ik kocht een nieuwe bril.
+      Ik kocht een nieuwe jas.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 607: [unknown], unknown,    open, 'Ter',29    XP: []
-      Tom droeg een zwarte hoed.
-      Tom droeg een zwarte trui.
+ 525: [unknown], unknown,    open, 'Ter',17    XP: []
+      Ik heb een tafel geleend.
+      Ik heb een metaal geleend.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 612: [unknown], unknown,    open, 'Ter',29    XP: []
-      Tom is een fantastische zanger.
-      Tom is een fantastische artiest.
-
-Error in gen_quant_tt
- 623: [unknown], unknown,    open, 'Ter',57    XP: []
-      Ik hield ooit een dagboek bij.
-      Ik hield ooit een ding bij me.
-
-Error in gen_quant_tt
- 643:     [yes], unknown,      NA, 'Defected'  XP: []
-      Tom kocht een paar lekkere chocolaatjes en snoepjes voor Mary.
-      Tom kocht een paar chocolaatjes voor Mary.
+ 535: [unknown], unknown,    open, 'Ter',20    XP: []
+      Een koud bad verfriste hem.
+      Een koud bubbelbad verfriste hem.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 693: [unknown], unknown,      NA, 'Defected'  XP: []
-      Iedere zin aanwezig in Tatoeba is een leugen.
-      Iedere zin die arbeid beschrijft aanwezig in Tatoeba is een leugen.
+ 604: [unknown], unknown,    open, 'Lim',403   XP: []
+      Susan heeft een jurk gemaakt voor Jill.
+      Susan heeft een lange zwarte jurk gemaakt voor Jill.
 
 ERROR: sentence id=4558
 Failed to align term tokens and lexical annotations
 term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
 lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 707: [unknown], unknown,    open, 'Ter',11    XP: []
-      David kan niet thuis zijn.
-      David is bij een muziekconcert dus hij kan niet thuis zijn.
-
-ERROR: sentence id=3860
-Failed to align term tokens and lexical annotations
-term tokes: [[[politicus],[is],[een],[mensenrechten],[militant],[.]]]
-lexical annotation: [j{l:senator,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:senator,rel:dp,s:senator,t:'Senator'},j{l:politicus,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:politicus,rel:su,s:politicus,t:politicus},j{l:zijn,lcat:smain,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:één,lcat:np,p:pron,postag:'TW(hoofd,nom,zonder-n,basis)',pt:tw,r:één,rel:obj2,s:één,t:een},j{l:mens_recht,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:mens_recht,rel:predc,s:mens_recht,t:mensenrechten},j{l:militant,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:militant,rel:mod,s:militant,t:militant},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 708: [unknown], unknown,    open, 'Ter',13    XP: []
-      David kan niet thuis zijn.
-      David en zijn vrienden kunnen niet thuis zijn.
-
-ERROR: sentence id=4554
-Failed to align term tokens and lexical annotations
-term tokes: [[[ging],[niet],[goed],[.]]]
-lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:gaan,lcat:sv1,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ga,rel:hd,s:ga,t:ging},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:predc,s:goed,t:goed},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 725:     [yes],     yes,  closed, 'Ter',11    XP: []
-      Een eerlijke en religieuze man steelt nooit geld.
-      Een eerlijke man steelt nooit geld.
+ 618: [unknown], unknown,    open, 'Ter',40    XP: []
+      Ze sliep voor een paar uur.
+      Ze sliep voor een paar droomloze uren.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 728: [unknown], unknown,    open, 'Ter',120   XP: []
-      Tom plukte een paar bessen en at ze.
-      Tom plukte een paar zwarte bessen en at ze.
+ 620: [unknown], unknown,    open, 'Ter',51    XP: []
+      Ik hield ooit een dagboek bij.
+      Ik hield ooit een hond.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 734: [unknown], unknown,      NA, 'Defected'  XP: []
-      Ik weet dat jij en Tom een paar problemen gehad hebben.
-      Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
+ 651: [unknown], unknown,    open, 'Ter',14    XP: []
+      Bill heeft de misdaad niet gepleegd.
+      Bills vader heeft de misdaad niet gepleegd.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 671: [unknown], unknown,    open, 'Ter',4     XP: []
+      Als ik niet hier was, zou dit kantoor zich binnen drie dagen in chaos bevinden.
+      Als hij niet hier was, zou het kantoor failliet zijn.
+
+Error in gen_quant_tt
 Error in gen_quant_tt
  735:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
       Ik weet dat jij en Tom een paar problemen gehad hebben.
 
-ERROR: sentence id=4558
-Failed to align term tokens and lexical annotations
-term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
-lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 ERROR: sentence id=1327
 Failed to align term tokens and lexical annotations
 term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
 lexical annotation: [j{l:gisteren,lcat:advp,p:adv,postag:'BW()',pt:bw,r:gisteren,rel:dp,s:gisteren,t:'Gisteren'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 Inconsistency in node types (entail/8)
-751: [unknown], unknown,      NA, 'Defected'  XP: _4089876
+751: [unknown], unknown,      NA, 'Defected'  XP: _1143000
       Vandaag is niet goed voor mij.
       Gisteren is niet goed voor mij.
 
@@ -158,39 +148,31 @@ lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,r
       Vandaag is niet goed voor mij.
       Maandag is niet goed voor me.
 
-ERROR: sentence id=4558
-Failed to align term tokens and lexical annotations
-term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
-lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 753: [unknown], unknown,      NA, 'Defected'  XP: []
-      Vandaag is niet goed voor mij.
-      Zondag is niet goed voor mij.
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 766: [unknown], unknown,    open, 'Ter',34    XP: []
+      Een softwareontwikkelaar schrijft computerprogramma’s.
+      Een kok kookt maaltijden in restaurants.
 
 ERROR: sentence id=4558
 Failed to align term tokens and lexical annotations
 term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
 lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 755: [unknown], unknown,      NA, 'Defected'  XP: []
-      Vandaag is niet goed voor mij.
-      Vandaag vliegen is niet goed voor me.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
- 778: [unknown], unknown,    open, 'Ter',8     XP: []
-      Hij denkt niets van armoede.
-      Hij denkt dat niets je uit armoede kan halen.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
- 795: [unknown], unknown,      NA, 'Defected'  XP: []
-      Moderne kunst interesseert Tom niet.
-      Moderne kunst en wetenschap interesseren Tom niet.
+ 787: [unknown], unknown,    open, 'Ter',6     XP: []
+      Een dagvaarding is uitgegeven.
+      Een kaartje is uitgegeven.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
  796:     [yes], unknown,      NA, 'Defected'  XP: []
       Moderne kunst en wetenschap interesseren Tom niet.
       Moderne kunst interesseert Tom niet.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 802: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Mijn opa kan niet lopen zonder een stok.
+      Mijn opa kan niet lopen zonder een stok.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -204,21 +186,23 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-807: [unknown], unknown,      NA, 'Defected'  XP: _4638740
+807: [unknown], unknown,      NA, 'Defected'  XP: _1114098
       Het is geen thee maar koffie dat ik wil.
       Het is geen thee maar ijs dat ik wil.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-808: [unknown], unknown,      NA, 'Defected'  XP: _761034
+808: [unknown], unknown,      NA, 'Defected'  XP: _3143690
       Het is geen thee maar koffie dat ik wil.
       Het is geen thee maar koffie met melk dat ik wil.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-809:     [yes], unknown,      NA, 'Defected'  XP: _2036606
+809:     [yes], unknown,      NA, 'Defected'  XP: _1366136
       Het is geen thee maar koffie met melk dat ik wil.
       Het is geen thee maar koffie dat ik wil.
 
@@ -226,9 +210,8 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
-Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-810: [unknown], unknown,      NA, 'Defected'  XP: _5820426
+810: [unknown], unknown,      NA, 'Defected'  XP: _5827048
       Het is geen thee maar koffie dat ik wil.
       Het is geen thee maar melk dat ik wil.
 
@@ -237,33 +220,46 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-811: [unknown], unknown,      NA, 'Defected'  XP: _5737068
+811: [unknown], unknown,      NA, 'Defected'  XP: _2790192
       Het is geen thee maar koffie dat ik wil.
       Het is geen thee maar bier dat ik wil.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
- 853:     [yes], unknown,    open, 'Ter',32    XP: []
-      Tante Millie is geen appel aan het eten.
-      Millie eet geen appel.
+ 825: [unknown], unknown,    open, 'Ter',18    XP: []
+      Ik wil een dozijn donuts kopen.
+      Ik wil negen donuts kopen.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 858: [unknown], unknown,    open, 'Ter',75    XP: []
-      Bilbao is een stad in het baskenland.
-      Bilbao is de grootste stad en is een stad in het baskenland.
+ 832: [unknown], unknown,    open, 'Ter',29    XP: []
+      Ieder schip heeft een anker nodig.
+      Ieder schip heeft een dreg nodig.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
- 905:     [yes],     yes,  closed, 'Ter',6     XP: [int(blauw)]
-      Ze plantte wat blauwe en paarse viooltjes in het bloembed.
-      Ze plantte wat viooltjes in het bloembed.
+ 850: [unknown], unknown,    open, 'Ter',32    XP: []
+      Tom droeg een emmer met water.
+      Tom droeg een emmer met appels.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
  930: [unknown], unknown,      NA, 'Defected'  XP: []
       Tom kan ook wat Frans spreken.
       Tom kan ook wat Frans en Spaans spreken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 931:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kan ook wat Frans en Spaans spreken.
+      Tom kan ook wat Frans spreken.
+
+ERROR: sentence id=4558
+Failed to align term tokens and lexical annotations
+term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ 985: [unknown],     yes,  closed, 'Ter',14    XP: []
+      Hij deed niets anders dan huilen.
+      Hij deed gisteren niets anders dan huilen.
 
 ERROR: sentence id=4554
 Failed to align term tokens and lexical annotations
@@ -277,50 +273,76 @@ ERROR: sentence id=4554
 Failed to align term tokens and lexical annotations
 term tokes: [[[ging],[niet],[goed],[.]]]
 lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:gaan,lcat:sv1,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ga,rel:hd,s:ga,t:ging},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:predc,s:goed,t:goed},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Error in gen_quant_tt
  989: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag ging niet goed.
       Wiskunde examen ging niet goed.
 
+ERROR: sentence id=4558
+Failed to align term tokens and lexical annotations
+term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+ 993: [unknown], unknown,    open, 'Ter',119   XP: []
+      Alle passagiers zijn in dodelijk gevaar.
+      Alle passagiers zijn in dodelijk gevaar zolang zij in het vliegtuig zijn.
+
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-999:     [yes], unknown,      NA, 'Defected'  XP: _5936444
+998: [unknown], unknown,      NA, 'Defected'  XP: _5535600
+      Een paar grote vogels jagen op kleine vogels en dieren.
+      Een paar grote uilen jagen en jagen op kleine vogels en dieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+999:     [yes], unknown,      NA, 'Defected'  XP: _1695006
       Een paar grote vogels jagen en jagen op kleine vogels en dieren.
       Een paar grote vogels jagen op kleine vogels en dieren.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-1000: [unknown], unknown,      NA, 'Defected'  XP: _5107286
+1000: [unknown], unknown,      NA, 'Defected'  XP: _3190382
       Een paar grote vogels jagen op kleine vogels en dieren.
       Een paar grote vogels jagen en jagen op kleine vogels en dieren.
 
 Error in gen_quant_tt
-1073: [unknown], unknown,    open, 'Ter',38    XP: []
-      De jager schoot op een vos.
-      De jager schoot op een hert.
-
-ERROR: sentence id=3964
-Failed to align term tokens and lexical annotations
-term tokes: [[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:drinken,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:drink,rel:hd,s:drink,t:drink},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:glas,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:glas,rel:hd,s:glas,t:glas},j{l:koud,lcat:ap,p:adj,postag:'ADJ(prenom,basis,met-e,stan)',pt:adj,r:koud,rel:mod,s:koud,t:koude},j{l:melk,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:melk,rel:hd,s:melk,t:melk},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:ieder,rel:det,s:ieder,t:iedere},j{l:ochtend,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:ochtend,rel:hd,s:ochtend,t:ochtend},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-1119: [unknown], unknown,      NA, 'Defected'  XP: []
-      Tom drinkt melk iedere ochtend.
-      Tom drink een glas koude melk iedere ochtend.
-
-ERROR: sentence id=3964
-Failed to align term tokens and lexical annotations
-term tokes: [[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:drinken,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:drink,rel:hd,s:drink,t:drink},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:glas,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:glas,rel:hd,s:glas,t:glas},j{l:koud,lcat:ap,p:adj,postag:'ADJ(prenom,basis,met-e,stan)',pt:adj,r:koud,rel:mod,s:koud,t:koude},j{l:melk,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:melk,rel:hd,s:melk,t:melk},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:ieder,rel:det,s:ieder,t:iedere},j{l:ochtend,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:ochtend,rel:hd,s:ochtend,t:ochtend},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-1120:     [yes], unknown,      NA, 'Defected'  XP: []
-      Tom drink een glas koude melk iedere ochtend.
-      Tom drinkt melk iedere ochtend.
+Error in gen_quant_tt
+1017:     [yes], unknown,    open, 'Ter',99    XP: []
+      Een paar jongens op schoolbibliotheek maken mij belachelijk.
+      Een paar jongens op school maken mij belachelijk.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-1165: [unknown],     yes,  closed, 'Ter',4     XP: [isa(kat,hond)]
-      Die hond bijt niet.
-      Die kat bijt niet.
+1039: [unknown], unknown,    open, 'Ter',30    XP: []
+      Ik wil een broodje zonder kaas.
+      Ik wil een stukje sushi zonder rijst.
+
+Error in gen_quant_tt
+1054: [unknown], unknown,    open, 'Ter',141   XP: []
+      Een paar kinderen zwemmen in de oceaan.
+      Een paar jonge mannen zwemmen in de oceaan.
+
+ERROR: sentence id=4554
+Failed to align term tokens and lexical annotations
+term tokes: [[[ging],[niet],[goed],[.]]]
+lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:gaan,lcat:sv1,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ga,rel:hd,s:ga,t:ging},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:predc,s:goed,t:goed},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+1090:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Hij gaf me een ring en een horloge.
+      Hij gaf me een horloge.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1172: [unknown], unknown,    open, 'Lim',432   XP: []
+      Er zijn een paar jongens in het park.
+      Er zijn een paar jongens die ijs kopen in het park.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1202:     [yes],     yes,  closed, 'Ter',6     XP: [int(handbedien)]
+      Er lag een handbediende bandrecorder op de tafel.
+      Er lag een bandrecorder op de tafel.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -330,53 +352,38 @@ Error in gen_quant_tt
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-1352:     [yes], unknown,      NA, 'Defected'  XP: []
-      Ik heb geen keuze.
+1210: [unknown], unknown,    open, 'Ter',29    XP: []
+      Hij is een formidabele tegenstander.
+      Hij is een formidabele krijger.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1353: [unknown], unknown,      NA, 'Defected'  XP: []
       Ik heb geen keuze en rechten.
+      Ik heb geen keuze.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
-1405:     [yes], unknown,      NA, 'Defected'  XP: []
-      Tom woont eigenlijk niet binnen de Boston stadsgrenzen.
-      Tom woont eigenlijk niet binnen de Boston grootstedelijke grenzen.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-1411:     [yes],     yes,  closed, 'Ter',6     XP: [int(loyaal)]
-      Ik heb niet genoeg vrienden.
-      Ik heb niet genoeg loyale vrienden.
-
-ERROR: sentence id=4554
+ERROR: sentence id=4331
 Failed to align term tokens and lexical annotations
-term tokes: [[[ging],[niet],[goed],[.]]]
-lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:gaan,lcat:sv1,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:ga,rel:hd,s:ga,t:ging},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:predc,s:goed,t:goed},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-1425: [unknown], unknown,    open, 'Ter',6     XP: []
-      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld en rellen.
-      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:luisteren,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:luister,rel:hd,s:'luister-naar',t:luister},j{l:zelden,lcat:ap,p:adj,postag:'BW()',pt:bw,r:zelden,rel:mod,s:zelden,t:zelden},j{l:naar,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:naar,rel:hd,s:naar,t:naar},j{l:muziek,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:muziek,rel:hd,s:muziek,t:muziek},j{l:thuis,lcat:advp,p:adv,postag:'BW()',pt:bw,r:thuis,rel:mod,s:thuis,t:thuis},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+Error in gen_quant_tt
+1472:     [yes], unknown,    open, 'Lim',402   XP: []
+      Dokters weigerden een tweede operatie uit te voeren.
+      Dokters weigerden een tweede maagoperatie uit te voeren.
+
+ERROR: sentence id=3964
+Failed to align term tokens and lexical annotations
+term tokes: [[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:drinken,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:drink,rel:hd,s:drink,t:drink},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:glas,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:glas,rel:hd,s:glas,t:glas},j{l:koud,lcat:ap,p:adj,postag:'ADJ(prenom,basis,met-e,stan)',pt:adj,r:koud,rel:mod,s:koud,t:koude},j{l:melk,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:melk,rel:hd,s:melk,t:melk},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:ieder,rel:det,s:ieder,t:iedere},j{l:ochtend,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:ochtend,rel:hd,s:ochtend,t:ochtend},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+1514: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Tom wilde geen oorlog voeren in canada.
+      Tom wilde geen oorlog voeren.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
-1450:     [yes], unknown,    open, 'Lim',404   XP: []
-      Ik wil geen volledig kunstgebit krijgen.
-      Ik wil geen volledig sterk kunstgebit krijgen.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-1468:     [yes], unknown,    open, 'Ter',83    XP: []
-      Ze is nooit verliefd geworden.
-      Ze is nooit fantastisch verliefd geworden.
-
-Error in gen_quant_tt
-1491: [unknown], unknown,    open, 'Ter',177   XP: []
-      Benzine is niet langer meer een goedkope autobrandstof.
-      Benzine is niet langer meer een goedkope brandstof.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-Inconsistency in node types (entail/8)
-1584:     [yes], unknown,      NA, 'Defected'  XP: _2236020
-      Ik kan geen rucola of andere bittere groenten uitstaan.
-      Ik kan geen bladgroenten of andere bittere groenten uitstaan.
+1570:     [yes], unknown,    open, 'Lim',423   XP: []
+      We verwachtten geen gasten.
+      We verwachtten geen aankomst van gasten.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -398,20 +405,6 @@ Error in gen_quant_tt
       Tom had geen opties over.
       Tom had geen opties of oplossingen over.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
-1680:     [yes], unknown,      NA, 'Defected'  XP: []
-      Mary zei dat ze geen jongens kiest voor hun uiterlijk.
-      Mary zei dat ze geen jongens en vrienden kiest voor hun uiterlijk.
-
-ERROR: sentence id=4331
-Failed to align term tokens and lexical annotations
-term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:luisteren,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:luister,rel:hd,s:'luister-naar',t:luister},j{l:zelden,lcat:ap,p:adj,postag:'BW()',pt:bw,r:zelden,rel:mod,s:zelden,t:zelden},j{l:naar,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:naar,rel:hd,s:naar,t:naar},j{l:muziek,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:muziek,rel:hd,s:muziek,t:muziek},j{l:thuis,lcat:advp,p:adv,postag:'BW()',pt:bw,r:thuis,rel:mod,s:thuis,t:thuis},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-1697:     [yes], unknown,      NA, 'Defected'  XP: []
-      Tom luister zelden naar muziek thuis.
-      Tom luistert zelden naar muziek in zijn nieuwe huis.
-
 ERROR: sentence id=4331
 Failed to align term tokens and lexical annotations
 term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
@@ -420,30 +413,22 @@ lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan
       Tom luistert zelden naar muziek in zijn nieuwe huis.
       Tom luister zelden naar muziek thuis.
 
-ERROR: sentence id=4331
-Failed to align term tokens and lexical annotations
-term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:luisteren,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:luister,rel:hd,s:'luister-naar',t:luister},j{l:zelden,lcat:ap,p:adj,postag:'BW()',pt:bw,r:zelden,rel:mod,s:zelden,t:zelden},j{l:naar,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:naar,rel:hd,s:naar,t:naar},j{l:muziek,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:muziek,rel:hd,s:muziek,t:muziek},j{l:thuis,lcat:advp,p:adv,postag:'BW()',pt:bw,r:thuis,rel:mod,s:thuis,t:thuis},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-1699:     [yes], unknown,      NA, 'Defected'  XP: []
-      Tom luister zelden naar muziek thuis.
-      Tom luistert zelden naar muziek in zijn huis.
+Error in gen_quant_tt
+Error in gen_quant_tt
+1727:     [yes], unknown,    open, 'Ter',23    XP: []
+      Tom genoot niet echt van Frans studeren.
+      Tom genoot niet echt van Frans studeren dat bestudeerd wordt door gevorderde leerlingen.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-1712:     [yes], unknown,    open, 'Ter',78    XP: []
-      Hij kan geen beslissing maken.
-      Hij kan geen beslissing maken die er toe doet.
+1740:     [yes], unknown,      NA, 'Defected'  XP: []
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen drugs en verdovende middelen.
 
 Error in gen_quant_tt
-1760:     [yes], unknown,    open, 'Ter',62    XP: []
-      Een paard eet geen komkommersalade.
-      Een paard eet geen groene komkommersalade.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-1798:     [yes], unknown,    open, 'Ter',6     XP: []
-      Engeland verwacht dat iedere man zijn plicht vervult.
-      Engeland verwacht dat iedere goede man zijn plicht vervult.
+1814:     [yes], unknown,    open, 'Lim',436   XP: []
+      Hij maakt geen geheim van zijn gevoelens.
+      Hij maakt geen groot geheim van zijn gevoelens.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -475,43 +460,43 @@ Error in gen_quant_tt
       Tom heeft niet genoeg ervaring.
       Tom heeft niet genoeg ervaring en opleiding.
 
+ERROR: sentence id=3964
+Failed to align term tokens and lexical annotations
+term tokes: [[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:drinken,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:drink,rel:hd,s:drink,t:drink},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:glas,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:glas,rel:hd,s:glas,t:glas},j{l:koud,lcat:ap,p:adj,postag:'ADJ(prenom,basis,met-e,stan)',pt:adj,r:koud,rel:mod,s:koud,t:koude},j{l:melk,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:melk,rel:hd,s:melk,t:melk},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:ieder,rel:det,s:ieder,t:iedere},j{l:ochtend,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:ochtend,rel:hd,s:ochtend,t:ochtend},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+1993:     [yes], unknown,    open, 'Ter',21    XP: []
+      Het is niet geschreven in Frans.
+      Het is niet geschreven in ingewikkeld Frans.
+
 Error in gen_quant_tt
 Error in gen_quant_tt
 2002:     [yes], unknown,      NA, 'Defected'  XP: []
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
       Als Esperanto een makkelijke taal was had ik geen proeflezer of vertaler nodig.
 
-ERROR: sentence id=4436
-Failed to align term tokens and lexical annotations
-term tokes: [[[geen],[bezoekers],[uit],[de],[VS],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:verwachten,lcat: --,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:verwachten,rel: --,s:verwachten,t:verwachte},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:bezoeker,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:bezoeker,rel:hd,s:bezoeker,t:bezoekers},j{l:uit,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:uit,rel:hd,s:uit,t:uit},j{l:de,lcat:detp,p:det,postag:'LID(bep,stan,rest)',pt:lid,r:de,rel:det,s:de,t:de},j{l:'VS',lcat:np,p:name,postag:'N(eigen,mv,basis)',pt:n,r:'VS',rel:hd,s:'VS',t:'VS'},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-2021:     [yes], unknown,    open, 'Ter',187   XP: []
-      Ik wil geen nieuwe vrienden maken!
-      Ik wil geen nieuwe vrienden maken die me afleiden van studeren!
-
 Error in gen_quant_tt
-2065:     [yes], unknown,      NA, 'Defected'  XP: []
-      Ik verspil geen munitie.
-      Ik verspil geen wapens en munitie.
+Error in gen_quant_tt
+2084:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik heb niet veel interesse in koken.
+      Ik heb niet veel interesse of aanmoedigen in koken.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-2171: [unknown], unknown,    open, 'Lim',414   XP: []
-      Wolven eten geen koolsla.
-      De wolven eten geen salade.
+2113:     [yes], unknown,    open, 'Ter',94    XP: []
+      Tom heeft geen vaste vriendin.
+      Tom heeft geen vaste knappe vriendin.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2156:     [yes], unknown,    open, 'Ter',55    XP: []
+      Iedere ongetrouwde man is een bruidegom voor het leven.
+      Iedere ongetrouwde man uit mijn dorp is een bruidegom voor het leven.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 2172:     [yes], unknown,      NA, 'Defected'  XP: []
       Wolven eten geen salade.
       Wolven eten geen salade en groenten.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-Inconsistency in node types (entail/8)
-2182:     [yes], unknown,      NA, 'Defected'  XP: _2358888
-      Ik krijg geen kop of staart van deze foto.
-      Ik krijg geen kop of staart van deze grote foto.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -527,17 +512,31 @@ Inconsistency in node types (entail/8)
       Ik krijg geen kop of staart van deze foto.
       Ik krijg geen kop of staart van dit schilderij geschilderd door picasso.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
-2185:     [yes], unknown,      NA, 'Defected'  XP: []
-      Ik eet geen kippenhuid.
-      Ik eet geen kippenhuid en -hoofd.
+ERROR: sentence id=2798
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[deuntje],[van],[het],[liedje]]]
+lexical annotation: [j{l:ik,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,1,ev)',pt:vnw,r:ik,rel:dp,s:ik,t:'Ik'},j{l:kunnen,lcat: --,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel: --,s:kan,t:kan},j{l:me,lcat: --,p:pron,postag:'VNW(pr,pron,obl,red,1,ev)',pt:vnw,r:me,rel: --,s:me,t:me},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:deun,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:deun_DIM,rel:hd,s:deun_DIM,t:deuntje},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:lied,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:lied_DIM,rel:hd,s:lied_DIM,t:liedje},j{l:dat,lcat: --,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel: --,s:dat,t:dat},j{l:hij,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,3,ev,masc)',pt:vnw,r:hij,rel:dp,s:hij,t:hij},j{l:ooit,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ooit,rel:dp,s:ooit,t:ooit},j{l:horen,lcat: --,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:hoor,rel: --,s:hoor,t:hoorde},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:dp,s:niet,t:niet},j{l:herinneren,lcat: --,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:herinner,rel: --,s:'zich-herinner',t:herinneren},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2214:     [yes],     yes,  closed, 'Ter',1     XP: [isa(baan,werk),isa(werk,baan)]
+      Tom kon geen baan vinden.
+      Tom kon geen werk vinden.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-2210:     [yes], unknown,    open, 'Ter',46    XP: []
-      Tom kon geen baan vinden.
-      Tom kon geen baan waar hij van houdt vinden.
+2244: [unknown], unknown,    open, 'Ter',20    XP: []
+      Ik heb niet genoeg opslagruimte om de grote tafel op te bergen.
+      Ik heb niet genoeg opslagruimte.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2276:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik spreek geen Frans thuis.
+      Ik spreek geen Frans en Engels thuis.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2279:     [yes], unknown,    open, 'Ter',37    XP: []
+      Ik moet nodig plassen en ik kan geen wasruimte vinden.
+      Ik moet nodig plassen en ik kan geen wasruimte in het kantoor vinden.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -547,16 +546,30 @@ Error in gen_quant_tt
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-2354: [unknown], unknown,    open, 'Ter',23    XP: []
-      Inoue houdt niet van apple computers.
-      Inoue houdt niet van computers.
+2311: [unknown], unknown,    open, 'Ter',226   XP: []
+      Jack kan zich geen nieuwe bergfiets veroorloven.
+      Jack kan zich geen nieuwe fiets veroorloven.
+
+ERROR: sentence id=4331
+Failed to align term tokens and lexical annotations
+term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:luisteren,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:luister,rel:hd,s:'luister-naar',t:luister},j{l:zelden,lcat:ap,p:adj,postag:'BW()',pt:bw,r:zelden,rel:mod,s:zelden,t:zelden},j{l:naar,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:naar,rel:hd,s:naar,t:naar},j{l:muziek,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:muziek,rel:hd,s:muziek,t:muziek},j{l:thuis,lcat:advp,p:adv,postag:'BW()',pt:bw,r:thuis,rel:mod,s:thuis,t:thuis},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2331:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom lijkt geen gevoel voor humor te hebben.
+      Tom lijkt geen gevoel voor humor te hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2384:     [yes], unknown,    open, 'Ter',14    XP: []
+      Ik hou niet van zomer.
+      Ik hou niet van zomerweer.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-2392:     [yes], unknown,      NA, 'Defected'  XP: _318228
+2392:     [yes], unknown,      NA, 'Defected'  XP: _3997130
       Iedere jongen en meisje is geleerd te lezen en schrijven.
       Iedere jongen en meisje in de klas is geleerd te lezen en schrijven.
 
@@ -571,13 +584,13 @@ Inconsistency in node types (entail/8)
 
 Error in gen_quant_tt
 Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
 Inconsistency in node types (entail/8)
 2394:     [yes], unknown,      NA, 'Defected'  XP: _5958846
       Iedere jongen en meisje is geleerd te lezen en schrijven.
       Iedere jongen en meisje in de school is geleerd te lezen en schrijven.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
@@ -587,15 +600,9 @@ Inconsistency in node types (entail/8)
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-2409:     [yes], unknown,    open, 'Ter',14    XP: []
-      Tom houdt niet van vis.
-      Tom houdt niet van riviervis.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-2435:     [yes], unknown,    open, 'Ter',60    XP: []
-      Hij bedekte zichzelf niet precies met glorie.
-      Hij bedekte zichzelf niet precies met glorie en applaus.
+2397:     [yes],     yes,  closed, 'Ter',1     XP: [isa(gedrocht,monster),isa(monster,gedrocht)]
+      Capitalisme hoeft geen monster te zijn.
+      Capitalisme hoeft geen gedrocht te zijn.
 
 ERROR: sentence id=2934
 Failed to align term tokens and lexical annotations
@@ -613,38 +620,55 @@ lexical annotation: [j{l:ik,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,1,ev)
       Ik stel gewoonlijk niet vaak vragen.
       Ik stel gewoonlijk geen vragen.
 
+Error in gen_quant_tt
+2523:     [yes], unknown,    open, 'Lim',402   XP: []
+      Wetenschappers hebben nog geen vaccin voor kanker gevonden.
+      Wetenschappers hebben nog geen vaccin voor dikkedarmkanker gevonden.
+
+Error in gen_quant_tt
+2543: [unknown],     yes,  closed, 'Ter',4     XP: [int(on_comfortabel)]
+      Ze draagt geen oncomfortabele strings.
+      Ze draagt geen strings.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2591: [unknown], unknown,      NA, 'Defected'  XP: []
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk en toetsen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2653:     [yes],     yes,  closed, 'Ter',12    XP: [int(oud)]
+      Tom wil niet in een appartement wonen.
+      Tom wil niet in een oud appartement wonen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2659:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom wilde geen poker of uno spelen.
+      Tom wilde geen poker spelen.
+
+ERROR: sentence id=2798
+Failed to align term tokens and lexical annotations
+term tokes: [[[het],[deuntje],[van],[het],[liedje]]]
+lexical annotation: [j{l:ik,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,1,ev)',pt:vnw,r:ik,rel:dp,s:ik,t:'Ik'},j{l:kunnen,lcat: --,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel: --,s:kan,t:kan},j{l:me,lcat: --,p:pron,postag:'VNW(pr,pron,obl,red,1,ev)',pt:vnw,r:me,rel: --,s:me,t:me},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:deun,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:deun_DIM,rel:hd,s:deun_DIM,t:deuntje},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:lied,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:lied_DIM,rel:hd,s:lied_DIM,t:liedje},j{l:dat,lcat: --,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel: --,s:dat,t:dat},j{l:hij,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,3,ev,masc)',pt:vnw,r:hij,rel:dp,s:hij,t:hij},j{l:ooit,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ooit,rel:dp,s:ooit,t:ooit},j{l:horen,lcat: --,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:hoor,rel: --,s:hoor,t:hoorde},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:dp,s:niet,t:niet},j{l:herinneren,lcat: --,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:herinner,rel: --,s:'zich-herinner',t:herinneren},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
+2661:     [yes], unknown,    open, 'Ter',12    XP: []
+      Ik kan me de melodie van dat liedje niet herinneren.
+      Ik kan me de melodie van die muziek niet herinneren.
+
 ERROR: sentence id=4331
 Failed to align term tokens and lexical annotations
 term tokes: [[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
 lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:luisteren,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:luister,rel:hd,s:'luister-naar',t:luister},j{l:zelden,lcat:ap,p:adj,postag:'BW()',pt:bw,r:zelden,rel:mod,s:zelden,t:zelden},j{l:naar,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:naar,rel:hd,s:naar,t:naar},j{l:muziek,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:muziek,rel:hd,s:muziek,t:muziek},j{l:thuis,lcat:advp,p:adv,postag:'BW()',pt:bw,r:thuis,rel:mod,s:thuis,t:thuis},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-2508:     [yes], unknown,    open, 'Ter',253   XP: []
-      Ken is nooit naar New York geweest.
-      Ken is nooit naar New York city museum geweest.
+2684:     [yes], unknown,    open, 'Ter',43    XP: []
+      Deze zin heeft geen auteurs.
+      Deze zin heeft geen rechtmatige auteurs.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-2511: [unknown], unknown,    open, 'Ter',130   XP: []
-      Ken is nooit naar New York centrum geweest.
-      Ken is nooit naar New York geweest.
-
-Error in gen_quant_tt
-2536: [unknown], unknown,    open, 'Ter',71    XP: []
-      Ze hadden geen alternatieve gasenergiebronnen.
-      Ze hadden geen alternatieve energiebronnen.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-2559:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik hoop dat je niet meteen resultaten verwacht.
-      Ik hoop dat je niet meteen antwoorden verwacht.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-Error in gen_quant_tt
-Error in gen_quant_tt
-2658: [unknown], unknown,      NA, 'Defected'  XP: []
-      Tom wilde geen poker spelen.
-      Tom wilde geen poker of uno spelen.
+2685:     [yes], unknown,      NA, 'Defected'  XP: []
+      Deze zin heeft geen auteurs.
+      Deze zin heeft geen schrijvers of auteurs.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -652,19 +676,23 @@ Error in gen_quant_tt
       Ik wil onnodige risico’s vermijden.
       Ik wil onnodige risico’s en ongeluk vermijden.
 
-ERROR: sentence id=4434
-Failed to align term tokens and lexical annotations
-term tokes: [[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:verwachten,lcat: --,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:verwachten,rel: --,s:verwachten,t:verwachte},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:bezoek,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:bezoek,rel:hd,s:bezoek,t:bezoeken},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:zijn,lcat:detp,p:det,postag:'VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)',pt:vnw,r:zijn,rel:det,s:zijn,t:zijn},j{l:neef,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:neef,rel:hd,s:neef,t:neven},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-2744: [unknown], unknown,    open, 'Ter',6     XP: []
-      Je spreekt geen vloeiend Engels.
-      Je spreekt geen Engels.
+Error in gen_quant_tt
+Error in gen_quant_tt
+2694:     [yes], unknown,    open, 'Ter',15    XP: []
+      Hij spreekt geen Japans thuis.
+      Hij spreekt geen Japans thuis na werk.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 2745: [unknown], unknown,      NA, 'Defected'  XP: []
       Je spreekt geen Engels.
       Je spreekt geen Engels en Japans.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2746:     [yes], unknown,      NA, 'Defected'  XP: []
+      Je spreekt geen Engels en Japans.
+      Je spreekt geen Engels.
 
 ERROR: sentence id=2833
 Failed to align term tokens and lexical annotations
@@ -675,38 +703,10 @@ lexical annotation: [j{l:ik,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,1,ev)
       Ik kan verre van Engels spreken.
 
 Error in gen_quant_tt
-2769:     [yes], unknown,    open, 'Ter',55    XP: []
-      Ieder schip heeft een anker nodig.
-      Ieder lang schip heeft een anker nodig.
-
-Error in gen_quant_tt
-2778: [unknown], unknown,    open, 'Ter',39    XP: []
-      Je kunt een wilde wolf niet temmen.
-      Je kunt een wolf niet temmen.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-2809:     [yes], unknown,    open, 'Ter',39    XP: []
-      Het gebouw heeft geen nooduitgang.
-      Het gebouw heeft geen nooduitgang voor noodredding.
-
-Error in gen_quant_tt
 Error in gen_quant_tt
 2818:     [yes], unknown,      NA, 'Defected'  XP: []
       Als ik een buitenlander was, zou ik waarschijnlijk geen rauwe vis kunnen eten.
       Als ik een buitenlander was, zou ik waarschijnlijk geen rauwe vis of vlees kunnen eten.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-2873:     [yes], unknown,    open, 'Ter',39    XP: []
-      Hij zou geen compromis accepteren.
-      Hij zou geen uitverkoopcompromis accepteren.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-2883:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik hoop dat hij geen ongeluk heeft gehad.
-      Ik hoop dat hij geen noodongeluk heeft gehad.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -719,12 +719,6 @@ Error in gen_quant_tt
 2955:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom zei dat hij geen vriendin wil.
       Tom zei dat hij geen vriendin en vriend wil.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-2973:     [yes], unknown,    open, 'Ter',55    XP: []
-      Ik zie geen samenzwering daar.
-      Ik zie geen absurde samenzweringen daar.
 
 ERROR: sentence id=4437
 Failed to align term tokens and lexical annotations
@@ -739,6 +733,10 @@ Inconsistency in node types (entail/8)
       Tom verwachte geen bezoekers.
       Tom verwachte geen bezoekers uit de VS.
 
+ERROR: sentence id=4436
+Failed to align term tokens and lexical annotations
+term tokes: [[[geen],[bezoekers],[uit],[de],[VS],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:verwachten,lcat: --,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:verwachten,rel: --,s:verwachten,t:verwachte},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:bezoeker,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:bezoeker,rel:hd,s:bezoeker,t:bezoekers},j{l:uit,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:uit,rel:hd,s:uit,t:uit},j{l:de,lcat:detp,p:det,postag:'LID(bep,stan,rest)',pt:lid,r:de,rel:det,s:de,t:de},j{l:'VS',lcat:np,p:name,postag:'N(eigen,mv,basis)',pt:n,r:'VS',rel:hd,s:'VS',t:'VS'},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 ERROR: sentence id=4437
 Failed to align term tokens and lexical annotations
 term tokes: [[[geen],[bezoekers],[.]]]
@@ -748,6 +746,10 @@ Inconsistency in node types (entail/8)
       Tom verwachte geen bezoekers uit de VS.
       Tom verwachte geen bezoekers.
 
+ERROR: sentence id=4435
+Failed to align term tokens and lexical annotations
+term tokes: [[[geen],[bezoeken],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:verwachten,lcat: --,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:verwachten,rel: --,s:verwachten,t:verwachte},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:bezoek,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:bezoek,rel:hd,s:bezoek,t:bezoeken},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 ERROR: sentence id=4434
 Failed to align term tokens and lexical annotations
 term tokes: [[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
@@ -757,6 +759,10 @@ Inconsistency in node types (entail/8)
       Tom verwachte geen bezoeken.
       Tom verwachte geen bezoeken van zijn neven.
 
+ERROR: sentence id=4434
+Failed to align term tokens and lexical annotations
+term tokes: [[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
+lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:verwachten,lcat: --,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:verwachten,rel: --,s:verwachten,t:verwachte},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:bezoek,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:bezoek,rel:hd,s:bezoek,t:bezoeken},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:zijn,lcat:detp,p:det,postag:'VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)',pt:vnw,r:zijn,rel:det,s:zijn,t:zijn},j{l:neef,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:neef,rel:hd,s:neef,t:neven},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 ERROR: sentence id=4435
 Failed to align term tokens and lexical annotations
 term tokes: [[[geen],[bezoeken],[.]]]
@@ -773,10 +779,10 @@ Error in gen_quant_tt
       Hij had geen vrienden of familieleden om hem te helpen.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
-3032:     [yes], unknown,      NA, 'Defected'  XP: []
-      Hij had geen vrienden of familieleden om hem te helpen.
-      Hij had geen vrienden om hem te helpen.
+Inconsistency in node types (entail/8)
+3064: [unknown], unknown,      NA, 'Defected'  XP: _2434404
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de zomer.
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -796,28 +802,18 @@ Error in gen_quant_tt
       Er is geen wetenschappelijke basis voor deze beweringen.
       Er is geen wetenschappelijke en mensheid basis voor deze beweringen.
 
-ERROR: sentence id=2798
-Failed to align term tokens and lexical annotations
-term tokes: [[[het],[deuntje],[van],[het],[liedje]]]
-lexical annotation: [j{l:ik,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,1,ev)',pt:vnw,r:ik,rel:dp,s:ik,t:'Ik'},j{l:kunnen,lcat: --,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel: --,s:kan,t:kan},j{l:me,lcat: --,p:pron,postag:'VNW(pr,pron,obl,red,1,ev)',pt:vnw,r:me,rel: --,s:me,t:me},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:deun,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:deun_DIM,rel:hd,s:deun_DIM,t:deuntje},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:lied,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:lied_DIM,rel:hd,s:lied_DIM,t:liedje},j{l:dat,lcat: --,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel: --,s:dat,t:dat},j{l:hij,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,3,ev,masc)',pt:vnw,r:hij,rel:dp,s:hij,t:hij},j{l:ooit,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ooit,rel:dp,s:ooit,t:ooit},j{l:horen,lcat: --,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:hoor,rel: --,s:hoor,t:hoorde},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:dp,s:niet,t:niet},j{l:herinneren,lcat: --,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:herinner,rel: --,s:'zich-herinner',t:herinneren},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-3263:     [yes], unknown,      NA, 'Defected'  XP: []
-      Ik kan me het deuntje van het liedje niet herinneren.
-      Ik kan me het deuntje van het liedje dat hij ooit hoorde niet herinneren.
-
-ERROR: sentence id=2798
-Failed to align term tokens and lexical annotations
-term tokes: [[[het],[deuntje],[van],[het],[liedje]]]
-lexical annotation: [j{l:ik,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,1,ev)',pt:vnw,r:ik,rel:dp,s:ik,t:'Ik'},j{l:kunnen,lcat: --,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:kan,rel: --,s:kan,t:kan},j{l:me,lcat: --,p:pron,postag:'VNW(pr,pron,obl,red,1,ev)',pt:vnw,r:me,rel: --,s:me,t:me},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:deun,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:deun_DIM,rel:hd,s:deun_DIM,t:deuntje},j{l:van,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:van,rel:hd,s:van,t:van},j{l:het,lcat:detp,p:det,postag:'LID(bep,stan,evon)',pt:lid,r:het,rel:det,s:het,t:het},j{l:lied,lcat:np,p:noun,postag:'N(soort,ev,dim,onz,stan)',pt:n,r:lied_DIM,rel:hd,s:lied_DIM,t:liedje},j{l:dat,lcat: --,p:comp,postag:'VG(onder)',pt:vg,r:dat,rel: --,s:dat,t:dat},j{l:hij,lcat:np,p:pron,postag:'VNW(pers,pron,nomin,vol,3,ev,masc)',pt:vnw,r:hij,rel:dp,s:hij,t:hij},j{l:ooit,lcat:advp,p:adv,postag:'BW()',pt:bw,r:ooit,rel:dp,s:ooit,t:ooit},j{l:horen,lcat: --,p:verb,postag:'WW(pv,verl,ev)',pt:ww,r:hoor,rel: --,s:hoor,t:hoorde},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:dp,s:niet,t:niet},j{l:herinneren,lcat: --,p:verb,postag:'WW(inf,vrij,zonder)',pt:ww,r:herinner,rel: --,s:'zich-herinner',t:herinneren},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-3264: [unknown], unknown,      NA, 'Defected'  XP: []
-      Ik kan me het deuntje van het liedje dat hij ooit hoorde niet herinneren.
-      Ik kan me het deuntje van het liedje niet herinneren.
+Error in gen_quant_tt
+Error in gen_quant_tt
+3254:     [yes], unknown,    open, 'Lim',415   XP: []
+      Als Esperanto een makkelijke taal was, had ik geen proeflezer nodig.
+      Als Esperanto een makkelijke vertaler was, had ik geen proeflezer nodig
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3327:     [yes], unknown,      NA, 'Defected'  XP: _4175788
+3327:     [yes], unknown,      NA, 'Defected'  XP: _3902476
       Tom eet geen vlees of eieren.
       Tom eet geen vlees of gebakken eieren.
 
@@ -867,28 +863,10 @@ Inconsistency in node types (entail/8)
       Tom eet geen vlees of eieren.
 
 Error in gen_quant_tt
+Error in gen_quant_tt
 3340:     [yes], unknown,      NA, 'Defected'  XP: []
       Je moet de zaak beoordelen zonder enig vooroordeel.
       Je moet de zaak beoordelen zonder enig vooroordeel en vulgair taalgebruik.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-3422:     [yes], unknown,    open, 'Lim',415   XP: []
-      Duitsland heeft geen minimumloon.
-      Duitsland heeft geen minimum vereist loon.
-
-ERROR: sentence id=4435
-Failed to align term tokens and lexical annotations
-term tokes: [[[geen],[bezoeken],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:verwachten,lcat: --,p:adj,postag:'WW(vd,prenom,met-e)',pt:ww,r:verwachten,rel: --,s:verwachten,t:verwachte},j{l:geen,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,zonder,agr)',pt:vnw,r:geen,rel:det,s:geen,t:geen},j{l:bezoek,lcat:np,p:noun,postag:'N(soort,mv,basis)',pt:n,r:bezoek,rel:hd,s:bezoek,t:bezoeken},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
-3423: [unknown], unknown,    open, 'Ter',53    XP: []
-      Duitsland heeft geen minimum vereist loon.
-      Duitsland heeft geen minimumloon.
-
-Error in gen_quant_tt
-3495:     [yes], unknown,    open, 'Ter',8     XP: []
-      Ik kan geen Japans spreken.
-      Ik kan niet goed Japans spreken.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -910,28 +888,10 @@ Error in gen_quant_tt
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-3613:     [yes],     yes,  closed, 'Ter',8     XP: []
-      Ik kan niet Tom thuis bellen.
-      Ik kan niet Tom bij mij thuis bellen.
+3619:     [yes],     yes,  closed, 'Ter',12    XP: [int(vaag)]
+      Ik kan die uitleg niet accepteren.
+      Ik kan die vage uitleg niet accepteren.
 
-Error in gen_quant_tt
-3640:     [yes], unknown,    open, 'Lim',437   XP: []
-      Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
-      Uitzonderlijke dingen gebeuren nooit op simpele en gewone normale manieren.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-3702:     [yes], unknown,      NA, 'Defected'  XP: []
-      Iedere student was om zijn of haar naam en geboorteplaats gevraagd.
-      Iedere vrouwelijke student was om zijn of haar naam gevraagd.
-
-Error in gen_quant_tt
-Error in gen_quant_tt
-3703: [unknown], unknown,      NA, 'Defected'  XP: []
-      Iedere vrouwelijke student was om zijn of haar naam gevraagd.
-      Iedere student was om zijn of haar naam en geboorteplaats gevraagd.
-
-Error in gen_quant_tt
 Error in gen_quant_tt
 3748:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom had niet genoeg kracht om de la te openen.
@@ -975,9 +935,9 @@ Error in gen_quant_tt
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-3810:     [yes], unknown,    open, 'Ter',277   XP: []
-      Je kan beter discussie over religie en politiek vermijden.
-      Je kan beter discussie over verschillende religies en politiek vermijden.
+3850:     [yes], unknown,    open, 'Ter',265   XP: []
+      Ik heb nog nooit golf gespeeld.
+      Ik heb nog nooit professioneel golf gespeeld.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -986,17 +946,29 @@ Error in gen_quant_tt
       Ze heeft geen recht en authoriteit om dit te doen.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
-3884:     [yes], unknown,      NA, 'Defected'  XP: []
+3879:     [yes], unknown,    open, 'Ter',67    XP: []
       Voorlopig heb ik geen plan.
-      Voorlopig heb ik geen plan of project gaande.
+      Voorlopig heb ik geen ideaal plan.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3897:     [yes], unknown,      NA, 'Defected'  XP: _2632070
+3896:     [yes], unknown,      NA, 'Defected'  XP: _2409584
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen groene thee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3897:     [yes], unknown,      NA, 'Defected'  XP: _2251850
       Het is geen thee maar koffie dat ik wil.
       Het is geen kruidenthee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3898:     [yes], unknown,      NA, 'Defected'  XP: []
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen kop thee maar koffie dat ik wil.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
@@ -1007,9 +979,15 @@ Inconsistency in node types (entail/8)
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-3981: [unknown], unknown,    open, 'Lim',404   XP: []
-      Ik zal voor niemand tweede vreemde viool spelen.
-      Ik zal voor niemand tweede viool spelen.
+3930:     [yes], unknown,      NA, 'Defected'  XP: []
+      Het was geen toestemming.
+      Het was geen toestemming of toestemming.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+4030:     [yes], unknown,    open, 'Ter',46    XP: []
+      Geen wezen kan leven zonder lucht.
+      Geen levend wezen zoals ik weet kan leven zonder lucht.
 
 Error in gen_quant_tt
 4035:     [yes], unknown,      NA, 'Defected'  XP: []
@@ -1030,7 +1008,18 @@ Error in gen_quant_tt
 
 Error in gen_quant_tt
 Error in gen_quant_tt
+4151:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom heeft geen kredietkaart of bankrekening.
+      Tom heeft geen kredietkaart of vs bankrekening.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
 4154:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik kan helemaal geen Duits spreken.
       Ik kan geen Duits en Italiaans spreken.
+
+Error in gen_quant_tt
+4160:     [yes], unknown,    open, 'Ter',9     XP: []
+      Ik kan helemaal geen Duits spreken.
+      Ik kan helemaal geen Duits spreken zoals Tom.
 

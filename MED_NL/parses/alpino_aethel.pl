@@ -4878,7 +4878,7 @@ sen_id_tlg_tok(1029,
 ).
 
 sen_id_tlg_tok(1030,
-((t(0,(smain) ~> (smain))) @ (((((t(1,(adjp) ~> ((vnw) ~> (smain)))) @ (((((t(4,(adjp) ~> ((adjp) ~> (adjp)))) @ (((t(5,(adjp) ~> (adjp))) @ (t(6,adjp)))))) @ (t(3,adjp)))))) @ (t(2,vnw))))),
+((t(0,(smain) ~> (smain))) @ (((((t(1,(adj) ~> ((vnw) ~> (smain)))) @ (((((t(4,(adj) ~> ((adj) ~> (adj)))) @ (((t(5,(adj) ~> (adj))) @ (t(6,adj)))))) @ (t(3,adj)))))) @ (t(2,vnw))))),
 [['Er'], ['is'], ['niets'], ['uitzonderlijk'], ['of'], ['sexueel'], ['aan'], ['.']]
 ).
 
@@ -9463,7 +9463,7 @@ sen_id_tlg_tok(1982,
 ).
 
 sen_id_tlg_tok(1983,
-((((((t(1,(adj) ~> ((np) ~> ((vnw) ~> (smain))))) @ (((((t(7,(adj) ~> ((adj) ~> (adj)))) @ (((t(8,(adj) ~> (adj))) @ (t(9,adj)))))) @ (t(5,adj)))))) @ (((((t(2,((np) ~> (np)) ~> ((np) ~> (np)))) @ (t(3,(np) ~> (np))))) @ (t(4,np)))))) @ (t(0,vnw))),
+((((((t(1,(adjp) ~> ((np) ~> ((vnw) ~> (smain))))) @ (((((t(7,(adjp) ~> ((adjp) ~> (adjp)))) @ (((t(8,(adjp) ~> (adjp))) @ (t(9,adjp)))))) @ (t(5,adjp)))))) @ (((((t(2,((np) ~> (np)) ~> ((np) ~> (np)))) @ (t(3,(np) ~> (np))))) @ (t(4,np)))))) @ (t(0,vnw))),
 [['Hij'], ['vindt'], ['niet'], ['alleen'], ['muziek'], ['leuk'], [','], ['maar'], ['ook'], ['politiek'], ['.']]
 ).
 
@@ -10243,12 +10243,12 @@ sen_id_tlg_tok(2209,
 ).
 
 sen_id_tlg_tok(2210,
-((((((t(3,((np) ~> (ssub)) ~> (((np) ~> (ssub)) ~> ((np) ~> (ssub))))) @ (t(4,(np) ~> (ssub))))) @ (t(2,(np) ~> (ssub))))) @ (((t(0,(np) ~> (np))) @ (t(1,np))))),
+((((((t(3,((np) ~> (smain)) ~> (((np) ~> (smain)) ~> ((np) ~> (smain))))) @ (t(4,(np) ~> (smain))))) @ (t(2,(np) ~> (smain))))) @ (((t(0,(np) ~> (np))) @ (t(1,np))))),
 [['Iedere'], ['man'], ['zong'], ['en'], ['danste'], ['.']]
 ).
 
 sen_id_tlg_tok(2211,
-((((((t(3,((np) ~> (ssub)) ~> (((np) ~> (ssub)) ~> ((np) ~> (ssub))))) @ (t(4,(np) ~> (ssub))))) @ (t(2,(np) ~> (ssub))))) @ (((t(0,(np) ~> (np))) @ (t(1,np))))),
+((((((t(3,((np) ~> (smain)) ~> (((np) ~> (smain)) ~> ((np) ~> (smain))))) @ (t(4,(np) ~> (smain))))) @ (t(2,(np) ~> (smain))))) @ (((t(0,(np) ~> (np))) @ (t(1,np))))),
 [['Iedere'], ['man'], ['zong'], ['of'], ['danste'], ['.']]
 ).
 
@@ -18043,7 +18043,7 @@ sen_id_tlg_tok(3812,
 ).
 
 sen_id_tlg_tok(3813,
-((((((t(4,((np) ~> (ssub)) ~> (((np) ~> (ssub)) ~> ((np) ~> (ssub))))) @ (t(5,(np) ~> (ssub))))) @ (t(3,(np) ~> (ssub))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
+((((((t(4,((np) ~> (smain)) ~> (((np) ~> (smain)) ~> ((np) ~> (smain))))) @ (t(5,(np) ~> (smain))))) @ (t(3,(np) ~> (smain))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
 [['Precies'], ['een'], ['man'], ['zong'], ['of'], ['danste'], ['.']]
 ).
 
@@ -18518,12 +18518,12 @@ sen_id_tlg_tok(3913,
 ).
 
 sen_id_tlg_tok(3914,
-((((((t(4,((np) ~> (ssub)) ~> (((np) ~> (ssub)) ~> ((np) ~> (ssub))))) @ (t(5,(np) ~> (ssub))))) @ (t(3,(np) ~> (ssub))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
+((((((t(4,((np) ~> (smain)) ~> (((np) ~> (smain)) ~> ((np) ~> (smain))))) @ (t(5,(np) ~> (smain))))) @ (t(3,(np) ~> (smain))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
 [['Ten', 'minste'], ['een'], ['man'], ['zong'], ['en'], ['danste'], ['.']]
 ).
 
 sen_id_tlg_tok(3915,
-((((((t(4,((np) ~> (ssub)) ~> (((np) ~> (ssub)) ~> ((np) ~> (ssub))))) @ (t(5,(np) ~> (ssub))))) @ (t(3,(np) ~> (ssub))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
+((((((t(4,((np) ~> (smain)) ~> (((np) ~> (smain)) ~> ((np) ~> (smain))))) @ (t(5,(np) ~> (smain))))) @ (t(3,(np) ~> (smain))))) @ (((t(0,(np) ~> (np))) @ (((t(1,(n) ~> (np))) @ (t(2,n))))))),
 [['Ten', 'minste'], ['een'], ['man'], ['zong'], ['of'], ['danste'], ['.']]
 ).
 
