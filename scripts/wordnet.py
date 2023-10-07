@@ -41,7 +41,7 @@ if __name__ == "__main__":
             wn_s_dict[dict_key] = dict_str
         else:
             # if multiple found, append string
-            wn_s_dict[dict_key] = f"{dict_str} ({str(dict_key)})"
+            wn_s_dict[dict_key] += f"; {dict_str}"
 
     wn_s_file.close()
 
