@@ -253,7 +253,7 @@ if __name__ == "__main__":
     broken_alpino_p = f"{args.output_path}/alpino_text_missing_prob.txt"
     broken_alpino_s = f"{args.output_path}/alpino_text_missing_sen.txt"
     missing_num: list[int] = get_missing_text(args.alpino_path, args.raw_sp, broken_alpino_p, args.verbose)
-    problem_to_sent(missing_num, args.sen_pl, broken_alpino_s, args.verbose)
+    sent_to_problem(missing_num, args.sen_pl, broken_alpino_s, args.verbose)
 
     # sen_pl
     broken_sent_p = f"{args.output_path}/sen_pl_prob.txt"

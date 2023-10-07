@@ -1,20 +1,20 @@
 Inconsistency in node types (entail/8)
-338: [unknown], unknown,      NA, 'Defected'  XP: _5224264
+338: [unknown], unknown,      NA, 'Defected'  XP: _2991348
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste mannen het liefst naar rock muziek luisteren.
 
 Inconsistency in node types (entail/8)
-339: [unknown], unknown,      NA, 'Defected'  XP: _6180666
+339: [unknown], unknown,      NA, 'Defected'  XP: _3630162
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste verslaafden het liefst naar rock muziek luisteren.
 
 Inconsistency in node types (entail/8)
-1001: [unknown], unknown,      NA, 'Defected'  XP: _3625542
+1001: [unknown], unknown,      NA, 'Defected'  XP: _5793620
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
 
 Inconsistency in node types (entail/8)
-1002:     [yes], unknown,      NA, 'Defected'  XP: _3514
+1002:     [yes], unknown,      NA, 'Defected'  XP: _6136222
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
 

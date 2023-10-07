@@ -70,13 +70,11 @@
       Een meid is gemaakt om je huis schoon te maken.
       Een kind is gemaakt om jouw huis schoon te maken.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 802: [unknown],     yes,  closed, 'Ter',1     XP: []
+802: [unknown],     yes,  closed, 'Ter',1     XP: []
       Mijn opa kan niet lopen zonder een stok.
       Mijn opa kan niet lopen zonder een stok.
 
-812: [unknown],     yes,  closed, 'Ter',17    XP: [int(a_few),int(who@abst(_136148,vertellen@mij@_136148@'Tom')),isa(over@c1@ding,ding)]
+812: [unknown],     yes,  closed, 'Ter',17    XP: [int(a_few),int(who@abst(_5516766,vertellen@mij@_5516766@'Tom')),isa(over@c1@ding,ding)]
       Een paar dingen die Tom mij vertelde zijn niet waar.
       Een paar dingen over mijn vrouw die Tom mij vertelde zijn niet waar.
 
@@ -96,11 +94,7 @@ Error in gen_quant_tt
       Er zijn een paar tassen in de kamer.
       Er zijn een paar rugzakken in de kamer.
 
-ERROR: sentence id=4558
-Failed to align term tokens and lexical annotations
-term tokes: [[[is],[niet],[goed],[voor],[mij],[.]]]
-lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,rel:dp,s:vandaag,t:'Vandaag'},j{l:zijn,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:ben,rel:hd,s:ben,t:is},j{l:niet,lcat:advp,p:adv,postag:'BW()',pt:bw,r:niet,rel:mod,s:niet,t:niet},j{l:goed,lcat:ap,p:adj,postag:'ADJ(vrij,basis,zonder)',pt:adj,r:goed,rel:hd,s:'goed-voor',t:goed},j{l:voor,lcat:pp,p:prep,postag:'VZ(init)',pt:vz,r:voor,rel:hd,s:voor,t:voor},j{l:mij,lcat:np,p:pron,postag:'VNW(pr,pron,obl,vol,1,ev)',pt:vnw,r:mij,rel:obj1,s:mij,t:mij},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
- 985: [unknown],     yes,  closed, 'Ter',14    XP: []
+985: [unknown],     yes,  closed, 'Ter',14    XP: []
       Hij deed niets anders dan huilen.
       Hij deed gisteren niets anders dan huilen.
 
@@ -200,7 +194,7 @@ lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,r
       Tom heeft geen mooie zus met rood haar.
       Tom heeft geen zus.
 
-1359: [unknown],     yes,  closed, 'Ter',4     XP: [int(blauw_kleurig)]
+1359: [unknown],     yes,  closed, 'Ter',4     XP: [int(blauw kleurig)]
       Chris had geen blauwkleurige auto.
       Chris had geen auto.
 
@@ -288,10 +282,6 @@ lexical annotation: [j{l:vandaag,lcat:advp,p:adv,postag:'BW()',pt:bw,r:vandaag,r
       Hij toont geen enkele interesse in nieuwe wetenschap.
       Hij toont geen enkele interesse in wetenschap.
 
-ERROR: sentence id=3964
-Failed to align term tokens and lexical annotations
-term tokes: [[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
-lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan)',pt:n,r:'Tom',rel:dp,s:'Tom',t:'Tom'},j{l:drinken,lcat:sv1,p:verb,postag:'WW(pv,tgw,ev)',pt:ww,r:drink,rel:hd,s:drink,t:drink},j{l:een,lcat:detp,p:det,postag:'LID(onbep,stan,agr)',pt:lid,r:een,rel:det,s:een,t:een},j{l:glas,lcat:np,p:noun,postag:'N(soort,ev,basis,onz,stan)',pt:n,r:glas,rel:hd,s:glas,t:glas},j{l:koud,lcat:ap,p:adj,postag:'ADJ(prenom,basis,met-e,stan)',pt:adj,r:koud,rel:mod,s:koud,t:koude},j{l:melk,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:melk,rel:hd,s:melk,t:melk},j{l:ieder,lcat:detp,p:det,postag:'VNW(onbep,det,stan,prenom,met-e,evz)',pt:vnw,r:ieder,rel:det,s:ieder,t:iedere},j{l:ochtend,lcat:np,p:noun,postag:'N(soort,ev,basis,zijd,stan)',pt:n,r:ochtend,rel:hd,s:ochtend,t:ochtend},j{l:'.',lcat: --,p:punct,postag:'LET()',pt:let,r:'.',rel: --,s:'.',t:'.'}]
 1514: [unknown],     yes,  closed, 'Ter',6     XP: []
       Tom wilde geen oorlog voeren in canada.
       Tom wilde geen oorlog voeren.
@@ -580,7 +570,7 @@ lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan
       Ik heb nog nooit eerder een blonde vriendin gehad.
       Ik heb nog nooit eerder een vriendin gehad.
 
-1953: [unknown],     yes,  closed, 'Ter',21    XP: [int(geel_harig)]
+1953: [unknown],     yes,  closed, 'Ter',21    XP: [int(geel harig)]
       Ik heb nog nooit eerder een geelharige vriendin gehad.
       Ik heb nog nooit eerder een vriendin gehad.
 
@@ -716,15 +706,15 @@ lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan
       We hebben geen geheimen die we willen delen.
       We hebben geen geheimen.
 
-2155: [unknown],     yes,  closed, 'Ter',25    XP: [int(ieder),int(on_trouwen),int(volwassen)]
+2155: [unknown],     yes,  closed, 'Ter',25    XP: [int(ieder),int(on trouwen),int(volwassen)]
       Iedere ongetrouwde volwassen man is een bruidegom voor het leven.
       Iedere ongetrouwde man is een bruidegom voor het leven.
 
-2157: [unknown],     yes,  closed, 'Ter',49    XP: [int(ieder),int(on_trouwen),isa(uit@c1@man,man),isa(uit@c1@(ieder@(on_trouwen@man)),ieder@(on_trouwen@man))]
+2157: [unknown],     yes,  closed, 'Ter',49    XP: [int(ieder),int(on trouwen),isa(uit@c1@man,man),isa(uit@c1@(ieder@(on trouwen@man)),ieder@(on trouwen@man))]
       Iedere ongetrouwde man uit mijn dorp is een bruidegom voor het leven.
       Iedere ongetrouwde man is een bruidegom voor het leven.
 
-2159: [unknown],     yes,  closed, 'Ter',49    XP: [int(ieder),int(on_trouwen),isa(uit@c1@man,man),isa(uit@c1@(ieder@(on_trouwen@man)),ieder@(on_trouwen@man))]
+2159: [unknown],     yes,  closed, 'Ter',49    XP: [int(ieder),int(on trouwen),isa(uit@c1@man,man),isa(uit@c1@(ieder@(on trouwen@man)),ieder@(on trouwen@man))]
       Iedere ongetrouwde man uit mijn stad is een bruidegom voor het leven.
       Iedere ongetrouwde man is een bruidegom voor het leven.
 
@@ -808,7 +798,7 @@ lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan
       Mensen kunnen leven zonder mannelijke vrienden.
       Mensen kunnen leven zonder vrienden.
 
-2283: [unknown],     yes,  closed, 'Ter',13    XP: [int(bloot_stellen)]
+2283: [unknown],     yes,  closed, 'Ter',13    XP: [int(bloot stellen)]
       Als je een blootgestelde draad aanraakt, zul je een schok krijgen.
       Als je een draad aanraakt, zul je een schok krijgen.
 
@@ -932,7 +922,7 @@ lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan
       Tom had geen vers water om te drinken.
       Tom had geen water om te drinken.
 
-2488: [unknown],     yes,  closed, 'Ter',10    XP: [int(in_discreet)]
+2488: [unknown],     yes,  closed, 'Ter',10    XP: [int(in discreet)]
       Ik stel gewoonlijk geen indiscrete vragen.
       Ik stel gewoonlijk geen vragen.
 
@@ -964,8 +954,7 @@ lexical annotation: [j{l:'Tom',lcat:np,p:name,postag:'N(eigen,ev,basis,zijd,stan
       Ze draagt geen kleine strings.
       Ze draagt geen strings.
 
-Error in gen_quant_tt
-2543: [unknown],     yes,  closed, 'Ter',4     XP: [int(on_comfortabel)]
+2543: [unknown],     yes,  closed, 'Ter',4     XP: [int(on comfortabel)]
       Ze draagt geen oncomfortabele strings.
       Ze draagt geen strings.
 
@@ -973,6 +962,9 @@ Error in gen_quant_tt
       Ik heb nog nooit geprobeerd een wetenschappelijk boek te vertalen.
       Ik heb nog nooit geprobeerd een boek te vertalen.
 
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
 2547: [unknown],     yes,  closed, 'Ter',26    XP: [isa(met@c7@boek,boek),isa(zo@veel@bladzijde,bladzijde)]
       Ik heb nog nooit geprobeerd een boek met zo veel bladzijdes te vertalen.
       Ik heb nog nooit geprobeerd een boek te vertalen.
@@ -1057,11 +1049,11 @@ Error in gen_quant_tt
       Ik eet geen rijpe appelklokhuizen.
       Ik eet geen appelklokhuizen.
 
-2701: [unknown],     yes,  closed, 'Ter',6     XP: [int(rood),isa(of@(groen@no@appel_klokhuis)@(rood@no@appel_klokhuis),rood@no@appel_klokhuis)]
+2701: [unknown],     yes,  closed, 'Ter',6     XP: [int(rood),isa(of@(groen@no@'appel klokhuis')@(rood@no@'appel klokhuis'),rood@no@'appel klokhuis')]
       Ik eet geen rode of groene appelklokhuizen.
       Ik eet geen appelklokhuizen.
 
-2721: [unknown],     yes,  closed, 'Ter',6     XP: [isa(van@c1@no@centi_meter,no@centi_meter)]
+2721: [unknown],     yes,  closed, 'Ter',6     XP: [isa(van@c1@no@'centi meter',no@'centi meter')]
       Tom verplaatste geen centimeter van zijn huis.
       Tom verplaatste geen centimeter.
 
@@ -1077,7 +1069,7 @@ Error in gen_quant_tt
       Ik heb geen slechte mobiele telefoon.
       Ik heb geen mobiele telefoon.
 
-2750: [unknown],     yes,  closed, 'Ter',6     XP: [isa(in@c1@no@krediet_kaart,no@krediet_kaart)]
+2750: [unknown],     yes,  closed, 'Ter',6     XP: [isa(in@c1@no@'krediet kaart',no@'krediet kaart')]
       Tom heeft geen kredietkaart in de V.S.
       Tom heeft geen kredietkaart.
 
@@ -1325,19 +1317,19 @@ Error in gen_quant_tt
       Veel mensen in Fiji hebben geen toegang tot schoon koud drinkwater.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
-3054: [unknown],     yes,  closed, 'Ter',11    XP: [int(basaal),int(no),int(tot@(a@(schoon@drink_water)))]
+3054: [unknown],     yes,  closed, 'Ter',11    XP: [int(basaal),int(no),int(tot@(a@(schoon@'drink water')))]
       Veel mensen in Fiji hebben geen basale toegang tot schoon drinkwater.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
-3056: [unknown],     yes,  closed, 'Ter',21    XP: [int(comfortabel),int(tot@(a@(schoon@drink_water))),isa(helemaal@no@toegang,toegang),isa(helemaal@no@(comfortabel@toegang),comfortabel@toegang)]
+3056: [unknown],     yes,  closed, 'Ter',21    XP: [int(comfortabel),int(tot@(a@(schoon@'drink water'))),isa(helemaal@no@toegang,toegang),isa(helemaal@no@(comfortabel@toegang),comfortabel@toegang)]
       Veel mensen in Fiji hebben helemaal geen comfortabele toegang tot schoon drinkwater.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
-3058: [unknown],     yes,  closed, 'Ter',11    XP: [int(no),int(simpel),int(tot@(a@(schoon@drink_water)))]
+3058: [unknown],     yes,  closed, 'Ter',11    XP: [int(no),int(simpel),int(tot@(a@(schoon@'drink water')))]
       Veel mensen in Fiji hebben geen simpele toegang tot schoon drinkwater.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
-3060: [unknown],     yes,  closed, 'Ter',11    XP: [int(no),int(openbaar),int(tot@(a@(schoon@drink_water)))]
+3060: [unknown],     yes,  closed, 'Ter',11    XP: [int(no),int(openbaar),int(tot@(a@(schoon@'drink water')))]
       Veel mensen in Fiji hebben geen openbare toegang tot schoon drinkwater.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
@@ -1365,11 +1357,11 @@ Error in gen_quant_tt
       De weersverwachting is helemaal niet betrouwbaar in de zomer.
       De weersverwachting is helemaal niet betrouwbaar.
 
-3116: [unknown],     yes,  closed, 'Ter',23    XP: [int(groot)]
+3116: [unknown],     yes,  closed, 'Ter',20    XP: [int(groot)]
       Ze zijn het vliegtuig acht dagen aan het zoeken, zonder groot succes.
       Ze zijn het vliegtuig acht dagen aan het zoeken, zonder succes.
 
-3118: [unknown],     yes,  closed, 'Ter',23    XP: [int(schitteren)]
+3118: [unknown],     yes,  closed, 'Ter',20    XP: [int(schitteren)]
       Ze zijn het vliegtuig acht dagen aan het zoeken, zonder schitterend succes.
       Ze zijn het vliegtuig acht dagen aan het zoeken, zonder succes.
 
@@ -1401,7 +1393,7 @@ Error in gen_quant_tt
       We hebben politiegegevens van het incident uitgekamd maar vonden geen minste melding van getuigen die een lange, bebaarde man gezien hebben.
       We hebben politiegegevens van het incident uitgekamd maar vonden geen melding van getuigen die een lange, bebaarde man gezien hebben.
 
-3152: [unknown],     yes,  closed, 'Ter',38    XP: [int(no),int(on_verwachten),int(van@(s@(who@(hebben@(zien@(a@(lang@(bebaard@man)))))@getuige)))]
+3152: [unknown],     yes,  closed, 'Ter',38    XP: [int(no),int(on verwachten),int(van@(s@(who@(hebben@(zien@(a@(lang@(bebaard@man)))))@getuige)))]
       We hebben politiegegevens van het incident uitgekamd maar vonden geen onverwachte melding van getuigen die een lange, bebaarde man gezien hebben.
       We hebben politiegegevens van het incident uitgekamd maar vonden geen melding van getuigen die een lange, bebaarde man gezien hebben.
 
@@ -1525,15 +1517,15 @@ Error in gen_quant_tt
       Veel mensen in Fiji hebben geen toegang tot schoon mineraal drinkwater.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
-3284: [unknown],     yes,  closed, 'Ter',68    XP: [int(no),int(tot@(a@(schoon@drink_water))),isa(helemaal@no@toegang,toegang)]
+3284: [unknown],     yes,  closed, 'Ter',68    XP: [int(no),int(tot@(a@(schoon@'drink water'))),isa(helemaal@no@toegang,toegang)]
       Veel mensen in Fiji hebben te voet helemaal geen toegang tot schoon drinkwater.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
-3286: [unknown],     yes,  closed, 'Ter',7     XP: [int(veilig),isa(voor@c1@schoon@drink_water,schoon@drink_water)]
+3286: [unknown],     yes,  closed, 'Ter',7     XP: [int(veilig),isa(voor@c1@schoon@'drink water',schoon@'drink water')]
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater voor veilige gezondheid.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
-3288: [unknown],     yes,  closed, 'Ter',6     XP: [isa(op@c1@schoon@drink_water,schoon@drink_water)]
+3288: [unknown],     yes,  closed, 'Ter',6     XP: [isa(op@c1@schoon@'drink water',schoon@'drink water')]
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater op werkplekken.
       Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
 
@@ -1629,9 +1621,17 @@ Error in gen_quant_tt
       Dit plan heeft geen enorme gebreken.
       Dit plan heeft geen gebreken.
 
-3416: [unknown],     yes,  closed, 'Ter',4     XP: [int(over_duidelijk)]
+3416: [unknown],     yes,  closed, 'Ter',4     XP: [int(over duidelijk)]
       Dit plan heeft geen overduidelijke gebreken.
       Dit plan heeft geen gebreken.
+
+3423: [unknown],     yes,  closed, 'Ter',4     XP: [int(vereisen)]
+      Duitsland heeft geen minimum vereist loon.
+      Duitsland heeft geen minimumloon.
+
+3425: [unknown],     yes,  closed, 'Ter',4     XP: [int(benodigd)]
+      Duitsland heeft geen minimum benodigd loon.
+      Duitsland heeft geen minimumloon.
 
 3429: [unknown],     yes,  closed, 'Ter',4     XP: [int(hydraulisch)]
       Mijn eerste auto had geen hydraulische stuurbekrachtiging.
@@ -1657,6 +1657,7 @@ Error in gen_quant_tt
       Tom droeg geen blauwe hoed.
       Tom droeg geen hoed.
 
+Error in gen_quant_tt
 3448: [unknown],     yes,  closed, 'Ter',12    XP: []
       Het medicijn hielp helemaal niet tegen hoofdpijn.
       Het medicijn hielp helemaal niet.
@@ -1669,7 +1670,7 @@ Error in gen_quant_tt
       Ze zullen geen vlees eten waarvan ze zeggen dat ze dik worden.
       Ze zullen geen vlees eten.
 
-3456: [unknown],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_5169276,not@(houden@(van@_5169276)@ze))@no@vlees,no@vlees)]
+3456: [unknown],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_219868,not@(houden@(van@_219868)@ze))@no@vlees,no@vlees)]
       Ze zullen geen vlees eten waar ze niet van houden.
       Ze zullen geen vlees eten.
 
@@ -1821,6 +1822,8 @@ Error in gen_quant_tt
       Uitzonderlijke dingen gebeuren nooit op simpele en gewone gewoonlijke manieren.
       Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3644: [unknown],     yes,  closed, 'Ter',10    XP: [int(gewoontelijk)]
       Uitzonderlijke dingen gebeuren nooit op simpele en gewone gewoontelijke manieren.
       Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
@@ -2145,7 +2148,7 @@ Error in gen_quant_tt
       Ze is nog nooit echt verliefd geworden.
       Ze is nog nooit verliefd geworden.
 
-4024: [unknown],     yes,  closed, 'Ter',25    XP: [isa(genoeg@(om@(te@abst(_5605546,a@(wit@koffie@kop)@abst(_5605768,kopen@_5605768@_5605546))))@geld,geld),isa(wit@koffie@kop,kop)]
+4024: [unknown],     yes,  closed, 'Ter',25    XP: [isa(genoeg@(om@(te@abst(_2753124,a@(wit@koffie@kop)@abst(_2753346,kopen@_2753346@_2753124))))@geld,geld),isa(wit@koffie@kop,kop)]
       Tom had niet eens genoeg geld om een kopje witte koffie te kopen.
       Tom had niet eens genoeg geld om een kopje koffie te kopen.
 

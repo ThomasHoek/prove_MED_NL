@@ -1,3 +1,4 @@
+import argparse
 from itertools import groupby
 import re
 
@@ -25,9 +26,24 @@ def sort_file(path: str) -> None:
         write_file.write(f"{''.join(dict_problem[key])}\n")
 
 
+def parse_arguments():
+    parser = argparse.ArgumentParser(
+        description="Extract annotations from Alpino xml trees"
+    )
+
+    # Arguments covering directories and files
+    parser.add_argument("target", metavar="DIR", help="path to analysis folder")
+
+    # pre-processing arguments
+    args = parser.parse_args()
+    return args
+
+##############################################################################
+################################ Main function ################################
 if __name__ == "__main__":
     import glob
-    all_file_paths: list[str] = glob.glob('Results/crowd/analysis/*.txt')
 
+    args = parse_arguments()
+    all_file_paths: list[str] = glob.glob(f'{args.target}/*.txt')
     for x in all_file_paths:
         sort_file(x)
