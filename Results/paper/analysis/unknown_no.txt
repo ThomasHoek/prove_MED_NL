@@ -1,8 +1,0 @@
-4220: [unknown],      no,  closed, 'Ter',16    XP: [int(Mexicaans),int(enkel),int(no)]
-      Het blauwe buitenaardse wezen at bij geen enkel Mexicaans restaurant.
-      Het blauwe buitenaardse wezen at niet bij restaurants.
-
-4904: [unknown],      no,  closed, 'Ter',16    XP: [int(Mexicaans),int(enkel),int(no)]
-      Het rode buitenaardse wezen at bij geen enkel Mexicaans restaurant.
-      Het rode buitenaardse wezen at niet bij restaurants.
-

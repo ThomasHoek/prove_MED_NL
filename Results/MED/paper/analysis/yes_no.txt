@@ -1,0 +1,24 @@
+5183:     [yes],      no,  closed, 'Ter',25    XP: [isa(than@(no@more)@fifty@child,child)]
+      No more than fifty children chose any mint chocolates or decided on the cotton candy .
+      No more than fifty children decided on the cotton candy .
+
+5184:     [yes],      no,  closed, 'Ter',25    XP: [isa(than@(no@more)@fifty@child,child)]
+      No more than fifty children chose mint chocolates or decided on the cotton candy .
+      No more than fifty children decided on the cotton candy .
+
+5187:     [yes],      no,  closed, 'Ter',25    XP: [isa(than@(no@more)@five@child,child)]
+      No more than five children chose any mint chocolates or decided on the cotton candy .
+      No more than five children decided on the cotton candy .
+
+5188:     [yes],      no,  closed, 'Ter',25    XP: [isa(than@(no@more)@five@child,child)]
+      No more than five children chose mint chocolates or decided on the cotton candy .
+      No more than five children decided on the cotton candy .
+
+5331:     [yes],      no,  closed, 'Ter',25    XP: [isa(than@(no@less)@five@child,child)]
+      No less than five children decided on the cotton candy .
+      No less than five children chose any mint chocolates or decided on the cotton candy .
+
+5332:     [yes],      no,  closed, 'Ter',25    XP: [isa(than@(no@less)@five@child,child)]
+      No less than five children decided on the cotton candy .
+      No less than five children chose mint chocolates or decided on the cotton candy .
+

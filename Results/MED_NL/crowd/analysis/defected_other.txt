@@ -1,0 +1,424 @@
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+152: [unknown], unknown,      NA, 'Defected'  XP: _267030
+      Een paar bloemen bloeien in de lente en anderen in de herfst.
+      Een paar roosbloemen bloeien in de lente en anderen in de herfst.
+
+Inconsistency in node types (entail/8)
+469: [unknown], unknown,      NA, 'Defected'  XP: _2988076
+      Ik ben alles behalve een leugenaar.
+      Ik ben alles behalve een dief.
+
+Inconsistency in node types (entail/8)
+470: [unknown], unknown,      NA, 'Defected'  XP: _2391696
+      Ik ben alles behalve een leugenaar.
+      Ik ben alles behalve een bedelaar.
+
+Inconsistency in node types (entail/8)
+471: [unknown], unknown,      NA, 'Defected'  XP: _5053470
+      Ik ben alles behalve een leugenaar.
+      Ik ben alles behalve een oplichter.
+
+Inconsistency in node types (entail/8)
+645: [unknown], unknown,      NA, 'Defected'  XP: _5580828
+      Ze woont in een of ander dorp in India.
+      Ze woont in een of ander dorp in een ander land.
+
+Inconsistency in node types (entail/8)
+646: [unknown], unknown,      NA, 'Defected'  XP: _4976442
+      Ze woont in een of ander dorp in India.
+      Ze woont in een of ander dorp in het buitenland.
+
+Inconsistency in node types (entail/8)
+647: [unknown], unknown,      NA, 'Defected'  XP: _2434692
+      Ze woont in een of ander dorp in India.
+      Ze woont in een of ander dorp in noord India.
+
+Inconsistency in node types (entail/8)
+759: [unknown], unknown,      NA, 'Defected'  XP: _3823910
+      Een paar klarinettisten gebruiken klarinetten die zijn gestemd op a in plaats van bes in passages die anders in ongebruikelijke toonsoorten zouden zijn geschreven.
+      Een paar klarinettisten gebruiken noten die zijn gestemd op a in plaats van bes in passages die anders in ongebruikelijke toonsoorten zouden zijn geschreven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+803: [unknown], unknown,      NA, 'Defected'  XP: _501016
+      Leven is niet alleen rozen en zonneschijn.
+      Liefde is niet alleen rozen en zonneschijn.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+807: [unknown], unknown,      NA, 'Defected'  XP: _5371058
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar ijs dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+808: [unknown], unknown,      NA, 'Defected'  XP: _684522
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar koffie met melk dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+809:     [yes], unknown,      NA, 'Defected'  XP: _1594818
+      Het is geen thee maar koffie met melk dat ik wil.
+      Het is geen thee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+810: [unknown], unknown,      NA, 'Defected'  XP: _159690
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar melk dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+811: [unknown], unknown,      NA, 'Defected'  XP: _3982930
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar bier dat ik wil.
+
+Inconsistency in node types (entail/8)
+998: [unknown], unknown,      NA, 'Defected'  XP: _3970852
+      Een paar grote vogels jagen op kleine vogels en dieren.
+      Een paar grote uilen jagen en jagen op kleine vogels en dieren.
+
+Inconsistency in node types (entail/8)
+999:     [yes], unknown,      NA, 'Defected'  XP: _5491804
+      Een paar grote vogels jagen en jagen op kleine vogels en dieren.
+      Een paar grote vogels jagen op kleine vogels en dieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1000: [unknown], unknown,      NA, 'Defected'  XP: _1251276
+      Een paar grote vogels jagen op kleine vogels en dieren.
+      Een paar grote vogels jagen en jagen op kleine vogels en dieren.
+
+Inconsistency in node types (entail/8)
+1150: [unknown], unknown,      NA, 'Defected'  XP: _5322154
+      Ze is alles behalve een zangeres.
+      Ze is alles behalve een sopraan zangeres.
+
+Inconsistency in node types (entail/8)
+1151:     [yes], unknown,      NA, 'Defected'  XP: _1433646
+      Ze is alles behalve een sopraan zangeres.
+      Ze is alles behalve een zangeres.
+
+Inconsistency in node types (entail/8)
+1152: [unknown], unknown,      NA, 'Defected'  XP: _4906882
+      Ze is alles behalve een zangeres.
+      Ze is alles behalve een beroemde zangeres.
+
+Inconsistency in node types (entail/8)
+1153:     [yes], unknown,      NA, 'Defected'  XP: _1779596
+      Ze is alles behalve een beroemde zangeres.
+      Ze is alles behalve een zangeres.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1584:     [yes], unknown,      NA, 'Defected'  XP: _4216
+      Ik kan geen rucola of andere bittere groenten uitstaan.
+      Ik kan geen bladgroenten of andere bittere groenten uitstaan.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1585:     [yes], unknown,      NA, 'Defected'  XP: _4795604
+      Ik kan geen rucola of andere bittere groenten uitstaan.
+      Ik kan geen onrijpe rucola of andere bittere groenten uitstaan.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1586: [unknown], unknown,      NA, 'Defected'  XP: _3160990
+      Ik kan geen onrijpe rucola of andere bittere groenten uitstaan.
+      Ik kan geen rucola of andere bittere groenten uitstaan.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2182:     [yes], unknown,      NA, 'Defected'  XP: _6070040
+      Ik krijg geen kop of staart van deze foto.
+      Ik krijg geen kop of staart van deze grote foto.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2183:     [yes], unknown,      NA, 'Defected'  XP: _6135260
+      Ik krijg geen kop of staart van deze foto.
+      Ik krijg geen kop of staart van deze mooie foto.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2184:     [yes], unknown,      NA, 'Defected'  XP: _910478
+      Ik krijg geen kop of staart van deze foto.
+      Ik krijg geen kop of staart van dit schilderij geschilderd door picasso.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2392:     [yes], unknown,      NA, 'Defected'  XP: _4594718
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+      Iedere jongen en meisje in de klas is geleerd te lezen en schrijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2393: [unknown], unknown,      NA, 'Defected'  XP: _1943170
+      Iedere jongen en meisje in de klas is geleerd te lezen en schrijven.
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2394:     [yes], unknown,      NA, 'Defected'  XP: _5146
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+      Iedere jongen en meisje in de school is geleerd te lezen en schrijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2395: [unknown], unknown,      NA, 'Defected'  XP: _2266908
+      Iedere jongen en meisje in de school is geleerd te lezen en schrijven.
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+
+Inconsistency in node types (entail/8)
+2902:     [yes], unknown,      NA, 'Defected'  XP: _938402
+      Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
+      Je hebt geen wettelijke positie om mijn eigendom in beslag te nemen.
+
+Inconsistency in node types (entail/8)
+2903:     [yes], unknown,      NA, 'Defected'  XP: _4493200
+      Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
+      Je hebt geen wettelijke autoriteit om mijn eigendom in beslag te nemen.
+
+Inconsistency in node types (entail/8)
+2904:     [yes], unknown,      NA, 'Defected'  XP: _1603906
+      Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
+      Je hebt geen wettelijk recht en ook enig internationaal recht om mijn eigendom in beslag te nemen.
+
+Inconsistency in node types (entail/8)
+2905:     [yes], unknown,      NA, 'Defected'  XP: _5547544
+      Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
+      Je hebt geen wettelijke vrijheid om mijn eigendom in beslag te nemen.
+
+Inconsistency in node types (entail/8)
+2906:     [yes], unknown,      NA, 'Defected'  XP: _238434
+      Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
+      Je hebt geen wettelijke toestemming om mijn eigendom in beslag te nemen.
+
+Inconsistency in node types (entail/8)
+2907:     [yes], unknown,      NA, 'Defected'  XP: _2857644
+      Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
+      Je hebt geen wettelijke vrijheid om mijn eigendom in beslag te nemen.
+
+ERROR: Cannot align tokens in sentence id=4437
+term tokens=[[[geen],[bezoekers],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,.]
+ERROR: Cannot align tokens in sentence id=4436
+term tokens=[[[geen],[bezoekers],[uit],[de],[VS],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,uit,de,VS,.]
+Inconsistency in node types (entail/8)
+2998:     [yes], unknown,      NA, 'Defected'  XP: _2984540
+      Tom verwachte geen bezoekers.
+      Tom verwachte geen bezoekers uit de VS.
+
+ERROR: Cannot align tokens in sentence id=4436
+term tokens=[[[geen],[bezoekers],[uit],[de],[VS],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,uit,de,VS,.]
+ERROR: Cannot align tokens in sentence id=4437
+term tokens=[[[geen],[bezoekers],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,.]
+Inconsistency in node types (entail/8)
+2999: [unknown], unknown,      NA, 'Defected'  XP: _3697462
+      Tom verwachte geen bezoekers uit de VS.
+      Tom verwachte geen bezoekers.
+
+ERROR: Cannot align tokens in sentence id=4435
+term tokens=[[[geen],[bezoeken],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,.]
+ERROR: Cannot align tokens in sentence id=4434
+term tokens=[[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,van,zijn,neven,.]
+Inconsistency in node types (entail/8)
+3000:     [yes], unknown,      NA, 'Defected'  XP: _1006918
+      Tom verwachte geen bezoeken.
+      Tom verwachte geen bezoeken van zijn neven.
+
+ERROR: Cannot align tokens in sentence id=4435
+term tokens=[[[geen],[bezoeken],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,.]
+Inconsistency in node types (entail/8)
+3001: [unknown], unknown,      NA, 'Defected'  XP: _748120
+      Tom verwachte geen bezoeken van zijn neven.
+      Tom verwachte geen bezoeken.
+
+Inconsistency in node types (entail/8)
+3061:     [yes], unknown,      NA, 'Defected'  XP: _3073278
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+      Mijn broer en zus worden wakker ongeveer half acht iedere doordeweekse ochtend.
+
+Inconsistency in node types (entail/8)
+3062: [unknown], unknown,      NA, 'Defected'  XP: _2364448
+      Mijn broer en zus worden wakker ongeveer half acht iedere doordeweekse ochtend.
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+
+Inconsistency in node types (entail/8)
+3063:     [yes], unknown,      NA, 'Defected'  XP: _1248198
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de zomer.
+
+Inconsistency in node types (entail/8)
+3064: [unknown], unknown,      NA, 'Defected'  XP: _3152690
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de zomer.
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+
+Inconsistency in node types (entail/8)
+3065:     [yes], unknown,      NA, 'Defected'  XP: _3105004
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+      Mijn broer en zus worden wakker ongeveer half acht iedere schooldagochtend.
+
+Inconsistency in node types (entail/8)
+3066: [unknown], unknown,      NA, 'Defected'  XP: _2026554
+      Mijn broer en zus worden wakker ongeveer half acht iedere schoolochtend.
+      Mijn broer en zus worden wakker ongeveer half acht iedere dagochtend.
+
+Inconsistency in node types (entail/8)
+3067:     [yes], unknown,      NA, 'Defected'  XP: _5944
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de vakanties.
+
+Inconsistency in node types (entail/8)
+3068: [unknown], unknown,      NA, 'Defected'  XP: _2323732
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de vakanties.
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+
+Inconsistency in node types (entail/8)
+3069:     [yes], unknown,      NA, 'Defected'  XP: _4243570
+      Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
+      Mijn broer en zus worden wakker ongeveer half acht iedere vroege ochtend.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3327:     [yes], unknown,      NA, 'Defected'  XP: _6015036
+      Tom eet geen vlees of eieren.
+      Tom eet geen vlees of gebakken eieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3328: [unknown], unknown,      NA, 'Defected'  XP: _4954328
+      Tom eet geen vlees of gebakken eieren.
+      Tom eet geen vlees of eieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3329:     [yes], unknown,      NA, 'Defected'  XP: _4565178
+      Tom eet geen vlees of eieren.
+      Tom eet geen vlees of roerei.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3330: [unknown], unknown,      NA, 'Defected'  XP: _3948400
+      Tom eet geen vlees of roerei.
+      Tom eet geen vlees of eieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3331:     [yes], unknown,      NA, 'Defected'  XP: _408996
+      Tom eet geen vlees of eieren.
+      Tom eet geen vlees of eendeneieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3332: [unknown], unknown,      NA, 'Defected'  XP: _1443602
+      Tom eet geen vlees of eendeneieren.
+      Tom eet geen vlees of eieren.
+
+Inconsistency in node types (entail/8)
+3403:     [yes], unknown,      NA, 'Defected'  XP: _2355076
+      Ze was nooit op zoek naar een excuus.
+      Ze was nooit op zoek naar een excuus in die kwestie.
+
+Inconsistency in node types (entail/8)
+3404: [unknown], unknown,      NA, 'Defected'  XP: _2168720
+      Ze was nooit op zoek naar een excuus in die kwestie.
+      Ze was nooit op zoek naar een excuus.
+
+Inconsistency in node types (entail/8)
+3763:     [yes], unknown,      NA, 'Defected'  XP: _2930646
+      Hij drinkt het liefst zijn koffie zonder suiker.
+      Hij drinkt het liefst zijn koffie zonder te veel suiker.
+
+Inconsistency in node types (entail/8)
+3764: [unknown], unknown,      NA, 'Defected'  XP: _3470826
+      Hij drinkt het liefst zijn koffie zonder te veel suiker.
+      Hij drinkt het liefst zijn koffie zonder suiker.
+
+Inconsistency in node types (entail/8)
+3765: [unknown], unknown,      NA, 'Defected'  XP: _5809256
+      Hij drinkt het liefst zijn koffie zonder suiker.
+      Hij drinkt het liefst zijn koffie zonder suiker of melk.
+
+Inconsistency in node types (entail/8)
+3766:     [yes], unknown,      NA, 'Defected'  XP: _962888
+      Hij drinkt het liefst zijn koffie zonder suiker of melk.
+      Hij drinkt het liefst zijn koffie zonder suiker.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3896:     [yes], unknown,      NA, 'Defected'  XP: _5534532
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen groene thee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3897:     [yes], unknown,      NA, 'Defected'  XP: _4791148
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen kruidenthee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3899:     [yes], unknown,      NA, 'Defected'  XP: _4997190
+      Het is geen thee maar koffie dat ik wil.
+      Het is deze middag geen thee maar koffie dat ik wil.
+

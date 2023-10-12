@@ -1,0 +1,48 @@
+4331: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Alleen 12 buitenaardse wezens dronken wat cola.
+      Alleen 12 buitenaardse wezens dronken frisdrank.
+
+4434: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gebruikten een paar munten.
+      Alleen 12 buitenaardse wezens gebruikten kwartjes.
+
+4435: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Alleen 12 buitenaardse wezens lazen tijdschriften.
+
+4436: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
+      Alleen 12 buitenaardse wezens aten bij restaurants.
+
+4437: [unknown],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Alleen 12 buitenaardse wezens kochten wat shirts.
+      Alleen 12 buitenaardse wezens kochten kleren.
+
+4504:     [yes], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen las enige boeken.
+      Geen buitenaards wezen las enige sci-fi romans.
+
+4506:     [yes], unknown,    open, 'Ter',73    XP: []
+      Geen buitenaards wezen gooide enige ballen.
+      Geen buitenaards wezen gooide enige tennisballen.
+
+4507: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen las enige nieuwstijdschriften.
+      Geen buitenaards wezen las enige tijdschriften.
+
+4554: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gebruikten munten.
+      Precies 12 buitenaardse wezens gebruikten kwartjes.
+
+4558: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gebruikten kwartjes.
+      Precies 12 buitenaardse wezens gebruikten munten.
+
+4609: [unknown], unknown,    open, 'Ter',209   XP: []
+      Ieder buitenaards wezen zag een paar vogels.
+      Ieder buitenaards wezen zag een paar duiven.
+
+4915:     [yes], unknown,    open, 'Lim',413   XP: []
+      Het rode buitenaardse wezen las geen enkel tijdschrift.
+      Het rode buitenaardse wezen las geen nieuwstijdschriften.
+

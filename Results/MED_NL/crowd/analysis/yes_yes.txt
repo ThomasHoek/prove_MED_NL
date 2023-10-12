@@ -1,0 +1,4065 @@
+142:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Een paar Duitsers werken voor alleen een euro per uur zonder vakantiebetaling.
+      Een paar Duitsers werken voor alleen een euro per uur.
+
+155:     [yes],     yes,  closed, 'Ter',4     XP: [int(verdedigen)]
+      Alle spelers stonden in verdedigende positie.
+      Alle spelers stonden in positie.
+
+178:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@eekhoorn,eekhoorn)]
+      Een eekhoorn in de zomer is een bad aan het nemen in de vijver.
+      Een eekhoorn is een bad aan het nemen in de vijver.
+
+186:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Iedereen behalve Jim die druk was die dag kwam.
+      Iedereen behalve Jim kwam.
+
+188:     [yes],     yes,  closed, 'Ter',13    XP: []
+      Iedereen behalve Jim en zijn vrouw kwam.
+      Iedereen behalve Jim kwam.
+
+201:     [yes],     yes,  closed, 'Ter',8     XP: [int(groot)]
+      Er ligt een grote en oude kat op het bureau.
+      Er ligt een kat op het bureau.
+
+203:     [yes],     yes,  closed, 'Ter',7     XP: [int(groot),int(mollig)]
+      Er ligt een grote mollige kat op het bureau.
+      Er ligt een kat op het bureau.
+
+206:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Ze kocht een grote hond voor hem.
+      Ze kocht een hond voor hem.
+
+213:     [yes],     yes,  closed, 'Ter',4     XP: [int(volwassen)]
+      Ze gaf een volwassen kat wat melk.
+      Ze gaf een kat wat melk.
+
+228:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@gat,gat)]
+      Ze graven een gat in het park.
+      Ze graven een gat.
+
+230:     [yes],     yes,  closed, 'Ter',4     XP: [int(enorm)]
+      Ze graven een enorm gat.
+      Ze graven een gat.
+
+234:     [yes],     yes,  closed, 'Ter',4     XP: [int(oud)]
+      Tom rijdt een oude vrachtwagen.
+      Tom rijdt een vrachtwagen.
+Difference in Lemma Lexicons after normalization
+
+244:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+      Een geur van witte lelies vulde de kamer.
+      Een geur van lelies vulde de kamer.
+
+246:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Een geur van lelies en rozen vulde de kamer.
+      Een geur van lelies vulde de kamer.
+
+262:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Een menselijk lichaam bestaat uit een ontelbaar aantal cellen en weefsels.
+      Een menselijk lichaam bestaat uit een ontelbaar aantal cellen.
+
+283:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Juan en zijn vrienden kunnen mij niet helpen.
+      Juan kan mij niet helpen.
+
+308:     [yes],     yes,  closed, 'Ter',8     XP: [isa(and@abst(_1337472,_1337472@ontspannen)@abst(_1337730,_1337730@warm)@lekker@bad,bad)]
+      Alles wat Tom wilde was een lekker warm en ontspannend bad.
+      Alles wat Tom wilde was een lekker warm bad.
+
+Error in gen_quant_tt
+ 341:     [yes],     yes,  closed, 'Ter',4     XP: [int(enorm)]
+      Tom gooide een enorme sneeuwbal naar Mary.
+      Tom gooide een sneeuwbal naar Mary.
+
+343:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Een vreemdeling die geen Engels sprak sprak tegen me in de bus.
+      Een vreemdeling sprak tegen me in de bus.
+
+345:     [yes],     yes,  closed, 'Ter',4     XP: [int(stinken)]
+      Een stinkende vreemdeling sprak tegen me in de bus.
+      Een vreemdeling sprak tegen me in de bus.
+
+348:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ze speelt iedere dag tennis en kaartspellen.
+      Ze speelt iedere dag tennis.
+
+354:     [yes],     yes,  closed, 'Ter',4     XP: [int(gebruiken)]
+      Ik kocht een gebruikte VW bus.
+      Ik kocht een VW bus.
+
+361:     [yes],     yes,  closed, 'Ter',5     XP: [int(giftig),int(groot)]
+      Een grote giftige spin was een web aan het spinnen.
+      Een grote spin was een web aan het spinnen.
+
+366:     [yes],     yes,  closed, 'Ter',5     XP: [int(groot),int(leuk)]
+      Ze draagt een leuke grote hoed.
+      Ze draagt een leuke hoed.
+
+379:     [yes],     yes,  closed, 'Ter',4     XP: [int(gigantisch)]
+      Een gigantische rat knaagde een gat in de muur.
+      Een rat knaagde een gat in de muur.
+
+384:     [yes],     yes,  closed, 'Ter',8     XP: [int(schoon),int(van@(the@wang))]
+      Ze veegde een schone traan van haar wang.
+      Ze veegde een traan van haar wang.
+
+389:     [yes],     yes,  closed, 'Ter',11    XP: [int(ander)]
+      Een kersenboom groeit in een tuin samen met andere bomen.
+      Een kersenboom groeit in een tuin.
+
+392:     [yes],     yes,  closed, 'Ter',4     XP: [isa(in@Spanje@snel@hardloper,snel@hardloper)]
+      Hij is een snelle hardloper in spanje.
+      Hij is een snelle hardloper.
+
+401:     [yes],     yes,  closed, 'Ter',7     XP: [int(klein),isa(voor@c1@(klein@rood@agenda),klein@rood@agenda)]
+      Ik kocht een kleine rode agenda voor mijn moeder.
+      Ik kocht een rode agenda.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 403:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@rood@agenda,rood@agenda)]
+      Ik kocht een rode agenda in de antiekwinkel.
+      Ik kocht een rode agenda.
+
+405:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      We stonden op de rand van een rode klif.
+      We stonden op de rand van een klif.
+
+408:     [yes],     yes,  closed, 'Ter',7     XP: [int(groot),isa(in@c1@(groot@gat),groot@gat)]
+      Een rat knaagde een groot gat in de muur.
+      Een rat knaagde een gat.
+
+411:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@zuurstof,zuurstof)]
+      Hij stierf door gebrek aan zuurstof in de kamer.
+      Hij stierf door een gebrek aan zuurstof.
+
+413:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@zuurstof,zuurstof)]
+      Hij stierf door gebrek aan zuurstof in de ruimte.
+      Hij sterft door het gebrek aan zuurstof.
+
+415:     [yes],     yes,  closed, 'Ter',8     XP: [int(snel),int(van@(the@station))]
+      Ik nam een snelle taxi van het station naar het hotel.
+      Ik nam een taxi van het station naar het hotel.
+
+420:     [yes],     yes,  closed, 'Ter',10    XP: [int(eiwit rijk)]
+      We moeten wat eiwitrijk hondenvoer kopen.
+      We moeten wat hondenvoer kopen.
+
+425:     [yes],     yes,  closed, 'Ter',4     XP: [int(bruin)]
+      Tom strooide wat bruine suiker op de toast.
+      Tom strooide wat suiker op de toast.
+
+441:     [yes],     yes,  closed, 'Ter',5     XP: [int(vrouwelijk),int(wit)]
+      Een ree is een vrouwelijk wit hert.
+      Een ree is een vrouwelijk hert.
+
+473:     [yes],     yes,  closed, 'Ter',4     XP: [int(blauw)]
+      Iedereen behalve Tom droeg een blauwe stropdas.
+      Iedereen behalve Tom droeg een stropdas.
+
+475:     [yes],     yes,  closed, 'Ter',4     XP: [int(groen)]
+      Iedereen behalve Tom droeg een groene stropdas.
+      Iedereen behalve Tom droeg een stropdas.
+
+477:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      Iedereen behalve Tom droeg een rode stropdas.
+      Iedereen behalve Tom droeg een stropdas.
+
+485:     [yes],     yes,  closed, 'Ter',4     XP: [int(jong)]
+      Een jonge man stal mijn tas.
+      Een man stal mijn tas.
+
+487:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Een grote man stal mijn tas.
+      Een man stal mijn tas.
+
+489:     [yes],     yes,  closed, 'Ter',4     XP: [int(blauw)]
+      Tom droeg een blauwe cowboyhoed.
+      Tom droeg een cowboyhoed.
+
+491:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Tom droeg een cowboyhoed en een revolver.
+      Tom droeg een cowboyhoed.
+
+493:     [yes],     yes,  closed, 'Ter',4     XP: [int(aggressief)]
+      Een gans is een aggressieve watervogel.
+      Een gans is een watervogel.
+
+495:     [yes],     yes,  closed, 'Ter',4     XP: [int(grijs)]
+      Een gans is een grijze watervogel.
+      Een gans is een watervogel.
+
+499:     [yes],     yes,  closed, 'Ter',6     XP: [int(lekker)]
+      Er liggen een paar lekkere sinaasappels op de tafel.
+      Er liggen een paar sinaasappels op de tafel.
+
+501:     [yes],     yes,  closed, 'Ter',6     XP: [int(vers plukken)]
+      Er liggen een paar versgeplukte sinaasappels op de tafel.
+      Er liggen een paar sinaasappels op de tafel.
+
+514:     [yes],     yes,  closed, 'Ter',4     XP: [int(droog)]
+      Een droge noordelijke wind is aan het waaien.
+      Een noordelijke wind is aan het waaien.
+
+519:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Ik kocht een nieuwe bril omdat ik het nodig heb.
+      Ik kocht een nieuwe bril.
+
+521:     [yes],     yes,  closed, 'Ter',5     XP: [int(nieuw),int(rood)]
+      Ik kocht een nieuwe rode bril.
+      Ik kocht een nieuwe bril.
+
+532:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+      Hij droogde zijn handen af aan een witte zakdoek.
+      Hij droogde zijn handen af aan een zakdoek.
+
+539:     [yes],     yes,  closed, 'Ter',17    XP: [isa(van@(and@juli@juni)@maand@in@'Schotland'@aantal,in@'Schotland'@aantal)]
+      Hij is een aantal maanden van juni en juli in Schotland geweest.
+      Hij is een aantal maanden in Schotland geweest.
+
+542:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Hij is dit jaar een aantal maanden in Schotland geweest.
+      Hij is een aantal maanden in Schotland geweest.
+
+553:     [yes],     yes,  closed, 'Ter',4     XP: [int(breed gerand)]
+      Hij draagt een breedgerande hoed.
+      Hij draagt een hoed.
+
+563:     [yes],     yes,  closed, 'Ter',3     XP: []
+      John erfde een groot fortuin en een mooie auto.
+      John erfde een groot fortuin.
+
+565:     [yes],     yes,  closed, 'Ter',7     XP: [int(serieus),isa(met@c1@probleem,probleem)]
+      Tom staat tegenover een paar serieuze problemen met de wet.
+      Tom staat tegenover een paar serieuze problemen.
+
+578:     [yes],     yes,  closed, 'Ter',6     XP: [int(groot)]
+      Er zitten veel grote eieren in de doos.
+      Er zitten veel eieren in de doos.
+
+580:     [yes],     yes,  closed, 'Ter',6     XP: [int(wit)]
+      Er zitten veel witte eieren in de doos.
+      Er zitten veel eieren in de doos.
+
+582:     [yes],     yes,  closed, 'Ter',14    XP: [int(geweldig)]
+      Een grote spin was een geweldig web aan het spinnen.
+      Een grote spin was een web aan het spinnen.
+
+586:     [yes],     yes,  closed, 'Ter',6     XP: [isa(uit@c1@melk,melk)]
+      Ze gaf een kat wat melk uit jouw glas.
+      Ze gaf een kat wat melk.
+
+588:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@melk,melk)]
+      Ze gaf een kat wat melk in jouw huis.
+      Ze gaf een kat wat melk.
+
+590:     [yes],     yes,  closed, 'Ter',6     XP: [int(elektronisch)]
+      Er zijn veel elektronische fabrieken in Kawasaki.
+      Er zijn veel fabrieken in Kawasaki.
+
+599:     [yes],     yes,  closed, 'Ter',6     XP: [int(rood)]
+      Er zitten een paar rode appels in de mand.
+      Er zitten een paar appels in de mand.
+
+601:     [yes],     yes,  closed, 'Ter',16    XP: [int(lang)]
+      Susan heeft een lange jurk gemaakt voor Jill.
+      Susan heeft een jurk gemaakt voor Jill.
+
+605:     [yes],     yes,  closed, 'Ter',17    XP: [int(lang),int(zwart)]
+      Susan heeft een lange zwarte jurk gemaakt voor Jill.
+      Susan heeft een jurk gemaakt voor Jill.
+
+614:     [yes],     yes,  closed, 'Ter',5     XP: [int(fantastisch),int(modern)]
+      Tom is een fantastische moderne zanger.
+      Tom is een fantastische zanger.
+
+628:     [yes],     yes,  closed, 'Ter',5     XP: [int(Californisch),int(speciaal)]
+      Een Californische speciale politieman stopte een auto en sprak met de bestuurder.
+      Een Californische politieman stopte een auto en sprak met de bestuurder.
+
+630:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Een Californische politieman die op een motor reed stopte een auto en sprak met de bestuurder.
+      Een Californische politieman stopte een auto en sprak met de bestuurder.
+
+632:     [yes],     yes,  closed, 'Ter',14    XP: [int(goed)]
+      Hij benaderde de jongen die een goed boek aan het lezen was.
+      Hij benaderde de jongen die een boek aan het lezen was.
+
+638:     [yes],     yes,  closed, 'Ter',5     XP: [int(Hawaiaans),int(lang)]
+      Tom droeg een Hawaiaans lang shirt.
+      Tom droeg een Hawaiaans shirt.
+
+654:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      Onder de tafel zit een rode kat.
+      Onder de tafel zit een kat.
+
+656:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+      Onder de tafel zit een witte kat.
+      Onder de tafel zit een kat.
+
+658:     [yes],     yes,  closed, 'Ter',4     XP: [int(hongerig)]
+      Onder de tafel zit een hongerige kat.
+      Onder de tafel zit een kat.
+
+660:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Een grote hond beet haar been.
+      Een hond beet haar been,
+
+662:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+      Een witte hond beet haar been.
+      Een hond beet haar been,
+
+664:     [yes],     yes,  closed, 'Ter',4     XP: [int(dol)]
+      Een dolle hond beet haar been.
+      Een hond beet haar been,
+Difference in Lemma Lexicons after normalization
+
+666:     [yes],     yes,  closed, 'Ter',4     XP: [int(stout)]
+      Een stoute hond beet haar been.
+      Een hond beet haar been,
+
+682:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Jane en Brenda sloegen de vragen over die ze niet konden beantwoorden.
+      Jane sloeg de vragen over die ze niet kon beantwoorden.
+
+705:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Ik had geen verkopen vandaag en deze week.
+      Ik had geen verkopen vandaag.
+
+709:     [yes],     yes,  closed, 'Ter',5     XP: []
+      David en zijn vrienden kunnen niet thuis zijn.
+      David kan niet thuis zijn.
+
+712:     [yes],     yes,  closed, 'Ter',5     XP: [int(mooi),int(normaal)]
+      Ik ben een normaal mooi meisje.
+      Ik ben een normaal meisje.
+
+727:     [yes],     yes,  closed, 'Ter',4     XP: [int(onbeleefd)]
+      Tom liet een paar onbeleefde foto’s van Mary zien.
+      Tom liet een paar foto’s van Mary zien.
+
+729:     [yes],     yes,  closed, 'Ter',19    XP: [int(zwart)]
+      Tom plukte een paar zwarte bessen en at ze.
+      Tom plukte een paar bessen en at ze.
+
+731:     [yes],     yes,  closed, 'Ter',19    XP: [int(rijp)]
+      Tom plukte een paar rijpe bessen en at ze.
+      Tom plukte een paar bessen en at ze.
+
+764:     [yes],     yes,  closed, 'Ter',10    XP: [int(meer kleurig)]
+      Je hebt wat meerkleurige ballen om hier zo te komen.
+      Je hebt wat ballen om hier zo te komen.
+
+773:     [yes],     yes,  closed, 'Ter',10    XP: [int(vies)]
+      Vandaag had ik wat vieze haring voor ontbijt.
+      Vandaag had ik wat haring voor ontbijt.
+
+776:     [yes],     yes,  closed, 'Ter',21    XP: [isa(met@c3@taart,taart)]
+      Ik wil eerst wat taart met aarbeien en crème eten.
+      Ik wil eerst wat taart eten.
+
+792:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik heb een paar konijnvormige koekjes gemaakt in de ochtend.
+      Ik heb een paar konijnvormige koekjes gemaakt.
+
+817:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Al mijn broers hebben banen die goed betalen.
+      Al mijn broers hebben banen.
+
+820:     [yes],     yes,  closed, 'Ter',4     XP: [int(Russisch)]
+      Hij kocht een paar Russische chocolaatjes voor haar.
+      Hij kocht een paar chocolaatjes voor haar.
+
+827:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Een zwerm van bijen en muggen volgde hem.
+      Een zwerm van muggen volgde hem.
+
+829:     [yes],     yes,  closed, 'Ter',5     XP: [int(Amerikaans),int(voormalig)]
+      Een Amerikaanse voormalige soldaat werd veroordeeld tot 90 jaar in de gevangenis.
+      Een Amerikaanse soldaat werd veroordeeld tot 90 jaar in de gevangenis.
+
+835:     [yes],     yes,  closed, 'Ter',6     XP: [int(kapot)]
+      Er ligt een kapotte radio in mijn kamer.
+      Er ligt een radio in mijn kamer.
+
+837:     [yes],     yes,  closed, 'Ter',13    XP: [isa(van@(and@Sapporo@Hokkaido)@noordoostelijk@kust,noordoostelijk@kust)]
+      Een tsunami raakte de noordoostelijke kust van Hokkaido en Sapporo.
+      Een tsunami raakte de noordoostelijke kust van Hokkaido.
+
+843:     [yes],     yes,  closed, 'Ter',35    XP: []
+      Ik ontving een telegram en een kado van haar.
+      Ik ontving een telegram van haar.
+
+845:     [yes],     yes,  closed, 'Ter',10    XP: [int(groot)]
+      Ik heb een grote vliegende schotel gezien.
+      Ik heb een vliegende schotel gezien.
+
+869:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Een grote kat stond op de tafel.
+      Een kat stond op de tafel.
+
+877:     [yes],     yes,  closed, 'Ter',5     XP: [int(lelijk),int(licht blauw)]
+      Het meisje droeg een lichtblauwe lelijke kimono.
+      Het meisje droeg een lichtblauwe kimono.
+
+879:     [yes],     yes,  closed, 'Ter',4     XP: [int(snel)]
+      Tom belde een snelle taxi voor mij.
+      Tom belde een taxi voor mij.
+
+894:     [yes],     yes,  closed, 'Ter',12    XP: [isa(met@c2@groot@penthouse,groot@penthouse)]
+      Rudolf heeft een groot penthouse met zwembad gebouwd.
+      Rudolf heeft een groot penthouse gebouwd.
+
+896:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Rudolf heeft een groot en wit huis gebouwd.
+      Rudolf heeft een groot huis gebouwd.
+
+898:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Rudolf heeft een groot en mooi huis gebouwd.
+      Rudolf heeft een groot huis gebouwd.
+
+905:     [yes],     yes,  closed, 'Ter',6     XP: [int(blauw)]
+      Ze plantte wat blauwe en paarse viooltjes in het bloembed.
+      Ze plantte wat viooltjes in het bloembed.
+
+942:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Hij zong een paar oude liedjes die me aan jou deden denken.
+      Hij zong een paar oude liedjes.
+
+944:     [yes],     yes,  closed, 'Ter',4     XP: [isa(erg@groot@bank,bank)]
+      Mijn broer werkt in een erg grote bank.
+      Mijn broer werkt in een bank.
+
+950:     [yes],     yes,  closed, 'Ter',6     XP: [isa(zonder@c1@'Zwitsers'@bankrekening,'Zwitsers'@bankrekening)]
+      Tom heeft een zwitserse bankrekening zonder geld.
+      Tom heeft een zwitserse bankrekening.
+
+953:     [yes],     yes,  closed, 'Ter',6     XP: [int(klein)]
+      Er zit een klein gat in deze sok.
+      Er zit een gat in deze sok.
+
+956:     [yes],     yes,  closed, 'Ter',5     XP: [int(brief),int(klein)]
+      Tom legde een kleine hoop brieven op Mary’s bureau.
+      Tom legde een hoop brieven op Mary’s bureau.
+
+962:     [yes],     yes,  closed, 'Ter',4     XP: [int(bakken)]
+      Ze eten veel gebakken rijst.
+      Ze eten veel rijst.
+
+964:     [yes],     yes,  closed, 'Ter',4     XP: [int(zwart)]
+      Ze eten veel zwarte rijst.
+      Ze eten veel rijst.
+
+966:     [yes],     yes,  closed, 'Ter',13    XP: [int(golden horn),int(in@'Rusland'),isa(vlakbij@c1@stad,stad)]
+      Vladivostok is een stad in Rusland vlakbij golden horn baai.
+      Vladivostok is een stad in Rusland.
+
+968:     [yes],     yes,  closed, 'Ter',16    XP: [int(rot)]
+      Ik heb een rotte tand laten trekken.
+      Ik heb een tand laten trekken.
+
+970:     [yes],     yes,  closed, 'Ter',16    XP: [int(verrotten)]
+      Ik heb een verrotte tand laten trekken.
+      Ik heb een tand laten trekken.
+
+978:     [yes],     yes,  closed, 'Ter',4     XP: [int(irritant)]
+      Veel irritante insecten zijn aan het tsjilpen in het veld.
+      Veel insecten zijn aan het tsjilpen in het veld.
+
+981:     [yes],     yes,  closed, 'Ter',6     XP: [int(groot)]
+      Er zijn een paar grote tassen in de kamer.
+      Er zijn een paar tassen in de kamer.
+
+984:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Die jongen is een lafaard en een pester.
+      Die jongen is een pester.
+
+986:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Hij deed gisteren niets anders dan huilen.
+      Hij deed niets anders dan huilen.
+
+1007:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Vrouwen en mannen gaven niets om hem.
+      Vrouwen gaven niets om hem.
+
+1011:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Honden en katten hebben alle goede kwaliteiten van mensen zonder tegelijkertijd hun zwakheden te bezitten.
+      Honden hebben alle goede kwaliteiten van mensen zonder tegelijkertijd hun zwakheden te bezitten.
+
+1013:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Honden en alle huisdieren hebben alle goede kwaliteiten van mensen zonder tegelijkertijd hun zwakheden te bezitten.
+      Honden hebben alle goede kwaliteiten van mensen zonder tegelijkertijd hun zwakheden te bezitten.
+
+1019:     [yes],     yes,  closed, 'Ter',6     XP: [int(Frans)]
+      Een paar jongens op mijn Franse school maken mij belachelijk.
+      Een paar jongens op school maken mij belachelijk.
+
+1050:     [yes],     yes,  closed, 'Ter',5     XP: [int(geweldig),int(thuis)]
+      Iedere hond is een geweldige leeuw thuis.
+      Iedere hond is een leeuw thuis.
+
+1060:     [yes],     yes,  closed, 'Ter',10    XP: [int(gepassioneerd)]
+      Gepassioneerde liefde is alleen een uitvinding.
+      Liefde is alleen een uitvinding.
+
+1063:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Een paar van mijn beste vrienden zijn agenten en advocaten.
+      Een paar van mijn beste vrienden zijn agenten.
+
+1065:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Een paar van mijn beste vrienden zijn agenten en dokters.
+      Een paar van mijn beste vrienden zijn agenten.
+
+1087:     [yes],     yes,  closed, 'Ter',5     XP: [int(groot),int(pluizig)]
+      Een groot pluizig dier vluchtte uit de dierentuin.
+      Een groot dier vluchtte uit de dierentuin.
+
+1090:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Hij gaf me een ring en een horloge.
+      Hij gaf me een horloge.
+
+1092:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Ik wil een dozijn donuts kopen om ze aan mijn moeder te geven.
+      Ik wil een dozijn donuts kopen.
+
+1094:     [yes],     yes,  closed, 'Ter',11    XP: [int(Peter),isa(net,web),isa(web,net),isa(op@c2@web,web),isa(van@c1@muur,muur)]
+      De spin spint een web op de muur van peters kamer.
+      De spin spint een net.
+
+1096:     [yes],     yes,  closed, 'Ter',4     XP: [isa(netwerk,web),isa(web,netwerk),isa(and@abst(_4049074,_4049074@goed werken)@abst(_4049332,_4049332@groot)@erg@netwerk,netwerk)]
+      De spin spint een erg groot en goedgewerkt netwerk.
+      De spin spint een web.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1098:     [yes],     yes,  closed, 'Ter',4     XP: [int(dik)]
+      De spin spint een dik web.
+      De spin spint een web.
+
+1103:     [yes],     yes,  closed, 'Ter',8     XP: [isa(met@c1@brood@snee,snee)]
+      Ik smeer mosterd op een sneetje brood met boter.
+      Ik smeer mosterd op een sneetje brood.
+
+1109:     [yes],     yes,  closed, 'Ter',8     XP: [int(dapper),int(who@(be@mooi))]
+      Hij heeft een dappere dochter die mooi is.
+      Hij heeft een dochter die mooi is.
+
+1111:     [yes],     yes,  closed, 'Ter',5     XP: [int(koud),int(noordelijk)]
+      Een noordelijke koude wind is aan het waaien.
+      Een noordelijke wind is aan het waaien.
+
+1116:     [yes],     yes,  closed, 'Ter',5     XP: [int(bekwaam),int(professioneel)]
+      Tom is een bekwame professionele timmerman.
+      Tom is een bekwame timmerman.
+
+1122:     [yes],     yes,  closed, 'Ter',10    XP: [int(op warmen)]
+      Tom drinkt opgewarmde melk iedere ochtend.
+      Tom drinkt melk iedere ochtend.
+
+1126:     [yes],     yes,  closed, 'Ter',9     XP: []
+      We gaan een pizza en een frisdrank bestellen.
+      We gaan een pizza bestellen.
+
+1128:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Tom gaf zijn hond een bot omdat hij een brave jongen was.
+      Tom gaf zijn hond een bot.
+
+1134:     [yes],     yes,  closed, 'Ter',7     XP: [int(goed),isa(om@c1@fel@strijd,fel@strijd)]
+      Een felle strijd om de beste stoelen vond plaats in Monte Cassino.
+      Een felle strijd vond plaats in Monte Cassino.
+
+1136:     [yes],     yes,  closed, 'Ter',7     XP: [int(gouden),isa(om@c1@fel@strijd,fel@strijd)]
+      Een felle strijd om de gouden medaille vond plaats in Monte Cassino.
+      Een felle strijd vond plaats in Monte Cassino.
+
+1140:     [yes],     yes,  closed, 'Ter',4     XP: [int(zwaar)]
+      Ik was in het ziekenhuis voor een paar zware dagen.
+      Ik was in het ziekenhuis voor een paar dagen.
+
+1142:     [yes],     yes,  closed, 'Ter',25    XP: [int(af lopen)]
+      Ik was in het ziekenhuis voor een paar dagen afgelopen maand.
+      Ik was in het ziekenhuis voor een paar dagen.
+
+1155:     [yes],     yes,  closed, 'Ter',18    XP: []
+      Susan heeft een jurk gemaakt voor Jill voor haar bruiloft.
+      Susan heeft een jurk gemaakt voor Jill.
+
+1157:     [yes],     yes,  closed, 'Ter',32    XP: [isa(op@c5@primeur,primeur),isa(van@c3@bruiloft,bruiloft),isa(van@c4@dag,dag)]
+      Susan heeft een jurk gemaakt voor Jill voor een primeur op de dag van de bruiloft van haar vriend.
+      Susan heeft een jurk gemaakt voor Jill.
+
+1159:     [yes],     yes,  closed, 'Ter',23    XP: [isa(van@c3@bruiloft,bruiloft)]
+      Susan heeft een jurk gemaakt voor Jill voor de bruiloft van haar vriend.
+      Susan heeft een jurk gemaakt voor Jill.
+
+1171:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Een dolfijn en walvis is een zoogdier.
+      Een dolfijn is een zoogdier.
+
+1173:     [yes],     yes,  closed, 'Ter',18    XP: []
+      Er zijn een paar jongens die ijs kopen in het park.
+      Er zijn een paar jongens in het park.
+
+1177:     [yes],     yes,  closed, 'Ter',4     XP: [int(middelmatig)]
+      De jager schoot naar een middelmatig hert.
+      De jager schoot naar een hert.
+
+1179:     [yes],     yes,  closed, 'Ter',4     XP: [int(ziek)]
+      Tom heeft een paar zieke vrienden in Boston.
+      Tom heeft een paar vrienden in Boston.
+
+1186:     [yes],     yes,  closed, 'Ter',5     XP: [int(dor),int(vallen)]
+      Een gevallen dorre boom blokkeerde de weg.
+      Een gevallen boom blokkeerde de weg.
+
+1189:     [yes],     yes,  closed, 'Ter',4     XP: [int(onregelmatig)]
+      De stad staat op een onregelmatige vlakte.
+      De stad staat op een vlakte.
+
+1191:     [yes],     yes,  closed, 'Ter',4     XP: [int(rotsig)]
+      De stad staat op een rotsige vlakte.
+      De stad staat op een vlakte.
+
+1197:     [yes],     yes,  closed, 'Ter',16    XP: [int(mechanisch),isa(bij@a@ford@(mechanisch@training),mechanisch@training)]
+      Ik doe een mechanische training bij ford.
+      Ik doe een training bij ford.
+
+1202:     [yes],     yes,  closed, 'Ter',6     XP: [int(handbedien)]
+      Er lag een handbediende bandrecorder op de tafel.
+      Er lag een bandrecorder op de tafel.
+
+1206:     [yes],     yes,  closed, 'Ter',5     XP: [int(empathisch),int(klein)]
+      Een empathisch klein meisje kan zich inleven in de gevoelens van een vriend.
+      Een empathisch meisje kan zich inleven in de gevoelens van een vriend.
+
+1215:     [yes],     yes,  closed, 'Ter',17    XP: [int(constant),int(in@(the@maag)),int(scherp)]
+      Ineens voelde ik een scherpe constante pijn in mijn maag.
+      Ineens voelde ik een scherpe pijn in mijn maag.
+
+1217:     [yes],     yes,  closed, 'Ter',6     XP: [isa(roosteren@kalkoen@brood,brood)]
+      Ik at een broodje geroosterde kalkoen.
+      Ik at een broodje kalkoen.
+
+1219:     [yes],     yes,  closed, 'Ter',6     XP: [isa(frituren@kalkoen@brood,brood)]
+      Ik at een broodje gefrituurde kalkoen.
+      Ik at een broodje kalkoen.
+
+1227:     [yes],     yes,  closed, 'Ter',10    XP: [int(Duits)]
+      De overheid heeft een nieuwe belasting ingevoerd op Duitse wijn.
+      De overheid heeft een nieuwe belasting ingevoerd op wijn.
+
+1229:     [yes],     yes,  closed, 'Ter',10    XP: [int(beroemd)]
+      De overheid heeft een nieuwe belasting ingevoerd op beroemde wijn.
+      De overheid heeft een nieuwe belasting ingevoerd op wijn.
+
+1231:     [yes],     yes,  closed, 'Ter',10    XP: [isa(voor@2004@produceren@wijn,wijn)]
+      De overheid heeft een nieuwe belasting ingevoerd op wijn geproduceerd voor 2004.
+      De overheid heeft een nieuwe belasting ingevoerd op wijn.
+
+1233:     [yes],     yes,  closed, 'Ter',7     XP: [int(politiek),isa(door@c1@piraat,piraat)]
+      Ze noemden president roosevelt een piraat door zijn politieke acties.
+      Ze noemden president roosevelt een piraat.
+
+1235:     [yes],     yes,  closed, 'Ter',5     XP: [int(Cubaans),int(duur)]
+      Ik rook een cubaanse dure sigaar.
+      Ik rook een cubaanse sigaar.
+
+1237:     [yes],     yes,  closed, 'Ter',5     XP: [int(Cubaans),int(zwart)]
+      Ik rook een cubaanse zwarte sigaar.
+      Ik rook een cubaanse sigaar.
+
+1239:     [yes],     yes,  closed, 'Ter',5     XP: [int(Cubaans),int(geurig)]
+      Ik rook een cubaanse geurige sigaar.
+      Ik rook een cubaanse sigaar.
+
+1244:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Madonna’s concert trok een groot en luid publiek.
+      Madonna’s concert trok een groot publiek.
+
+1246:     [yes],     yes,  closed, 'Ter',6     XP: [int(voedzaam)]
+      Ze nam een voedzame en dure eiwitshake.
+      Ze nam een eiwitshake.
+
+1254:     [yes],     yes,  closed, 'Ter',40    XP: []
+      Ik kocht een kado en een paar bloemen voor Tom.
+      Ik kocht een kado voor Tom.
+
+1258:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+      Hij dronk sinaasappelsap uit een witte fles.
+      Hij dronk sinaasappelsap uit een fles.
+
+1260:     [yes],     yes,  closed, 'Ter',4     XP: [int(klein)]
+      Hij woont in een klein dorp.
+      Hij woont in een dorp.
+
+1267:     [yes],     yes,  closed, 'Ter',18    XP: [int(lang),isa(met@c1@(lang@vrouw),lang@vrouw)]
+      Ik zie een man en een lange vrouw met een dochter.
+      Ik zie een man en een vrouw.
+
+Error in gen_quant_tt
+1270:     [yes],     yes,  closed, 'Ter',11    XP: [int(rennen)]
+      Ik zie een man en een rennende vrouw.
+      Ik zie een man en een vrouw.
+
+1272:     [yes],     yes,  closed, 'Ter',11    XP: [int(elegant)]
+      Ik zie een man en een elegante vrouw.
+      Ik zie een man en een vrouw.
+
+1274:     [yes],     yes,  closed, 'Ter',4     XP: [isa(bij@Carlos@bier,bier)]
+      Tom drinkt een biertje bij carlos.
+      Tom drinkt een biertje.
+
+1276:     [yes],     yes,  closed, 'Ter',2     XP: [isa(rijst bier,bier)]
+      Tom drinkt een rijstbiertje.
+      Tom drinkt een biertje.
+
+1280:     [yes],     yes,  closed, 'Ter',4     XP: [int(licht)]
+      Tom drinkt een licht biertje.
+      Tom drinkt een biertje.
+
+1282:     [yes],     yes,  closed, 'Ter',14    XP: [int(uit@'Londen'),int(zwart)]
+      Ik heb een zwart boek uit Londen besteld.
+      Ik heb een boek uit Londen besteld.
+
+1284:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Ik gaf Tom een kalmeringsmiddel en thee.
+      Ik gaf Tom een kalmeringsmiddel.
+
+1293:     [yes],     yes,  closed, 'Ter',12    XP: [isa(met@c2@groente burger,groente burger)]
+      Ik heb een groenteburger met kaas besteld.
+      Ik heb een groenteburger besteld.
+
+1297:     [yes],     yes,  closed, 'Ter',10    XP: [int(middenin@(the@tuin)),int(rood)]
+      Er was een rood bloembed middenin de tuin.
+      Er was een bloembed middenin de tuin.
+
+1300:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Tom droeg mijn jeans en een cowboyhoed.
+      Tom droeg jeans en een cowboyhoed.
+
+1304:     [yes],     yes,  closed, 'Ter',12    XP: [int(doorsnee)]
+      Je kunt taal niet scheiden van cultuur.
+      Je kunt taal niet scheiden van doorsnee cultuur.
+
+1317:     [yes],     yes,  closed, 'Ter',10    XP: [int(eerstejaars)]
+      Als studenten niet komen, start de les niet.
+      Als eerstejaars studenten niet komen, start de les niet.
+
+1323:     [yes],     yes,  closed, 'Ter',13    XP: [int(Amerikaans),int(rauw)]
+      Tom heeft nooit rauw paardenvlees gegeten.
+      Tom heeft nooit rauw Amerikaans paardenvlees gegeten.
+
+1325:     [yes],     yes,  closed, 'Ter',13    XP: [int(rauw),int(volwassen)]
+      Tom heeft nooit rauw paardenvlees gegeten.
+      Tom heeft nooit rauw volwassen paardenvlees gegeten.
+
+1327:     [yes],     yes,  closed, 'Ter',12    XP: [int(rauw)]
+      Tom heeft nooit paardenvlees gegeten.
+      Tom heeft nooit rauw paardenvlees gegeten.
+
+1331:     [yes],     yes,  closed, 'Ter',10    XP: [isa(te@duur@fiets,fiets)]
+      Ik kan geen fiets kopen.
+      Ik kan geen te dure fiets kopen.
+
+1333:     [yes],     yes,  closed, 'Ter',11    XP: [int(blauw),int(groot)]
+      Ik kan geen fiets kopen.
+      Ik kan geen blauwe grote fiets kopen.
+
+1338:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Tom kan geen fiets besturen.
+      Tom kan geen fiets besturen die niet bestegen kan worden door Jim.
+
+1341:     [yes],     yes,  closed, 'Ter',11    XP: [int(heel),int(oud)]
+      Tom kan geen fiets besturen.
+      Tom kan geen hele oude fiets besturen.
+
+1343:     [yes],     yes,  closed, 'Ter',12    XP: [int(koud)]
+      Ik hield niet van bier toen.
+      Ik hield niet van koud bier toen.
+
+1345:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Tom heeft geen zus.
+      Tom heeft geen zus die in New York woont.
+
+1347:     [yes],     yes,  closed, 'Ter',4     XP: [int(mooi)]
+      Tom heeft geen zus.
+      Tom heeft geen mooie zus.
+
+1351:     [yes],     yes,  closed, 'Ter',3     XP: [isa(optie,keuze)]
+      Ik heb geen keuze.
+      Ik heb geen optie.
+
+1355:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom is geen kind meer.
+      Tom is geen kind meer.
+
+Error in gen_quant_tt
+1358:     [yes],     yes,  closed, 'Ter',4     XP: [int(blauw kleurig)]
+      Chris had geen auto.
+      Chris had geen blauwkleurige auto.
+
+1360:     [yes],     yes,  closed, 'Ter',4     XP: [int(mooi)]
+      Chris had geen auto.
+      Chris had geen mooie auto.
+
+1362:     [yes],     yes,  closed, 'Ter',4     XP: [int(snel)]
+      Chris had geen auto.
+      Chris had geen snelle auto.
+
+1366:     [yes],     yes,  closed, 'Ter',4     XP: [int(enkel)]
+      Tom maakt geen fouten.
+      Tom maakt geen enkele fouten.
+
+1367:     [yes],     yes,  closed, 'Ter',5     XP: [int(enkel),int(fout)]
+      Tom maakt geen fouten.
+      Tom maakt geen enkele soort fouten.
+
+1368:     [yes],     yes,  closed, 'Ter',4     XP: [int(cruciaal)]
+      Tom maakt geen fouten.
+      Tom maakt geen cruciale fouten.
+
+1370:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Tom maakt geen fouten.
+      Tom maakt geen grote fouten.
+
+1372:     [yes],     yes,  closed, 'Ter',4     XP: [int(algemeen)]
+      Ze heeft geen gevoel voor mode.
+      Ze heeft geen algemeen gevoel voor mode.
+
+1380:     [yes],     yes,  closed, 'Ter',10    XP: [int(goed)]
+      Ik heb geen ideeën meer.
+      Ik heb geen betere ideeën meer.
+
+1381:     [yes],     yes,  closed, 'Ter',10    XP: [int(nieuw)]
+      Ik heb geen ideeën meer.
+      Ik heb geen nieuwe ideeën meer.
+
+Error in gen_quant_tt
+1383:     [yes],     yes,  closed, 'Ter',10    XP: [int(belangrijk)]
+      Ik heb geen ideeën meer.
+      Ik heb geen belangrijke ideeën meer.
+
+1385:     [yes],     yes,  closed, 'Ter',12    XP: [int(huidig)]
+      Ik kan de psychologie van adolescenten niet begrijpen.
+      Ik kan de psychologie van huidige adolescenten niet begrijpen.
+
+1387:     [yes],     yes,  closed, 'Ter',12    XP: [int(veel)]
+      Ik kan de psychologie van adolescenten niet begrijpen.
+      Ik kan de psychologie van de meeste adolescenten niet begrijpen.
+
+1388:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik kan de psychologie van adolescenten niet begrijpen.
+      Ik kan de psychologie van een paar adolescenten niet begrijpen.
+
+1392:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Hij heeft geen interesse in politiek.
+      Hij heeft geen goede interesse in politiek.
+
+1394:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Hij heeft geen interesse in politiek.
+      Hij heeft geen grote interesse in politiek.
+
+1396:     [yes],     yes,  closed, 'Ter',4     XP: [int(enkel)]
+      Hij heeft geen interesse in politiek.
+      Hij heeft geen enkele interesse in politiek.
+
+1397:     [yes],     yes,  closed, 'Ter',3     XP: [isa(wens,verlangen)]
+      Tom heeft geen wens om te studeren.
+      Tom heeft geen verlangen om te studeren.
+
+1403:     [yes],     yes,  closed, 'Ter',14    XP: [int(officieel)]
+      Tom woont eigenlijk niet binnen de Boston stadsgrenzen.
+      Tom woont eigenlijk niet binnen de officiële Boston stadsgrenzen.
+
+1409:     [yes],     yes,  closed, 'Ter',7     XP: [int(genoeg),int(goed)]
+      Ik heb niet genoeg vrienden.
+      Ik heb niet genoeg goede vrienden.
+
+1411:     [yes],     yes,  closed, 'Ter',7     XP: [int(genoeg),int(loyaal)]
+      Ik heb niet genoeg vrienden.
+      Ik heb niet genoeg loyale vrienden.
+
+1430:     [yes],     yes,  closed, 'Ter',34    XP: [int(roken)]
+      Tom houdt er niet van om vis te eten.
+      Tom houdt er niet van om gerookte vis te eten.
+
+1432:     [yes],     yes,  closed, 'Ter',34    XP: [int(koken)]
+      Tom houdt er niet van om vis te eten.
+      Tom houdt er niet van om gekookte vis te eten.
+
+1434:     [yes],     yes,  closed, 'Ter',95    XP: [int(koken)]
+      Tom houdt er niet van om vis te eten.
+      Tom houdt er niet van om gekookte vis te eten in restaurants.
+
+1436:     [yes],     yes,  closed, 'Ter',11    XP: [isa(idioom,taal),isa(taal,idioom)]
+      Je kunt taal niet scheiden van cultuur.
+      Je kunt idioom en taalspraak niet scheiden van cultuur.
+
+1438:     [yes],     yes,  closed, 'Ter',10    XP: [int(klein)]
+      Ze is geen baby meer.
+      Ze is geen kleine baby meer.
+
+1440:     [yes],     yes,  closed, 'Ter',10    XP: [int(jong)]
+      Ze is geen baby meer.
+      Ze is geen jonge baby meer.
+
+1442:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ze is geen baby meer.
+      Ze is geen baby meer die luiers draagt.
+
+1445:     [yes],     yes,  closed, 'Ter',10    XP: [int(krijsen)]
+      Ze is geen baby meer.
+      Ze is geen krijsende baby meer.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+1447:     [yes],     yes,  closed, 'Ter',1     XP: [isa(baby,zuigeling),isa(zuigeling,baby)]
+      Je bent niet langer een baby.
+      Je bent niet langer een zuigeling.
+
+1450:     [yes],     yes,  closed, 'Ter',11    XP: [int(sterk),int(volledig)]
+      Ik wil geen volledig kunstgebit krijgen.
+      Ik wil geen volledig sterk kunstgebit krijgen.
+
+1452:     [yes],     yes,  closed, 'Ter',11    XP: [int(perfect),int(volledig)]
+      Ik wil geen volledig kunstgebit krijgen.
+      Ik wil geen volledig perfect kunstgebit krijgen.
+
+1467:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ze is nooit verliefd geworden.
+      Ze is nooit enorm verliefd geworden.
+
+1468:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ze is nooit verliefd geworden.
+      Ze is nooit fantastisch verliefd geworden.
+
+1489:     [yes],     yes,  closed, 'Ter',4     XP: [int(serieus)]
+      Ik heb geen drankprobleem.
+      Ik heb geen serieus drankprobleem.
+
+1496:     [yes],     yes,  closed, 'Ter',9     XP: [isa(brandstof,entiteit)]
+      Benzine is niet langer meer een goedkope brandstof.
+      Benzine is niet langer meer een goedkope entiteit.
+
+1500:     [yes],     yes,  closed, 'Ter',14    XP: [int(verschrikkelijk)]
+      Tom wil niet de rest van zijn leven in de gevangenis spenderen.
+      Tom wil niet de rest van zijn leven in de verschrikkelijke gevangenis spenderen.
+
+1502:     [yes],     yes,  closed, 'Ter',14    XP: [int(groot)]
+      Tom wil niet de rest van zijn leven in de gevangenis spenderen.
+      Tom wil niet de rest van zijn leven in de grote gevangenis spenderen.
+
+1504:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Tom wil niet de rest van zijn leven in de gevangenis spenderen.
+      Tom wil niet de rest van zijn leven in de gevangenis spenderen voor beroving.
+
+1509:     [yes],     yes,  closed, 'Ter',15    XP: []
+      Tom wilde geen oorlog voeren.
+      Tom wilde geen oorlog voeren en lijden.
+
+1512:     [yes],     yes,  closed, 'Ter',10    XP: [int(continentel)]
+      Tom wilde geen oorlog voeren.
+      Tom wilde geen continentele oorlog voeren.
+
+1513:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Tom wilde geen oorlog voeren.
+      Tom wilde geen oorlog voeren in canada.
+
+1515:     [yes],     yes,  closed, 'Ter',10    XP: [int(hard)]
+      Maak alsjeblieft geen geluid.
+      Maak alsjeblieft geen hard geluid.
+
+1516:     [yes],     yes,  closed, 'Ter',10    XP: [int(zoemen)]
+      Maak alsjeblieft geen geluid.
+      Maak alsjeblieft geen zoemend geluid.
+
+1518:     [yes],     yes,  closed, 'Ter',6     XP: [int(slecht)]
+      De meeste mensen houden niet van ziekenhuizen.
+      De meeste mensen houden niet van slechte ziekenhuizen.
+
+1520:     [yes],     yes,  closed, 'Ter',15    XP: [isa(kliniek,ziekenhuis),isa(ziekenhuis,kliniek)]
+      De meeste mensen houden niet van ziekenhuizen.
+      De meeste mensen houden niet van kliniek.
+
+1530:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Mijn zus heeft geen auto.
+      Mijn zus heeft geen auto.
+
+1533:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      Mijn zus heeft geen auto.
+      Mijn zus heeft geen rode auto.
+
+1535:     [yes],     yes,  closed, 'Ter',4     XP: [int(duur)]
+      Mijn zus heeft geen auto.
+      Mijn zus heeft geen dure auto.
+
+1537:     [yes],     yes,  closed, 'Ter',1     XP: [isa(held,heldin),isa(heldin,held)]
+      Ik wil geen held zijn.
+      Ik wil geen heldin zijn.
+
+1550:     [yes],     yes,  closed, 'Ter',10    XP: [int(nieuw)]
+      Tom kon geen woord zeggen.
+      Tom kon geen nieuw woord zeggen.
+
+1552:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Ik zie geen ander plan van aanpak.
+      Ik zie geen ander plan van aanpak in het bijzonder.
+
+1553:     [yes],     yes,  closed, 'Ter',5     XP: [int(ander),int(wijs)]
+      Ik zie geen ander plan van aanpak.
+      Ik zie geen ander wijs plan van aanpak.
+
+1554:     [yes],     yes,  closed, 'Ter',6     XP: [int(ander),int(goed),int(plannen)]
+      Ik zie geen ander plan van aanpak.
+      Ik zie geen ander beter gepland plan van aanpak.
+
+1561:     [yes],     yes,  closed, 'Ter',4     XP: [int(fatsoenlijk)]
+      Ze hebben geen auto.
+      Ze hebben geen fatsoenlijke auto.
+
+1563:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Jonge mensen hebben geen deugden.
+      Jonge mensen hebben geen goede deugden.
+
+1565:     [yes],     yes,  closed, 'Ter',4     XP: [int(moreel)]
+      Jonge mensen hebben geen deugden.
+      Jonge mensen hebben geen morele deugden.
+
+1566:     [yes],     yes,  closed, 'Ter',4     XP: [int(nuttig)]
+      Jonge mensen hebben geen deugden.
+      Jonge mensen hebben geen nuttige deugden.
+
+1569:     [yes],     yes,  closed, 'Ter',4     XP: [int(on uit nodigen)]
+      We verwachtten geen gasten.
+      We verwachtten geen onuitgenodigde gasten.
+
+1572:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Ik hou niet van lente.
+      Ik hou niet van de lente die komt.
+
+1575:     [yes],     yes,  closed, 'Ter',6     XP: [int(country)]
+      Hij luisterde niet naar muziek.
+      Hij luisterde niet naar country muziek.
+
+1582:     [yes],     yes,  closed, 'Ter',6     XP: [isa(met@mij@gevaar,gevaar)]
+      Je bent niet in gevaar.
+      Je bent niet in gevaar met mij.
+
+1587:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom mocht zijn vader niet bezoeken in de gevangenis.
+      Tom mocht zijn vader niet bezoeken in de gevangenis.
+
+1589:     [yes],     yes,  closed, 'Ter',18    XP: [int(af lopen)]
+      Tom mocht zijn vader niet bezoeken in de gevangenis.
+      Tom mocht zijn vader niet bezoeken in de gevangenis sinds afgelopen jaar.
+
+1591:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Het was geen toeval.
+      Het was geen goed toeval.
+
+1593:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Het was geen toeval.
+      Het was daar geen toeval.
+
+1594:     [yes],     yes,  closed, 'Ter',4     XP: [int(onbelangrijk)]
+      Het was geen toeval.
+      Het was geen onbelangrijk toeval.
+
+Error in gen_quant_tt
+1597:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Ik zou nooit een schelpenpak dragen.
+      Ik zou nooit een schelpenpak dragen op het strand.
+
+1610:     [yes],     yes,  closed, 'Ter',16    XP: [isa(te@veel@overuur,overuur)]
+      Tom wilde geen overuren werken op kerstavond.
+      Tom wilde niet te veel overuren werken op kerstavond.
+
+1613:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom wilde geen overuren werken op kerstavond.
+      Tom wilde geen overuren werken op kerstavond.
+
+1614:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Tom wilde geen overuren werken op kerstavond.
+      Tom wilde geen overuren werken morgen op kerstavond.
+
+1619:     [yes],     yes,  closed, 'Ter',6     XP: [int(rood)]
+      Ik eet niet het klokhuis van een appel.
+      Ik eet niet het klokhuis van een rode appel.
+
+1621:     [yes],     yes,  closed, 'Ter',6     XP: [int(zuur)]
+      Ik eet niet het klokhuis van een appel.
+      Ik eet niet het klokhuis van een zure appel.
+
+1628:     [yes],     yes,  closed, 'Ter',27    XP: [int(lang),int(zo'n)]
+      Tom vond het niet leuk om in Boston te wonen.
+      Tom vond het niet leuk om voor zo’n lange tijd in Boston te wonen.
+
+1630:     [yes],     yes,  closed, 'Ter',28    XP: []
+      Tom vond het niet leuk om in Boston te wonen.
+      Tom vond het niet leuk om alleen in Boston te wonen.
+
+1640:     [yes],     yes,  closed, 'Ter',4     XP: [int(haalbaar)]
+      Tom had geen opties over.
+      Tom had geen haalbare opties over.
+
+1642:     [yes],     yes,  closed, 'Ter',4     XP: [int(makkelijk)]
+      Tom had geen opties over.
+      Tom had geen makkelijke opties over.
+
+1648:     [yes],     yes,  closed, 'Ter',10    XP: [int(groot)]
+      Ik wil geen teleurstelling zijn voor mijn ouders.
+      Ik wil geen grote teleurstelling zijn voor mijn ouders.
+
+1649:     [yes],     yes,  closed, 'Ter',10    XP: [int(enorm)]
+      Ik wil geen teleurstelling zijn voor mijn ouders.
+      Ik wil geen enorme teleurstelling zijn voor mijn ouders.
+
+1654:     [yes],     yes,  closed, 'Ter',4     XP: [int(professioneel)]
+      Nancy speelt geen tennis.
+      Nancy speelt geen professioneel tennis.
+
+1656:     [yes],     yes,  closed, 'Ter',11    XP: [int(slecht),int(tropisch)]
+      Een goede boom kan geen slechte vruchten werpen.
+      Een goede boom kan geen slechte tropische vruchten werpen.
+
+1658:     [yes],     yes,  closed, 'Ter',15    XP: [int(goed)]
+      Een goede boom kan geen slechte vruchten werpen.
+      Een goede boom kan geen slechte vruchten werpen als je ervoor zorgt.
+
+1672:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik hou niet van andere soorten drankjes.
+      Ik hou niet van andere soorten drankjes.
+
+1673:     [yes],     yes,  closed, 'Ter',14    XP: [int(ander),isa(zoet@drank@soort,soort)]
+      Ik hou niet van andere soorten drankjes.
+      Ik hou niet van andere soorten zoete drankjes.
+
+1674:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik kan niet met meisjes praten.
+      Ik kan niet met een paar meisjes praten.
+
+1686:     [yes],     yes,  closed, 'Ter',19    XP: []
+      Ik heb nooit eerder deze vissoort gezien.
+      Ik heb nooit eerder deze vissoort in het museum gezien.
+
+1691:     [yes],     yes,  closed, 'Ter',4     XP: [int(militair)]
+      Dit is geen ziekenhuis.
+      Dit is geen militair ziekenhuis.
+
+1693:     [yes],     yes,  closed, 'Ter',4     XP: [int(gemeentelijk)]
+      Dit is geen ziekenhuis.
+      Dit is geen gemeentelijk ziekenhuis.
+
+1695:     [yes],     yes,  closed, 'Ter',25    XP: []
+      Je zou geen beloftes moeten breken.
+      Je zou de beloftes die je niet moet breken niet moeten breken.
+
+1696:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik werk niet op zondagen.
+      Ik werk niet op zondagen omdat ik de hele dag uitrust.
+
+1702:     [yes],     yes,  closed, 'Ter',1     XP: [isa(partner,vriend),isa(vriend,partner)]
+      Ze heeft geen echte vrienden.
+      Ze heeft geen echte partners.
+
+1703:     [yes],     yes,  closed, 'Ter',1     XP: [isa(kennis,vriend),isa(vriend,kennis)]
+      Ze heeft geen echte vrienden.
+      Ze heeft geen echte kennissen.
+
+1706:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Ik hou niet van varkensvlees.
+      Ik hou helemaal niet van varkensvlees.
+
+1707:     [yes],     yes,  closed, 'Ter',10    XP: [int(blijven)]
+      Hij kan geen beslissing maken.
+      Hij kan geen blijvende beslissing maken.
+
+1708:     [yes],     yes,  closed, 'Ter',10    XP: [int(definitief)]
+      Hij kan geen beslissing maken.
+      Hij kan geen definitieve beslissing maken.
+
+1710:     [yes],     yes,  closed, 'Ter',10    XP: [int(laat)]
+      Hij kan geen beslissing maken.
+      Hij kan geen laatste beslissing maken.
+
+1712:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Hij kan geen beslissing maken.
+      Hij kan geen beslissing maken die er toe doet.
+
+1715:     [yes],     yes,  closed, 'Ter',10    XP: [int(wijs)]
+      Hij kan geen beslissing maken.
+      Hij kan geen wijze beslissing maken.
+
+1717:     [yes],     yes,  closed, 'Ter',10    XP: [int(fatsoenlijk)]
+      Hij kan geen beslissing maken.
+      Hij kan geen fatsoenlijke beslissing maken.
+
+1719:     [yes],     yes,  closed, 'Ter',4     XP: [int(onnodig)]
+      Katten dragen geen halsbanden.
+      Katten dragen geen onnodige halsbanden.
+
+1721:     [yes],     yes,  closed, 'Ter',4     XP: [int(strak)]
+      Katten dragen geen halsbanden.
+      Katten dragen geen strakke halsbanden.
+
+1723:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Katten dragen geen halsbanden.
+      Katten dragen geen halsbanden.
+
+1724:     [yes],     yes,  closed, 'Ter',11    XP: [int(infrarood),int(kleuren)]
+      Onze ogen kunnen geen infrarood licht zien.
+      Onze ogen kunnen geen infrarood gekleurd licht zien.
+
+1733:     [yes],     yes,  closed, 'Ter',8     XP: [isa(voor@c1@uitnodiging,uitnodiging)]
+      Ik kreeg niet eens een uitnodiging.
+      Ik kreeg niet eens een uitnodiging voor het feestje.
+
+1738:     [yes],     yes,  closed, 'Ter',7     XP: [int(geweldig),int(modern)]
+      Tom houdt niet van moderne kunst.
+      Tom houdt niet van moderne geweldige kunst.
+
+1743:     [yes],     yes,  closed, 'Ter',5     XP: [int(enkel),int(vast)]
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen enkele vaste drugs.
+
+1745:     [yes],     yes,  closed, 'Ter',4     XP: [int(droog)]
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen droge drugs.
+
+1750:     [yes],     yes,  closed, 'Ter',6     XP: [int(verstandig)]
+      We hebben niet veel keuze.
+      We hebben niet veel verstandige keuze.
+
+1757:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik heb geen brede heupen.
+      Ik heb toch geen brede heupen.
+
+1760:     [yes],     yes,  closed, 'Ter',4     XP: [int(groen)]
+      Een paard eet geen komkommersalade.
+      Een paard eet geen groene komkommersalade.
+
+1769:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Ze hield niet van het stadsleven.
+      Ze hield niet van het stadsleven en lucht.
+
+1770:     [yes],     yes,  closed, 'Ter',4     XP: [int(echt)]
+      Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+      Meneer Thomas had geen echt bezwaar tegen het gekozen worden van meneer white als voorzitter.
+
+1773:     [yes],     yes,  closed, 'Ter',17    XP: [int(middelbaar)]
+      Ik kan niet wachten tot school begint.
+      Ik kan niet wachten tot de middelbare school begint.
+
+1776:     [yes],     yes,  closed, 'Ter',4     XP: [int(grappig)]
+      Dit is geen spel.
+      Dit is geen grappig spel.
+
+1778:     [yes],     yes,  closed, 'Ter',3     XP: [isa(kansspel,spel)]
+      Dit is geen spel.
+      Dit is geen kansspel.
+
+1779:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Het heeft geen zin om met hem te praten.
+      Het heeft geen zin om met hem te praten.
+
+1780:     [yes],     yes,  closed, 'Ter',10    XP: [int(genoeg)]
+      Ik heb geen kennis van die vraag.
+      Ik heb niet genoeg kennis van die vraag.
+
+1781:     [yes],     yes,  closed, 'Ter',124   XP: [isa(van@die@vraag@kennis,kennis)]
+      Ik heb geen kennis van die vraag.
+      Ik heb geen kennis meer van die vraag.
+
+1782:     [yes],     yes,  closed, 'Ter',4     XP: [int(compleet)]
+      Ik heb geen kennis van die vraag.
+      Ik heb geen complete kennis van die vraag.
+
+1789:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik hou niet van verwende kinderen.
+      Ik hou niet van verwende kinderen.
+
+1790:     [yes],     yes,  closed, 'Ter',1     XP: [isa(kind,nakomeling),isa(nakomeling,kind)]
+      Ik hou niet van verwende kinderen.
+      Ik hou niet van verwende nakomelingen.
+
+1792:     [yes],     yes,  closed, 'Ter',4     XP: [int(normaal)]
+      Hij heeft geen familie.
+      Hij heeft geen normale familie.
+
+1794:     [yes],     yes,  closed, 'Ter',4     XP: [int(steunen)]
+      Hij heeft geen familie.
+      Hij heeft geen steunende familie.
+
+1796:     [yes],     yes,  closed, 'Ter',1     XP: [isa(grap,streek),isa(streek,grap)]
+      Het was geen grap.
+      Het was geen streek.
+
+1804:     [yes],     yes,  closed, 'Ter',5     XP: [int(blij),int(concluderen)]
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij concluderend einde.
+
+1806:     [yes],     yes,  closed, 'Ter',5     XP: [int(blij),int(briljant)]
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij briljant einde.
+
+1808:     [yes],     yes,  closed, 'Ter',5     XP: [int(blij),int(schattig)]
+      Dit verhaal heeft geen blij einde.
+      Dit verhaal heeft geen blij schattig einde.
+
+1810:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Iedereen is druk behalve ik.
+      Iedere persoon is druk behalve ik.
+
+1811:     [yes],     yes,  closed, 'Ter',10    XP: [int(hier)]
+      Iedereen is druk behalve ik.
+      Iedereen hier is druk behalve ik.
+
+1814:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Hij maakt geen geheim van zijn gevoelens.
+      Hij maakt geen groot geheim van zijn gevoelens.
+
+1816:     [yes],     yes,  closed, 'Ter',4     XP: [int(klein)]
+      Hij maakt geen geheim van zijn gevoelens.
+      Hij maakt geen klein geheim van zijn gevoelens.
+
+1819:     [yes],     yes,  closed, 'Ter',4     XP: [int(fatsoenlijk)]
+      Ik bezit geen gitaar.
+      Ik bezit geen fatsoenlijke gitaar.
+
+1825:     [yes],     yes,  closed, 'Ter',4     XP: [int(zacht)]
+      Ik heb geen bedden nodig.
+      Ik heb geen zachte bedden nodig.
+
+1827:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik heb geen bedden nodig.
+      Ik heb jouw bedden niet nodig.
+
+1829:     [yes],     yes,  closed, 'Ter',7     XP: [int(a_few),int(goed)]
+      Niet een paar leerlingen konden het probleem oplossen.
+      Niet een paar goede leerlingen konden het probleem oplossen.
+
+1831:     [yes],     yes,  closed, 'Ter',10    XP: [int(verlegen)]
+      Je bent geen kind meer.
+      Je bent geen verlegen kind meer.
+
+1832:     [yes],     yes,  closed, 'Ter',10    XP: [int(klein)]
+      Je bent geen kind meer.
+      Je bent geen klein kind meer.
+
+1834:     [yes],     yes,  closed, 'Ter',6     XP: [int(rood)]
+      Ik hou niet van zijn smaak in kleur.
+      Ik hou niet van zijn smaak in rode kleur.
+
+1840:     [yes],     yes,  closed, 'Ter',5     XP: [int(lang),int(mooi)]
+      Tom leefde geen lang leven.
+      Tom leefde geen lang mooi leven.
+
+1842:     [yes],     yes,  closed, 'Ter',4     XP: [int(staren)]
+      We maken geen fouten.
+      We maken geen starende fouten.
+
+1844:     [yes],     yes,  closed, 'Ter',4     XP: []
+      We maken geen fouten.
+      We maken geen fouten die we niet kunnen oplossen.
+
+1848:     [yes],     yes,  closed, 'Ter',10    XP: []
+      We maken geen fouten.
+      We maken nooit fouten.
+
+1849:     [yes],     yes,  closed, 'Ter',13    XP: [int(duidelijk),int(genoeg)]
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg duidelijke informatie om een beslissing te maken.
+
+1852:     [yes],     yes,  closed, 'Ter',13    XP: [int(accuraat),int(genoeg)]
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg accurate informatie om een beslissing te maken.
+
+1853:     [yes],     yes,  closed, 'Ter',13    XP: [int(echt),int(genoeg)]
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg echte informatie om een beslissing te maken.
+
+1854:     [yes],     yes,  closed, 'Ter',13    XP: [int(aanzienlijk),int(genoeg)]
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg aanzienlijke informatie om een beslissing te maken.
+
+1855:     [yes],     yes,  closed, 'Ter',13    XP: [int(genoeg),int(specifiek)]
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg specifieke informatie om een beslissing te maken.
+
+1861:     [yes],     yes,  closed, 'Ter',10    XP: [int(klein),isa(jongen,kind)]
+      Tom is geen kind meer.
+      Tom is geen kleine jongen meer.
+
+1863:     [yes],     yes,  closed, 'Ter',9     XP: [isa(baby,kind)]
+      Tom is geen kind meer.
+      Tom is geen baby meer.
+
+1865:     [yes],     yes,  closed, 'Ter',10    XP: [int(klein)]
+      Tom is geen kind meer.
+      Tom is geen klein kind meer.
+
+1866:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom is geen kind meer.
+      Tom is geen kind meer.
+
+1867:     [yes],     yes,  closed, 'Ter',9     XP: [isa(peuter,kind)]
+      Tom is geen kind meer.
+      Tom is geen peuter meer.
+
+1879:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Het wereldgerechtshof heeft geen macht om zijn bevelen uit te voeren maar zijn beslissingen hebben traditioneel enig diplomatiek gewicht.
+      Het wereldgerechtshof heeft geen macht om zijn bevelen uit te voeren maar zijn beslissingen hebben traditioneel enig diplomatiek gewicht.
+
+1885:     [yes],     yes,  closed, 'Ter',10    XP: [int(koud)]
+      Het park is druk ieder seizoen.
+      Het park is druk ieder koud seizoen.
+
+1894:     [yes],     yes,  closed, 'Ter',26    XP: []
+      Tom leidt echt geen makkelijk leven.
+      Tom leidt echt geen makkelijk leven al die jaren.
+
+1895:     [yes],     yes,  closed, 'Ter',11    XP: [int(makkelijk),isa(every@dag@leven,leven)]
+      Tom leidt echt geen makkelijk leven.
+      Tom leidt echt geen makkelijk leven iedere dag.
+
+1898:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Tom leidt echt geen makkelijk leven.
+      Tom leidt echt geen makkelijk en vreedzaam leven.
+
+1900:     [yes],     yes,  closed, 'Ter',11    XP: [int(makkelijk),int(vrij)]
+      Tom leidt echt geen makkelijk leven.
+      Tom leidt echt geen makkelijk vrij leven.
+
+1902:     [yes],     yes,  closed, 'Ter',11    XP: [int(gewoon),int(makkelijk)]
+      Tom leidt echt geen makkelijk leven.
+      Tom leidt echt geen makkelijk gewoon leven.
+
+1903:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Je houdt niet van liefdesverhalen.
+      Je houdt niet van liefdesverhalen en verdrietige eindes.
+
+1910:     [yes],     yes,  closed, 'Ter',4     XP: [int(hard)]
+      Deze soep heeft geen substantie.
+      Deze soep heeft geen harde substantie.
+
+1912:     [yes],     yes,  closed, 'Ter',4     XP: [int(voedzaam)]
+      Deze soep heeft geen substantie.
+      Deze soep heeft geen voedzame substantie.
+
+1922:     [yes],     yes,  closed, 'Ter',9     XP: [isa(baby,kind)]
+      Ik kan geen luide kinderen uitstaan.
+      Ik kan geen luide baby’s uitstaan.
+
+1940:     [yes],     yes,  closed, 'Ter',4     XP: [int(mogelijk)]
+      Je bent absoluut perfect, op iedere manier.
+      Je bent absoluut perfect, op iedere mogelijke manier.
+
+1942:     [yes],     yes,  closed, 'Ter',4     XP: [int(denkbaar)]
+      Je bent absoluut perfect, op iedere manier.
+      Je bent absoluut perfect, op iedere denkbare manier.
+
+1944:     [yes],     yes,  closed, 'Ter',4     XP: [int(uitstekend)]
+      Je bent absoluut perfect, op iedere manier.
+      Je bent absoluut perfect, op iedere uitstekende manier.
+
+1946:     [yes],     yes,  closed, 'Ter',16    XP: [int(efficiënt)]
+      Wetenschappers hebben nog geen vaccin voor kanker gevonden.
+      Wetenschappers hebben nog geen efficient vaccin voor kanker gevonden.
+
+1950:     [yes],     yes,  closed, 'Ter',18    XP: [int(blond)]
+      Ik heb nog nooit eerder een vriendin gehad.
+      Ik heb nog nooit eerder een blonde vriendin gehad.
+
+1952:     [yes],     yes,  closed, 'Ter',18    XP: [int(geel harig)]
+      Ik heb nog nooit eerder een vriendin gehad.
+      Ik heb nog nooit eerder een geelharige vriendin gehad.
+
+1954:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Ik heb nog nooit eerder een vriendin gehad.
+      Ik heb nog nooit eerder een vriendin gehad langer dan ik.
+
+1956:     [yes],     yes,  closed, 'Ter',23    XP: [int(middelbaar)]
+      Ik heb nog nooit eerder een vriendin gehad.
+      Ik heb nog nooit eerder een vriendin gehad op de middelbare school.
+
+1958:     [yes],     yes,  closed, 'Ter',17    XP: []
+      Ik heb nog nooit in een vliegtuig gevlogen.
+      Ik heb nog nooit in een vliegtuig gevlogen omdat ik bang ben.
+
+1959:     [yes],     yes,  closed, 'Ter',17    XP: []
+      Ik heb nog nooit in een vliegtuig gevlogen.
+      Ik heb nog nooit in een vliegtuig gevlogen omdat er geen geld voor een kaartje was.
+
+1960:     [yes],     yes,  closed, 'Ter',12    XP: [int(democratisch)]
+      Hij zal nooit toegeven aan de druk van een politicus.
+      Hij zal nooit toegeven aan de druk van een democratisch politicus.
+
+1962:     [yes],     yes,  closed, 'Ter',12    XP: [int(oneerlijk)]
+      Hij zal nooit toegeven aan de druk van een politicus.
+      Hij zal nooit toegeven aan de druk van een oneerlijke politicus.
+
+1963:     [yes],     yes,  closed, 'Ter',4     XP: [int(serieus)]
+      Ik heb geen bezwaar tegen je plan.
+      Ik heb geen serieus bezwaar tegen je plan.
+
+1965:     [yes],     yes,  closed, 'Ter',4     XP: [int(echt)]
+      Ik heb geen bezwaar tegen je plan.
+      Ik heb geen echt bezwaar tegen je plan.
+
+1967:     [yes],     yes,  closed, 'Ter',4     XP: [int(krachtig)]
+      Ik heb geen bezwaar tegen je plan.
+      Ik heb geen krachtig bezwaar tegen je plan.
+
+1969:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik heb niemand gezien behalve jij.
+      Ik heb niemand gezien behalve jij.
+
+1970:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik heb niemand gezien behalve jij.
+      Ik heb niemand gezien behalve jij.
+
+1980:     [yes],     yes,  closed, 'Ter',4     XP: [int(angst)]
+      Die jongen toonde geen angst.
+      Die jongen toonde geen greintje angst.
+
+1982:     [yes],     yes,  closed, 'Ter',4     XP: [int(merkbaar)]
+      Die jongen toonde geen angst.
+      Die jongen toonde geen merkbare angst.
+
+1984:     [yes],     yes,  closed, 'Ter',7     XP: [int(genoeg),int(goed)]
+      Tom heeft niet genoeg ervaring.
+      Tom heeft niet genoeg goede ervaring.
+
+1990:     [yes],     yes,  closed, 'Ter',21    XP: []
+      Het probleem is geen overweging waard.
+      Het probleem is mijn overweging helemaal niet waard.
+
+1991:     [yes],     yes,  closed, 'Ter',21    XP: []
+      Het probleem is geen overweging waard.
+      Het probleem is jouw overweging niet waard.
+
+2004:     [yes],     yes,  closed, 'Ter',34    XP: []
+      Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
+      Als Esperanto een makkelijke taal was had ik geen proeflezer nodig voor hulp.
+
+2007:     [yes],     yes,  closed, 'Ter',4     XP: [int(vrij)]
+      Ik heb geen ruimte voor een dessert.
+      Ik heb geen vrije ruimte voor een dessert.
+
+2009:     [yes],     yes,  closed, 'Ter',10    XP: [int(genoeg)]
+      Ik heb geen ruimte voor een dessert.
+      Ik heb niet genoeg ruimte voor een dessert.
+
+2010:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Over smaak valt niet te twisten.
+      Over smaak valt eigenlijk niet te twisten.
+
+2011:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Over smaak valt eigenlijk niet te twisten.
+      Over smaak valt niet te twisten.
+
+2020:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik wil geen nieuwe vrienden maken!
+      Ik wil geen nieuwe vrienden maken!
+
+2021:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik wil geen nieuwe vrienden maken!
+      Ik wil geen nieuwe vrienden maken die me afleiden van studeren!
+
+2023:     [yes],     yes,  closed, 'Ter',5     XP: [int(specifiek),int(strategisch)]
+      Hij heeft geen specifiek doel.
+      Hij heeft geen specifiek strategisch doel.
+
+2025:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Hij heeft geen specifiek doel.
+      Hij heeft geen specifiek doel.
+
+2026:     [yes],     yes,  closed, 'Ter',5     XP: [int(goed),int(specifiek)]
+      Hij heeft geen specifiek doel.
+      Hij heeft geen specifiek goed doel.
+
+2030:     [yes],     yes,  closed, 'Ter',14    XP: [int(dagelijks)]
+      Ik kan niet afzien van koffie bij het ontbijt.
+      Ik kan niet afzien van koffie bij het dagelijkse ontbijt.
+
+2033:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik wil geen liefdadigheid.
+      Ik wil jouw liefdadigheid niet.
+
+2037:     [yes],     yes,  closed, 'Ter',10    XP: [int(vloeibaar)]
+      Ik kan geen melk drinken.
+      Ik kan geen vloeibare melk drinken.
+
+2039:     [yes],     yes,  closed, 'Ter',18    XP: [int(heel)]
+      Ik kan me geen leven zonder jou voorstellen.
+      Ik kan me mijn hele leven niet zonder jou voorstellen.
+
+2042:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ik hou niet van het plaatsen van foto’s op facebook.
+      Ik hou niet van het plaatsen van foto’s op facebook omdat ik niet weet wie er kijkt.
+
+2043:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Ik hou niet van kinderen.
+      Ik hou helemaal niet van kinderen.
+
+2044:     [yes],     yes,  closed, 'Ter',6     XP: [int(verwennen)]
+      Ik hou niet van kinderen.
+      Ik hou niet van verwende kinderen.
+
+2046:     [yes],     yes,  closed, 'Ter',6     XP: [int(jong)]
+      Ik hou niet van kinderen.
+      Ik hou niet van jonge kinderen.
+
+2048:     [yes],     yes,  closed, 'Ter',14    XP: [isa(in@c2@(leven@walvis),leven@walvis)]
+      Ik heb nog nooit een levende walvis gezien.
+      Ik heb nog nooit een levende walvis in water gezien.
+
+2050:     [yes],     yes,  closed, 'Ter',13    XP: [int(leven),int(wit)]
+      Ik heb nog nooit een levende walvis gezien.
+      Ik heb nog nooit een levende witte walvis gezien.
+
+2057:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Mike kan niet goed honkbal spelen.
+      Mike kan niet goed honkbal spelen op school.
+
+2059:     [yes],     yes,  closed, 'Ter',4     XP: [int(nieuw)]
+      Iedere student heeft gratis toegang tot de bibliotheek.
+      Iedere nieuwe student heeft gratis toegang tot de bibliotheek.
+
+2061:     [yes],     yes,  closed, 'Ter',4     XP: [int(middelbaar)]
+      Iedere student heeft gratis toegang tot de bibliotheek.
+      Iedere middelbare student heeft gratis toegang tot de bibliotheek.
+
+2063:     [yes],     yes,  closed, 'Ter',4     XP: [int(echt)]
+      Ik verspil geen munitie.
+      Ik verspil geen echte munitie.
+
+2066:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Ik verspil geen munitie.
+      Ik verspil geen goede munitie.
+
+2070:     [yes],     yes,  closed, 'Ter',1     XP: [isa(moeilijkheid,probleem),isa(probleem,moeilijkheid)]
+      Ik wil gewoon simpel en blij leven, zonder problemen..
+      Ik wil gewoon simpel en blij leven, zonder moeilijkheden.
+
+2073:     [yes],     yes,  closed, 'Ter',1     XP: [isa(buidel,zak),isa(zak,buidel)]
+      Een auto, zeg je! Hij kan zich niet eens een zak uien veroorloven.
+      Een auto, zeg je! Hij kan zich niet eens een buidel uien veroorloven.
+
+2075:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Iedere ochtend vroeg ging die vrouw naar het strand en rende drie mijl.
+      Iedere vroege ochtend ging die vrouw naar het strand en rende drie mijl.
+
+2079:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      Er waren geen sterren te zien in de lucht.
+      Er waren geen rode sterren te zien in de lucht.
+
+2081:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Ze heeft geen gevoel voor humor.
+      Ze heeft geen goed gevoel voor humor.
+
+2091:     [yes],     yes,  closed, 'Ter',7     XP: [int(genoeg),int(mannelijk)]
+      Tom heeft niet genoeg vrienden.
+      Tom heeft niet genoeg mannelijke vrienden.
+
+2095:     [yes],     yes,  closed, 'Ter',18    XP: []
+      Je hoeft geen genie te zijn.
+      Je hoeft geen genie te zijn zoals anderen.
+
+2096:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Hij speelt geen voetbal.
+      Hij speelt geen voetbal in Europa.
+
+2098:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom houdt niet van wiskunde.
+      Tom houdt niet van wiskunde.
+
+2100:     [yes],     yes,  closed, 'Ter',12    XP: [int(mooi)]
+      Ik kon me de titel van dat liedje niet herinneren.
+      Ik kon me de titel van dat mooie liedje niet herinneren.
+
+2101:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik kon me de titel van dat liedje niet herinneren.
+      Ik kon me al jaren de titel van dat liedje niet herinneren.
+
+2102:     [yes],     yes,  closed, 'Ter',14    XP: [int(klein)]
+      Ik hou niet echt van paarden.
+      Ik hou niet echt van kleine en langzame paarden.
+
+2104:     [yes],     yes,  closed, 'Ter',14    XP: [int(zwart)]
+      Ik hou niet echt van paarden.
+      Ik hou niet echt van zwarte en lange paarden.
+
+2106:     [yes],     yes,  closed, 'Ter',12    XP: [int(wild)]
+      Ik hou niet echt van paarden.
+      Ik hou niet echt van wilde paarden.
+
+2108:     [yes],     yes,  closed, 'Ter',8     XP: [isa(in@c1@koriander,koriander)]
+      Koreanen houden niet van koriander.
+      Koreanen houden niet van koriander in soep.
+
+2110:     [yes],     yes,  closed, 'Ter',6     XP: [int(rauw)]
+      Koreanen houden niet van koriander.
+      Koreanen houden niet van rauwe koriander.
+
+2113:     [yes],     yes,  closed, 'Ter',5     XP: [int(knap),int(vast)]
+      Tom heeft geen vaste vriendin.
+      Tom heeft geen vaste knappe vriendin.
+
+2115:     [yes],     yes,  closed, 'Ter',5     XP: [int(favoriet),int(vast)]
+      Tom heeft geen vaste vriendin.
+      Tom heeft geen vaste favoriete vriendin.
+
+2119:     [yes],     yes,  closed, 'Ter',4     XP: [int(klein)]
+      Iedere misdaad moet bestraft worden.
+      Iedere kleine misdaad moet bestraft worden.
+
+2121:     [yes],     yes,  closed, 'Ter',4     XP: [int(geweldadig)]
+      Iedere misdaad moet bestraft worden.
+      Iedere geweldadige misdaad moet bestraft worden.
+
+2129:     [yes],     yes,  closed, 'Ter',10    XP: [int(schoon)]
+      Ik heb geen kleren om naar het feest te gaan.
+      Ik heb geen schone kleren om naar het feest te gaan.
+
+2131:     [yes],     yes,  closed, 'Ter',10    XP: [int(leuk)]
+      Ik heb geen kleren om naar het feest te gaan.
+      Ik heb geen leuke kleren om naar het feest te gaan.
+
+2134:     [yes],     yes,  closed, 'Ter',20    XP: [int(onmiddellijk)]
+      Je zou niet op anderen moeten rekenen voor hulp.
+      Je zou niet op anderen moeten rekenen voor onmiddellijke hulp.
+
+2136:     [yes],     yes,  closed, 'Ter',40    XP: []
+      Je zou niet op anderen moeten rekenen voor hulp.
+      Je zou niet op anderen moeten rekenen voor hulp of steun.
+
+2150:     [yes],     yes,  closed, 'Ter',4     XP: [int(diep)]
+      We hebben geen geheimen.
+      We hebben geen diepe geheimen.
+
+2152:     [yes],     yes,  closed, 'Ter',4     XP: []
+      We hebben geen geheimen.
+      We hebben geen geheimen die we willen delen.
+
+2154:     [yes],     yes,  closed, 'Ter',5     XP: [int(on trouwen),int(volwassen)]
+      Iedere ongetrouwde man is een bruidegom voor het leven.
+      Iedere ongetrouwde volwassen man is een bruidegom voor het leven.
+
+2164:     [yes],     yes,  closed, 'Ter',17    XP: [int(nutteloos),int(romantisch)]
+      Je zou geen nutteloze boeken moeten lezen.
+      Je zou geen nutteloze romantische boeken moeten lezen.
+
+2177:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Tom heeft nooit rauw paardenvlees gegeten.
+      Tom heeft nog nooit rauw paardenvlees gegeten.
+
+2178:     [yes],     yes,  closed, 'Ter',13    XP: [int(rauw),int(rood)]
+      Tom heeft nooit rauw paardenvlees gegeten.
+      Tom heeft nooit rauw rood paardenvlees gegeten.
+
+2188:     [yes],     yes,  closed, 'Ter',4     XP: [int(zwart)]
+      We hebben geen thee.
+      We hebben geen zwarte thee.
+
+2190:     [yes],     yes,  closed, 'Ter',10    XP: []
+      We hebben geen thee.
+      We hebben geen thee om onze gasten aan te bieden.
+
+2192:     [yes],     yes,  closed, 'Ter',12    XP: [int(serieus)]
+      Ze wilde niet in problemen komen.
+      Ze wilde niet in serieuze problemen komen.
+
+2193:     [yes],     yes,  closed, 'Ter',12    XP: [int(groot)]
+      Ze wilde niet in problemen komen.
+      Ze wilde niet in grote problemen komen.
+
+2194:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik hou niet van horrorfilms.
+      Ik hou niet van horrorfilms.
+
+2195:     [yes],     yes,  closed, 'Ter',6     XP: [isa(van@Netflix@horror film,horror film)]
+      Ik hou niet van horrorfilms.
+      Ik hou niet van horrorfilms van netflix.
+
+2197:     [yes],     yes,  closed, 'Ter',6     XP: [int(goor)]
+      Ik hou niet van horrorfilms.
+      Ik hou niet van gore horrorfilms.
+
+2201:     [yes],     yes,  closed, 'Ter',4     XP: [int(waar)]
+      Geen woorden kunnen haar diepe verdriet uitdrukken.
+      Geen ware woorden kunnen haar diepe verdriet uitdrukken.
+
+2202:     [yes],     yes,  closed, 'Ter',4     XP: [int(betekenisvol)]
+      Geen woorden kunnen haar diepe verdriet uitdrukken.
+      Geen betekenisvolle woorden kunnen haar diepe verdriet uitdrukken.
+
+2203:     [yes],     yes,  closed, 'Ter',16    XP: [int(mooi)]
+      Ik kan me geen wereld zonder jou voorstellen.
+      Ik kan me geen mooie wereld voorstellen zonder jou.
+
+2205:     [yes],     yes,  closed, 'Ter',16    XP: [int(geweldig)]
+      Ik kan me geen wereld zonder jou voorstellen.
+      Ik kan me geen geweldige wereld voorstellen zonder jou.
+
+2206:     [yes],     yes,  closed, 'Ter',16    XP: [int(groot)]
+      Ik kan me geen wereld zonder jou voorstellen.
+      Ik kan me geen grotere wereld voorstellen zonder jou.
+
+2208:     [yes],     yes,  closed, 'Ter',10    XP: [int(redelijk)]
+      Tom kon geen baan vinden.
+      Tom kon geen redelijke baan vinden.
+
+2210:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_127094,houden@(van@_127094)@hij)@baan,baan)]
+      Tom kon geen baan vinden.
+      Tom kon geen baan waar hij van houdt vinden.
+
+2214:     [yes],     yes,  closed, 'Ter',1     XP: [isa(baan,werk),isa(werk,baan)]
+      Tom kon geen baan vinden.
+      Tom kon geen werk vinden.
+
+2215:     [yes],     yes,  closed, 'Ter',10    XP: [int(geweldig)]
+      Tom kon geen baan vinden.
+      Tom kon geen geweldige baan vinden.
+
+2225:     [yes],     yes,  closed, 'Ter',13    XP: [int(dik),int(streng)]
+      Ik heb nog nooit een dikke veganist gezien.
+      Ik heb nog nooit een dikke strenge veganist gezien.
+
+2229:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom zei een paar dingen die nergens op sloegen.
+      Tom zei een paar dingen die nergens op sloegen.
+
+2238:     [yes],     yes,  closed, 'Ter',9     XP: [int(Brits),isa(in@c1@humor,humor)]
+      Ik begrijp Britse humor niet.
+      Ik begrijp Britse humor in komedies niet.
+
+2241:     [yes],     yes,  closed, 'Ter',10    XP: [int(genoeg),int(groot),isa(voor@c1@opslag ruimte,opslag ruimte)]
+      Ik heb niet genoeg opslagruimte.
+      Ik heb niet genoeg opslagruimte voor de grote doos.
+
+2247:     [yes],     yes,  closed, 'Ter',3     XP: [isa(pistool,wapen)]
+      Tom had geen wapen.
+      Tom had geen pistool.
+
+2253:     [yes],     yes,  closed, 'Ter',11    XP: [int(persoonlijk)]
+      Mensen die geen computer hebben kunnen niet volledig gebruik maken van deze mp3 speler functie.
+      Mensen die geen persoonlijke computer hebben kunnen niet volledig gebruik maken van deze mp3 speler functie.
+
+2254:     [yes],     yes,  closed, 'Ter',11    XP: [int(krachtig)]
+      Mensen die geen computer hebben kunnen niet volledig gebruik maken van deze mp3 speler functie.
+      Mensen die geen krachtige computer hebben kunnen niet volledig gebruik maken van deze mp3 speler functie.
+
+2255:     [yes],     yes,  closed, 'Ter',11    XP: [int(blauw)]
+      Ik ga niet naar de kerk.
+      Ik ga niet naar de blauwe kerk.
+
+2257:     [yes],     yes,  closed, 'Ter',4     XP: [int(eenzaam)]
+      Iedere weg leidt tot het einde van de wereld.
+      Iedere eenzame weg leidt tot het einde van de wereld.
+
+2266:     [yes],     yes,  closed, 'Ter',8     XP: [isa(kameraad,vriend),isa(vriend,kameraad)]
+      Mensen kunnen leven zonder vrienden.
+      Mensen kunnen leven zonder vrienden en kameraden.
+
+2272:     [yes],     yes,  closed, 'Ter',64    XP: [int(mogelijk)]
+      Ik zal mijn best doen om geen spijt te hebben.
+      Ik zal mijn best doen om geen mogelijk spijt te hebben.
+
+2279:     [yes],     yes,  closed, 'Ter',20    XP: []
+      Ik moet nodig plassen en ik kan geen wasruimte vinden.
+      Ik moet nodig plassen en ik kan geen wasruimte in het kantoor vinden.
+
+2286:     [yes],     yes,  closed, 'Ter',4     XP: [int(echt)]
+      Ik heb geen zwaard.
+      Ik heb geen echt zwaard.
+
+2288:     [yes],     yes,  closed, 'Ter',4     XP: [int(antiek)]
+      Ik heb geen zwaard.
+      Ik heb geen antiek zwaard.
+
+2290:     [yes],     yes,  closed, 'Ter',4     XP: [int(scherp)]
+      Ik heb geen zwaard.
+      Ik heb geen scherp zwaard.
+
+2292:     [yes],     yes,  closed, 'Ter',4     XP: [int(polijsten)]
+      Ik heb geen zwaard.
+      Ik heb geen gepolijst zwaard.
+
+2303:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik kan me niet iedereen herinneren.
+      Ik kan me niet iedereen herinneren.
+
+2307:     [yes],     yes,  closed, 'Ter',11    XP: [int(nieuw),int(rood)]
+      Jack kan zich geen nieuwe fiets veroorloven.
+      Jack kan zich geen nieuwe rode fiets veroorloven.
+
+2318:     [yes],     yes,  closed, 'Ter',16    XP: [int(Engels)]
+      Je hoeft niet naar een Ivy League universiteit te gaan om een goede opleiding te krijgen.
+      Je hoeft niet naar een Engelse Ivy League universiteit te gaan om een goede opleiding te krijgen.
+
+2319:     [yes],     yes,  closed, 'Ter',16    XP: [int(Frans)]
+      Je hoeft niet naar een Ivy League universiteit te gaan om een goede opleiding te krijgen.
+      Je hoeft niet naar een Franse Ivy League universiteit te gaan om een goede opleiding te krijgen.
+
+2320:     [yes],     yes,  closed, 'Ter',6     XP: [int(geweldig)]
+      Ik hoorde de naam van die ontwerper niet helemaal.
+      Ik hoorde de naam van die geweldige ontwerper niet helemaal.
+
+2321:     [yes],     yes,  closed, 'Ter',38    XP: [int(enkel),int(probleem)]
+      Hij wil niet in de problemen komen.
+      Hij wil in geen enkele soort problemen komen.
+
+2324:     [yes],     yes,  closed, 'Ter',10    XP: [int(automatisch)]
+      Ik draag gewoonlijk geen horloge.
+      Ik draag gewoonlijk geen automatisch horloge.
+
+2326:     [yes],     yes,  closed, 'Ter',10    XP: [int(blauw)]
+      Ik draag gewoonlijk geen horloge.
+      Ik draag gewoonlijk geen blauw horloge.
+
+2328:     [yes],     yes,  closed, 'Ter',10    XP: [int(digitaal)]
+      Ik draag gewoonlijk geen horloge.
+      Ik draag gewoonlijk geen digitaal horloge.
+
+2330:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom lijkt geen gevoel voor humor te hebben.
+      Tom lijkt geen gevoel voor humor te hebben.
+
+2331:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom lijkt geen gevoel voor humor te hebben.
+      Tom lijkt geen gevoel voor humor te hebben.
+
+2332:     [yes],     yes,  closed, 'Ter',11    XP: [int(goed)]
+      Tom lijkt geen gevoel voor humor te hebben.
+      Tom lijkt geen goed gevoel voor humor te hebben.
+
+2333:     [yes],     yes,  closed, 'Ter',11    XP: [int(geweldig)]
+      Tom lijkt geen gevoel voor humor te hebben.
+      Tom lijkt geen geweldig gevoel voor humor te hebben.
+
+2338:     [yes],     yes,  closed, 'Ter',16    XP: [int(klein)]
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen klein probleem moeten zijn.
+
+2339:     [yes],     yes,  closed, 'Ter',16    XP: [int(groot)]
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen groot probleem moeten zijn.
+
+2341:     [yes],     yes,  closed, 'Ter',16    XP: [int(echt)]
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen echt probleem moeten zijn.
+
+2342:     [yes],     yes,  closed, 'Ter',16    XP: [int(serieus)]
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen serieus probleem moeten zijn.
+
+2343:     [yes],     yes,  closed, 'Ter',16    XP: [int(sterk)]
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen sterk probleem moeten zijn.
+
+2344:     [yes],     yes,  closed, 'Ter',16    XP: [int(enorm)]
+      Dat zou geen probleem moeten zijn.
+      Dat zou geen enorm probleem moeten zijn.
+
+2345:     [yes],     yes,  closed, 'Ter',9     XP: [isa(tafel,meubel)]
+      Ze kan geen IKEA meubels in elkaar zetten.
+      Ze kan geen IKEA tafel in elkaar zetten.
+
+2347:     [yes],     yes,  closed, 'Ter',10    XP: [int(groot)]
+      Ze kan geen IKEA meubels in elkaar zetten.
+      Ze kan geen grote IKEA meubels in elkaar zetten.
+
+2349:     [yes],     yes,  closed, 'Ter',6     XP: [int(oud)]
+      Inoue houdt niet van computers.
+      Inoue houdt niet van oude computers.
+
+2351:     [yes],     yes,  closed, 'Ter',6     XP: [int(complex)]
+      Inoue houdt niet van computers.
+      Inoue houdt niet van complexe computers.
+
+2353:     [yes],     yes,  closed, 'Ter',6     XP: [int(appl)]
+      Inoue houdt niet van computers.
+      Inoue houdt niet van apple computers.
+
+2375:     [yes],     yes,  closed, 'Ter',6     XP: [int(doorsnee)]
+      Tom luistert bijna nooit naar muziek.
+      Tom luistert bijna nooit naar doorsnee muziek.
+
+2381:     [yes],     yes,  closed, 'Ter',8     XP: [isa(van@c1@muziek,muziek)]
+      Tom luistert bijna nooit naar muziek.
+      Tom luistert bijna nooit naar muziek van ballades.
+
+2387:     [yes],     yes,  closed, 'Ter',6     XP: [int(heet)]
+      Ik hou niet van zomer.
+      Ik hou niet van hete zomer.
+
+2389:     [yes],     yes,  closed, 'Ter',10    XP: [int(dat@soort),int(zeldzaam)]
+      Ik doe niet mee aan dat soort dingen.
+      Ik doe niet mee aan dat soort zeldzame dingen.
+
+2390:     [yes],     yes,  closed, 'Ter',10    XP: [int(dat@soort),int(ellendig)]
+      Ik doe niet mee aan dat soort dingen.
+      Ik doe niet mee aan dat soort ellendige dingen.
+
+2396:     [yes],     yes,  closed, 'Ter',1     XP: [isa(beest,monster),isa(monster,beest)]
+      Capitalisme hoeft geen monster te zijn.
+      Capitalisme hoeft geen beest te zijn.
+
+2397:     [yes],     yes,  closed, 'Ter',1     XP: [isa(gedrocht,monster),isa(monster,gedrocht)]
+      Capitalisme hoeft geen monster te zijn.
+      Capitalisme hoeft geen gedrocht te zijn.
+
+2400:     [yes],     yes,  closed, 'Ter',16    XP: [int(geheim)]
+      We hoeven die meeting niet bij te wonen.
+      We hoeven die geheime meeting niet bij te wonen.
+
+2413:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Iedere hond is een leeuw thuis.
+      Iedere grote hond is een leeuw thuis.
+
+2415:     [yes],     yes,  closed, 'Ter',4     XP: [int(disciplineren)]
+      Iedere hond is een leeuw thuis.
+      Iedere gedisciplineerde hond is een leeuw thuis.
+
+2417:     [yes],     yes,  closed, 'Ter',4     XP: [int(scholen)]
+      Iedere hond is een leeuw thuis.
+      Iedere geschoolde hond is een leeuw thuis.
+
+2429:     [yes],     yes,  closed, 'Ter',4     XP: [int(correct)]
+      Ze heeft geen gevoel voor mode.
+      Ze heeft geen correct gevoel voor mode.
+
+2431:     [yes],     yes,  closed, 'Ter',4     XP: [int(modern)]
+      Ze heeft geen gevoel voor mode.
+      Ze heeft geen modern gevoel voor mode.
+
+2433:     [yes],     yes,  closed, 'Ter',4     XP: [int(meisjesachtig)]
+      Ze heeft geen gevoel voor mode.
+      Ze heeft geen meisjesachtig gevoel voor mode.
+
+2435:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Hij bedekte zichzelf niet precies met glorie.
+      Hij bedekte zichzelf niet precies met glorie en applaus.
+
+2441:     [yes],     yes,  closed, 'Ter',6     XP: [int(zwart)]
+      Tom houdt niet van koffie.
+      Tom houdt niet van zwarte koffie.
+
+2443:     [yes],     yes,  closed, 'Ter',11    XP: [int(alcoholisch),int(zoet)]
+      Ik kan geen zoete dingen drinken.
+      Ik kan geen zoete alcoholische dingen drinken.
+
+2445:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Ik kan geen zoete dingen drinken.
+      Ik kan geen zoete dingen drinken omdat ik suikerziekte heb.
+
+2446:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Ze loog en ik hou niet van leugenaars.
+      Ze loog en ik hou niet van leugenaars omdat ze slecht zijn.
+
+2447:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Ze loog en ik hou niet van leugenaars.
+      Ze loog en ik hou niet van leugenaars die mensen misleiden.
+
+2450:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Tom draagt geen handschoenen.
+      Tom draagt geen handschoenen naar de wedstrijd.
+
+2453:     [yes],     yes,  closed, 'Ter',4     XP: [int(deftig)]
+      Tom draagt geen handschoenen.
+      Tom draagt geen deftige handschoenen.
+
+2455:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Hij heeft geen recht om dit te doen.
+      Hij heeft geen recht om dit te doen.
+
+2456:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ik word nooit meer verliefd.
+      Ik word nooit meer verliefd op jou.
+
+2462:     [yes],     yes,  closed, 'Ter',10    XP: [int(vers)]
+      Tom had geen water om te drinken.
+      Tom had geen vers water om te drinken.
+
+2464:     [yes],     yes,  closed, 'Ter',1     XP: [isa(auto,automobiel),isa(automobiel,auto)]
+      Tom kan geen auto rijden.
+      Tom kan geen automobiel rijden.
+
+2465:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom kan geen auto rijden.
+      Tom kan geen auto rijden.
+
+2467:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Het is geen geheim dat Tom het niet met je eens is.
+      Het is geen groot geheim dat Tom het niet met je eens is.
+
+2482:     [yes],     yes,  closed, 'Ter',20    XP: [int(enkel)]
+      Maak alsjeblieft geen foto’s hier.
+      Maak alsjeblieft geen enkele foto’s hier.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2483:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ze hebben niet genoeg ruimte op de grond om te kamperen.
+      Ze hebben niet genoeg ruimte op de grond om te kamperen vandaag.
+
+2484:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Ze hebben niet genoeg ruimte op de grond om te kamperen.
+      Ze hebben helemaal niet genoeg ruimte op de grond om te kamperen.
+
+2485:     [yes],     yes,  closed, 'Ter',22    XP: []
+      Ze hebben niet genoeg ruimte op de grond om te kamperen.
+      Ze hebben niet genoeg ruimte op de grond om overlevend te kamperen.
+
+2486:     [yes],     yes,  closed, 'Ter',22    XP: []
+      Ze hebben niet genoeg ruimte op de grond om te kamperen.
+      Ze hebben niet genoeg ruimte op de grond om aangenaam te kamperen.
+
+2487:     [yes],     yes,  closed, 'Ter',10    XP: [int(in discreet)]
+      Ik stel gewoonlijk geen vragen.
+      Ik stel gewoonlijk geen indiscrete vragen.
+
+2494:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Raúl kan het niet leuk hebben zonder zijn vrienden.
+      Raúl kan het niet leuk hebben zonder zijn vrienden of familie.
+
+2495:     [yes],     yes,  closed, 'Ter',10    XP: [int(gouden)]
+      Je moet geen afval op straat gooien.
+      Je moet geen gouden afval op straat gooien.
+
+2497:     [yes],     yes,  closed, 'Ter',10    XP: [int(glimmen)]
+      Je moet geen afval op straat gooien.
+      Je moet geen glimmend afval op straat gooien.
+
+2499:     [yes],     yes,  closed, 'Ter',1     XP: [isa(afval,rotzooi),isa(rotzooi,afval)]
+      Je moet geen afval op straat gooien.
+      Je moet geen rotzooi op straat gooien.
+
+2502:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Tom is helemaal niet egoistisch.
+      Tom is helemaal niet erg egoistisch.
+
+2503:     [yes],     yes,  closed, 'Ter',12    XP: [int(verlaten)]
+      Je kunt niet leven op een eiland.
+      Je kunt niet leven op een verlaten eiland.
+
+2507:     [yes],     yes,  closed, 'Ter',11    XP: [isa(zoals@(worden@(verwachten@(van@hem)))@middelbaar@school,middelbaar@school)]
+      Tom studeerde nooit af van de middelbare school.
+      Tom studeerde nooit af van de middelbare school zoals van hem verwacht werd.
+
+2512:     [yes],     yes,  closed, 'Ter',1     XP: [isa(televisie,tv),isa(tv,televisie)]
+      Je kijkt nu geen TV.
+      Je kijkt nu geen televisie.
+
+2517:     [yes],     yes,  closed, 'Ter',23    XP: [int(heel)]
+      Ik heb me nog nooit trotser gevoeld in mijn hele leven.
+      Ik heb me nog nooit blijer en trotser gevoeld in mijn hele leven.
+
+2526:     [yes],     yes,  closed, 'Ter',6     XP: [int(zwart)]
+      Ik hou niet van thee.
+      Ik hou niet van zwarte thee.
+
+2530:     [yes],     yes,  closed, 'Ter',13    XP: [isa(overvaller,dief)]
+      In het dorp zijn er geen dieven.
+      In het dorp zijn er geen overvallers.
+
+2531:     [yes],     yes,  closed, 'Ter',5     XP: [int(alternatief),int(schoon)]
+      Ze hadden geen alternatieve energiebronnen.
+      Ze hadden geen alternatieve schone energiebronnen.
+
+2533:     [yes],     yes,  closed, 'Ter',5     XP: [int(alternatief),int(elektrisch)]
+      Ze hadden geen alternatieve energiebronnen.
+      Ze hadden geen alternatieve elektrische energiebronnen.
+
+2538:     [yes],     yes,  closed, 'Ter',4     XP: [int(wit)]
+      Ze draagt geen strings.
+      Ze draagt geen witte strings.
+
+2540:     [yes],     yes,  closed, 'Ter',4     XP: [int(klein)]
+      Ze draagt geen strings.
+      Ze draagt geen kleine strings.
+
+2542:     [yes],     yes,  closed, 'Ter',4     XP: [int(on comfortabel)]
+      Ze draagt geen strings.
+      Ze draagt geen oncomfortabele strings.
+
+2544:     [yes],     yes,  closed, 'Ter',14    XP: [int(wetenschappelijk)]
+      Ik heb nog nooit geprobeerd een boek te vertalen.
+      Ik heb nog nooit geprobeerd een wetenschappelijk boek te vertalen.
+
+2546:     [yes],     yes,  closed, 'Ter',17    XP: [isa(met@c4@boek,boek),isa(zo@veel@bladzijde,bladzijde)]
+      Ik heb nog nooit geprobeerd een boek te vertalen.
+      Ik heb nog nooit geprobeerd een boek met zo veel bladzijdes te vertalen.
+
+2548:     [yes],     yes,  closed, 'Ter',16    XP: [isa(bestaan@(uit@c4)@boek,boek)]
+      Ik heb nog nooit geprobeerd een boek te vertalen.
+      Ik heb nog nooit geprobeerd een boek bestaand uit gedichten te vertalen.
+
+2562:     [yes],     yes,  closed, 'Ter',17    XP: [int(slecht)]
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
+      Op deze school zijn er geen slechte cijfers en studenten hebben geen huiswerk.
+
+2566:     [yes],     yes,  closed, 'Ter',16    XP: [int(heffen),int(scherp)]
+      Losstaande reflectie kan niet geeist worden in het bijzijn van een geheven mes.
+      Losstaande reflectie kan niet geeist worden in het bijzijn van een geheven scherp mes.
+
+2584:     [yes],     yes,  closed, 'Ter',10    XP: [int(haastig)]
+      Tom spendeerde de hele middag geen aandacht aan Mary.
+      Tom spendeerde de hele middag geen haastige aandacht aan Mary.
+
+2585:     [yes],     yes,  closed, 'Ter',7     XP: [int(extra)]
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
+      Op deze school zijn er geen cijfers en studenten hebben geen extra huiswerk.
+
+2589:     [yes],     yes,  closed, 'Ter',7     XP: [int(moeilijk)]
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
+      Op deze school zijn er geen cijfers en studenten hebben geen moeilijk huiswerk.
+
+2598:     [yes],     yes,  closed, 'Ter',7     XP: [int(lelijk),int(vies)]
+      Ik luister nooit naar vieze grappen.
+      Ik luister nooit naar vieze lelijke grappen.
+
+2601:     [yes],     yes,  closed, 'Ter',15    XP: [isa(naar@(and@Frankrijk@Marseille)@reis,reis)]
+      Ze maakt niet altijd een reis naar Frankrijk in de zomer.
+      Ze maakt niet altijd een reis naar Marseille,  Frankrijk in de zomer.
+
+2609:     [yes],     yes,  closed, 'Ter',12    XP: [isa(in@Tanzania@vakantie,vakantie)]
+      Ze kan niet weg zijn op vakantie.
+      Ze kan niet weg zijn op een vakantie in Tanzania.
+
+2611:     [yes],     yes,  closed, 'Ter',12    XP: [int(lang)]
+      Ze kan niet weg zijn op vakantie.
+      Ze kan niet weg zijn op een lange vakantie.
+
+2613:     [yes],     yes,  closed, 'Ter',12    XP: [isa(in@Europa@vakantie,vakantie)]
+      Ze kan niet weg zijn op vakantie.
+      Ze kan niet weg zijn op vakantie in Europa.
+
+2619:     [yes],     yes,  closed, 'Ter',15    XP: [int(laat)]
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg informatie om een laatste beslissing te maken.
+
+2620:     [yes],     yes,  closed, 'Ter',19    XP: [int(juist)]
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg informatie om de juiste beslissing te maken.
+
+2622:     [yes],     yes,  closed, 'Ter',4     XP: [int(enorm)]
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem.
+      Het meenemen van de groep kinderen naar de bibliotheek was geen enorm probleem.
+
+2623:     [yes],     yes,  closed, 'Ter',4     XP: [int(probleem)]
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem.
+      Het meenemen van de groep kinderen naar de bibliotheek was geen discipline probleem.
+
+2624:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem.
+      Het meenemen van de groep kinderen naar de bibliotheek was geen groot probleem.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+2626:     [yes],     yes,  closed, 'Ter',4     XP: [isa(voor@ons@probleem,probleem)]
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem.
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem voor ons.
+
+2628:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Ik heb nog nooit een verkeersongeluk gehad.
+      Ik heb nog nooit een verkeersongeluk gehad in de avond.
+
+2630:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik heb nog nooit een verkeersongeluk gehad.
+      Ik heb nog nooit een verkeersongeluk gehad.
+
+2635:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Onze familie viert geen kerst.
+      Onze familie viert geen kerst dit jaar.
+
+2637:     [yes],     yes,  closed, 'Ter',4     XP: [int(heilig)]
+      Onze familie viert geen kerst.
+      Onze familie viert geen heilige kerst.
+
+2638:     [yes],     yes,  closed, 'Ter',4     XP: [int(orthodox)]
+      Onze familie viert geen kerst.
+      Onze familie viert geen orthodoxe kerst.
+
+2640:     [yes],     yes,  closed, 'Ter',14    XP: [isa(om@c1@verandering,verandering)]
+      Ik hou niet van verandering.
+      Ik hou niet van verandering om de verandering.
+
+2641:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ik hou niet van verandering.
+      Ik hou niet van verandering als het onbekend voor me is.
+
+2643:     [yes],     yes,  closed, 'Ter',6     XP: [int(constant)]
+      Ik hou niet van verandering.
+      Ik hou niet van constante verandering.
+
+2647:     [yes],     yes,  closed, 'Ter',1     XP: [isa(capaciteit,vermogen),isa(vermogen,capaciteit)]
+      Hij had een fataal gebrek aan vermogen om logisch na te denken.
+      Hij had een fataal gebrek aan capaciteit om logisch na te denken.
+
+2648:     [yes],     yes,  closed, 'Ter',1     XP: [isa(vaardigheid,vermogen),isa(vermogen,vaardigheid)]
+      Hij had een fataal gebrek aan vermogen om logisch na te denken.
+      Hij had een fataal gebrek aan vaardigheid om logisch na te denken.
+
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
+2649:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ik heb niet eens een huis.
+      Ik heb niet eens een huis om te verblijven.
+
+2651:     [yes],     yes,  closed, 'Ter',6     XP: [int(mooi)]
+      Ik heb niet eens een huis.
+      Ik heb niet eens een mooi huis.
+
+2653:     [yes],     yes,  closed, 'Ter',12    XP: [int(oud)]
+      Tom wil niet in een appartement wonen.
+      Tom wil niet in een oud appartement wonen.
+
+2655:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom wil niet in een appartement wonen.
+      Tom wil niet in een appartement wonen.
+
+2656:     [yes],     yes,  closed, 'Ter',12    XP: [int(stedelijk)]
+      Tom wil niet in een appartement wonen.
+      Tom wil niet in een stedelijk appartement wonen.
+
+2662:     [yes],     yes,  closed, 'Ter',12    XP: [int(Coldplay)]
+      Ik kan me de melodie van dat liedje niet herinneren.
+      Ik kan me de melodie van dat coldplay liedje niet herinneren.
+
+2665:     [yes],     yes,  closed, 'Ter',6     XP: [int(erg)]
+      Ze rijdt niet uit angst voor een ongeluk.
+      Ze rijdt niet uit angst voor een erg ongeluk.
+
+2666:     [yes],     yes,  closed, 'Ter',6     XP: [int(dom)]
+      Ze rijdt niet uit angst voor een ongeluk.
+      Ze rijdt niet uit angst voor een dom ongeluk.
+
+2669:     [yes],     yes,  closed, 'Ter',19    XP: [isa(meisje,kind)]
+      Ik was toen maar een zevenjarig meisje.
+      Ik was toen maar een zevenjarig kind.
+
+2671:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      De zaak is van geen belang.
+      De zaak is van geen groot belang.
+
+2672:     [yes],     yes,  closed, 'Ter',4     XP: [isa(voor@ons@belang,belang)]
+      De zaak is van geen belang.
+      De zaak is van geen belang voor ons.
+
+2674:     [yes],     yes,  closed, 'Ter',4     XP: [int(opeen volgen)]
+      Iedere scheiding is een voorproefje van de dood.
+      Iedere opeenvolgende scheiding is een voorproefje van de dood.
+
+2675:     [yes],     yes,  closed, 'Ter',4     XP: [int(verzekeren)]
+      Iedere scheiding is een voorproefje van de dood.
+      Iedere verzekerende scheiding is een voorproefje van de dood.
+
+2677:     [yes],     yes,  closed, 'Ter',10    XP: [int(gevoelig)]
+      Ik zal geen vragen beantwoorden.
+      Ik zal geen gevoelige vragen beantwoorden.
+
+2679:     [yes],     yes,  closed, 'Ter',1     XP: [isa(hoer,prostituee),isa(prostituee,hoer)]
+      Iedere hoer was ooit een maagd.
+      Iedere prostituee was ooit een maagd.
+
+2680:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Iedere hoer was ooit een maagd.
+      Iedere hoer was ooit een maagd.
+
+2681:     [yes],     yes,  closed, 'Ter',10    XP: [int(aardig)]
+      Iedere hoer was ooit een maagd.
+      Iedere aardige hoer was ooit een maagd.
+
+2682:     [yes],     yes,  closed, 'Ter',10    XP: [int(professioneel)]
+      Iedere hoer was ooit een maagd.
+      Iedere professionele hoer was ooit een maagd.
+
+2683:     [yes],     yes,  closed, 'Ter',4     XP: [int(herkenbaar)]
+      Deze zin heeft geen auteurs.
+      Deze zin heeft geen herkenbare auteurs.
+
+2684:     [yes],     yes,  closed, 'Ter',4     XP: [int(rechtmatig)]
+      Deze zin heeft geen auteurs.
+      Deze zin heeft geen rechtmatige auteurs.
+
+2686:     [yes],     yes,  closed, 'Ter',4     XP: [int(certificeren)]
+      Deze zin heeft geen auteurs.
+      Deze zin heeft geen gecertificeerde auteurs.
+
+2687:     [yes],     yes,  closed, 'Ter',5     XP: [int(harig),int(zwart)]
+      Tom heeft geen harige armen.
+      Tom heeft geen harige zwarte armen.
+
+2698:     [yes],     yes,  closed, 'Ter',4     XP: [int(rijp)]
+      Ik eet geen appelklokhuizen.
+      Ik eet geen rijpe appelklokhuizen.
+
+2700:     [yes],     yes,  closed, 'Ter',6     XP: [int(rood),isa(of@(groen@appel klokhuis)@(rood@appel klokhuis),rood@appel klokhuis)]
+      Ik eet geen appelklokhuizen.
+      Ik eet geen rode of groene appelklokhuizen.
+
+2702:     [yes],     yes,  closed, 'Ter',23    XP: [int(zulk)]
+      Tom is nooit in problemen geweest in zijn leven.
+      Tom is nooit in zulke problemen geweest in zijn leven.
+
+2704:     [yes],     yes,  closed, 'Ter',23    XP: [int(belangrijk)]
+      Tom is nooit in problemen geweest in zijn leven.
+      Tom is nooit in belangrijke problemen geweest in zijn leven.
+
+2705:     [yes],     yes,  closed, 'Ter',4     XP: [int(slecht)]
+      Slecht weer is geen obstakel.
+      Slecht weer is geen slecht obstakel.
+
+2706:     [yes],     yes,  closed, 'Ter',10    XP: [int(onoverkomelijk)]
+      Slecht weer is geen obstakel.
+      Slecht weer is nog geen onoverkomelijk obstakel.
+
+2707:     [yes],     yes,  closed, 'Ter',4     XP: [int(serieus)]
+      Slecht weer is geen obstakel.
+      Slecht weer is geen serieus obstakel.
+
+2710:     [yes],     yes,  closed, 'Ter',4     XP: [isa(voor@ons@obstakel,obstakel)]
+      Slecht weer is geen obstakel.
+      Slecht weer is geen obstakel voor ons.
+
+2719:     [yes],     yes,  closed, 'Ter',4     XP: [isa(van@(waar@abst(_322814,_322814@(be@hij)))@centi meter,centi meter)]
+      Tom verplaatste geen centimeter.
+      Tom verplaatste geen centimeter van waar hij was.
+
+2724:     [yes],     yes,  closed, 'Ter',6     XP: [int(rood)]
+      Mijn broer houdt niet van de smaak van zeeegel.
+      Mijn broer houdt niet van de smaak van rode zeeegel.
+
+2734:     [yes],     yes,  closed, 'Ter',6     XP: [int(jazz)]
+      Tom houdt niet van jazz.
+      Tom houdt niet van jazz gezang.
+
+2736:     [yes],     yes,  closed, 'Ter',13    XP: [int(jazz),int(oud)]
+      Tom houdt niet van jazz.
+      Tom houdt niet van oude jazz liedjes.
+
+2738:     [yes],     yes,  closed, 'Ter',6     XP: [int(jazz)]
+      Tom houdt niet van jazz.
+      Tom houdt niet van jazz rock.
+
+2740:     [yes],     yes,  closed, 'Ter',4     XP: [int(slecht)]
+      Ik heb geen mobiele telefoon.
+      Ik heb geen slechte mobiele telefoon.
+
+2742:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik heb geen mobiele telefoon.
+      Ik heb geen mobiele telefoon.
+
+2752:     [yes],     yes,  closed, 'Ter',6     XP: [int(lang)]
+      Ik weet niet veel grappen.
+      Ik weet niet veel lange grappen.
+
+2754:     [yes],     yes,  closed, 'Ter',6     XP: [int(interessant)]
+      Ik weet niet veel grappen.
+      Ik weet niet veel interessante grappen.
+
+2761:     [yes],     yes,  closed, 'Ter',4     XP: [int(welbekend)]
+      Iedere auteur lijdt aan schrijversblok van tijd tot tijd.
+      Iedere welbekende auteur lijdt aan schrijversblok van tijd tot tijd.
+
+2765:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ieder schip heeft een anker nodig.
+      Ieder schip dat in de haven ligt heeft een anker nodig.
+
+2767:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Ieder schip heeft een anker nodig.
+      Ieder groot schip heeft een anker nodig.
+
+2769:     [yes],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Ieder schip heeft een anker nodig.
+      Ieder lang schip heeft een anker nodig.
+
+2771:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Ik kan helemaal niet zwemmen.
+      Ik kan helemaal niet in de zee zwemmen.
+
+2773:     [yes],     yes,  closed, 'Ter',13    XP: [isa(van@morgen@meeting,meeting)]
+      Ik kan helemaal niet zwemmen.
+      Ik kan helemaal niet zwemmen bij de meetings van morgen.
+
+2777:     [yes],     yes,  closed, 'Ter',12    XP: [int(wild)]
+      Je kunt een wolf niet temmen.
+      Je kunt een wilde wolf niet temmen.
+
+2785:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Ik ben helemaal niet nerveus.
+      Ik ben serieus helemaal niet nerveus.
+
+2786:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik ben helemaal niet nerveus.
+      Ik ben helemaal niet nerveus voor het feestje.
+
+2790:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Ik ben helemaal niet moe.
+      Ik ben in ieder geval niet moe.
+
+2791:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ik ben helemaal niet moe.
+      Ik ben hoe dan ook niet moe.
+
+2792:     [yes],     yes,  closed, 'Ter',4     XP: [int(beschermen)]
+      Tom droeg geen helm.
+      Tom droeg geen beschermende helm.
+
+2797:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Ik begreep die laatste zin niet.
+      Ik begreep die laatste zin die je schreef niet.
+
+2798:     [yes],     yes,  closed, 'Ter',7     XP: [int(grappig),int(laat)]
+      Ik begreep die laatste zin niet.
+      Ik begreep die laatste grappige zin niet.
+
+2799:     [yes],     yes,  closed, 'Ter',4     XP: [int(schijnen)]
+      De inktzwarte lucht had geen sterren.
+      De inktzwarte lucht had geen schijnende sterren.
+
+2807:     [yes],     yes,  closed, 'Ter',8     XP: [int(onmisbaar)]
+      Geen wezen kan leven zonder lucht.
+      Geen wezen kan leven zonder onmisbare lucht.
+
+2811:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Het gebouw heeft geen nooduitgang.
+      Het gebouw heeft geen nooduitgang om naar buiten te gaan.
+
+2821:     [yes],     yes,  closed, 'Ter',11    XP: [int(klein)]
+      Iedere jongen en ieder meisje was verheugd.
+      Iedere jongen en ieder klein meisje was verheugd.
+
+2825:     [yes],     yes,  closed, 'Ter',24    XP: [int(interessant)]
+      We zijn nooit naar de plaats geweest.
+      We zijn nooit naar de interessante plaats geweest.
+
+2827:     [yes],     yes,  closed, 'Ter',24    XP: [int(prachtig)]
+      We zijn nooit naar de plaats geweest.
+      We zijn nooit naar de prachtige plaats geweest.
+
+2829:     [yes],     yes,  closed, 'Ter',24    XP: [int(bloeien)]
+      We zijn nooit naar de plaats geweest.
+      We zijn nooit naar de bloeiende plaats geweest.
+
+2831:     [yes],     yes,  closed, 'Ter',11    XP: [isa(locatie,plaats),isa(plaats,locatie)]
+      We zijn nooit naar die plaats geweest.
+      We zijn nooit naar die locatie en omgeving geweest.
+
+2832:     [yes],     yes,  closed, 'Ter',1     XP: [isa(plaats,plek),isa(plek,plaats)]
+      We zijn nooit naar die plaats geweest.
+      We zijn nooit naar die plek geweest.
+
+2833:     [yes],     yes,  closed, 'Ter',1     XP: [isa(kamer,plaats),isa(plaats,kamer)]
+      We zijn nooit naar die plaats geweest.
+      We zijn nooit naar die kamer geweest.
+
+2840:     [yes],     yes,  closed, 'Ter',4     XP: [int(verstandig)]
+      Geen vrouw heeft dit ooit eerder gedaan.
+      Geen verstandige vrouw heeft dit ooit eerder gedaan.
+
+2842:     [yes],     yes,  closed, 'Ter',16    XP: [int(goed)]
+      Je kunt geen bakstenen maken zonder stro.
+      Je kunt geen goede bakstenen maken zonder stro.
+
+2844:     [yes],     yes,  closed, 'Ter',16    XP: [int(robuust)]
+      Je kunt geen bakstenen maken zonder stro.
+      Je kunt geen robuuste bakstenen maken zonder stro.
+
+2846:     [yes],     yes,  closed, 'Ter',16    XP: [int(blijven)]
+      Je kunt geen bakstenen maken zonder stro.
+      Je kunt geen blijvende bakstenen maken zonder stro.
+
+2848:     [yes],     yes,  closed, 'Ter',16    XP: [int(rood)]
+      Je kunt geen bakstenen maken zonder stro.
+      Je kunt geen rode bakstenen maken zonder stro.
+
+2850:     [yes],     yes,  closed, 'Ter',16    XP: [int(stevig)]
+      Je kunt geen bakstenen maken zonder stro.
+      Je kunt geen stevige bakstenen maken zonder stro.
+
+2852:     [yes],     yes,  closed, 'Ter',16    XP: [int(sterk)]
+      Je kunt geen bakstenen maken zonder stro.
+      Je kunt geen sterke bakstenen maken zonder stro.
+
+2857:     [yes],     yes,  closed, 'Ter',14    XP: [int(volwassen)]
+      Ik word nooit uitgenodigd op feestjes.
+      Ik word nooit uitgenodigd op volwassen feestjes.
+
+Error in gen_quant_tt
+2859:     [yes],     yes,  closed, 'Ter',14    XP: [int(blind)]
+      Ik word nooit uitgenodigd op feestjes.
+      Ik word nooit uitgenodigd op blinde feestjes.
+
+2861:     [yes],     yes,  closed, 'Ter',14    XP: [int(goed)]
+      Ik word nooit uitgenodigd op feestjes.
+      Ik word nooit uitgenodigd op goede feestjes.
+
+2863:     [yes],     yes,  closed, 'Ter',14    XP: [int(grappig)]
+      Ik word nooit uitgenodigd op feestjes.
+      Ik word nooit uitgenodigd op grappige feestjes.
+
+2871:     [yes],     yes,  closed, 'Ter',10    XP: [int(zwak)]
+      Hij zou geen compromis accepteren.
+      Hij zou geen zwak compromis accepteren.
+
+2874:     [yes],     yes,  closed, 'Ter',10    XP: [int(onnodig)]
+      Hij zou geen compromis accepteren.
+      Hij zou geen onnodig compromis accepteren.
+
+2876:     [yes],     yes,  closed, 'Ter',10    XP: [int(politiek)]
+      Hij zou geen compromis accepteren.
+      Hij zou geen politiek compromis accepteren.
+
+2887:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik heb geen goede eetlust.
+      Ik heb geen goede eetlust vandaag.
+
+2892:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik heb geen goede eetlust.
+      Ik heb geen goede eetlust omdat ik op dieet ben.
+
+2918:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Arabisch is geen moeilijke taal.
+      Arabisch is geen moeilijke en zeldzame taal.
+
+2919:     [yes],     yes,  closed, 'Ter',5     XP: [int(moeilijk),int(oud)]
+      Arabisch is geen moeilijke taal.
+      Arabisch is geen moeilijke oude taal.
+
+2921:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Arabisch is geen moeilijke taal.
+      Arabisch is geen moeilijke en erg ingewikkelde taal.
+
+2938:     [yes],     yes,  closed, 'Ter',10    XP: [int(groot)]
+      Tom draagt gewoonlijk geen hoed.
+      Tom draagt gewoonlijk geen grote hoed.
+
+2943:     [yes],     yes,  closed, 'Ter',10    XP: [int(zwart)]
+      Tom draagt gewoonlijk geen hoed.
+      Tom draagt gewoonlijk geen zwarte hoed.
+
+2945:     [yes],     yes,  closed, 'Ter',10    XP: [int(rood)]
+      Tom draagt gewoonlijk geen hoed.
+      Tom draagt gewoonlijk geen rode hoed.
+
+2967:     [yes],     yes,  closed, 'Ter',4     XP: [int(verfijnen)]
+      Geen maaltijd is compleet zonder brood.
+      Geen verfijnde maaltijd is compleet zonder brood.
+
+2969:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Geen maaltijd is compleet zonder brood.
+      Geen goede maaltijd is compleet zonder brood.
+
+2971:     [yes],     yes,  closed, 'Ter',4     XP: [int(vergiftigen)]
+      Tom gebruikt geen steroïden.
+      Tom gebruikt geen vergiftigde steroïden.
+
+2973:     [yes],     yes,  closed, 'Ter',10    XP: [int(absurd)]
+      Ik zie geen samenzwering daar.
+      Ik zie geen absurde samenzweringen daar.
+
+2988:     [yes],     yes,  closed, 'Ter',13    XP: [int(Nissan),int(nieuw)]
+      Ik wil niet echt zo veel betalen voor een nieuwe auto.
+      Ik wil niet echt zo veel betalen voor een nieuwe Nissan auto.
+
+2990:     [yes],     yes,  closed, 'Ter',13    XP: [int(nieuw),int(rood)]
+      Ik wil niet echt zo veel betalen voor een nieuwe auto.
+      Ik wil niet echt zo veel betalen voor een nieuwe rode auto.
+
+3002:     [yes],     yes,  closed, 'Ter',4     XP: [int(duidelijk)]
+      Je hebt geen keuze in deze zaak.
+      Je hebt geen duidelijke keuze in deze zaak.
+
+3004:     [yes],     yes,  closed, 'Ter',4     XP: [int(geldig)]
+      Je hebt geen keuze in deze zaak.
+      Je hebt geen geldige keuze in deze zaak.
+
+3006:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik kan geen vogel tekenen.
+      Ik kan geen vogeltje tekenen.
+
+3007:     [yes],     yes,  closed, 'Ter',10    XP: [int(vervelend)]
+      Tom zou geen vlieg pijn doen.
+      Tom zou geen vervelende vlieg pijn doen.
+
+3011:     [yes],     yes,  closed, 'Ter',10    XP: [int(klein)]
+      Tom zou geen vlieg pijn doen.
+      Tom zou geen kleine vlieg pijn doen.
+
+3016:     [yes],     yes,  closed, 'Ter',25    XP: []
+      Dat zou geen te groot probleem moeten zijn.
+      Dat zou geen te groot probleem moeten zijn thuis.
+
+3020:     [yes],     yes,  closed, 'Ter',32    XP: [int(hand schakelen)]
+      Ik heb nog steeds niet geleerd om in een auto te rijden.
+      Ik heb nog steeds niet geleerd om in een handgeschakelde auto te rijden.
+
+3022:     [yes],     yes,  closed, 'Ter',64    XP: []
+      Ik heb nog steeds niet geleerd om in een auto te rijden.
+      Ik heb nog steeds niet geleerd om in een auto te rijden door de stad.
+
+3024:     [yes],     yes,  closed, 'Ter',32    XP: [int(standaard schakelen)]
+      Ik heb nog steeds niet geleerd om in een auto te rijden.
+      Ik heb nog steeds niet geleerd om in een standaardgeschakelde auto te rijden.
+
+3026:     [yes],     yes,  closed, 'Ter',32    XP: [int(nieuw)]
+      Ik heb nog steeds niet geleerd om in een auto te rijden.
+      Ik heb nog steeds niet geleerd om in een nieuwe auto te rijden.
+
+3029:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Tom zou Mary’s kreupele gang niet belachelijk moeten maken.
+      Tom zou Mary’s kreupele gang niet gek belachelijk moeten maken.
+
+3030:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Tom zou Mary’s kreupele gang niet belachelijk moeten maken.
+      Tom zou Mary’s kreupele gang niet luid belachelijk moeten maken.
+
+3033:     [yes],     yes,  closed, 'Ter',10    XP: [int(goed)]
+      Hij had geen vriend om hem te helpen.
+      Hij had geen goede vriend om hem te helpen.
+
+3037:     [yes],     yes,  closed, 'Ter',7     XP: [int(ander),isa(voor@jou@optie,optie)]
+      Er zijn geen andere opties.
+      Er zijn geen andere opties voor jou.
+
+3040:     [yes],     yes,  closed, 'Ter',7     XP: [int(ander),int(goed)]
+      Er zijn geen andere opties.
+      Er zijn geen andere goede opties.
+
+3053:     [yes],     yes,  closed, 'Ter',4     XP: [int(basaal)]
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen basale toegang tot schoon drinkwater.
+
+3057:     [yes],     yes,  closed, 'Ter',4     XP: [int(simpel)]
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen simpele toegang tot schoon drinkwater.
+
+3059:     [yes],     yes,  closed, 'Ter',4     XP: [int(openbaar)]
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen openbare toegang tot schoon drinkwater.
+
+3074:     [yes],     yes,  closed, 'Ter',4     XP: [isa(erg@geheim@geheim,geheim)]
+      Het is geen geheim.
+      Het is geen erg geheim geheim.
+
+3075:     [yes],     yes,  closed, 'Ter',4     XP: [int(belangrijk)]
+      Het is geen geheim.
+      Het is geen belangrijk geheim.
+
+3082:     [yes],     yes,  closed, 'Ter',12    XP: []
+      We speelden iedere zaterdag in de ochtend Amerikaans voetbal.
+      We speelden iedere zaterdag Amerikaans voetbal.
+
+3083:     [yes],     yes,  closed, 'Ter',12    XP: []
+      We speelden iedere zaterdag in de avond Amerikaans voetbal.
+      We speelden iedere zaterdag Amerikaans voetbal.
+
+3087:     [yes],     yes,  closed, 'Ter',10    XP: [int(mobiel)]
+      Dan gebruikte geen telefoon.
+      Dan gebruikte geen mobiele telefoon.
+
+3089:     [yes],     yes,  closed, 'Ter',12    XP: [int(mobiel),int(schadelijk),int(stralen)]
+      Dan gebruikte geen telefoon.
+      Dan gebruikte geen schadelijke stralende mobiele telefoon.
+
+3091:     [yes],     yes,  closed, 'Ter',11    XP: [int(mobiel),int(zwart)]
+      Dan gebruikte geen telefoon.
+      Dan gebruikte geen zwarte mobiele telefoon.
+
+3102:     [yes],     yes,  closed, 'Ter',6     XP: [int(vreselijk)]
+      Ik wil niet naar het werk!
+      Ik wil niet naar vreselijk werk!
+
+3104:     [yes],     yes,  closed, 'Ter',12    XP: []
+      De weersverwachting is helemaal niet betrouwbaar.
+      De weersverwachting is helemaal niet betrouwbaar in de zomer.
+
+3112:     [yes],     yes,  closed, 'Ter',6     XP: [int(volledig)]
+      Tom vergeet nooit een naam of een gezicht.
+      Tom vergeet nooit een volledige naam of een gezicht.
+
+3113:     [yes],     yes,  closed, 'Ter',6     XP: [int(intens)]
+      Je houdt niet van liefdesverhalen.
+      Je houdt niet van intense liefdesverhalen.
+
+3120:     [yes],     yes,  closed, 'Ter',6     XP: [int(woest)]
+      Katten vinden honden niet leuk.
+      Katten vinden woeste honden niet leuk.
+
+3122:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Katten vinden honden niet leuk.
+      Katten vinden honden die veel blaffen niet leuk.
+
+3131:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Hij speelt iedere zondag golf met zijn beste vrienden.
+      Hij speelt iedere zondag golf.
+
+3132:     [yes],     yes,  closed, 'Ter',8     XP: [int(heet)]
+      Ze maakt niet altijd een reis naar Frankrijk in de zomer.
+      Ze maakt niet altijd een reis naar Frankrijk in de hete zomer.
+
+3134:     [yes],     yes,  closed, 'Ter',8     XP: [isa(erg@heet@zomer,zomer)]
+      Ze maakt niet altijd een reis naar Frankrijk in de zomer.
+      Ze maakt niet altijd een reis naar Frankrijk in de erg hete zomer.
+
+3136:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Ze maakt niet altijd een reis naar Frankrijk in de zomer.
+      Ze maakt niet altijd een reis naar Frankrijk met haar familie in de zomer.
+
+3139:     [yes],     yes,  closed, 'Ter',15    XP: [isa(naar@(and@Italië@Frankrijk)@reis,reis)]
+      Ze maakt niet altijd een reis naar Frankrijk in de zomer.
+      Ze maakt niet altijd een reis naar Frankrijk en italië in de zomer.
+
+3147:     [yes],     yes,  closed, 'Ter',25    XP: [int(precies)]
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen melding van getuigen die een lange, bebaarde man gezien hebben.
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen precieze melding van getuigen die een lange, bebaarde man gezien hebben.
+
+3149:     [yes],     yes,  closed, 'Ter',25    XP: [int(weinig)]
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen melding van getuigen die een lange, bebaarde man gezien hebben.
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen minste melding van getuigen die een lange, bebaarde man gezien hebben.
+
+3151:     [yes],     yes,  closed, 'Ter',25    XP: [int(on verwachten)]
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen melding van getuigen die een lange, bebaarde man gezien hebben.
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen onverwachte melding van getuigen die een lange, bebaarde man gezien hebben.
+
+3153:     [yes],     yes,  closed, 'Ter',25    XP: [int(duidelijk)]
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen melding van getuigen die een lange, bebaarde man gezien hebben.
+      We hebben politiegegevens van het incident uitgekamd maar vonden geen duidelijke melding van getuigen die een lange, bebaarde man gezien hebben.
+
+3163:     [yes],     yes,  closed, 'Ter',4     XP: [int(oud)]
+      Ieder lid van het kabinet was aanwezig.
+      Ieder oud lid van het kabinet was aanwezig.
+
+3165:     [yes],     yes,  closed, 'Ter',4     XP: [int(vrouwelijk)]
+      Ieder lid van het kabinet was aanwezig.
+      Ieder vrouwelijk lid van het kabinet was aanwezig.
+
+3167:     [yes],     yes,  closed, 'Ter',3     XP: [isa(deelnemer,lid)]
+      Ieder lid van het kabinet was aanwezig.
+      Iedere deelnemer van het kabinet was aanwezig.
+
+3168:     [yes],     yes,  closed, 'Ter',4     XP: [int(specifiek)]
+      Ieder lid van het kabinet was aanwezig.
+      Ieder specifiek lid van het kabinet was aanwezig.
+
+3176:     [yes],     yes,  closed, 'Ter',9     XP: [isa(wandeling,reis)]
+      Ze maakt niet altijd een reis naar Frankrijk in de zomer.
+      Ze maakt niet altijd een wandeling naar Frankrijk in de zomer.
+
+3187:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
+      Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
+
+3198:     [yes],     yes,  closed, 'Ter',4     XP: [isa(voor@gisterennacht@alibi,alibi)]
+      Tom heeft geen alibi.
+      Tom heeft geen alibi voor gisterennacht.
+
+3200:     [yes],     yes,  closed, 'Ter',4     XP: [isa(voor@zichzelf@alibi,alibi)]
+      Tom heeft geen alibi.
+      Tom heeft geen alibi voor zichzelf.
+
+3201:     [yes],     yes,  closed, 'Ter',4     XP: [int(acceptabel)]
+      Tom heeft geen alibi.
+      Tom heeft geen acceptabel alibi.
+
+3211:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Mijn moeder kijkt niet graag TV.
+      Mijn moeder kijkt niet graag TV overdag.
+
+3213:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Mijn moeder kijkt niet graag TV.
+      Mijn moeder kijkt niet graag alleen TV.
+
+3215:     [yes],     yes,  closed, 'Ter',10    XP: [int(dramatisch)]
+      Mijn moeder kijkt niet graag TV.
+      Mijn moeder kijkt niet graag dramatische TV.
+
+3217:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Mijn moeder kijkt niet graag TV.
+      Mijn moeder kijkt niet graag TV in de nacht.
+
+3219:     [yes],     yes,  closed, 'Ter',5     XP: [int(alternatief),int(groot)]
+      Ze hadden geen alternatieve energiebronnen.
+      Ze hadden geen alternatieve grote energiebronnen.
+
+3221:     [yes],     yes,  closed, 'Ter',5     XP: [int(alternatief),int(groen)]
+      Ze hadden geen alternatieve energiebronnen.
+      Ze hadden geen alternatieve groene energiebronnen.
+
+3223:     [yes],     yes,  closed, 'Ter',5     XP: [int(alternatief),int(schoon)]
+      Ze hadden geen alternatieve energiebronnen.
+      Ze hadden geen alternatieve schone energiebronnen.
+
+3225:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Deze lijm hecht niet aan plastic.
+      Deze lijm hecht niet snel aan plastic.
+
+3229:     [yes],     yes,  closed, 'Ter',7     XP: [int(wetenschappelijk),isa(van@jou@voor@(deze@bewering)@basis,voor@(deze@bewering)@basis)]
+      Er is geen wetenschappelijke basis voor deze beweringen.
+      Er is geen wetenschappelijke basis van jou voor deze beweringen.
+
+3232:     [yes],     yes,  closed, 'Ter',13    XP: []
+      Tom kijkt geen TV meer.
+      Tom kijkt thuis geen TV meer.
+
+3244:     [yes],     yes,  closed, 'Ter',1     XP: [isa(meid,meisje),isa(meisje,meid)]
+      Ik ben geen klein meisje meer.
+      Ik ben geen kleine meid meer.
+
+3249:     [yes],     yes,  closed, 'Ter',56    XP: [int(echt)]
+      Tom en Mary zijn eigenlijk nog nooit op een afspraakje geweest.
+      Tom en Mary zijn eigenlijk nog nooit op een echt afspraakje geweest.
+
+3251:     [yes],     yes,  closed, 'Ter',56    XP: [int(a)]
+      Tom en Mary zijn eigenlijk nog nooit op een afspraakje geweest.
+      Tom en Mary zijn eigenlijk nog nooit op een eerste afspraakje geweest.
+
+3259:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom heeft geen gevoel voor humor.
+      Tom heeft geen gevoel voor humor.
+
+3267:     [yes],     yes,  closed, 'Ter',14    XP: [int(klassiek)]
+      Ik kan me het deuntje van het liedje niet herinneren.
+      Ik kan me het deuntje van het klassieke liedje niet herinneren.
+
+3273:     [yes],     yes,  closed, 'Ter',10    XP: [int(vers)]
+      Tom en Mary eten geen vlees meer.
+      Tom en Mary eten geen vers vlees meer.
+
+3277:     [yes],     yes,  closed, 'Ter',6     XP: [int(heet)]
+      Ik geef niet veel om koffie.
+      Ik geef niet veel om hete koffie.
+
+3298:     [yes],     yes,  closed, 'Ter',6     XP: [int(saai)]
+      Ik kijk dat programma niet meer.
+      Ik kijk dat saaie programma niet meer.
+
+3300:     [yes],     yes,  closed, 'Ter',6     XP: [int(belachelijk)]
+      Ik kijk dat programma niet meer.
+      Ik kijk dat belachelijke programma niet meer.
+
+3302:     [yes],     yes,  closed, 'Ter',18    XP: [int(groot)]
+      Tom en Mary kunnen zich het niet veroorloven om een huis te kopen.
+      Tom en Mary kunnen zich het niet veroorloven om een groot huis te kopen.
+
+3304:     [yes],     yes,  closed, 'Ter',25    XP: []
+      Tom en Mary kunnen zich het niet veroorloven om een huis te kopen.
+      Tom en Mary kunnen zich het niet veroorloven om een huis met een groot raam te kopen.
+
+3306:     [yes],     yes,  closed, 'Ter',16    XP: [isa(residentie,huis)]
+      Tom en Mary kunnen zich het niet veroorloven om een huis te kopen.
+      Tom en Mary kunnen zich het niet veroorloven om een residentie te kopen.
+
+3307:     [yes],     yes,  closed, 'Ter',21    XP: []
+      Tom en Mary kunnen zich het niet veroorloven om een huis te kopen.
+      Tom en Mary kunnen zich het niet veroorloven om een huis zoals dit huis te kopen.
+
+3317:     [yes],     yes,  closed, 'Ter',4     XP: [int(geloof)]
+      Wetenschap is geen religie.
+      Wetenschap is geen religie geloof.
+
+3319:     [yes],     yes,  closed, 'Ter',21    XP: [int(groot),int(in@(s@weekend))]
+      Je kunt niet parkeren voor mijn huis in de weekenden.
+      Je kunt niet parkeren voor mijn grote huis in de weekenden.
+
+3358:     [yes],     yes,  closed, 'Ter',144   XP: []
+      Ik zal nooit meer praten tijdens de les.
+      Ik zal nooit meer praten tijdens lessen.
+
+3364:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom had niet bepaald haast om terug naar huis te gaan.
+      Tom had niet bepaald haast om terug naar huis te gaan.
+
+3365:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Tom had niet bepaald haast om terug naar huis te gaan.
+      Tom had niet bepaald gewoontelijke haast om terug naar huis te gaan.
+
+3378:     [yes],     yes,  closed, 'Ter',16    XP: [int(zoet)]
+      Ik kan geen fruit eten in de ochtend.
+      Ik kan geen zoet fruit eten in de ochtend.
+
+3380:     [yes],     yes,  closed, 'Ter',17    XP: [int(enkel),int(koud)]
+      Ik kan geen fruit eten in de ochtend.
+      Ik kan geen enkel koud fruit eten in de ochtend.
+
+3382:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ik kan die vraag niet beantwoorden.
+      Ik kan die vraag niet beantwoorden omdat ik verbannen ben.
+
+3383:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ik kan die vraag niet beantwoorden.
+      Ik kan die vraag niet beantwoorden omdat ik dat niet mag.
+
+3384:     [yes],     yes,  closed, 'Ter',12    XP: [int(persoonlijk)]
+      Ik kan die vraag niet beantwoorden.
+      Ik kan die persoonlijke vraag niet beantwoorden.
+
+3386:     [yes],     yes,  closed, 'Ter',12    XP: [int(irritant)]
+      Ik kan die vraag niet beantwoorden.
+      Ik kan die irritante vraag niet beantwoorden.
+
+3388:     [yes],     yes,  closed, 'Ter',12    XP: [int(dom)]
+      Ik kan die vraag niet beantwoorden.
+      Ik kan die domme vraag niet beantwoorden.
+
+3391:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Er was geen genie voor nodig.
+      Er was geen grote genie voor nodig.
+
+3393:     [yes],     yes,  closed, 'Ter',4     XP: [int(geweldig)]
+      Er was geen genie voor nodig.
+      Er was geen geweldige genie voor nodig.
+
+3395:     [yes],     yes,  closed, 'Ter',36    XP: []
+      Tom had niets te zeggen over de kwestie.
+      Tom had niets te zeggen over de kwestie omdat hij voorzien was met incorrecte data.
+
+3396:     [yes],     yes,  closed, 'Ter',4     XP: [int(specifiek)]
+      Tom had geen plek om naartoe te gaan.
+      Tom had geen specifieke plek om naartoe te gaan.
+
+3398:     [yes],     yes,  closed, 'Ter',4     XP: [int(comfortabel)]
+      Tom had geen plek om naartoe te gaan.
+      Tom had geen comfortabele plek om naartoe te gaan.
+
+3402:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Rook alsjeblieft niet in bed.
+      Rook alsjeblieft niet in bed nu.
+
+3405:     [yes],     yes,  closed, 'Ter',33    XP: [isa(van@c5@president,president)]
+      Hij heeft niet de capaciteit om de president te zijn.
+      Hij heeft niet de capaciteit om de president van de Verenigde Staten te zijn.
+
+3413:     [yes],     yes,  closed, 'Ter',4     XP: [int(enorm)]
+      Dit plan heeft geen gebreken.
+      Dit plan heeft geen enorme gebreken.
+
+3415:     [yes],     yes,  closed, 'Ter',4     XP: [int(over duidelijk)]
+      Dit plan heeft geen gebreken.
+      Dit plan heeft geen overduidelijke gebreken.
+
+3418:     [yes],     yes,  closed, 'Ter',6     XP: [int(goed)]
+      Hij kan niet tegen een grap.
+      Hij kan nooit tegen een goede grap.
+
+3420:     [yes],     yes,  closed, 'Ter',6     XP: [int(zwaar)]
+      Hij kan niet tegen een grap.
+      Hij kan niet tegen een zware grap.
+
+3428:     [yes],     yes,  closed, 'Ter',4     XP: [int(hydraulisch)]
+      Mijn eerste auto had geen stuurbekrachtiging.
+      Mijn eerste auto had geen hydraulische stuurbekrachtiging.
+
+3430:     [yes],     yes,  closed, 'Ter',4     XP: [int(elektrisch)]
+      Mijn eerste auto had geen stuurbekrachtiging.
+      Mijn eerste auto had geen elektrische stuurbekrachtiging.
+
+3435:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Hij speelt geen voetbal.
+      Hij speelt geen voetbal buiten.
+
+3438:     [yes],     yes,  closed, 'Ter',4     XP: [int(rood)]
+      Tom droeg geen hoed.
+      Tom droeg geen rode hoed.
+
+3440:     [yes],     yes,  closed, 'Ter',4     XP: [int(blauw)]
+      Tom droeg geen hoed.
+      Tom droeg geen blauwe hoed.
+
+3443:     [yes],     yes,  closed, 'Ter',16    XP: [isa(van@c1@kritiek,kritiek)]
+      Tom vat kritiek niet goed op.
+      Tom vat kritiek van zijn moeder niet goed op.
+
+3445:     [yes],     yes,  closed, 'Ter',12    XP: [isa(dit@soort@kritiek,kritiek)]
+      Tom vat kritiek niet goed op.
+      Tom vat dit soort kritiek niet goed op.
+
+3447:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Het medicijn hielp helemaal niet.
+      Het medicijn hielp helemaal niet tegen hoofdpijn.
+
+3449:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Het medicijn hielp helemaal niet.
+      Het medicijn hielp absoluut helemaal niet.
+
+3453:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_5334792,_5334792@(zeggen@(dat@(worden@dik@ze))@ze))@vlees,vlees)]
+      Ze zullen geen vlees eten.
+      Ze zullen geen vlees eten waarvan ze zeggen dat ze dik worden.
+
+3455:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_1813690,not@(houden@(van@_1813690)@ze))@vlees,vlees)]
+      Ze zullen geen vlees eten.
+      Ze zullen geen vlees eten waar ze niet van houden.
+
+3457:     [yes],     yes,  closed, 'Ter',10    XP: [int(lang)]
+      Men kan geen vragenlijsten vertrouwen.
+      Men kan geen lange vragenlijsten vertrouwen.
+
+3468:     [yes],     yes,  closed, 'Ter',17    XP: []
+      Ik kan Tom niet verslaan met schaken.
+      Ik kan Tom en Bob niet verslaan met schaken.
+
+3473:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Ik vind moderne jazz niet vet.
+      Ik vind moderne en eigentijdse jazz niet vet.
+
+3475:     [yes],     yes,  closed, 'Ter',7     XP: [int(modern),isa(in@New York@jazz,jazz)]
+      Ik vind moderne jazz niet vet.
+      Ik vind moderne jazz in New York niet vet.
+
+3477:     [yes],     yes,  closed, 'Ter',9     XP: [int(modern),isa(in@c1@jazz,jazz)]
+      Ik vind moderne jazz niet vet.
+      Ik vind moderne jazz in werk niet vet.
+
+3479:     [yes],     yes,  closed, 'Ter',6     XP: [int(nieuw)]
+      Ik vind moderne jazz niet vet.
+      Ik vind nieuwe moderne jazz niet vet.
+
+3489:     [yes],     yes,  closed, 'Ter',3     XP: []
+      Ze spreekt geen Japans thuis of op school.
+      Ze spreekt geen Japans thuis.
+
+3511:     [yes],     yes,  closed, 'Ter',4     XP: [int(mobiel)]
+      Iedere android is een robot.
+      Iedere mobiele android is een robot.
+
+3513:     [yes],     yes,  closed, 'Ter',4     XP: [int(schattig)]
+      Iedere android is een robot.
+      Iedere schattige android is een robot.
+
+3515:     [yes],     yes,  closed, 'Ter',4     XP: [int(waar)]
+      Die zwarte vogel is geen merel.
+      Die zwarte vogel is geen ware merel.
+
+3516:     [yes],     yes,  closed, 'Ter',4     XP: [int(echt)]
+      Die zwarte vogel is geen merel.
+      Die zwarte vogel is geen echte merel.
+
+3519:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Tom kan helemaal niet zwemmen.
+      Tom kan helemaal niet in zwembaden zwemmen.
+
+3525:     [yes],     yes,  closed, 'Ter',12    XP: [int(groot)]
+      Ik heb nog nooit een giraffe gezien.
+      Ik heb nog nooit een grote giraffe gezien.
+
+3527:     [yes],     yes,  closed, 'Ter',12    XP: [int(echt)]
+      Ik heb nog nooit een giraffe gezien.
+      Ik heb nog nooit een echte giraffe gezien.
+
+3529:     [yes],     yes,  closed, 'Ter',12    XP: [int(mooi)]
+      Ik heb nog nooit een giraffe gezien.
+      Ik heb nog nooit een mooie giraffe gezien.
+
+3533:     [yes],     yes,  closed, 'Ter',14    XP: [isa(in@c2@giraf,giraf)]
+      Ik heb nog nooit een giraffe gezien.
+      Ik heb nog nooit een giraffe in een dierentuin gezien.
+
+3535:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Ik heb nog nooit een giraffe gezien.
+      Ik heb nog nooit een giraffe en zijn lange nek gezien.
+
+3537:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Je bent helemaal niet romantisch.
+      Je bent helemaal niet romantisch of aanhalig.
+
+3549:     [yes],     yes,  closed, 'Ter',6     XP: [int(raar)]
+      Ik vind die vrouw niet aardig.
+      Ik vind die rare vrouw niet aardig.
+
+3556:     [yes],     yes,  closed, 'Ter',6     XP: [int(digitaal)]
+      Ik hou niet van zijn opscheppen over succes in zaken.
+      Ik hou niet van zijn opscheppen over succes in digitale zaken.
+
+3558:     [yes],     yes,  closed, 'Ter',18    XP: []
+      Dit lijkt geen serieus probleem te zijn.
+      Dit lijkt geen serieus probleem te zijn voor mij.
+
+3560:     [yes],     yes,  closed, 'Ter',18    XP: []
+      Dit lijkt geen serieus probleem te zijn.
+      Dit lijkt geen serieus probleem te zijn voor jou.
+
+3569:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Het internet kan geen misdaden plegen!
+      Het internet kan niet altijd misdaden plegen!
+
+3570:     [yes],     yes,  closed, 'Ter',10    XP: [int(frauduleus)]
+      Het internet kan geen misdaden plegen!
+      Het internet kan geen frauduleuze misdaden plegen!
+
+3572:     [yes],     yes,  closed, 'Ter',12    XP: [int(echt)]
+      Je kunt blijdschap niet kopen.
+      Je kunt echte blijdschap niet kopen.
+
+3574:     [yes],     yes,  closed, 'Ter',12    XP: [int(waar)]
+      Je kunt blijdschap niet kopen.
+      Je kunt ware blijdschap niet kopen.
+
+3576:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Je kunt blijdschap niet kopen.
+      Je kunt blijdschap niet kopen met geld.
+
+3578:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ze kan nooit een geheim bewaren.
+      Ze kan nooit normaal een geheim bewaren.
+
+3579:     [yes],     yes,  closed, 'Ter',12    XP: [int(volledig)]
+      Ze kan nooit een geheim bewaren.
+      Ze kan nooit een volledig geheim bewaren.
+
+3581:     [yes],     yes,  closed, 'Ter',14    XP: [isa(uit@c2@leugen,leugen)]
+      Hij heeft nooit een leugen verteld.
+      Hij heeft nooit een leugen uit zijn mond verteld.
+
+3582:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Hij heeft nooit een leugen verteld.
+      Hij heeft nooit in zijn leven een leugen verteld.
+
+3583:     [yes],     yes,  closed, 'Ter',14    XP: [isa(om@c2@leugen,leugen)]
+      Hij heeft nooit een leugen verteld.
+      Hij heeft nooit een leugen om bestwil verteld.
+
+3589:     [yes],     yes,  closed, 'Ter',4     XP: [int(vroeg)]
+      Tom eet geen ontbijt.
+      Tom eet geen vroeg ontbijt.
+
+3592:     [yes],     yes,  closed, 'Ter',4     XP: [int(beleven)]
+      Jongens hebben geen respect voor meisjes.
+      Jongens hebben geen beleefd respect voor meisjes.
+
+3594:     [yes],     yes,  closed, 'Ter',26    XP: [int(gehandicapt)]
+      Ze kan niet eens een vlieg kwaad doen.
+      Ze kan niet eens een gehandicapte vlieg kwaad doen.
+
+3597:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Hij heeft geen ruimtelijk bewustzijn.
+      Hij heeft geen ruimtelijk bewustzijn of vergelijkbaar.
+
+3605:     [yes],     yes,  closed, 'Ter',18    XP: [int(mooi)]
+      Ik heb je nooit eerder in een jurk gezien.
+      Ik heb je nooit eerder in een mooie jurk gezien.
+
+3609:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom wilde geen overuren werken op kerstavond.
+      Tom wilde geen overuren werken op kerstavond.
+
+3610:     [yes],     yes,  closed, 'Ter',4     XP: [int(ambitieus)]
+      Iedere man heeft zijn prijs.
+      Iedere ambitieuze man heeft zijn prijs.
+
+3613:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ik kan niet Tom thuis bellen.
+      Ik kan niet Tom bij mij thuis bellen.
+
+3618:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Ik kan niet Tom thuis bellen.
+      Ik kan niet Tom thuis bellen omdat ik het nummer niet heb.
+
+3619:     [yes],     yes,  closed, 'Ter',12    XP: [int(vaag)]
+      Ik kan die uitleg niet accepteren.
+      Ik kan die vage uitleg niet accepteren.
+
+3621:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Ik kan die uitleg niet accepteren.
+      Ik kan die uitleg die je vrouw gaf niet accepteren.
+
+3623:     [yes],     yes,  closed, 'Ter',12    XP: [int(stereotiep eren)]
+      Ik kan die uitleg niet accepteren.
+      Ik kan die stereotyperende uitleg niet accepteren.
+
+3625:     [yes],     yes,  closed, 'Ter',12    XP: [int(oppervlakkig)]
+      Ik kan die uitleg niet accepteren.
+      Ik kan die oppervlakkige uitleg niet accepteren.
+
+3627:     [yes],     yes,  closed, 'Ter',4     XP: [int(agressief)]
+      Tom is geen racist.
+      Tom is geen agressieve racist.
+
+3629:     [yes],     yes,  closed, 'Ter',4     XP: [int(systemisch)]
+      Tom is geen racist.
+      Tom is geen systemische racist.
+
+3631:     [yes],     yes,  closed, 'Ter',11    XP: [isa(in@Turkije@gevangenis,gevangenis)]
+      Ik wil niet naar de gevangenis.
+      Ik wil niet naar de gevangenis in Turkije.
+
+3633:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ik wil niet naar de gevangenis.
+      Ik wil hier niet naar de gevangenis.
+
+3635:     [yes],     yes,  closed, 'Ter',11    XP: [int(Turks)]
+      Ik wil niet naar de gevangenis.
+      Ik wil niet naar de Turkse gevangenis.
+
+3637:     [yes],     yes,  closed, 'Ter',15    XP: []
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
+      Uitzonderlijke dingen gebeuren nooit op een simpele en gewone manier.
+
+3640:     [yes],     yes,  closed, 'Ter',7     XP: [int(and@gewoon@simpel),int(normaal)]
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone normale manieren.
+
+3641:     [yes],     yes,  closed, 'Ter',7     XP: [int(and@gewoon@simpel),int(gewoonlijk)]
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone gewoonlijke manieren.
+
+3643:     [yes],     yes,  closed, 'Ter',7     XP: [int(and@gewoon@simpel),int(gewoontelijk)]
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
+      Uitzonderlijke dingen gebeuren nooit op simpele en gewone gewoontelijke manieren.
+
+3655:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Jullie zijn niet langer kinderen.
+      Jullie zijn niet langer kinderen.
+
+3656:     [yes],     yes,  closed, 'Ter',6     XP: [int(klein)]
+      Jullie zijn niet langer kinderen.
+      Jullie zijn niet langer kleine kinderen.
+
+3658:     [yes],     yes,  closed, 'Ter',6     XP: [int(klein)]
+      Jullie zijn niet langer kinderen.
+      Jullie zijn niet langer kleine kinderen.
+
+3662:     [yes],     yes,  closed, 'Ter',4     XP: [isa(baby,kind)]
+      Jullie zijn niet langer kinderen.
+      Jullie zijn niet langer baby’s.
+
+3668:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik wilde eigenlijk niet naar de universiteit gaan.
+      Ik wilde eigenlijk niet naar mijn universiteit gaan.
+
+3671:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik wilde eigenlijk niet naar de universiteit gaan.
+      Ik wilde eigenlijk niet naar de universiteit gaan dit jaar.
+
+3673:     [yes],     yes,  closed, 'Ter',6     XP: [int(klein)]
+      Ik hou niet van zwemmen in zwembaden.
+      Ik hou niet van zwemmen in kleine zwembaden.
+
+3678:     [yes],     yes,  closed, 'Ter',10    XP: [int(vier)]
+      Ik wil geen kinderen krijgen.
+      Ik wil geen vier kinderen krijgen.
+
+3680:     [yes],     yes,  closed, 'Ter',9     XP: [isa(baby,kind)]
+      Ik wil geen kinderen krijgen.
+      Ik wil geen baby’s krijgen.
+
+3682:     [yes],     yes,  closed, 'Ter',12    XP: []
+      We moeten de hoop niet verliezen.
+      We moeten de hoop niet verliezen voor verandering.
+
+3684:     [yes],     yes,  closed, 'Ter',1     XP: []
+      We moeten de hoop niet verliezen.
+      We moeten de hoop niet verliezen.
+
+3685:     [yes],     yes,  closed, 'Ter',8     XP: []
+      We moeten de hoop niet verliezen.
+      We moeten de hoop niet makkelijk verliezen.
+
+3686:     [yes],     yes,  closed, 'Ter',8     XP: []
+      We moeten de hoop niet verliezen.
+      We moeten de hoop niet verliezen zonder te proberen.
+
+3687:     [yes],     yes,  closed, 'Ter',12    XP: []
+      We moeten de hoop niet verliezen.
+      We moeten de hoop niet verliezen op god.
+
+3688:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Het bedrijf maakte geen winst.
+      Het bedrijf maakte geen grote winst.
+
+3690:     [yes],     yes,  closed, 'Ter',34    XP: [int(vies)]
+      Tom houdt er niet van om vaat af te wassen.
+      Tom houdt er niet van om vieze vaat af te wassen.
+
+3692:     [yes],     yes,  closed, 'Ter',33    XP: []
+      Tom houdt er niet van om vaat af te wassen.
+      Tom houdt er niet van om vaat en borden af te wassen.
+
+3695:     [yes],     yes,  closed, 'Ter',4     XP: [int(leuk)]
+      Tom heeft geen kelder.
+      Tom heeft geen leuke kelder.
+
+3697:     [yes],     yes,  closed, 'Ter',4     XP: [int(negatief)]
+      Dit medicijn heeft geen bijwerkingen.
+      Dit medicijn heeft geen negatieve bijwerkingen.
+
+3699:     [yes],     yes,  closed, 'Ter',4     XP: [int(serieus)]
+      Dit medicijn heeft geen bijwerkingen.
+      Dit medicijn heeft geen serieuze bijwerkingen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3704:     [yes],     yes,  closed, 'Ter',4     XP: [int(leuk)]
+      Ik heb geen huis.
+      Ik heb geen leuk huis.
+
+3706:     [yes],     yes,  closed, 'Ter',4     XP: [int(mooi)]
+      Ik heb geen huis.
+      Ik heb geen mooi huis.
+
+3710:     [yes],     yes,  closed, 'Ter',4     XP: [int(comfortabel)]
+      Ik heb geen huis.
+      Ik heb geen comfortabel huis.
+
+3713:     [yes],     yes,  closed, 'Ter',25    XP: []
+      Ik hoef gewoonlijk niet op zondagen te werken.
+      Ik hoef gewoonlijk niet op zondagen te werken omdat mijn vrije dagen op zaterdag en zondag zijn.
+
+3714:     [yes],     yes,  closed, 'Ter',27    XP: []
+      Ik hoef gewoonlijk niet op zondagen te werken.
+      Ik hoef gewoonlijk niet op zondagen te werken iedere twee weken.
+
+3716:     [yes],     yes,  closed, 'Ter',7     XP: [int(lang),int(somber)]
+      Ik kende dat liedje niet.
+      Ik kende dat lange sombere liedje niet.
+
+3718:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Ik kende dat liedje niet.
+      Ik kende dat liedje en wie het zingt niet.
+
+3719:     [yes],     yes,  closed, 'Ter',24    XP: [int(nieuw),isa(goed@schoen@paar,paar)]
+      Tom heeft al drie jaar geen nieuw paar schoenen gekocht.
+      Tom heeft al drie jaar geen nieuw paar goede schoenen gekocht.
+
+3721:     [yes],     yes,  closed, 'Ter',24    XP: [int(nieuw),isa(Adidas@schoen@paar,paar)]
+      Tom heeft al drie jaar geen nieuw paar schoenen gekocht.
+      Tom heeft al drie jaar geen nieuw paar adidas schoenen gekocht.
+
+3724:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik hoop dat dit geen fout is.
+      Ik hoop dat dit geen fout is.
+
+3729:     [yes],     yes,  closed, 'Ter',10    XP: [int(groot)]
+      Dat meisje kan geen fiets berijden.
+      Dat meisje kan geen grote fiets berijden.
+
+3733:     [yes],     yes,  closed, 'Ter',10    XP: [int(hoog)]
+      Dat meisje kan geen fiets berijden.
+      Dat meisje kan geen hoge fiets berijden.
+
+3735:     [yes],     yes,  closed, 'Ter',10    XP: [int(klein)]
+      Dat meisje kan geen fiets berijden.
+      Dat meisje kan geen kleine fiets berijden.
+
+3739:     [yes],     yes,  closed, 'Ter',1     XP: [isa(meid,meisje),isa(meisje,meid)]
+      Ik hou niet van zware make-up bij een jong meisje.
+      Ik hou niet van zware make-up bij een jonge meid.
+
+3742:     [yes],     yes,  closed, 'Ter',20    XP: [int(mooi)]
+      Ik heb die naam al jaren niet gehoord.
+      Ik heb die mooie naam al jaren niet gehoord.
+
+3744:     [yes],     yes,  closed, 'Ter',15    XP: []
+      Ik woon niet in die stad.
+      Ik woon niet in die stad die jij zegt.
+
+3745:     [yes],     yes,  closed, 'Ter',15    XP: []
+      Ik woon niet in die stad.
+      Ik woon niet in die stad die jij denkt.
+
+3747:     [yes],     yes,  closed, 'Ter',6     XP: [int(mooi)]
+      Ik woon niet in die stad.
+      Ik woon niet in die mooie stad.
+
+3754:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Ieder gesproken woord wekt zijn tegenspraak op.
+      Ieder goed woord gesproken wekt zijn tegenspraak op.
+
+3759:     [yes],     yes,  closed, 'Ter',4     XP: [int(betekenisvol)]
+      Ieder gesproken woord wekt zijn tegenspraak op.
+      Ieder betekenisvol woord gesproken wekt zijn tegenspraak op.
+
+3761:     [yes],     yes,  closed, 'Ter',4     XP: [int(eerlijk)]
+      Ieder gesproken woord wekt zijn tegenspraak op.
+      Ieder eerlijk woord gesproken wekt zijn tegenspraak op.
+
+3767:     [yes],     yes,  closed, 'Ter',13    XP: [int(donker),int(vreselijk)]
+      Ik zal niet terugkomen op die vreselijke plek.
+      Ik zal niet terugkomen op die vreselijke donkere plek.
+
+3768:     [yes],     yes,  closed, 'Ter',13    XP: [int(klam),int(vreselijk)]
+      Ik zal niet terugkomen op die vreselijke plek.
+      Ik zal niet terugkomen op die vreselijke klamme plek.
+
+3772:     [yes],     yes,  closed, 'Ter',15    XP: [int(klein)]
+      Ik wil niet afgezet worden voor een hotelkamer.
+      Ik wil niet afgezet worden voor een kleine hotelkamer.
+
+3774:     [yes],     yes,  closed, 'Ter',8     XP: [int(haatdragend)]
+      Je bent niet langer een kind.
+      Je bent niet langer een haatdragend en pretentieus kind.
+
+3778:     [yes],     yes,  closed, 'Ter',6     XP: [isa(nar,clown)]
+      Picasso was geen clown, en hij was een sarcastische commentator op een verwarde leeftijd, een geweldige archivaris van de dwaasheid van de mensheid.
+      Picasso was geen nar, en hij was een sarcastische commentator op een verwarde leeftijd, een geweldige archivaris van de dwaasheid van de mensheid.
+
+3780:     [yes],     yes,  closed, 'Ter',27    XP: [int(zulk)]
+      Hij is een man die geen fouten maakt.
+      Hij is een man die niet zulke fouten maakt.
+
+3782:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Hij is een man die geen fouten maakt.
+      Hij is een man die geen fouten maakt die iemand anders pijn doen.
+
+3786:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Geld maakt niet altijd gelukkig.
+      Geld maakt niet altijd gelukkig in het hart.
+
+3788:     [yes],     yes,  closed, 'Ter',4     XP: [int(hard)]
+      Hij verzacht geen woorden.
+      Hij verzacht geen harde woorden.
+
+3790:     [yes],     yes,  closed, 'Ter',5     XP: [int(Kazachs),int(mooi)]
+      Hij kent geen Kazachse taal.
+      Hij kent geen Kazachse mooie taal.
+
+3794:     [yes],     yes,  closed, 'Ter',5     XP: [int(goed),int(praktisch)]
+      Geen praktische grappenmaker zou zonder een scheetkussen moeten zijn.
+      Geen praktische goede grappenmaker zou zonder een scheetkussen moeten zijn.
+
+3796:     [yes],     yes,  closed, 'Ter',5     XP: [int(hilarisch),int(praktisch)]
+      Geen praktische grappenmaker zou zonder een scheetkussen moeten zijn.
+      Geen praktische hilarische grappenmaker zou zonder een scheetkussen moeten zijn.
+
+3798:     [yes],     yes,  closed, 'Ter',4     XP: [int(overtuigen)]
+      Hij gaf geen antwoord op de vraag.
+      Hij gaf geen overtuigend antwoord op de vraag.
+
+3800:     [yes],     yes,  closed, 'Ter',13    XP: []
+      Hij gaf geen antwoord op de vraag.
+      Hij gaf niet op tijd antwoord op de vraag.
+
+3803:     [yes],     yes,  closed, 'Ter',18    XP: [isa(van@c2@leven,leven)]
+      Met geld kun je geen leven kopen.
+      Met geld kun je niet het leven van een persoon kopen.
+
+3804:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Ze hebben geen keuze.
+      Ze hebben geen betere keuze.
+
+3806:     [yes],     yes,  closed, 'Ter',4     XP: [int(ander)]
+      Ze hebben geen keuze.
+      Ze hebben geen andere keuze.
+
+3821:     [yes],     yes,  closed, 'Ter',6     XP: [int(onbeleefd)]
+      Ik hou niet van agenten.
+      Ik hou niet van onbeleefde agenten.
+
+3825:     [yes],     yes,  closed, 'Ter',10    XP: [int(puur)]
+      Ik kan geen chocolade eten!
+      Ik kan geen pure chocolade eten!
+
+3828:     [yes],     yes,  closed, 'Ter',9     XP: [int(eng)]
+      Er gaat geen dag voorbij zonder verkeersongelukken.
+      Er gaat geen dag voorbij zonder enge verkeersongelukken.
+
+3831:     [yes],     yes,  closed, 'Ter',22    XP: [int(enkel)]
+      Hij kan geen leugen verteld hebben.
+      Hij kan op geen enkele manier een leugen verteld hebben.
+
+3832:     [yes],     yes,  closed, 'Ter',4     XP: [int(melkig)]
+      Ze drinkt geen koffie.
+      Ze drinkt geen melkige koffie.
+
+3834:     [yes],     yes,  closed, 'Ter',4     XP: [isa(kip ei,ei)]
+      Ik hou niet van eieren.
+      Ik hou niet van kippeneieren.
+
+3837:     [yes],     yes,  closed, 'Ter',18    XP: [int(slecht)]
+      Je mag dat woord niet zeggen in mijn land!
+      Je mag dat slechte woord niet zeggen in mijn land!
+
+3838:     [yes],     yes,  closed, 'Ter',18    XP: [int(afschuwelijk)]
+      Je mag dat woord niet zeggen in mijn land!
+      Je mag dat afschuwelijke woord niet zeggen in mijn land!
+
+3839:     [yes],     yes,  closed, 'Ter',4     XP: [int(beschadigen)]
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen beschadigde drugs.
+
+3840:     [yes],     yes,  closed, 'Ter',6     XP: [int(oud)]
+      Ik hou niet van romans zonder helden.
+      Ik hou niet van oude romans zonder helden.
+
+3842:     [yes],     yes,  closed, 'Ter',6     XP: [int(nieuw)]
+      Ik hou niet van romans zonder helden.
+      Ik hou niet van nieuwe romans zonder helden.
+
+3844:     [yes],     yes,  closed, 'Ter',6     XP: [int(grappig)]
+      Ik hou niet van romans zonder helden.
+      Ik hou niet van grappige romans zonder helden.
+
+3850:     [yes],     yes,  closed, 'Ter',12    XP: [int(professioneel)]
+      Ik heb nog nooit golf gespeeld.
+      Ik heb nog nooit professioneel golf gespeeld.
+
+3852:     [yes],     yes,  closed, 'Ter',14    XP: [isa(met@c2@golf,golf)]
+      Ik heb nog nooit golf gespeeld.
+      Ik heb nog nooit golf met instructeur gespeeld.
+
+3854:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Ik wil niet het borreluurtje missen.
+      Ik wil niet het borreluurtje missen vandaag.
+
+3856:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Ik wil niet het borreluurtje missen.
+      Ik wil niet het borreluurtje missen morgen.
+
+3861:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ik wil niet het borreluurtje missen.
+      Ik wil niet het borreluurtje om met mijn vrienden te genieten missen.
+
+3875:     [yes],     yes,  closed, 'Ter',4     XP: [isa(in@Italië@klooster,klooster)]
+      Ieder klooster heeft zijn eigen regels.
+      Ieder klooster in italië heeft zijn eigen regels.
+
+3877:     [yes],     yes,  closed, 'Ter',10    XP: [int(goed)]
+      Voorlopig heb ik geen plan.
+      Voorlopig heb ik geen goed plan.
+
+3879:     [yes],     yes,  closed, 'Ter',10    XP: [int(ideaal)]
+      Voorlopig heb ik geen plan.
+      Voorlopig heb ik geen ideaal plan.
+
+3881:     [yes],     yes,  closed, 'Ter',26    XP: []
+      Voorlopig heb ik geen plan.
+      Voorlopig heb ik nog geen plan.
+
+3887:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Tom kon geen goede plek om te verstoppen vinden.
+      Tom kon geen goede en grote plek om te verstoppen vinden.
+
+3888:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Tom kon geen goede plek om te verstoppen vinden.
+      Tom kon geen goede en schattige plek om te verstoppen vinden.
+
+3891:     [yes],     yes,  closed, 'Ter',18    XP: []
+      Camera’s hebben niet de neiging om realiteit vast te leggen.
+      Camera’s hebben niet de neiging om realiteit en waarheid vast te leggen.
+
+3892:     [yes],     yes,  closed, 'Ter',18    XP: []
+      Camera’s hebben niet de neiging om realiteit vast te leggen.
+      Camera’s hebben niet de neiging om realiteit en live beweging vast te leggen.
+
+3893:     [yes],     yes,  closed, 'Ter',16    XP: [int(verdrietig)]
+      Camera’s hebben niet de neiging om realiteit vast te leggen.
+      Camera’s hebben niet de neiging om verdrietige realiteit vast te leggen.
+
+3894:     [yes],     yes,  closed, 'Ter',13    XP: [int(groot)]
+      Ik wil niemand in problemen brengen.
+      Ik wil niemand in grote problemen brengen.
+
+3895:     [yes],     yes,  closed, 'Ter',13    XP: [int(on verwachten)]
+      Ik wil niemand in problemen brengen.
+      Ik wil niemand in onverwachte problemen brengen.
+
+3904:     [yes],     yes,  closed, 'Ter',4     XP: [int(geweldig)]
+      Ik heb geen lezing nodig.
+      Ik heb geen geweldige lezing nodig.
+
+3906:     [yes],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Ik heb geen lezing nodig.
+      Ik heb geen lange lezing nodig.
+
+3908:     [yes],     yes,  closed, 'Ter',4     XP: [int(ingewikkeld)]
+      Ik heb geen lezing nodig.
+      Ik heb geen ingewikkelde lezing nodig.
+
+3912:     [yes],     yes,  closed, 'Ter',4     XP: [int(arm),isa(jongen,kind)]
+      Geen kind zou achtergelaten moeten worden.
+      Geen arme jongen zou achtergelaten moeten worden.
+
+3914:     [yes],     yes,  closed, 'Ter',4     XP: [int(arm)]
+      Geen kind zou achtergelaten moeten worden.
+      Geen arm kind zou achtergelaten moeten worden.
+
+3916:     [yes],     yes,  closed, 'Ter',4     XP: [int(ziek)]
+      Geen kind zou achtergelaten moeten worden.
+      Geen ziek kind zou achtergelaten moeten worden.
+
+3918:     [yes],     yes,  closed, 'Ter',4     XP: [int(schattig)]
+      Geen kind zou achtergelaten moeten worden.
+      Geen schattig kind zou achtergelaten moeten worden.
+
+3920:     [yes],     yes,  closed, 'Ter',4     XP: [int(klein)]
+      Geen kind zou achtergelaten moeten worden.
+      Geen klein kind zou achtergelaten moeten worden.
+
+3922:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Tom wordt niet uitgeleverd aan Australië.
+      Tom wordt niet uitgeleverd aan Australië deze week.
+
+3927:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Tom wordt niet uitgeleverd aan Australië.
+      Tom wordt niet uitgeleverd aan Australië dit jaar.
+
+3931:     [yes],     yes,  closed, 'Ter',94    XP: [int(luxe)]
+      Ik kan het me niet veroorloven om een auto te kopen.
+      Ik kan het me niet veroorloven om een luxe auto te kopen.
+
+3933:     [yes],     yes,  closed, 'Ter',94    XP: [int(goed)]
+      Ik kan het me niet veroorloven om een auto te kopen.
+      Ik kan het me niet veroorloven om een goede auto te kopen.
+
+3935:     [yes],     yes,  closed, 'Ter',94    XP: [int(nieuw)]
+      Ik kan het me niet veroorloven om een auto te kopen.
+      Ik kan het me niet veroorloven om een nieuwe auto te kopen.
+
+3937:     [yes],     yes,  closed, 'Ter',94    XP: [int(duur)]
+      Ik kan het me niet veroorloven om een auto te kopen.
+      Ik kan het me niet veroorloven om een dure auto te kopen.
+
+3948:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Prins Hamlet was geen toneelschrijver.
+      Prins Hamlet was geen toneelschrijver.
+
+3949:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Leven gaat niet over rozen.
+      Leven gaat niet comfortabel over rozen.
+
+3950:     [yes],     yes,  closed, 'Ter',21    XP: [int(groot),int(zo@(als@dat)@mooi)]
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een groot huis zo mooi als dat kunnen veroorloven.
+
+3954:     [yes],     yes,  closed, 'Ter',21    XP: [int(kleurrijk),int(zo@(als@dat)@mooi)]
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
+
+3958:     [yes],     yes,  closed, 'Ter',16    XP: [int(gevaarlijk)]
+      Ik wil niet het lot tarten.
+      Ik wil niet jouw gevaarlijke lot tarten.
+
+3960:     [yes],     yes,  closed, 'Ter',16    XP: [int(groot)]
+      Ik wil niet het lot tarten.
+      Ik wil niet mijn grote lot tarten.
+
+3962:     [yes],     yes,  closed, 'Ter',16    XP: [int(grappig)]
+      Ik wil niet het lot tarten.
+      Ik wil niet het grappige lot tarten.
+
+3964:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Ik wil niet het lot tarten.
+      Ik wil niet het lot tarten in mijn leven.
+
+3965:     [yes],     yes,  closed, 'Ter',41    XP: [int(jong),isa(beperken,limiteren),isa(limiteren,beperken)]
+      Iedere man heeft de muur die zijn geest limiteert gezien.
+      Iedere jonge man heeft de muren gezien die zijn geest beperken.
+
+3966:     [yes],     yes,  closed, 'Ter',41    XP: [int(wijs),isa(beperken,limiteren),isa(limiteren,beperken)]
+      Iedere man heeft de muur die zijn geest limiteert gezien.
+      Iedere wijze man heeft de muren gezien die zijn geest beperken.
+
+3967:     [yes],     yes,  closed, 'Ter',4     XP: [int(Amerikaans)]
+      Tom speelt geen voetbal.
+      Tom speelt geen Amerikaans voetbal.
+
+3968:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Tom speelt geen voetbal.
+      Tom speelt geen voetbal meer in Japan.
+
+3970:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Tom speelt geen voetbal.
+      Tom speelt geen voetbal op zondag.
+
+3972:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Tom speelt geen voetbal.
+      Tom speelt geen voetbal vanavond.
+
+3980:     [yes],     yes,  closed, 'Ter',24    XP: [int(vreemd)]
+      Ik zal voor niemand tweede viool spelen.
+      Ik zal voor niemand tweede vreemde viool spelen.
+
+3982:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Iedere toeschouwer koopt een kaartje.
+      Iedere goede toeschouwer koopt een kaartje.
+
+3984:     [yes],     yes,  closed, 'Ter',4     XP: [int(aardig)]
+      Iedere toeschouwer koopt een kaartje.
+      Iedere aardige toeschouwer koopt een kaartje.
+
+3986:     [yes],     yes,  closed, 'Ter',4     XP: [int(eerlijk)]
+      Iedere toeschouwer koopt een kaartje.
+      Iedere eerlijke toeschouwer koopt een kaartje.
+
+3994:     [yes],     yes,  closed, 'Ter',15    XP: [isa(van@c2@veld,veld)]
+      Tom heeft nooit een goede baan gehad.
+      Tom heeft nooit een goede baan gehad in zijn veld van expertise.
+
+3996:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Tom heeft nooit een goede baan gehad.
+      Tom heeft nooit een goede baan gehad die hij leuk vond.
+
+3998:     [yes],     yes,  closed, 'Ter',6     XP: [int(lang)]
+      Tom was niet in de stemming voor lunch.
+      Tom was niet in de stemming voor een lange lunch.
+
+4006:     [yes],     yes,  closed, 'Ter',4     XP: [int(goed)]
+      Ik heb geen mes.
+      Ik heb geen goed mes.
+
+4010:     [yes],     yes,  closed, 'Ter',4     XP: [int(nieuw)]
+      Ik heb geen mes.
+      Ik heb geen nieuw mes.
+
+4012:     [yes],     yes,  closed, 'Ter',4     XP: [int(scherp)]
+      Ik heb geen mes.
+      Ik heb geen scherp mes.
+
+4017:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ze is nog nooit verliefd geworden.
+      Ze is nog nooit echt verliefd geworden.
+
+4019:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Ze is nog nooit verliefd geworden.
+      Ze is nog nooit in haar leven verliefd geworden.
+
+4020:     [yes],     yes,  closed, 'Ter',19    XP: []
+      Ze is nog nooit verliefd geworden.
+      Ze is nog nooit op iemand verliefd geworden.
+
+4021:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Ze is nog nooit verliefd geworden.
+      Ze is nog nooit met heel haar hart verliefd geworden.
+
+4022:     [yes],     yes,  closed, 'Ter',16    XP: []
+      Ze is nog nooit verliefd geworden.
+      Ze is nog nooit met heel haar hart verliefd geworden.
+
+4023:     [yes],     yes,  closed, 'Ter',21    XP: [isa(genoeg@(om@(te@abst(_2492026,a@(wit@koffie@kop)@abst(_2491200,kopen@_2491200@_2492026))))@geld,geld),isa(wit@koffie@kop,kop)]
+      Tom had niet eens genoeg geld om een kopje koffie te kopen.
+      Tom had niet eens genoeg geld om een kopje witte koffie te kopen.
+
+4026:     [yes],     yes,  closed, 'Ter',4     XP: [int(bruikbaar)]
+      We vonden geen wapen.
+      We vonden geen bruikbaar wapen.
+
+4027:     [yes],     yes,  closed, 'Ter',4     XP: [int(dodelijk)]
+      We vonden geen wapen.
+      We vonden geen dodelijk wapen.
+
+4028:     [yes],     yes,  closed, 'Ter',4     XP: [int(nucleair)]
+      We vonden geen wapen.
+      We vonden geen nucleair wapen.
+
+4029:     [yes],     yes,  closed, 'Ter',4     XP: [int(leven)]
+      Geen wezen kan leven zonder lucht.
+      Geen levend wezen kan leven zonder lucht.
+
+4030:     [yes],     yes,  closed, 'Ter',5     XP: [int(leven),isa(zoals@(weten@ik)@wezen,wezen)]
+      Geen wezen kan leven zonder lucht.
+      Geen levend wezen zoals ik weet kan leven zonder lucht.
+
+4032:     [yes],     yes,  closed, 'Ter',1     XP: [isa(dier,wezen),isa(wezen,dier)]
+      Geen wezen kan leven zonder lucht.
+      Geen dier kan leven zonder lucht.
+
+4040:     [yes],     yes,  closed, 'Ter',10    XP: [int(bruikbaar)]
+      Ze had geen zakdoeken om haar tranen weg te vegen.
+      Ze had geen bruikbare zakdoeken om haar tranen weg te vegen.
+
+4041:     [yes],     yes,  closed, 'Ter',10    XP: [int(droog)]
+      Ze had geen zakdoeken om haar tranen weg te vegen.
+      Ze had geen droge zakdoeken om haar tranen weg te vegen.
+
+4042:     [yes],     yes,  closed, 'Ter',10    XP: [isa(erg@nodig@zakdoek,zakdoek)]
+      Ze had geen zakdoeken om haar tranen weg te vegen.
+      Ze had geen erg nodige zakdoeken om haar tranen weg te vegen.
+
+4048:     [yes],     yes,  closed, 'Ter',4     XP: [int(standaard)]
+      Tom heeft geen kabelTV.
+      Tom heeft geen standaard kabelTV.
+
+4049:     [yes],     yes,  closed, 'Ter',4     XP: [int(gebruikelijk)]
+      Tom heeft geen kabelTV.
+      Tom heeft geen gebruikelijke kabelTV.
+
+4050:     [yes],     yes,  closed, 'Ter',4     XP: [int(nieuw)]
+      Tom heeft geen kabelTV.
+      Tom heeft geen nieuwe kabelTV.
+
+4053:     [yes],     yes,  closed, 'Ter',4     XP: [int(enkel)]
+      Ik verwacht geen hulp.
+      Ik verwacht geen enkele hulp.
+
+4058:     [yes],     yes,  closed, 'Ter',10    XP: [int(enkel)]
+      Hij is geen partij voor mij in tennis.
+      Hij is geen enkele partij voor mij in tennis.
+
+4059:     [yes],     yes,  closed, 'Ter',19    XP: []
+      Ik lijk niet te kunnen stoppen met roken.
+      Ik lijk niet te kunnen stoppen met roken ook al zei de dokter het.
+
+4062:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Hij neemt geen vakanties.
+      Hij neemt geen vakanties in december.
+
+4069:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Ik heb geen idee.
+      Ik heb oprecht geen idee.
+
+4073:     [yes],     yes,  closed, 'Ter',4     XP: [int(enkel)]
+      Ik heb geen idee.
+      Ik heb geen enkel idee.
+
+4075:     [yes],     yes,  closed, 'Ter',7     XP: [int(goedkoop)]
+      Ze rookt niet en ze drinkt geen vodka.
+      Ze rookt niet en ze drinkt geen goedkope vodka.
+
+4077:     [yes],     yes,  closed, 'Ter',4     XP: [int(hoog)]
+      Ik heb geen koorts.
+      Ik heb geen hoge koorts.
+
+4080:     [yes],     yes,  closed, 'Ter',8     XP: [isa(in@c1@kat,kat)]
+      Tom houdt niet van katten.
+      Tom houdt niet van katten in het huis.
+
+4085:     [yes],     yes,  closed, 'Ter',4     XP: [int(zwart)]
+      Hij drinkt geen koffie.
+      Hij drinkt geen zwarte koffie.
+
+4087:     [yes],     yes,  closed, 'Ter',6     XP: [int(arrogant),isa(jong,jongen),isa(jongen,jong)]
+      Ik vind die jongen niet aardig.
+      Ik vind die arrogante jongen niet aardig.
+
+4093:     [yes],     yes,  closed, 'Ter',26    XP: []
+      Tom heeft al jaren geen piano gespeeld.
+      Tom heeft al jaren geen piano gespeeld sinds ik een kind was.
+
+4100:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Een zwaluw maakt de lente niet.
+      Een zwaluw maakt de lente niet bij de boom.
+
+4101:     [yes],     yes,  closed, 'Ter',4     XP: [int(snel)]
+      Ze heeft geen computer.
+      Ze heeft geen snelle computer.
+
+4104:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Tom houdt er niet van om om hulp te vragen.
+      Tom houdt er niet van om om hulp te vragen van zijn ouders.
+
+4106:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Tom houdt er niet van om om hulp te vragen.
+      Tom houdt er niet van om om hulp te vragen in tijden van problemen.
+
+4107:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom houdt er niet van om om hulp te vragen.
+      Tom houdt er niet van om om hulp te vragen.
+
+4108:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom houdt er niet van om om hulp te vragen.
+      Tom houdt er niet van om om wat hulp te vragen.
+
+4109:     [yes],     yes,  closed, 'Ter',8     XP: [isa(hulp,medewerking),isa(medewerking,hulp)]
+      Tom houdt er niet van om om hulp te vragen.
+      Tom houdt er niet van om om medewerking te vragen van anderen.
+
+4110:     [yes],     yes,  closed, 'Ter',16    XP: [isa(assistentie,hulp),isa(hulp,assistentie)]
+      Tom houdt er niet van om om hulp te vragen.
+      Tom houdt er niet van om om assistentie te vragen bij zijn dingen.
+
+4111:     [yes],     yes,  closed, 'Ter',1     XP: [isa(plaats,terrein),isa(terrein,plaats)]
+      Ik zou hem niet graag ontmoeten op een donkere plaats.
+      Ik zou hem niet graag ontmoeten op een donker terrein.
+
+4113:     [yes],     yes,  closed, 'Ter',1     XP: [isa(plaats,plek),isa(plek,plaats)]
+      Ik zou hem niet graag ontmoeten op een donkere plaats.
+      Ik zou hem niet graag ontmoeten op een donkere plek.
+
+4114:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Geen passagiers waren gedood in het ongeluk.
+      Geen passagiers die met ons waren waren gedood in het ongeluk.
+
+4117:     [yes],     yes,  closed, 'Ter',95    XP: [int(hand schakelen),int(nieuw)]
+      We kunnen het ons niet veroorloven om een nieuwe auto te kopen.
+      We kunnen het ons niet veroorloven om een nieuwe handgeschakelde auto te kopen.
+
+4128:     [yes],     yes,  closed, 'Ter',15    XP: []
+      Zijn logica is op geen manier verdedigbaar.
+      Zijn logica is op geen manier verdedigbaar en sterk.
+
+4140:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Tom houdt niet van schaken.
+      Tom houdt niet van schaken.
+
+4143:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Het schip vertrok iedere maandag in de ochtend.
+      Het schip vertrok iedere maandag.
+
+4147:     [yes],     yes,  closed, 'Ter',6     XP: [int(geweldig)]
+      Haar manieren zijn niet die van een dame.
+      Haar manieren zijn niet die van een geweldige dame.
+
+4148:     [yes],     yes,  closed, 'Ter',6     XP: [int(normaal)]
+      Haar manieren zijn niet die van een dame.
+      Haar manieren zijn niet die van een normale dame.
+
+4150:     [yes],     yes,  closed, 'Ter',4     XP: [int(Philips)]
+      Tom heeft geen magnetron.
+      Tom heeft geen philips magnetron.
+
+4156:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ik kan helemaal geen Duits spreken en schrijven.
+      Ik kan helemaal geen Duits spreken.
+
+4161:     [yes],     yes,  closed, 'Ter',4     XP: [int(mannelijk)]
+      Ik vertrouw geen politici.
+      Ik vertrouw geen mannelijke politici.
+
+4165:     [yes],     yes,  closed, 'Ter',7     XP: [isa(sandaal,schoen)]
+      Ik draag niet graag schoenen zonder sokken.
+      Ik draag niet graag sandalen zonder sokken.
+
+4166:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik was niet op tijd voor school deze ochtend.
+      Ik was niet op tijd voor mijn school deze ochtend.
+
+4167:     [yes],     yes,  closed, 'Ter',8     XP: [int(laag)]
+      Ik was niet op tijd voor school deze ochtend.
+      Ik was niet op tijd voor de lagere school deze ochtend.
+
+4170:     [yes],     yes,  closed, 'Ter',5     XP: [int(beroemd),int(enkel)]
+      Ik zei geen enkel woord.
+      Ik zei geen enkel beroemd woord.
+
+4171:     [yes],     yes,  closed, 'Ter',1     XP: [isa(garantie,verzekering),isa(verzekering,garantie)]
+      Eerlijkheid is geen garantie voor succes.
+      Eerlijkheid is geen verzekering voor succes.
+
+4173:     [yes],     yes,  closed, 'Ter',4     XP: [int(stevig)]
+      Tom heeft geen bankrekening.
+      Tom heeft geen stevige bankrekening.
+
+4175:     [yes],     yes,  closed, 'Ter',4     XP: [int(persoonlijk)]
+      Tom heeft geen bankrekening.
+      Tom heeft geen persoonlijke bankrekening.
+
+4177:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Ik kan helemaal niet zwemmen.
+      Ik kan niet zwemmen om mijn leven te redden.
+
+4178:     [yes],     yes,  closed, 'Ter',9     XP: []
+      Ik kan helemaal niet zwemmen.
+      Ik kan helemaal niet zwemmen nu.
+
+4179:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Ik kan helemaal niet zwemmen.
+      Ik kan helemaal niet zwemmen in diep water.
+
+4184:     [yes],     yes,  closed, 'Ter',46    XP: []
+      Tom gaat joggen in het park iedere vroege ochtend.
+      Tom gaat joggen in het park iedere ochtend.
+
+4187:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik ontgrendelde die deur niet.
+      Ik ontgrendelde die deur niet of enig ander.
+
+4188:     [yes],     yes,  closed, 'Ter',11    XP: []
+      Ik ontgrendelde die deur niet.
+      Ik ontgrendelde die deur niet in een mum van tijd.
+

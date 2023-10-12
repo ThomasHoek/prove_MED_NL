@@ -1,0 +1,4 @@
+3824: [unknown],      no,  closed, 'Ter',21    XP: [isa(with@c1@natural@death,natural@death)]
+      Jane did n't die a natural death with no pain .
+      Jane did n't die a natural death .
+

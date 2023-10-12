@@ -1,0 +1,8 @@
+3823:     [yes],      no,  closed, 'Ter',21    XP: [isa(with@c1@natural@death,natural@death)]
+      Jane did n't die a natural death .
+      Jane did n't die a natural death with no pain .
+
+4188:     [yes],      no,  closed, 'Ter',18    XP: []
+      I did n't unlock that door .
+      I did n't unlock that door in no time .
+

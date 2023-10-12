@@ -1,0 +1,8 @@
+ERROR: Cannot align tokens in sentence id=1327
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Gisteren,is,niet,goed,voor,mij,.]
+Inconsistency in node types (entail/8)
+751: [unknown], unknown,      NA, 'Defected'  XP: _2740424
+      Vandaag is niet goed voor mij.
+      Gisteren is niet goed voor mij.
+

@@ -1,0 +1,708 @@
+148: [unknown],     yes,  closed, 'Ter',1     XP: [isa(frenzy,hysteria),isa(hysteria,frenzy)]
+      Hysteria is no laughing matter .
+      Frenzy is no laughing matter .
+
+212: [unknown],     yes,  closed, 'Ter',10    XP: [int(adult),isa(cat,adult)]
+      She gave a cat some milk .
+      She gave an adult cat some milk .
+
+226: [unknown],     yes,  closed, 'Ter',3     XP: []
+      Nikos Kourkoulos was a greek actor .
+      Nikos Kourkoulos , who grew up in the athens district of zografou , was a greek actor .
+
+362: [unknown],     yes,  closed, 'Ter',1     XP: [isa(spider,wanderer),isa(wanderer,spider)]
+      A big spider was spinning a web .
+      A big wanderer was spinning a web .
+
+426: [unknown],     yes,  closed, 'Ter',8     XP: [isa(jog,nudge)]
+      Tom goes jogging in the park every morning .
+      Tom goes nudging in the park every morning .
+
+453: [unknown],     yes,  closed, 'Ter',23    XP: [int(snow)]
+      Winter does not look real without snow .
+      Winter does not look real without snow stones .
+
+457: [unknown],     yes,  closed, 'Ter',2     XP: [isa(ghost,person)]
+      In Germany ghosts do n't pay taxes .
+      In Germany people do n't pay taxes .
+
+458: [unknown],     yes,  closed, 'Ter',2     XP: [isa(ghost,apparition)]
+      In Germany ghosts do n't pay taxes .
+      In Germany apparitions do n't pay taxes .
+
+536: [unknown],     yes,  closed, 'Ter',5     XP: [int(bubbly),int(cold)]
+      A cold bubbly bath refreshed him .
+      A cold bath refreshed him .
+
+554: [unknown],     yes,  closed, 'Ter',2     XP: [isa(passenger,mortal)]
+      Some passengers complained about the service .
+      Some mortals complained about the service .
+
+571: [unknown],     yes,  closed, 'Ter',16    XP: [int(serious),int(work)]
+      Tom is facing a few serious work problems .
+      Tom is facing a few serious problems .
+
+619: [unknown],     yes,  closed, 'Ter',4     XP: [int(dreamless)]
+      She slept for a few dreamless hours .
+      She slept for a few hours .
+
+693: [unknown],     yes,  closed, 'Ter',13    XP: [int(describe),int(in@tatoeba),int(labour),int(sentence)]
+      Every sentence present in Tatoeba is a lie .
+      Every sentence describing labour present in Tatoeba is a lie .
+
+744: [unknown],     yes,  closed, 'Ter',3     XP: []
+      A wolf can not be tamed .
+      A wolf or a bear can not be tamed .
+
+805: [unknown],     yes,  closed, 'Ter',4     XP: [isa(earthquake,phenomenon)]
+      Earthquakes may occur at any moment .
+      A phenomenon may occur at any moment .
+
+834: [unknown],     yes,  closed, 'Ter',91    XP: [int(broken)]
+      There 's a radio in my room .
+      There 's a broken radio in my room .
+
+868: [unknown],     yes,  closed, 'Ter',2     XP: [isa(cat,big cat)]
+      A cat was on the table .
+      A big cat was on the table .
+
+899: [unknown],     yes,  closed, 'Ter',14    XP: [isa(house,building)]
+      Rudolf has built a large house .
+      Rudolf has built a large building .
+
+954: [unknown],     yes,  closed, 'Ter',8     XP: [isa(knife,cutter)]
+      He was sharpening a knife .
+      He was sharpening a cutter .
+
+982: [unknown],     yes,  closed, 'Ter',8     XP: [isa(bag,container)]
+      There are some bags in the room .
+      There are some containers in the room .
+
+1055: [unknown],     yes,  closed, 'Ter',11    XP: [int(cruel)]
+      It is no use asking a favor of that man .
+      It is no use asking a favor of that cruel man .
+
+1056: [unknown],     yes,  closed, 'Ter',10    XP: []
+      It is no use asking a favor of that man .
+      It is no use asking a favor of that man and his company .
+
+1071: [unknown],     yes,  closed, 'Ter',7     XP: [int(great),int(on@('''s'@they@student)),isa(effect,knowledge)]
+      Some teachers have a great effect on their students .
+      Some teachers have a great knowledge on their students .
+
+1113: [unknown],     yes,  closed, 'Ter',3     XP: [isa(carpenter,artisan)]
+      Tom is a skillful carpenter .
+      Tom is a skillful artisan .
+
+1117: [unknown],     yes,  closed, 'Ter',8     XP: [isa(tool,thing)]
+      There are a lot of tools in the box .
+      There are a lot of things in the box .
+
+1118: [unknown],     yes,  closed, 'Ter',3     XP: [isa(spoon,cutlery)]
+      There is a spoon missing .
+      There is a cutlery missing .
+
+1169: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dolphin,whale)]
+      A dolphin is a mammal .
+      A whale is a mammal .
+
+1170: [unknown],     yes,  closed, 'Ter',5     XP: [isa(dolphin,whale)]
+      A dolphin is a mammal .
+      A dolphin and whale is a mammal .
+
+1205: [unknown],     yes,  closed, 'Ter',3     XP: [isa(girl,little girl)]
+      An empathetic girl can empathize with a friend 's feelings .
+      An empathetic little girl can empathize with a friend 's feelings .
+
+1213: [unknown],     yes,  closed, 'Ter',3     XP: [isa(opponent,person)]
+      He is a formidable opponent .
+      He is a formidable person .
+
+1307: [unknown],     yes,  closed, 'Ter',15    XP: [int(cold)]
+      I rarely catch a cold lasting more than one week .
+      I rarely catch a cold .
+
+1324: [unknown],     yes,  closed, 'Ter',23    XP: [int(american),int(raw)]
+      Tom has never eaten raw American horse meat .
+      Tom has never eaten raw horse meat .
+
+1326: [unknown],     yes,  closed, 'Ter',23    XP: [int(adult),int(raw)]
+      Tom has never eaten raw adult horse meat .
+      Tom has never eaten raw horse meat .
+
+1328: [unknown],     yes,  closed, 'Ter',22    XP: [int(raw)]
+      Tom has never eaten raw horse meat .
+      Tom has never eaten horse meat .
+
+1390: [unknown],     yes,  closed, 'Ter',20    XP: [isa(with@c3@fight,fight)]
+      No wedding would be complete without a fight .
+      No wedding would be complete without a fight with a partner .
+
+1416: [unknown],     yes,  closed, 'Ter',4     XP: [int(big)]
+      Tom seldom wears a big hat .
+      Tom seldom wears a hat .
+
+1418: [unknown],     yes,  closed, 'Ter',4     XP: [int(black),isa(cowboy hat,hat)]
+      Tom seldom wears a black cowboy hat .
+      Tom seldom wears a hat .
+
+1425: [unknown],     yes,  closed, 'Ter',13    XP: []
+      He believed that blacks could win their fight for equal rights without violence and rioting .
+      He believed that blacks could win their fight for equal rights without violence .
+
+1439: [unknown],     yes,  closed, 'Ter',10    XP: [int(little)]
+      She is no longer a little baby .
+      She is no longer a baby .
+
+1441: [unknown],     yes,  closed, 'Ter',10    XP: [int(young)]
+      She is no longer a young baby .
+      She is no longer a baby .
+
+1443: [unknown],     yes,  closed, 'Ter',17    XP: []
+      She is no longer a baby wearing diapers .
+      She is no longer a baby .
+
+1446: [unknown],     yes,  closed, 'Ter',10    XP: [int(scream)]
+      She is no longer a screaming baby .
+      She is no longer a baby .
+
+1458: [unknown],     yes,  closed, 'Ter',33    XP: [int(enough),isa(water,liquid)]
+      Most people do n't drink enough liquids .
+      Most people do n't drink enough water .
+
+1473: [unknown],     yes,  closed, 'Ter',13    XP: [int(second),int(stomach)]
+      Doctors refused to perform a second stomach operation .
+      Doctors refused to perform a second operation .
+
+1477: [unknown],     yes,  closed, 'Ter',14    XP: [int(nice),int(of@(the@ability))]
+      It is no wonder that a nice man of his ability is successful .
+      It is no wonder that a man of his ability is successful .
+
+1479: [unknown],     yes,  closed, 'Ter',16    XP: [int(good),int(look),int(of@(the@ability))]
+      It is no wonder that a good looking man of his ability is successful .
+      It is no wonder that a man of his ability is successful .
+
+1491: [unknown],     yes,  closed, 'Ter',20    XP: [int(car),int(cheap)]
+      Petrol is no longer a cheap car fuel .
+      Petrol is no longer a cheap fuel .
+
+1493: [unknown],     yes,  closed, 'Ter',20    XP: [int(cheap),int(liquid)]
+      Petrol is no longer a cheap liquid fuel .
+      Petrol is no longer a cheap fuel .
+
+1495: [unknown],     yes,  closed, 'Ter',20    XP: [int(available),int(cheap)]
+      Petrol is no longer a cheap available fuel .
+      Petrol is no longer a cheap fuel .
+
+1499: [unknown],     yes,  closed, 'Ter',20    XP: [int(cheap),int(powerful)]
+      Petrol is no longer a cheap powerful fuel .
+      Petrol is no longer a cheap fuel .
+
+1578: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Some food is pretty bland without salt found in the sea .
+      Some food is pretty bland without salt .
+
+1598: [unknown],     yes,  closed, 'Ter',16    XP: []
+      I 'd never wear a shell suit in the beach .
+      I 'd never wear a shell suit .
+
+1604: [unknown],     yes,  closed, 'Ter',4     XP: [int(green)]
+      I like all vegetables except green cabbage .
+      I like all vegetables except cabbage .
+
+1606: [unknown],     yes,  closed, 'Ter',6     XP: [isa(on@c1@cabbage,cabbage)]
+      I like all vegetables except cabbage on my salad .
+      I like all vegetables except cabbage .
+
+1612: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Tom did n't want to work overtime in the office on Christmas Eve .
+      Tom did n't want to work overtime in the office on Christmas Eve .
+
+1653: [unknown],     yes,  closed, 'Ter',10    XP: [isa(tennis,lawn tennis)]
+      Nancy does n't play lawn tennis .
+      Nancy does n't play tennis .
+
+1677: [unknown],     yes,  closed, 'Ter',12    XP: [isa(girl,woman)]
+      I ca n't talk to women .
+      I ca n't talk to girls .
+
+1687: [unknown],     yes,  closed, 'Ter',41    XP: []
+      I had never before seen this species of fish in museum .
+      I had never before seen this species of fish .
+
+1698: [unknown],     yes,  closed, 'Ter',7     XP: [int(new)]
+      Tom seldom listens to music at his new home .
+      Tom seldom listens to music at home .
+
+1766: [unknown],     yes,  closed, 'Ter',8     XP: [isa(public library,library)]
+      I seldom go to a public library .
+      I seldom go to a library .
+
+1788: [unknown],     yes,  closed, 'Ter',5     XP: [int(italian),int(spicy)]
+      Tom seldom eats Italian spicy food .
+      Tom seldom eats Italian food .
+
+1812: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Every body here is busy except me .
+      Every body is busy except me .
+
+1838: [unknown],     yes,  closed, 'Ter',20    XP: [int(sunny)]
+      She said that she takes a shower every sunny morning .
+      She said that she takes a shower every morning .
+
+1864: [unknown],     yes,  closed, 'Ter',1     XP: [isa(baby,child),isa(child,baby)]
+      Tom is n't a baby anymore .
+      Tom is n't a child anymore .
+
+1873: [unknown],     yes,  closed, 'Ter',22    XP: [isa(for@c2@tried@(eating@(dog@food)),tried@(eating@(dog@food)))]
+      Tom says that he 's never tried eating dog food for breakfast .
+      Tom says that he 's never tried eating dog food .
+
+1881: [unknown],     yes,  closed, 'Ter',6     XP: []
+      The park is busy every season in the afternoon .
+      The park is busy every season .
+
+1884: [unknown],     yes,  closed, 'Ter',10    XP: [int(tourist)]
+      The park is busy every tourist season .
+      The park is busy every season .
+
+1886: [unknown],     yes,  closed, 'Ter',10    XP: [int(cold)]
+      The park is busy every cold season .
+      The park is busy every season .
+
+1953: [unknown],     yes,  closed, 'Ter',27    XP: [int(haired),int(yellow)]
+      I never had an yellow haired girlfriend before .
+      I never had a girlfriend before .
+
+1955: [unknown],     yes,  closed, 'Ter',27    XP: [int(girlfriend),isa(than@i@(girlfriend@taller),girlfriend@taller)]
+      I never had a girlfriend taller than me before .
+      I never had a girlfriend before .
+
+1957: [unknown],     yes,  closed, 'Ter',30    XP: [int(high),isa(in@c4@girlfriend,girlfriend)]
+      I never had a girlfriend in high school before .
+      I never had a girlfriend before .
+
+1961: [unknown],     yes,  closed, 'Ter',22    XP: [int(democrat)]
+      He will never yield to the pressure of a democrats politician .
+      He will never yield to the pressure of a politician .
+
+1972: [unknown],     yes,  closed, 'Ter',10    XP: [int(sunny)]
+      My father takes a walk every sunny morning .
+      My father takes a walk every morning .
+
+2013: [unknown],     yes,  closed, 'Ter',10    XP: [int(monday)]
+      He reads the paper every Monday morning .
+      He reads the paper every morning .
+
+2051: [unknown],     yes,  closed, 'Ter',15    XP: [isa(white whale,whale)]
+      I 've never seen a live white whale .
+      I 've never seen a live whale .
+
+2053: [unknown],     yes,  closed, 'Ter',17    XP: [int(baby),int(live)]
+      I 've never seen a live baby whale .
+      I 've never seen a live whale .
+
+2082: [unknown],     yes,  closed, 'Ter',3     XP: [isa(sense,good sense)]
+      She has no good sense of humor .
+      She has no sense of humor .
+
+2107: [unknown],     yes,  closed, 'Ter',2     XP: [isa(wild horse,horse)]
+      I do n't really like wild horses .
+      I do n't really like horses .
+
+2179: [unknown],     yes,  closed, 'Ter',37    XP: [int(horse),int(raw),int(red),isa(red meat,meat)]
+      Tom has never eaten raw horse red meat .
+      Tom has never eaten raw horse meat .
+
+2224: [unknown],     yes,  closed, 'Ter',21    XP: [int(fluent),int(of@french)]
+      Tom is n't a speaker of French .
+      Tom is n't a fluent speaker of French .
+
+2226: [unknown],     yes,  closed, 'Ter',17    XP: [int(fat),int(strict)]
+      I 've never seen a fat strict vegan .
+      I 've never seen a fat vegan .
+
+2265: [unknown],     yes,  closed, 'Ter',8     XP: [isa(best friend,friend)]
+      Man can live without best friends .
+      Man can live without friends .
+
+2268: [unknown],     yes,  closed, 'Ter',10    XP: [int(good)]
+      Man can live without good friends .
+      Man can live without friends .
+
+2270: [unknown],     yes,  closed, 'Ter',10    XP: [int(male)]
+      Man can live without male friends .
+      Man can live without friends .
+
+2283: [unknown],     yes,  closed, 'Ter',10    XP: [int(exposed)]
+      If you touch a exposed wire , you will receive a shock .
+      If you touch a wire , you will receive a shock .
+
+2285: [unknown],     yes,  closed, 'Ter',10    XP: [int(blue)]
+      If you touch a blue wire , you will receive a shock .
+      If you touch a wire , you will receive a shock .
+
+2300: [unknown],     yes,  closed, 'Ter',4     XP: [int(fierce)]
+      Farragut captured new orleans without a fierce fight .
+      Farragut captured new orleans without a fight .
+
+2302: [unknown],     yes,  closed, 'Ter',4     XP: [int(cool)]
+      Farragut captured new orleans without a cool fight .
+      Farragut captured new orleans without a fight .
+
+2376: [unknown],     yes,  closed, 'Ter',4     XP: [int(mainstream)]
+      Tom hardly ever listens to mainstream music .
+      Tom hardly ever listens to music .
+
+2457: [unknown],     yes,  closed, 'Ter',14    XP: []
+      I will never fall in love with you again .
+      I will never fall in love again .
+
+2504: [unknown],     yes,  closed, 'Ter',1     XP: []
+      You ca n't live on a desolate island .
+      You ca n't live on a desolate island .
+
+2545: [unknown],     yes,  closed, 'Ter',25    XP: [int(scientific)]
+      I have never tried to translate a scientific book .
+      I have never tried to translate a book .
+
+2547: [unknown],     yes,  closed, 'Ter',36    XP: [isa(so@many@page,page)]
+      I have never tried to translate a book with so many pages .
+      I have never tried to translate a book .
+
+2549: [unknown],     yes,  closed, 'Ter',25    XP: []
+      I have never tried to translate a book comprising poems .
+      I have never tried to translate a book .
+
+2580: [unknown],     yes,  closed, 'Ter',9     XP: [int(every),int(mary),isa(afternoon,day)]
+      Tom paid no attention to Mary all afternoon .
+      Tom paid no attention to Mary all day .
+
+2599: [unknown],     yes,  closed, 'Ter',19    XP: [int(ugly)]
+      I never listen to dirty ugly jokes .
+      I never listen to dirty jokes .
+
+2629: [unknown],     yes,  closed, 'Ter',21    XP: [isa(at@c4@traffic@accident,traffic@accident)]
+      I 've never had a traffic accident at night .
+      I 've never had a traffic accident .
+
+2787: [unknown],     yes,  closed, 'Ter',17    XP: []
+      I 'm not nervous for the party at all .
+      I 'm not nervous at all .
+
+2801: [unknown],     yes,  closed, 'Ter',7     XP: []
+      No creature can live without air .
+      No creature can live without air and water .
+
+2804: [unknown],     yes,  closed, 'Ter',8     XP: [int(clean)]
+      No creature can live without air .
+      No creature can live without clean air .
+
+2806: [unknown],     yes,  closed, 'Ter',8     XP: []
+      No creature can live without air .
+      No creature can live without air in the sea .
+
+2822: [unknown],     yes,  closed, 'Ter',10    XP: [isa(girl,little girl)]
+      Every boy and every little girl was delighted .
+      Every boy and every girl was delighted .
+
+2826: [unknown],     yes,  closed, 'Ter',21    XP: [int(interesting)]
+      We 've never been to the interesting place .
+      We 've never been to the place .
+
+2828: [unknown],     yes,  closed, 'Ter',21    XP: [int(wonderful)]
+      We 've never been to the wonderful place .
+      We 've never been to the place .
+
+2830: [unknown],     yes,  closed, 'Ter',21    XP: [int(bloom)]
+      We 've never been to the blooming place .
+      We 've never been to the place .
+
+2858: [unknown],     yes,  closed, 'Ter',16    XP: [int(adult)]
+      I never get invited to adult parties .
+      I never get invited to parties .
+
+2862: [unknown],     yes,  closed, 'Ter',16    XP: [int(good)]
+      I never get invited to good parties .
+      I never get invited to parties .
+
+2864: [unknown],     yes,  closed, 'Ter',16    XP: [int(funny)]
+      I never get invited to funny parties .
+      I never get invited to parties .
+
+2882: [unknown],     yes,  closed, 'Ter',48    XP: []
+      I will never write stories again in English .
+      I will never write again in English .
+
+2927: [unknown],     yes,  closed, 'Ter',14    XP: [int(bare)]
+      If you touch the bare wire , you 'll get a shock .
+      If you touch the wire , you 'll get a shock .
+
+2929: [unknown],     yes,  closed, 'Ter',14    XP: [int(electric)]
+      If you touch the electric wire , you 'll get a shock .
+      If you touch the wire , you 'll get a shock .
+
+2931: [unknown],     yes,  closed, 'Ter',14    XP: [int(copper)]
+      If you touch the copper wire , you 'll get a shock .
+      If you touch the wire , you 'll get a shock .
+
+2933: [unknown],     yes,  closed, 'Ter',14    XP: [int(long)]
+      If you touch the long wire , you 'll get a shock .
+      If you touch the wire , you 'll get a shock .
+
+2935: [unknown],     yes,  closed, 'Ter',14    XP: [int(damaged)]
+      If you touch the damaged wire , you 'll get a shock .
+      If you touch the wire , you 'll get a shock .
+
+2970: [unknown],     yes,  closed, 'Ter',21    XP: [int(good),sim(complete,good),sim(good,complete)]
+      No good meal is complete without bread .
+      No meal is complete without bread .
+
+2997: [unknown],     yes,  closed, 'Ter',16    XP: []
+      She can hardly speak Japanese she wants to talk .
+      She can hardly speak Japanese .
+
+3018: [unknown],     yes,  closed, 'Ter',3     XP: []
+      He took no notice of me .
+      He took no notice of me or my sister .
+
+3031: [unknown],     yes,  closed, 'Ter',14    XP: []
+      He had no friends to help him .
+      He had no friends or relatives to help him .
+
+3038: [unknown],     yes,  closed, 'Ter',4     XP: []
+      There are no other options for you .
+      There are no other options .
+
+3064: [unknown],     yes,  closed, 'Ter',6     XP: []
+      My brother and sister get up about seven-thirty every morning in summer .
+      My brother and sister get up about seven-thirty every morning .
+
+3068: [unknown],     yes,  closed, 'Ter',6     XP: []
+      My brother and sister get up about seven-thirty every morning in the holidays .
+      My brother and sister get up about seven-thirty every morning .
+
+3085: [unknown],     yes,  closed, 'Ter',6     XP: []
+      We play football every saturday in spring .
+      We play football every saturday .
+
+3105: [unknown],     yes,  closed, 'Ter',6     XP: []
+      The weather forecast is not reliable at all in summer .
+      The weather forecast is not reliable at all .
+
+3116: [unknown],     yes,  closed, 'Ter',12    XP: [int(great)]
+      They 've been looking for the plane for eight days , without great success .
+      They 've been looking for the plane for eight days , without success .
+
+3118: [unknown],     yes,  closed, 'Ter',12    XP: [int(splendid)]
+      They 've been looking for the plane for eight days , without splendid success .
+      They 've been looking for the plane for eight days , without success .
+
+3250: [unknown],     yes,  closed, 'Ter',48    XP: [int(real)]
+      Tom and Mary have actually never been on a real date yet .
+      Tom and Mary have actually never been on a date yet .
+
+3312: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Tom goes to bed at the same time every night in april .
+      Tom goes to bed at the same time every night .
+
+3314: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Tom goes to bed at the same time every night in his house .
+      Tom goes to bed at the same time every night .
+
+3316: [unknown],     yes,  closed, 'Ter',6     XP: []
+      Tom goes to bed at the same time every night in winter .
+      Tom goes to bed at the same time every night .
+
+3337: [unknown],     yes,  closed, 'Ter',22    XP: [int(specific),isa(towards@c1@bias,bias)]
+      You have to judge the case without bias towards a specific party .
+      You have to judge the case without bias .
+
+3433: [unknown],     yes,  closed, 'Ter',42    XP: [isa(in@a@hotel@home,home)]
+      I ca n't feel at home in a hotel .
+      I ca n't feel at home in a hotel and a pension .
+
+3474: [unknown],     yes,  closed, 'Ter',21    XP: [sim(contemporary,modern),sim(modern,contemporary)]
+      I do n't dig modern and contemporary jazz .
+      I do n't dig modern jazz .
+
+3490: [unknown],     yes,  closed, 'Ter',30    XP: []
+      She does n't speak Japanese at home .
+      She does n't speak Japanese at home and at school .
+
+3512: [unknown],     yes,  closed, 'Ter',6     XP: [isa(android,robot)]
+      Every mobile android is a robot .
+      Every android is a robot .
+
+3514: [unknown],     yes,  closed, 'Ter',6     XP: [isa(android,robot)]
+      Every cute android is a robot .
+      Every android is a robot .
+
+3524: [unknown],     yes,  closed, 'Ter',6     XP: []
+      He is not a good driver at night .
+      He is not a good driver .
+
+3526: [unknown],     yes,  closed, 'Ter',22    XP: [int(big)]
+      I have never seen a big giraffe .
+      I have never seen a giraffe .
+
+3528: [unknown],     yes,  closed, 'Ter',22    XP: [int(real)]
+      I have never seen a real giraffe .
+      I have never seen a giraffe .
+
+3530: [unknown],     yes,  closed, 'Ter',22    XP: [int(pretty)]
+      I have never seen a pretty giraffe .
+      I have never seen a giraffe .
+
+3532: [unknown],     yes,  closed, 'Ter',22    XP: [int(baby)]
+      I have never seen a baby giraffe .
+      I have never seen a giraffe .
+
+3534: [unknown],     yes,  closed, 'Ter',26    XP: [isa(in@c3@giraffe,giraffe)]
+      I have never seen a giraffe in a zoo .
+      I have never seen a giraffe .
+
+3536: [unknown],     yes,  closed, 'Ter',21    XP: []
+      I have never seen a giraffe and his long neck .
+      I have never seen a giraffe .
+
+3538: [unknown],     yes,  closed, 'Ter',15    XP: []
+      You 're not romantic or affectionate at all .
+      You 're not romantic at all .
+
+3580: [unknown],     yes,  closed, 'Ter',16    XP: [int(full)]
+      She can never keep a full secret .
+      She can never keep a secret .
+
+3602: [unknown],     yes,  closed, 'Ter',8     XP: []
+      She dared to walk the tightrope without a net beneath her .
+      She dared to walk a tightrope without a net .
+
+3606: [unknown],     yes,  closed, 'Ter',16    XP: [int(pretty)]
+      I 've never seen you in a pretty dress before .
+      I 've never seen you in a dress before .
+
+3616: [unknown],     yes,  closed, 'Ter',1     XP: []
+      I ca n't call Tom at his home .
+      I ca n't call Tom at home .
+
+3642: [unknown],     yes,  closed, 'Ter',33    XP: [int(and@ordinary@simple),int(usual)]
+      Extraordinary things never happen in simple and ordinary usual ways .
+      Extraordinary things never happen in simple and ordinary ways .
+
+3644: [unknown],     yes,  closed, 'Ter',33    XP: [int(and@ordinary@simple),int(habitual)]
+      Extraordinary things never happen in simple and ordinary habitual ways .
+      Extraordinary things never happen in simple and ordinary ways .
+
+3657: [unknown],     yes,  closed, 'Ter',15    XP: [int(small)]
+      You 're no longer small children .
+      You 're no longer children .
+
+3659: [unknown],     yes,  closed, 'Ter',15    XP: [int(little)]
+      You 're no longer little kids .
+      You 're no longer children .
+
+3669: [unknown],     yes,  closed, 'Ter',31    XP: []
+      I did n't actually want to go to college .
+      I did n't actually want to go to college and canteen .
+
+3681: [unknown],     yes,  closed, 'Ter',1     XP: [isa(baby,child),isa(child,baby)]
+      I do n't want to have babies .
+      I do n't want to have children .
+
+3764: [unknown],     yes,  closed, 'Ter',12    XP: [isa(too@much@sugar,sugar)]
+      He prefers to drink his coffee without too much sugar .
+      He prefers to drink his coffee without sugar .
+
+3775: [unknown],     yes,  closed, 'Ter',19    XP: [int(hateful)]
+      You are no longer a hateful and pretentious child .
+      You are no longer a child .
+
+3809: [unknown],     yes,  closed, 'Ter',28    XP: [int(and@politics),int(catholic)]
+      You 'd better avoid discussion of catholic religion and politics .
+      You 'd better avoid discussion of religion and politics .
+
+3816: [unknown],     yes,  closed, 'Ter',16    XP: []
+      The villagers have done without electricity in their home for a long time .
+      The villagers have done without electricity for a long time .
+
+3820: [unknown],     yes,  closed, 'Ter',4     XP: [int(initial)]
+      He lied , without initial hesitation .
+      He lied , without hesitation .
+
+3829: [unknown],     yes,  closed, 'Ter',4     XP: [int(scary)]
+      Not a day passes without scary traffic accidents .
+      Not a day passes without traffic accidents .
+
+3851: [unknown],     yes,  closed, 'Ter',16    XP: []
+      I 've never played golf professionally .
+      I 've never played golf .
+
+3853: [unknown],     yes,  closed, 'Ter',16    XP: []
+      I 've never played golf with instructor .
+      I 've never played golf .
+
+3864: [unknown],     yes,  closed, 'Ter',12    XP: [int(red)]
+      My children refuse to eat red fish .
+      My children refuse to eat fish .
+
+3866: [unknown],     yes,  closed, 'Ter',12    XP: [int(sea)]
+      My children refuse to eat sea fish .
+      My children refuse to eat fish .
+
+3868: [unknown],     yes,  closed, 'Ter',12    XP: [int(river)]
+      My children refuse to eat river fish .
+      My children refuse to eat fish .
+
+3870: [unknown],     yes,  closed, 'Ter',16    XP: [int(tuna)]
+      My children refuse to eat the tuna fish .
+      My children refuse to eat fish .
+
+3876: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Every nunnery in italy has its own rules .
+      Every nunnery in italy has its own rules .
+
+3907: [unknown],     yes,  closed, 'Ter',1     XP: []
+      I do n't need a long lecture .
+      I do n't need a long lecture .
+
+3911: [unknown],     yes,  closed, 'Ter',5     XP: []
+      This letter bears no signature here .
+      This letter bears no signature .
+
+3943: [unknown],     yes,  closed, 'Ter',10    XP: [int(much)]
+      I can live without much water .
+      I can live without water .
+
+3945: [unknown],     yes,  closed, 'Ter',10    XP: [int(sterilized)]
+      I can live without sterilized water .
+      I can live without water .
+
+3947: [unknown],     yes,  closed, 'Ter',10    XP: [int(cold)]
+      I can live without cold water .
+      I can live without water .
+
+3953: [unknown],     yes,  closed, 'Ter',15    XP: [isa(beach house,house)]
+      I could never afford a beach house as nice as that .
+      I could never afford a house as nice as that .
+
+3977: [unknown],     yes,  closed, 'Ter',9     XP: []
+      She refused to speak English correctly .
+      She refused to speak English .
+
+3995: [unknown],     yes,  closed, 'Ter',47    XP: [isa(in@c6@good@job,good@job),isa(of@c5@field,field)]
+      Tom has never had a good job in his field of expertise .
+      Tom has never had a good job .
+
+3997: [unknown],     yes,  closed, 'Ter',22    XP: []
+      Tom has never had a good job that he liked .
+      Tom has never had a good job .
+
+4018: [unknown],     yes,  closed, 'Ter',16    XP: [int(true)]
+      She 's never fallen in true love .
+      She 's never fallen in love .
+
+4105: [unknown],     yes,  closed, 'Ter',16    XP: [isa(from@c2@help,help)]
+      Tom does n't like asking for help from his parents .
+      Tom does n't like asking for help .
+

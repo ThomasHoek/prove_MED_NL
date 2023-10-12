@@ -1,0 +1,2483 @@
+11: [unknown], unknown,    open, 'Ter',34    XP: []
+      Een paar afgevaardigden hadden de vragenlijst af.
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+   
+14: [unknown], unknown,      NA, 'Defected'  XP: []
+      Beide commissarissen waren ooit zakenmannen.
+      Beide commissarissen waren ooit leidend zakenmannen.
+
+17: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen Scandinavische afgevaardigde had het verslag op tijd af.
+      Een of andere afgevaardigde had het verslag op tijd af.
+  
+34: [unknown], unknown,    open, 'Ter',13    XP: []
+      Beide commissarissen zaten ooit in de handel.
+      Beide vrouwelijke commissarissen zaten ooit in de handel.
+
+31: [unknown], unknown,    open, 'Ter',26    XP: []
+      De meeste Europeanen kunnen vrij reizen binnen Europa.
+      De meeste Europeanen die inwoner zijn buiten Europa kunnen vrij reizen binnen Europa.
+  
+10: [unknown], unknown,    open, 'Ter',32    XP: []
+      Een Ierse man won een nobelprijs.
+      Een Ierse man won de nobelprijs voor literatuur.
+  
+73: [unknown], unknown,    open, 'Ter',6     XP: []
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+  
+29: [unknown], unknown,    open, 'Ter',51    XP: []
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
+      Veel Britse afgevaardigden haalden interessante resultaten uit de vragenlijst.
+  
+19: [unknown], unknown,    open, 'Ter',51    XP: []
+      Veel Britse afgevaardigden haalden interessante resultaten uit de vragenlijst.
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
+  
+25: [unknown], unknown,    open, 'Ter',20    XP: []
+      Geen van beide vrouwelijke commissarissen brengt veel tijd thuis door.
+      Een van de commissarissen brengt veel tijd thuis door.
+  
+30: [unknown], unknown,      NA, 'Defected'  XP: _2365122
+      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+      Meerdere Portugese afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
+   
+12: [unknown], unknown,    open, 'Ter',49    XP: []
+      Veel afgevaardigden haalden resultaten uit de vragenlijst.
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
+  
+35: [unknown], unknown,    open, 'Ter',28    XP: []
+      Geen van beide commissarissen brengt veel tijd thuis door.
+      Een van de vrouwelijke commissarissen brengt veel tijd thuis door.
+  
+32: [unknown], unknown,      NA, 'Defected'  XP: []
+      Een paar comitéleden komen uit Scandinavië.
+      Ten minste een paar vrouwelijke comitéleden komen uit Scandinavië.
+  
+51: [unknown], unknown,    open, 'Ter',59    XP: []
+      We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+  
+48: [unknown], unknown,    open, 'Ter',22    XP: []
+      In veel gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+      In veel ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
+  
+44: [unknown], unknown,    open, 'Ter',53    XP: []
+      Een paar dieren krabben graag hun oren.
+      Een paar honden krabben graag hun oren.
+  
+72: [unknown], unknown,    open, 'Ter',6     XP: []
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+  
+50: [unknown], unknown,    open, 'Ter',88    XP: []
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+  
+39: [unknown], unknown,    open, 'Ter',107   XP: []
+      Pluto of Uranus zit nu op een lijn met Neptunus.
+      Pluto en Uranus zitten nu op een lijn met Neptunus.
+
+40: [unknown], unknown,      NA, 'Defected'  XP: []
+      Alan nam zijn vakantie in Californië.
+      Zowel Alan als Bob namen hun vakanties in Californië.
+  
+28: [unknown], unknown,    open, 'Ter',16    XP: []
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+      Een paar Ierse afgevaardigden hadden de vragenlijst op tijd af.
+
+45: [unknown], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak verschillende plannen die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak verschillende wetten die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+
+61: [unknown], unknown,    open, 'Lim',438   XP: []
+      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+      Er kwamen geen rekeningen op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+
+63: [unknown], unknown,    open, 'Lim',459   XP: []
+      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+      Er kwam een rekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+
+69: [unknown], unknown,    open, 'Ter',33    XP: []
+      De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+      De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+
+70: [unknown], unknown,    open, 'Ter',33    XP: []
+      De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+      De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+
+77: [unknown], unknown,    open, 'Ter',54    XP: []
+      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+      Ik heb nog nooit een vogel gezien die niet vliegt.
+  
+128: [unknown], unknown,    open, 'Ter',133   XP: []
+      Een Italiaanse sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+
+89: [unknown], unknown,    open, 'Lim',411   XP: []
+      Regionale gouverneurs konden niet op de koning rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
+      Regionale gouverneurs konden op niemand rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
+  
+123: [unknown], unknown,    open, 'Ter',50    XP: []
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+      Er zijn een paar inspannende wandelroutes rondom Mt. Fuji.
+
+106: [unknown], unknown,    open, 'Ter',45    XP: []
+      Een wind rolde over de open plek.
+      Een serene wind rolde over de open plek.
+
+107: [unknown], unknown,    open, 'Lim',403   XP: []
+      Ik wil niet mensen blijven vermaken die mijn tijd niet waarderen.
+      Ik wil niet mensen blijven vermaken.
+  
+56: [unknown], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak enige wet die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak enig plan dat legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+
+110: [unknown], unknown,    open, 'Lim',428   XP: []
+      De eerste ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+  
+66: [unknown], unknown,    open, 'Lim',426   XP: []
+      Missouri wetgevers overwegen een boycot op bedrijven die Israel boycotten.
+      Missouri wetgevers overwegen een overheidsboycot op bedrijven die Israel boycotten.
+
+111: [unknown], unknown,    open, 'Lim',429   XP: []
+      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+      De eerste onaangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+
+120: [unknown], unknown,    open, 'Lim',411   XP: []
+      Er zijn een paar geweldige wandelroutes in Japan.
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+
+121: [unknown], unknown,    open, 'Lim',411   XP: []
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+      Er zijn een paar geweldige wandelroutes in nepal.
+
+122: [unknown], unknown,    open, 'Lim',411   XP: []
+      Er zijn een paar geweldige wandelroutes in nepal.
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+
+124: [unknown], unknown,    open, 'Ter',50    XP: []
+      Er zijn een paar inspannende wandelroutes rondom Mt. Fuji.
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+  
+4442: [unknown], unknown,    open, 'Ter',55    XP: []
+      Ieder buitenaards wezen gooide ballen.
+      Ieder buitenaards wezen gooide tennisballen.
+
+129: [unknown], unknown,    open, 'Ter',29    XP: []
+      Tot nu toe hebben twee van mijn kersenbomen al gebloeid, en het is nog niets eens april.
+      Tot nu toe hebben twee van mijn bomen al gebloeid, en het is nog niets eens april.
+
+130: [unknown], unknown,    open, 'Ter',29    XP: []
+      Tot nu toe hebben twee van mijn bomen al gebloeid, en het is nog niets eens april.
+      Tot nu toe hebben twee van mijn kersenbomen al gebloeid, en het is nog niets eens april.
+
+4199: [unknown], unknown,    open, 'Ter',249   XP: []
+      Precies 12 buitenaardse wezens aten enig vlees.
+      Precies 12 buitenaardse wezens aten varkensvlees.
+
+4200: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens aten bij enige restaurants.
+      Precies 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4201: [unknown], unknown,    open, 'Lim',414   XP: []
+      Precies 12 buitenaardse wezens zagen enige vogels.
+      Precies 12 buitenaardse wezens zagen duiven.
+
+4202: [unknown], unknown,    open, 'Ter',354   XP: []
+      Precies 12 buitenaardse wezens gebruikten enige munten.
+      Precies 12 buitenaardse wezens gebruikten kwartjes.
+
+4203: [unknown], unknown,    open, 'Ter',246   XP: []
+      Precies 12 buitenaardse wezens aten enig varkensvlees.
+      Precies 12 buitenaardse wezens aten vlees.
+
+4204: [unknown], unknown,    open, 'Ter',396   XP: []
+      Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Precies 12 buitenaardse wezens aten bij restaurants.
+
+4205: [unknown], unknown,    open, 'Lim',414   XP: []
+      Precies 12 buitenaardse wezens zagen enige duiven.
+      Precies 12 buitenaardse wezens zagen vogels.
+
+4206: [unknown], unknown,    open, 'Ter',354   XP: []
+      Precies 12 buitenaardse wezens gebruikten enige kwartjes.
+      Precies 12 buitenaardse wezens gebruikten munten.
+
+4211: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens aten enig varkensvlees.
+      Weinig buitenaardse wezens aten vlees.
+
+4212: [unknown], unknown,    open, 'Ter',12    XP: []
+      Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Weinig buitenaardse wezens aten bij restaurants.
+
+4213: [unknown], unknown,    open, 'Ter',11    XP: []
+      Weinig buitenaardse wezens zagen enige duiven.
+      Weinig buitenaardse wezens zagen vogels.
+
+4214: [unknown], unknown,    open, 'Ter',9     XP: []
+      Weinig buitenaardse wezens gebruikten enige kwartjes.
+      Weinig buitenaardse wezens gebruikten munten.
+
+4219: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het blauwe buitenaardse wezen at geen enkel varkensvlees.
+      Het blauwe buitenaardse wezen at geen vlees.
+
+4220: [unknown], unknown,    open, 'Ter',193   XP: []
+      Het blauwe buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+      Het blauwe buitenaardse wezen at niet bij restaurants.
+
+4221: [unknown], unknown,    open, 'Lim',414   XP: []
+      Het blauwe buitenaardse wezen zag geen enkele duif.
+      Het blauwe buitenaardse wezen zag geen vogels.
+
+4222: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het blauwe buitenaardse wezen gebruikte geen enkel kwartje.
+      Het blauwe buitenaardse wezen gebruikte geen munten.
+
+4227: [unknown], unknown,    open, 'Ter',144   XP: []
+      Geen buitenaards wezen at enig varkensvlees.
+      Geen buitenaards wezen at vlees.
+  
+4336: [unknown], unknown,    open, 'Ter',71    XP: []
+      Het rode buitenaardse wezen las een paar boeken.
+      Het rode buitenaardse wezen las sci-fi romans.
+  
+127: [unknown], unknown,    open, 'Ter',133   XP: []
+      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+      Een Italiaanse sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+  
+4237: [unknown], unknown,    open, 'Lim',414   XP: []
+      Alleen 12 buitenaardse wezens zagen enige duiven.
+      Alleen 12 buitenaardse wezens zagen vogels.
+
+4228: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+      Geen buitenaards wezen at bij restaurants.
+
+4229: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen zag enige duiven.
+      Geen buitenaards wezen zag vogels.
+
+4230: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen gebruikte enige kwartjes.
+      Geen buitenaards wezen gebruikte munten.
+
+4232: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens aten bij enige restaurants.
+      Alleen 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4233: [unknown], unknown,    open, 'Lim',414   XP: []
+      Alleen 12 buitenaardse wezens zagen enige vogels.
+      Alleen 12 buitenaardse wezens zagen duiven.
+
+4234: [unknown], unknown,    open, 'Ter',354   XP: []
+      Alleen 12 buitenaardse wezens gebruikten enige munten.
+      Alleen 12 buitenaardse wezens gebruikten kwartjes.
+
+4235: [unknown], unknown,    open, 'Ter',246   XP: []
+      Alleen 12 buitenaardse wezens aten enig varkensvlees.
+      Alleen 12 buitenaardse wezens aten vlees.
+
+4236: [unknown], unknown,    open, 'Ter',396   XP: []
+      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+      Alleen 12 buitenaardse wezens aten bij restaurants.
+
+4238: [unknown], unknown,    open, 'Ter',354   XP: []
+      Alleen 12 buitenaardse wezens gebruikten enige kwartjes.
+      Alleen 12 buitenaardse wezens gebruikten munten.
+
+4239: [unknown], unknown,    open, 'Ter',55    XP: []
+      Ieder buitenaards wezen las tijdschriften.
+      Ieder buitenaards wezen las nieuwstijdschriften.
+
+4240: [unknown], unknown,    open, 'Ter',92    XP: []
+      Ieder buitenaards wezen keek sportwedstrijden.
+      Ieder buitenaards wezen keek honkbalwedstrijden.
+
+4241: [unknown], unknown,    open, 'Ter',212   XP: []
+      Ieder buitenaards wezen kocht kleding.
+      Ieder buitenaards wezen kocht shirts.
+
+4242: [unknown], unknown,    open, 'Ter',73    XP: []
+      Ieder buitenaards wezen reed in auto’s.
+      Ieder buitenaards wezen reed in suv’s.
+
+4247: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens lazen tijdschriften.
+      Precies 12 buitenaardse wezens lazen nieuwstijdschriften.
+
+4248: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens bekeken sportwedstrijden.
+      Precies 12 buitenaardse wezens bekeken honkbalwedstrijden.
+
+4249: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens kochtten kleren.
+      Precies 12 buitenaardse wezens kochtten shirts.
+
+4250: [unknown], unknown,    open, 'Lim',421   XP: []
+      Precies 12 buitenaardse wezens reden in autos.
+      Precies 12 buitenaardse wezens reden in SUVs.
+
+4251: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens lazen nieuwstijdschriften.
+      Precies 12 buitenaardse wezens lazen tijdschriften.
+
+4252: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens bekeken honkbalwedstrijden.
+      Precies 12 buitenaardse wezens bekeken sportwedstrijden.
+
+4254: [unknown], unknown,    open, 'Lim',420   XP: []
+      Precies 12 buitenaardse wezens reden in SUVs.
+      Precies 12 buitenaardse wezens reden in autos.
+
+4259: [unknown], unknown,    open, 'Ter',26    XP: []
+      Weinig buitenaardse wezens lazen nieuwstijdschriften.
+      Weinig buitenaardse wezens lazen tijdschriften.
+
+4260: [unknown], unknown,    open, 'Ter',26    XP: []
+      Weinig buitenaardse wezens keken honkbalwedstrijden.
+      Weinig buitenaardse wezens keken sportwedstrijden.
+
+4262: [unknown], unknown,    open, 'Ter',16    XP: []
+      Weinig buitenaardse wezens reden suv’s.
+      Weinig buitenaardse wezens reden auto’s.
+
+4263: [unknown], unknown,    open, 'Ter',27    XP: []
+      Veel buitenaardse wezens lazen tijdschriften.
+      Veel buitenaardse wezens lazen nieuwstijdschriften.
+
+4264: [unknown], unknown,    open, 'Ter',26    XP: []
+      Veel buitenaardse wezens keken sportwedstrijden.
+      Veel buitenaardse wezens keken honkbalwedstrijden.
+  
+64: [unknown], unknown,    open, 'Lim',459   XP: []
+      Er kwam een rekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+
+4265: [unknown], unknown,    open, 'Ter',30    XP: []
+      Veel buitenaardse wezens kochten kleren.
+      Veel buitenaardse wezens kochten shirts.
+
+4266: [unknown], unknown,    open, 'Ter',16    XP: []
+      Veel buitenaardse wezens reden auto’s.
+      Veel buitenaardse wezens reden suv’s.
+
+4275: [unknown], unknown,    open, 'Ter',118   XP: []
+      Het gele buitenaardse wezen las geen nieuwstijdschriften.
+      Het gele buitenaardse wezen las geen tijdschriften.
+
+4276: [unknown], unknown,    open, 'Ter',149   XP: []
+      Het gele buitenaardse wezen keek geen honkbalwedstrijden.
+      Het gele buitenaardse wezen keek geen sportwedstrijden.
+
+4277: [unknown], unknown,    open, 'Ter',290   XP: []
+      Het gele buitenaardse wezen kocht geen shirts.
+      Het gele buitenaardse wezen kocht geen kleren.
+  
+112: [unknown], unknown,    open, 'Lim',429   XP: []
+      De eerste onaangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+
+4278: [unknown], unknown,    open, 'Ter',149   XP: []
+      Het gele buitenaardse wezen reed geen suv’s.
+      Het gele buitenaardse wezen reed geen auto’s.
+
+4283: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen las nieuwstijdschriften.
+      Geen buitenaards wezen las tijdschriften.
+
+4284: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen keek honkbalwedstrijden.
+      Geen buitenaards wezen keek sportwedstrijden.
+
+4285: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen kocht shirts.
+      Geen buitenaards wezen kocht kleren.
+
+4286: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen reed suv’s.
+      Geen buitenaards wezen reed auto’s.
+
+4287: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens lazen tijdschriften.
+      Alleen 12 buitenaardse wezens lazen nieuwstijdschriften.
+
+4288: [unknown], unknown,    open, 'Lim',419   XP: []
+      Alleen 12 buitenaardse wezens keken sportwedstrijden.
+      Alleen 12 buitenaardse wezens keken honkbalwedstrijden.
+
+4289: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens kochten kleren.
+      Alleen 12 buitenaardse wezens kochten shirts.
+
+4290: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens reden auto’s.
+      Alleen 12 buitenaardse wezens reden suv’s.
+
+4291: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens lazen nieuwstijdschriften.
+      Alleen 12 buitenaardse wezens lazen tijdschriften.
+
+4292: [unknown], unknown,    open, 'Lim',419   XP: []
+      Alleen 12 buitenaardse wezens keken honkbalwedstrijden.
+      Alleen 12 buitenaardse wezens keken sportwedstrijden.
+
+4294: [unknown], unknown,    open, 'Lim',419   XP: []
+      Alleen 12 buitenaardse wezens reden suv’s.
+      Alleen 12 buitenaardse wezens reden auto’s.
+
+4295: [unknown], unknown,    open, 'Ter',79    XP: []
+      Het paarse buitenaardse wezen las tijdschriften.
+      Het paarse buitenaardse wezen las nieuwstijdschriften.
+
+4296: [unknown], unknown,    open, 'Ter',91    XP: []
+      Het paarse buitenaardse wezen keek sportwedstrijden.
+      Het paarse buitenaardse wezen keek honkbalwedstrijden.
+  
+4231: [unknown], unknown,    open, 'Ter',249   XP: []
+      Alleen 12 buitenaardse wezens aten enig vlees.
+      Alleen 12 buitenaardse wezens aten varkensvlees.
+
+4297: [unknown], unknown,    open, 'Ter',168   XP: []
+      Het paarse buitenaardse wezen kocht kleren.
+      Het paarse buitenaardse wezen kocht shirts.
+
+4298: [unknown], unknown,    open, 'Ter',65    XP: []
+      Het paarse buitenaardse wezen reed auto’s.
+      Het paarse buitenaardse wezen reed suv’s.
+
+4303: [unknown], unknown,    open, 'Ter',209   XP: []
+      Ieder buitenaards wezen dronk wat frisdrank.
+      Ieder buitenaards wezen dronk cola.
+
+4304: [unknown], unknown,    open, 'Ter',57    XP: []
+      Ieder buitenaards wezen las een paar boeken.
+      Ieder buitenaards wezen las sci-fi romans.
+
+4305: [unknown], unknown,    open, 'Ter',152   XP: []
+      Ieder buitenaards wezen speelde met een paar speeltjes.
+      Ieder buitenaards wezen speelde met speelgoedauto’s.
+
+4306: [unknown], unknown,    open, 'Ter',211   XP: []
+      Ieder buitenaards wezen gooide een paar ballen.
+      Ieder buitenaards wezen gooide tennisballen.
+
+4311: [unknown], unknown,    open, 'Ter',56    XP: []
+      Precies 12 buitenaardse wezens dronken een beetje frisdrank.
+      Precies 12 buitenaardse wezens dronken cola.
+
+4312: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens lazen een paar boeken.
+      Precies 12 buitenaardse wezens lazen science fiction romans.
+
+4313: [unknown], unknown,    open, 'Lim',424   XP: []
+      Precies 12 buitenaardse wezens speelden met een paar speeltjes.
+      Precies 12 buitenaardse wezens speelden met speelgoedauto's.
+
+4314: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gooiden een paar ballen.
+      Precies 12 buitenaardse wezens gooiden tennisballen.
+
+4316: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens lazen een paar science fiction romans.
+      Precies 12 buitenaardse wezens lazen boeken.
+
+4317: [unknown], unknown,    open, 'Lim',424   XP: []
+      Precies 12 buitenaardse wezens speelden met een paar speelgoedauto's.
+      Precies 12 buitenaardse wezens speelden met speeltjes.
+
+4318: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gooiden een paar tennisballen.
+      Precies 12 buitenaardse wezens gooiden ballen.
+
+4319: [unknown], unknown,    open, 'Ter',12    XP: []
+      Veel buitenaardse wezens dronken wat frisdrank.
+      Veel buitenaardse wezens dronken cola.
+
+4320: [unknown], unknown,    open, 'Ter',15    XP: []
+      Veel buitenaardse wezens lazen een paar boeken.
+      Veel buitenaardse wezens lazen sci-fi romans.
+
+4321: [unknown], unknown,    open, 'Ter',12    XP: []
+      Veel buitenaardse wezens speelden met een paar speeltjes.
+      Veel buitenaardse wezens speelden met speelgoedauto’s.
+
+4322: [unknown], unknown,    open, 'Ter',16    XP: []
+      Veel buitenaardse wezens gooiden een paar ballen.
+      Veel buitenaardse wezens gooiden tennisballen.
+
+4327: [unknown], unknown,    open, 'Lim',419   XP: []
+      Alleen 12 buitenaardse wezens dronken wat frisdrank.
+      Alleen 12 buitenaardse wezens dronken cola.
+
+4328: [unknown], unknown,    open, 'Lim',421   XP: []
+      Alleen 12 buitenaardse wezens lazen een paar boeken.
+      Alleen 12 buitenaardse wezens lazen sci-fi romans.
+
+4329: [unknown], unknown,    open, 'Lim',424   XP: []
+      Alleen 12 buitenaardse wezens speelden met een paar speeltjes.
+      Alleen 12 buitenaardse wezens speelden met speelgoedauto’s.
+
+4330: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gooiden een paar ballen.
+      Alleen 12 buitenaardse wezens gooiden tennisballen.
+
+4332: [unknown], unknown,    open, 'Lim',421   XP: []
+      Alleen 12 buitenaardse wezens lazen een paar sci-fi romans.
+      Alleen 12 buitenaardse wezens lazen boeken.
+
+4333: [unknown], unknown,    open, 'Lim',424   XP: []
+      Alleen 12 buitenaardse wezens speelden met een paar speelgoedauto’s.
+      Alleen 12 buitenaardse wezens speelden met speeltjes.
+
+4334: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gooiden een paar tennisballen.
+      Alleen 12 buitenaardse wezens gooiden ballen.
+
+4335: [unknown], unknown,    open, 'Ter',94    XP: []
+      Het rode buitenaardse wezen dronk wat frisdrank.
+      Het rode buitenaardse wezen dronk cola.
+
+4337: [unknown], unknown,    open, 'Ter',56    XP: []
+      Het rode buitenaardse wezen speelde met een paar speeltjes.
+      Het rode buitenaardse wezen speelde met speelgoedauto’s.
+
+4338: [unknown], unknown,    open, 'Ter',60    XP: []
+      Het rode buitenaardse wezen gooide een paar ballen.
+      Het rode buitenaardse wezen gooide tennisballen.
+
+4347: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens dronken enige cola.
+      Weinig buitenaardse wezens dronken frisdrank.
+
+4348: [unknown], unknown,    open, 'Ter',9     XP: []
+      Weinig buitenaardse wezens keken enige honkbalwedstrijden.
+      Weinig buitenaardse wezens keken sportwedstrijden.
+
+4349: [unknown], unknown,    open, 'Ter',9     XP: []
+      Weinig buitenaardse wezens speelden met enige speelgoedauto’s.
+      Weinig buitenaardse wezens speelden met speeltjes.
+
+4350: [unknown], unknown,    open, 'Ter',9     XP: []
+      Weinig buitenaardse wezens reden enige suv’s.
+      Weinig buitenaardse wezens reden auto’s.
+
+4355: [unknown], unknown,    open, 'Lim',414   XP: []
+      Het blauwe buitenaardse wezen dronk geen enkele cola.
+      Het blauwe buitenaardse wezen dronk geen frisdrank.
+
+4356: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het blauwe buitenaardse wezen keek geen enkele honkbalwedstrijd.
+      Het blauwe buitenaardse wezen keek geen sportwedstrijden.
+
+4357: [unknown], unknown,    open, 'Ter',112   XP: []
+      Het blauwe buitenaardse wezen speelde met geen enkele speelgoedauto.
+      Het blauwe buitenaardse wezen speelde niet met speeltjes.
+
+4358: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het blauwe buitenaardse wezen reed geen enkele suv’s.
+      Het blauwe buitenaardse wezen reed geen auto’s.
+
+4363: [unknown], unknown,    open, 'Ter',133   XP: []
+      Geen buitenaards wezen dronk enige cola.
+      Geen buitenaards wezen dronk frisdrank.
+
+4364: [unknown], unknown,    open, 'Lim',401   XP: []
+      Geen buitenaards wezen keek enige honkbalwedstrijden.
+      Geen buitenaards wezen keek sportwedstrijden.
+
+4365: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen speelde met enige speelgoedauto’s.
+      Geen buitenaards wezen speelde met speeltjes.
+
+4366: [unknown], unknown,    open, 'Lim',401   XP: []
+      Geen buitenaards wezen reed enige suv’s.
+      Geen buitenaards wezen reed auto’s.
+
+4371: [unknown], unknown,    open, 'Ter',9     XP: []
+      Weinig buitenaardse wezens aten varkensvlees.
+      Weinig buitenaardse wezens aten vlees.
+
+4372: [unknown], unknown,    open, 'Ter',45    XP: []
+      Weinig buitenaardse wezens lazen sci-fi romans.
+      Weinig buitenaardse wezens lazen boeken.
+
+4374: [unknown], unknown,    open, 'Ter',26    XP: []
+      Weinig buitenaardse wezens gooiden tennisballen.
+      Weinig buitenaardse wezens gooiden ballen.
+
+4379: [unknown], unknown,    open, 'Ter',118   XP: []
+      Het gele buitenaardse wezen at geen varkensvlees.
+      Het gele buitenaardse wezen at geen vlees.
+
+4380: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het gele buitenaardse wezen las geen sci-fi romans.
+      Het gele buitenaardse wezen las geen boeken.
+
+4381: [unknown], unknown,    open, 'Ter',290   XP: []
+      Het gele buitenaardse wezen zag geen duiven.
+      Het gele buitenaardse wezen zag geen vogels.
+
+4382: [unknown], unknown,    open, 'Ter',118   XP: []
+      Het gele buitenaardse wezen gooide geen tennisballen.
+      Het gele buitenaardse wezen gooide geen ballen.
+
+4387: [unknown], unknown,    open, 'Ter',177   XP: []
+      Geen buitenaards wezen at varkensvlees.
+      Geen buitenaards wezen at vlees.
+
+4388: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen las sci-fi romans.
+      Geen buitenaards wezen las boeken.
+
+4389: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen zag duiven.
+      Geen buitenaards wezen zag vogels.
+
+4390: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen gooide tennisballen.
+      Geen buitenaards wezen gooide ballen.
+
+4391: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens dronken wat frisdrank.
+      Precies 12 buitenaardse wezens dronken cola.
+
+4392: [unknown], unknown,    open, 'Ter',364   XP: []
+      Precies 12 buitenaardse wezens bekeken enige sportwedstrijden.
+      Precies 12 buitenaardse wezens bekeken honkbalwedstrijden.
+
+4393: [unknown], unknown,    open, 'Ter',350   XP: []
+      Precies 12 buitenaardse wezens speelden met enige speeltjes.
+      Precies 12 buitenaardse wezens speelden met speelgoedauto's.
+
+4394: [unknown], unknown,    open, 'Ter',26    XP: []
+      Precies 12 buitenaardse wezens reden in enige autos.
+      Precies 12 buitenaardse wezens reden in SUVs.
+
+4396: [unknown], unknown,    open, 'Ter',364   XP: []
+      Precies 12 buitenaardse wezens bekeken enige honkbalwedstrijden.
+      Precies 12 buitenaardse wezens bekeken sportwedstrijden.
+
+4397: [unknown], unknown,    open, 'Ter',340   XP: []
+      Precies 12 buitenaardse wezens speelden met enige speelgoedauto's.
+      Precies 12 buitenaardse wezens speelden met speeltjes.
+
+4398: [unknown], unknown,    open, 'Lim',420   XP: []
+      Precies 12 buitenaardse wezens reden in enige SUVs.
+      Precies 12 buitenaardse wezens reden in autos.
+
+4399: [unknown], unknown,    open, 'Ter',246   XP: []
+      Alleen 12 buitenaardse wezens dronken enige frisdrank.
+      Alleen 12 buitenaardse wezens dronken cola.
+
+4400: [unknown], unknown,    open, 'Ter',364   XP: []
+      Alleen 12 buitenaardse wezens keken enige sportwedstrijden.
+      Alleen 12 buitenaardse wezens keken honkbalwedstrijden.
+
+4401: [unknown], unknown,    open, 'Ter',253   XP: []
+      Alleen 12 buitenaardse wezens speelden met enige speeltjes.
+      Alleen 12 buitenaardse wezens speelden met speelgoedauto’s.
+
+4402: [unknown], unknown,    open, 'Ter',249   XP: []
+      Alleen 12 buitenaardse wezens reden enige auto’s.
+      Alleen 12 buitenaardse wezens reden suv’s.
+
+4403: [unknown], unknown,    open, 'Ter',246   XP: []
+      Alleen 12 buitenaardse wezens dronken enige cola.
+      Alleen 12 buitenaardse wezens dronken frisdrank.
+
+4404: [unknown], unknown,    open, 'Ter',364   XP: []
+      Alleen 12 buitenaardse wezens keken enige honkbalwedstrijden.
+      Alleen 12 buitenaardse wezens keken sportwedstrijden.
+
+4405: [unknown], unknown,    open, 'Ter',340   XP: []
+      Alleen 12 buitenaardse wezens speelden met enige speelgoedauto’s.
+      Alleen 12 buitenaardse wezens speelden met speeltjes.
+  
+98: [unknown], unknown,    open, 'Lim',414   XP: []
+      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.
+      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.
+
+4406: [unknown], unknown,    open, 'Ter',364   XP: []
+      Alleen 12 buitenaardse wezens reden enige suv’s.
+      Alleen 12 buitenaardse wezens reden auto’s.
+
+4407: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens aten vlees.
+      Precies 12 buitenaardse wezens aten varkensvlees.
+
+4408: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens lazen boeken.
+      Precies 12 buitenaardse wezens lazen science fiction romans.
+
+4409: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens zagen vogels.
+      Precies 12 buitenaardse wezens zagen duiven.
+
+4410: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gooiden ballen.
+      Precies 12 buitenaardse wezens gooiden tennisballen.
+
+4411: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens aten varkensvlees.
+      Precies 12 buitenaardse wezens aten vlees.
+
+4412: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens lazen science fiction romans.
+      Precies 12 buitenaardse wezens lazen boeken.
+
+4414: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gooiden tennisballen.
+      Precies 12 buitenaardse wezens gooiden ballen.
+
+4415: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens aten vlees.
+      Alleen 12 buitenaardse wezens aten varkensvlees.
+
+4416: [unknown], unknown,    open, 'Lim',421   XP: []
+      Alleen 12 buitenaardse wezens lazen boeken.
+      Alleen 12 buitenaardse wezens lazen sci-fi romans.
+
+4417: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens zagen vogels.
+      Alleen 12 buitenaardse wezens zagen duiven.
+
+4418: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gooiden ballen.
+      Alleen 12 buitenaardse wezens gooiden tennisballen.
+
+4419: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens aten varkensvlees.
+      Alleen 12 buitenaardse wezens aten vlees.
+
+4420: [unknown], unknown,    open, 'Lim',421   XP: []
+      Alleen 12 buitenaardse wezens lazen sci-fi romans.
+      Alleen 12 buitenaardse wezens lazen boeken.
+
+4422: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gooiden tennisballen.
+      Alleen 12 buitenaardse wezens gooiden ballen.
+
+4423: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens lazen een paar tijdschriften.
+      Precies 12 buitenaardse wezens lazen nieuwstijdschriften.
+
+4424: [unknown], unknown,    open, 'Lim',425   XP: []
+      Precies 12 buitenaardse wezens aten bij een paar restaurants.
+      Precies 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4425: [unknown], unknown,    open, 'Lim',414   XP: []
+      Precies 12 buitenaardse wezens kochtten enige kleren.
+      Precies 12 buitenaardse wezens kochtten shirts.
+
+4426: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gebruikten een paar munten.
+      Precies 12 buitenaardse wezens gebruikten kwartjes.
+
+4427: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Precies 12 buitenaardse wezens lazen tijdschriften.
+
+4429: [unknown], unknown,    open, 'Lim',414   XP: []
+      Precies 12 buitenaardse wezens kochtten enige shirts.
+      Precies 12 buitenaardse wezens kochtten kleren.
+
+4430: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gebruikten een paar kwartjes.
+      Precies 12 buitenaardse wezens gebruikten munten.
+
+4431: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens lazen een paar tijdschriften.
+      Alleen 12 buitenaardse wezens lazen nieuwstijdschriften.
+
+4433: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens kochten wat kleren.
+      Alleen 12 buitenaardse wezens kochten shirts.
+
+4434: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gebruikten een paar munten.
+      Alleen 12 buitenaardse wezens gebruikten kwartjes.
+
+4435: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Alleen 12 buitenaardse wezens lazen tijdschriften.
+
+4438: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gebruikten een paar kwartjes.
+      Alleen 12 buitenaardse wezens gebruikten munten.
+
+4439: [unknown], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen at vlees.
+      Ieder buitenaards wezen at varkensvlees.
+
+4440: [unknown], unknown,    open, 'Ter',101   XP: []
+      Ieder buitenaards wezen las boeken.
+      Ieder buitenaards wezen las sci-fi romans.
+
+4447: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens aten vlees.
+      Veel buitenaardse wezens aten varkensvlees.
+
+4448: [unknown], unknown,    open, 'Ter',42    XP: []
+      Veel buitenaardse wezens lazen boeken.
+      Veel buitenaardse wezens lazen sci-fi romans.
+
+4449: [unknown], unknown,    open, 'Ter',30    XP: []
+      Veel buitenaardse wezens zagen vogels.
+      Veel buitenaardse wezens zagen duiven.
+
+4450: [unknown], unknown,    open, 'Ter',27    XP: []
+      Veel buitenaardse wezens gooiden ballen.
+      Veel buitenaardse wezens gooiden tennisballen.
+
+4455: [unknown], unknown,    open, 'Ter',44    XP: []
+      Het paarse buitenaardse wezen at vlees.
+      Het paarse buitenaardse wezen at varkensvlees.
+
+4456: [unknown], unknown,    open, 'Ter',126   XP: []
+      Het paarse buitenaardse wezen las boeken.
+      Het paarse buitenaardse wezen las sci-fi romans.
+
+4457: [unknown], unknown,    open, 'Ter',168   XP: []
+      Het paarse buitenaardse wezen zag vogels.
+      Het paarse buitenaardse wezen zag duiven.
+
+4458: [unknown], unknown,    open, 'Ter',79    XP: []
+      Het paarse buitenaardse wezen gooide ballen.
+      Het paarse buitenaardse wezen gooide tennisballen.
+
+4463: [unknown], unknown,    open, 'Ter',211   XP: []
+      Ieder buitenaards wezen las een paar tijdschriften.
+      Ieder buitenaards wezen las nieuwstijdschriften.
+
+4464: [unknown], unknown,    open, 'Lim',400   XP: []
+      Ieder buitenaards wezen at bij een paar restaurants.
+      Ieder buitenaards wezen at bij Mexicaanse restaurants.
+
+4465: [unknown], unknown,    open, 'Ter',212   XP: []
+      Ieder buitenaards wezen kocht wat kleding.
+      Ieder buitenaards wezen kocht shirts.
+
+4466: [unknown], unknown,    open, 'Ter',212   XP: []
+      Ieder buitenaards wezen gebruikte een paar munten.
+      Ieder buitenaards wezen gebruikte kwartjes,
+
+4471: [unknown], unknown,    open, 'Ter',16    XP: []
+      Veel buitenaardse wezens lazen een paar tijdschriften.
+      Veel buitenaardse wezens lazen nieuwstijdschriften.
+
+4472: [unknown], unknown,    open, 'Ter',26    XP: []
+      Veel buitenaardse wezens aten bij een paar restaurants.
+      Veel buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4473: [unknown], unknown,    open, 'Ter',16    XP: []
+      Veel buitenaardse wezens kochten wat kleding.
+      Veel buitenaardse wezens kochten shirts.
+
+4474: [unknown], unknown,    open, 'Ter',16    XP: []
+      Veel buitenaardse wezens gebruikten een paar munten.
+      Veel buitenaardse wezens gebruikten kwartjes.
+
+4479: [unknown], unknown,    open, 'Ter',60    XP: []
+      Het rode buitenaardse wezen las een paar tijdschriften.
+      Het rode buitenaardse wezen las nieuwstijdschriften.
+
+4480: [unknown], unknown,    open, 'Ter',159   XP: []
+      Het rode buitenaardse wezen at bij een paar restaurants.
+      Het rode buitenaardse wezen at bij Mexicaanse restaurants.
+
+4481: [unknown], unknown,    open, 'Ter',125   XP: []
+      Het rode buitenaardse wezen kocht wat kleren.
+      Het rode buitenaardse wezen kocht shirts.
+
+4482: [unknown], unknown,    open, 'Ter',60    XP: []
+      Het rode buitenaardse wezen gebruikte een paar munten.
+      Het rode buitenaardse wezen gebruikte kwartjes.
+
+4491: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens lazen enige nieuwstijdschriften.
+      Weinig buitenaardse wezens lazen enige tijdschriften.
+
+4492: [unknown], unknown,    open, 'Ter',14    XP: []
+      Weinig buitenaardse wezens lazen enige sci-fi romans.
+      Weinig buitenaardse wezens lazen enige boeken.
+
+4494: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens gooiden enige tennisballen.
+      Weinig buitenaardse wezens gooiden enige ballen.
+
+4499: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het blauwe buitenaardse wezen las geen enkel nieuwstijdschrift.
+      Het blauwe buitenaardse wezen las geen enkel tijdschrift.
+
+4500: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het blauwe buitenaardse wezen las geen enkele sci-fi roman.
+      Het blauwe buitenaardse wezen las geen enkel boek.
+
+4501: [unknown], unknown,    open, 'Lim',419   XP: []
+      Het blauwe buitenaardse wezen kocht geen enkele shirts.
+      Het blauwe buitenaardse wezen kocht geen enkele kleren.
+
+4502: [unknown], unknown,    open, 'Ter',288   XP: []
+      Het blauwe buitenaardse wezen gooide geen tennisballen.
+      Het blauwe buitenaardse wezen gooide geen enkele bal.
+
+4507: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen las enige nieuwstijdschriften.
+      Geen buitenaards wezen las enige tijdschriften.
+
+4508: [unknown], unknown,    open, 'Ter',84    XP: []
+      Geen buitenaards wezen las enige sci-fi romans.
+      Geen buitenaards wezen las enige boeken.
+
+4509: [unknown], unknown,    open, 'Ter',131   XP: []
+      Geen buitenaards wezen kocht enige shirts.
+      Geen buitenaards wezen kocht enige kleren.
+
+4510: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen gooide enige tennisballen.
+      Geen buitenaards wezen gooide enige ballen.
+
+4517: [unknown], unknown,    open, 'Ter',19    XP: []
+      Weinig buitenaardse wezens speelden met speelgoedauto’s.
+      Weinig buitenaardse wezens speelden met speeltjes.
+
+4518: [unknown], unknown,    open, 'Ter',27    XP: []
+      Weinig buitenaardse wezens gebruikten kwartjes.
+      Weinig buitenaardse wezens gebruikten munten.
+
+4523: [unknown], unknown,    open, 'Ter',290   XP: []
+      Het gele buitenaardse wezen dronk geen cola.
+      Het gele buitenaardse wezen dronk geen frisdrank.
+
+4524: [unknown], unknown,    open, 'Ter',179   XP: []
+      Het gele buitenaardse wezen at niet bij Mexicaanse restaurants.
+      Het gele buitenaardse wezen at niet bij restaurants.
+
+4525: [unknown], unknown,    open, 'Ter',51    XP: []
+      Het gele buitenaardse wezen speelde niet met speelgoedauto’s.
+      Het gele buitenaardse wezen speelde niet met speeltjes.
+
+4526: [unknown], unknown,    open, 'Ter',118   XP: []
+      Het gele buitenaardse wezen gebruikte geen kwartjes.
+      Het gele buitenaardse wezen gebruikte geen munten.
+
+4531: [unknown], unknown,    open, 'Ter',287   XP: []
+      Geen buitenaards wezen dronk cola.
+      Geen buitenaards wezen dronk frisdrank.
+
+4532: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen at bij Mexicaanse restaurants.
+      Geen buitenaards wezen at bij restaurants.
+
+4533: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen speelde met speelgoedauto’s.
+      Geen buitenaards wezen speelde met speeltjes.
+
+4534: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen gebruikte kwartjes.
+      Geen buitenaards wezen gebruikte munten.
+
+4535: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens lazen enige tijdschriften.
+      Precies 12 buitenaardse wezens lazen enige nieuwstijdschriften.
+
+4536: [unknown], unknown,    open, 'Lim',410   XP: []
+      Precies 12 buitenaardse wezens lazen enige boeken.
+      Precies 12 buitenaardse wezens lazen enige science fiction romans.
+
+4537: [unknown], unknown,    open, 'Ter',188   XP: []
+      Precies 12 buitenaardse wezens kochtten wat kleren.
+      Precies 12 buitenaardse wezens kochtten wat shirts.
+
+4538: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens gooiden enige ballen.
+      Precies 12 buitenaardse wezens gooiden enige tennisballen.
+
+4539: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens lazen enige nieuwstijdschriften.
+      Precies 12 buitenaardse wezens lazen enige tijdschriften.
+
+4540: [unknown], unknown,    open, 'Lim',410   XP: []
+      Precies 12 buitenaardse wezens lazen enige science fiction romans.
+      Precies 12 buitenaardse wezens lazen enige boeken.
+
+4542: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens gooiden enige tennisballen.
+      Precies 12 buitenaardse wezens gooiden enige ballen.
+
+4543: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens lazen enige tijdschriften.
+      Alleen 12 buitenaardse wezens lazen enige nieuwstijdschriften.
+
+4544: [unknown], unknown,    open, 'Lim',412   XP: []
+      Alleen 12 buitenaardse wezens lazen enige boeken.
+      Alleen 12 buitenaardse wezens lazen enige sci-fi romans.
+
+4545: [unknown], unknown,    open, 'Lim',410   XP: []
+      Alleen 12 buitenaardse wezens kochten enige kleren.
+      Alleen 12 buitenaardse wezens kochten enige shirts.
+
+4546: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens gooiden enige ballen.
+      Alleen 12 buitenaardse wezens gooiden enige tennisballen.
+
+4547: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens lazen enige nieuwstijdschriften.
+      Alleen 12 buitenaardse wezens lazen enige tijdschriften.
+
+4548: [unknown], unknown,    open, 'Lim',412   XP: []
+      Alleen 12 buitenaardse wezens lazen enige sci-fi romans.
+      Alleen 12 buitenaardse wezens lazen enige boeken.
+
+4550: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens gooiden enige tennisballen.
+      Alleen 12 buitenaardse wezens gooiden enige ballen.
+
+4551: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens dronken frisdrank.
+      Precies 12 buitenaardse wezens dronken cola.
+
+4552: [unknown], unknown,    open, 'Lim',425   XP: []
+      Precies 12 buitenaardse wezens aten bij restaurants.
+      Precies 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4553: [unknown], unknown,    open, 'Lim',424   XP: []
+      Precies 12 buitenaardse wezens speelden met speeltjes.
+      Precies 12 buitenaardse wezens speelden met speelgoedauto's.
+
+4554: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gebruikten munten.
+      Precies 12 buitenaardse wezens gebruikten kwartjes.
+
+4557: [unknown], unknown,    open, 'Lim',424   XP: []
+      Precies 12 buitenaardse wezens speelden met speelgoedauto's.
+      Precies 12 buitenaardse wezens speelden met speeltjes.
+
+4558: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens gebruikten kwartjes.
+      Precies 12 buitenaardse wezens gebruikten munten.
+
+4559: [unknown], unknown,    open, 'Lim',419   XP: []
+      Alleen 12 buitenaardse wezens dronken frisdrank.
+      Alleen 12 buitenaardse wezens dronken cola.
+
+4560: [unknown], unknown,    open, 'Lim',425   XP: []
+      Alleen 12 buitenaardse wezens aten bij restaurants.
+      Alleen 12 buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4561: [unknown], unknown,    open, 'Lim',424   XP: []
+      Alleen 12 buitenaardse wezens speelden met speeltjes.
+      Alleen 12 buitenaardse wezens speelden met speelgoedauto’s.
+
+4562: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gebruikten munten.
+      Alleen 12 buitenaardse wezens gebruikten kwartjes.
+
+4565: [unknown], unknown,    open, 'Lim',424   XP: []
+      Alleen 12 buitenaardse wezens speelden met speelgoedauto’s.
+      Alleen 12 buitenaardse wezens speelden met speeltjes.
+
+4566: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens gebruikten kwartjes.
+      Alleen 12 buitenaardse wezens gebruikten munten.
+
+4567: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens aten wat vlees.
+      Precies 12 buitenaardse wezens aten wat varkensvlees.
+
+4568: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens bekeken een paar sportwedstrijden.
+      Precies 12 buitenaardse wezens bekeken een paar honkbalwedstrijden.
+
+4569: [unknown], unknown,    open, 'Ter',188   XP: []
+      Precies 12 buitenaardse wezens zagen een paar vogels.
+      Precies 12 buitenaardse wezens zagen een paar duiven.
+
+4570: [unknown], unknown,    open, 'Ter',148   XP: []
+      Precies 12 buitenaardse wezens reden in een paar autos.
+      Precies 12 buitenaardse wezens reden in een paar SUVs.
+
+4571: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens aten wat varkensvlees.
+      Precies 12 buitenaardse wezens aten wat vlees.
+
+4572: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens bekeken een paar honkbalwedstrijden.
+      Precies 12 buitenaardse wezens bekeken een paar sportwedstrijden.
+
+4574: [unknown], unknown,    open, 'Ter',53    XP: []
+      Precies 12 buitenaardse wezens reden in een paar SUVs.
+      Precies 12 buitenaardse wezens reden in een paar autos.
+
+4575: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens aten wat vlees.
+      Alleen 12 buitenaardse wezens aten wat varkensvlees.
+
+4576: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens keken een paar sportwedstrijden.
+      Alleen 12 buitenaardse wezens keken een paar honkbalwedstrijden.
+
+4577: [unknown], unknown,    open, 'Ter',188   XP: []
+      Alleen 12 buitenaardse wezens zagen een paar vogels.
+      Alleen 12 buitenaardse wezens zagen een paar duiven.
+
+4578: [unknown], unknown,    open, 'Ter',31    XP: []
+      Alleen 12 buitenaardse wezens reden een paar auto’s.
+      Alleen 12 buitenaardse wezens reden een paar suv’s.
+
+4579: [unknown], unknown,    open, 'Lim',418   XP: []
+      Alleen 12 buitenaardse wezens aten wat varkensvlees.
+      Alleen 12 buitenaardse wezens aten wat vlees.
+
+4580: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens keken een paar honkbalwedstrijden.
+      Alleen 12 buitenaardse wezens keken een paar sportwedstrijden.
+
+4582: [unknown], unknown,    open, 'Ter',42    XP: []
+      Alleen 12 buitenaardse wezens reden een paar suv’s.
+      Alleen 12 buitenaardse wezens reden een paar auto’s.
+
+4583: [unknown], unknown,    open, 'Ter',209   XP: []
+      Ieder buitenaards wezen dronk frisdrank.
+      Ieder buitenaards wezen dronk cola.
+
+4584: [unknown], unknown,    open, 'Ter',77    XP: []
+      Ieder buitenaards wezen at bij restaurants.
+      Ieder buitenaards wezen at bij Mexicaanse restaurants.
+
+4585: [unknown], unknown,    open, 'Ter',48    XP: []
+      Ieder buitenaards wezen speelde met speeltjes.
+      Ieder buitenaards wezen speelde met speelgoedauto’s.
+
+4586: [unknown], unknown,    open, 'Ter',56    XP: []
+      Ieder buitenaards wezen gebruikte munten.
+      Ieder buitenaards wezen gebruikte kwartjes,
+
+4591: [unknown], unknown,    open, 'Ter',12    XP: []
+      Veel buitenaardse wezens dronken frisdrank.
+      Veel buitenaardse wezens dronken cola.
+
+4592: [unknown], unknown,    open, 'Ter',39    XP: []
+      Veel buitenaardse wezens aten bij restaurants.
+      Veel buitenaardse wezens aten bij Mexicaanse restaurants.
+
+4593: [unknown], unknown,    open, 'Ter',20    XP: []
+      Veel buitenaardse wezens speelden met speeltjes,
+      Veel buitenaardse wezens speelden met speelgoedauto’s.
+
+4594: [unknown], unknown,    open, 'Ter',27    XP: []
+      Veel buitenaardse wezens gebruikten munten.
+      Veel buitenaardse wezens gebruikten kwartjes.
+
+4599: [unknown], unknown,    open, 'Ter',94    XP: []
+      Het paarse buitenaardse wezen dronk frisdrank.
+      Het paarse buitenaardse wezen dronk cola.
+
+4600: [unknown], unknown,    open, 'Ter',201   XP: []
+      Het paarse buitenaardse wezen at bij restaurants.
+      Het paarse buitenaardse wezen at bij Mexicaanse restaurants.
+
+4601: [unknown], unknown,    open, 'Ter',72    XP: []
+      Het paarse buitenaardse wezen speelde met speeltjes.
+      Het paarse buitenaardse wezen speelde met speelgoedauto’s.
+
+4602: [unknown], unknown,    open, 'Ter',79    XP: []
+      Het paarse buitenaardse wezen gebruikte munten.
+      Het paarse buitenaardse wezen gebruikte kwartjes.
+
+4607: [unknown], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen at wat vlees.
+      Ieder buitenaards wezen at wat varkensvlees.
+
+4608: [unknown], unknown,    open, 'Ter',204   XP: []
+      Ieder buitenaards wezen keek een paar sportwedstrijden.
+      Ieder buitenaards wezen keek een paar honkbalwedstrijden.
+
+4609: [unknown], unknown,    open, 'Ter',209   XP: []
+      Ieder buitenaards wezen zag een paar vogels.
+      Ieder buitenaards wezen zag een paar duiven.
+
+4610: [unknown], unknown,    open, 'Ter',89    XP: []
+      Ieder buitenaards wezen reed in een paar auto’s.
+      Ieder buitenaards wezen reed in een paar suv’s.
+
+4615: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens aten wat vlees.
+      Veel buitenaardse wezens aten wat varkensvlees.
+
+4616: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens keken een paar sportwedstrijden.
+      Veel buitenaardse wezens keken een paar honkbalwedstrijden.
+
+4617: [unknown], unknown,    open, 'Ter',12    XP: []
+      Veel buitenaardse wezens zagen een paar vogels.
+      Veel buitenaardse wezens zagen een paar duiven.
+
+4618: [unknown], unknown,    open, 'Ter',6     XP: []
+      Veel buitenaardse wezens reden een paar auto’s.
+      Veel buitenaardse wezens reden een paar suv’s.
+
+4623: [unknown], unknown,    open, 'Ter',44    XP: []
+      Het rode buitenaardse wezen at wat vlees.
+      Het rode buitenaardse wezen at wat varkensvlees.
+
+4624: [unknown], unknown,    open, 'Ter',44    XP: []
+      Het rode buitenaardse wezen keek een paar sportwedstrijden.
+      Het rode buitenaardse wezen keek een paar honkbalwedstrijden.
+
+4625: [unknown], unknown,    open, 'Ter',94    XP: []
+      Het rode buitenaardse wezen zag een paar vogels.
+      Het rode buitenaardse wezen zag een paar duiven.
+
+4626: [unknown], unknown,    open, 'Ter',30    XP: []
+      Het rode buitenaardse wezen reed een paar auto’s.
+      Het rode buitenaardse wezen reed een paar suv’s.
+
+4635: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens aten enig varkensvlees.
+      Weinig buitenaardse wezens aten enig vlees.
+
+4638: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens gebruikten enige kwartjes.
+      Weinig buitenaardse wezens gebruikten enige munten.
+
+4643: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het blauwe buitenaardse wezen at geen enkel varkensvlees.
+      Het blauwe buitenaardse wezen at geen enkel vlees.
+
+4644: [unknown], unknown,    open, 'Lim',453   XP: []
+      Het blauwe buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+      Het blauwe buitenaardse wezen at bij geen enkel restaurant.
+
+4645: [unknown], unknown,    open, 'Lim',419   XP: []
+      Het blauwe buitenaardse wezen zag geen enkele duif.
+      Het blauwe buitenaardse wezen zag geen enkele vogel.
+
+4646: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het blauwe buitenaardse wezen gebruikte geen enkel kwartje.
+      Het blauwe buitenaardse wezen gebruikte geen enkele munt.
+
+4651: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen at enig varkensvlees.
+      Geen buitenaards wezen at enig vlees.
+
+4652: [unknown], unknown,    open, 'Ter',157   XP: []
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+      Geen buitenaards wezen at bij enige restaurants.
+
+4653: [unknown], unknown,    open, 'Ter',131   XP: []
+      Geen buitenaards wezen zag enige duiven.
+      Geen buitenaards wezen zag enige vogels.
+
+4654: [unknown], unknown,    open, 'Ter',73    XP: []
+      Geen buitenaards wezen gebruikte enige kwartjes.
+      Geen buitenaards wezen gebruikte enige munten.
+
+4655: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens aten enig vlees.
+      Precies 12 buitenaardse wezens aten enig varkensvlees.
+
+4656: [unknown], unknown,    open, 'Lim',410   XP: []
+      Precies 12 buitenaardse wezens aten bij enige restaurants.
+      Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+
+4657: [unknown], unknown,    open, 'Lim',410   XP: []
+      Precies 12 buitenaardse wezens zagen enige vogels.
+      Precies 12 buitenaardse wezens zagen enige duiven.
+
+4658: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens gebruikten enige munten.
+      Precies 12 buitenaardse wezens gebruikten enige kwartjes.
+
+4659: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens aten enig varkensvlees.
+      Precies 12 buitenaardse wezens aten enig vlees.
+
+4662: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens gebruikten enige kwartjes.
+      Precies 12 buitenaardse wezens gebruikten enige munten.
+
+4663: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens aten enig vlees.
+      Alleen 12 buitenaardse wezens aten enig varkensvlees.
+
+4664: [unknown], unknown,    open, 'Lim',410   XP: []
+      Alleen 12 buitenaardse wezens aten bij enige restaurants.
+      Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+
+4665: [unknown], unknown,    open, 'Lim',410   XP: []
+      Alleen 12 buitenaardse wezens zagen enige vogels.
+      Alleen 12 buitenaardse wezens zagen enige duiven.
+
+4666: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens gebruikten enige munten.
+      Alleen 12 buitenaardse wezens gebruikten enige kwartjes.
+
+4667: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens aten enig varkensvlees.
+      Alleen 12 buitenaardse wezens aten enig vlees.
+
+4670: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens gebruikten enige kwartjes.
+      Alleen 12 buitenaardse wezens gebruikten enige munten.
+
+4671: [unknown], unknown,    open, 'Lim',421   XP: []
+      Precies 12 buitenaardse wezens dronken een beetje frisdrank.
+      Precies 12 buitenaardse wezens dronken een beetje cola.
+
+4672: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens lazen een paar boeken.
+      Precies 12 buitenaardse wezens lazen een paar science fiction romans.
+
+4673: [unknown], unknown,    open, 'Ter',61    XP: []
+      Precies 12 buitenaardse wezens speelden met een paar speeltjes.
+      Precies 12 buitenaardse wezens speelden met een paar speelgoedauto's.
+
+4674: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens gooiden een paar ballen.
+      Precies 12 buitenaardse wezens gooiden een paar tennisballen.
+
+4676: [unknown], unknown,    open, 'Ter',202   XP: []
+      Precies 12 buitenaardse wezens lazen een paar science fiction romans.
+      Precies 12 buitenaardse wezens lazen een paar boeken.
+
+4677: [unknown], unknown,    open, 'Ter',61    XP: []
+      Precies 12 buitenaardse wezens speelden met een paar speelgoedauto's.
+      Precies 12 buitenaardse wezens speelden met een paar speeltjes.
+
+4678: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens gooiden een paar tennisballen.
+      Precies 12 buitenaardse wezens gooiden een paar ballen.
+
+4679: [unknown], unknown,    open, 'Lim',419   XP: []
+      Alleen 12 buitenaardse wezens dronken wat frisdrank.
+      Alleen 12 buitenaardse wezens dronken wat cola.
+
+4680: [unknown], unknown,    open, 'Lim',422   XP: []
+      Alleen 12 buitenaardse wezens lazen een paar boeken.
+      Alleen 12 buitenaardse wezens lazen een paar sci-fi romans.
+
+4681: [unknown], unknown,    open, 'Ter',61    XP: []
+      Alleen 12 buitenaardse wezens speelden met een paar speeltjes.
+      Alleen 12 buitenaardse wezens speelden met een paar speelgoedauto’s.
+
+4682: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens gooiden een paar ballen.
+      Alleen 12 buitenaardse wezens gooiden een paar tennisballen.
+
+4684: [unknown], unknown,    open, 'Lim',421   XP: []
+      Alleen 12 buitenaardse wezens lazen een paar sci-fi romans.
+      Alleen 12 buitenaardse wezens lazen een paar boeken.
+
+4685: [unknown], unknown,    open, 'Ter',61    XP: []
+      Alleen 12 buitenaardse wezens speelden met een paar speelgoedauto’s.
+      Alleen 12 buitenaardse wezens speelden met een paar speeltjes.
+
+4686: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens gooiden een paar tennisballen.
+      Alleen 12 buitenaardse wezens gooiden een paar ballen.
+
+4687: [unknown], unknown,    open, 'Ter',209   XP: []
+      Ieder buitenaards wezen dronk wat frisdrank.
+      Ieder buitenaards wezen dronk wat cola.
+
+4688: [unknown], unknown,    open, 'Ter',57    XP: []
+      Ieder buitenaards wezen las een paar boeken.
+      Ieder buitenaards wezen las een paar sci-fi romans.
+
+4689: [unknown], unknown,    open, 'Ter',152   XP: []
+      Ieder buitenaards wezen speelde met een paar speeltjes.
+      Ieder buitenaards wezen speelde met een paar speelgoedauto’s.
+
+4690: [unknown], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen gooide een paar ballen.
+      Ieder buitenaards wezen gooide een paar tennisballen.
+
+4695: [unknown], unknown,    open, 'Ter',12    XP: []
+      Veel buitenaardse wezens dronken wat frisdrank.
+      Veel buitenaardse wezens dronken wat cola.
+
+4696: [unknown], unknown,    open, 'Ter',15    XP: []
+      Veel buitenaardse wezens lazen een paar boeken.
+      Veel buitenaardse wezens lazen een paar sci-fi romans.
+
+4697: [unknown], unknown,    open, 'Ter',12    XP: []
+      Veel buitenaardse wezens speelden met een paar speeltjes.
+      Veel buitenaardse wezens speelden met een paar speelgoedauto’s.
+
+4698: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens gooiden een paar ballen.
+      Veel buitenaardse wezens gooiden een paar tennisballen.
+
+4703: [unknown], unknown,    open, 'Ter',94    XP: []
+      Het rode buitenaardse wezen dronk wat frisdrank.
+      Het rode buitenaardse wezen dronk wat cola.
+
+4704: [unknown], unknown,    open, 'Ter',71    XP: []
+      Het rode buitenaardse wezen las een paar boeken.
+      Het rode buitenaardse wezen las een paar sci-fi romans.
+
+4705: [unknown], unknown,    open, 'Ter',56    XP: []
+      Het rode buitenaardse wezen speelde met een paar speeltjes.
+      Het rode buitenaardse wezen speelde met een paar speelgoedauto’s.
+
+4706: [unknown], unknown,    open, 'Ter',44    XP: []
+      Het rode buitenaardse wezen gooide een paar ballen.
+      Het rode buitenaardse wezen gooide een paar tennisballen.
+
+4716: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens keken enige honkbalwedstrijden.
+      Weinig buitenaardse wezens keken enige sportwedstrijden.
+  
+4441: [unknown], unknown,    open, 'Ter',71    XP: []
+      Ieder buitenaards wezen zag vogels.
+      Ieder buitenaards wezen zag duiven.
+
+4717: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens speelden met enige speelgoedauto’s.
+      Weinig buitenaardse wezens speelden met enige speeltjes.
+
+4718: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weinig buitenaardse wezens reden enige suv’s.
+      Weinig buitenaardse wezens reden enige auto’s.
+
+4723: [unknown], unknown,    open, 'Lim',419   XP: []
+      Het blauwe buitenaardse wezen dronk geen enkele cola.
+      Het blauwe buitenaardse wezen dronk geen enkele frisdrank.
+
+4724: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het blauwe buitenaardse wezen keek geen enkele honkbalwedstrijd.
+      Het blauwe buitenaardse wezen keek geen enkele sportwedstrijd.
+
+4725: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het blauwe buitenaardse wezen speelde met geen enkele speelgoedauto.
+      Het blauwe buitenaardse wezen speelde met geen enkel speeltje.
+
+4726: [unknown], unknown,    open, 'Lim',418   XP: []
+      Het blauwe buitenaardse wezen reed geen enkele suv’s.
+      Het blauwe buitenaardse wezen reed geen enkele auto’s.
+
+4731: [unknown], unknown,    open, 'Ter',131   XP: []
+      Geen buitenaards wezen dronk enige cola.
+      Geen buitenaards wezen dronk enige frisdrank.
+
+4732: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen keek enige honkbalwedstrijden.
+      Geen buitenaards wezen keek enige sportwedstrijden.
+
+4733: [unknown], unknown,    open, 'Ter',95    XP: []
+      Geen buitenaards wezen speelde met enige speelgoedauto’s.
+      Geen buitenaards wezen speelde met enige speeltjes.
+
+4734: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen reed enige suv’s.
+      Geen buitenaards wezen reed enige auto’s.
+
+4735: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens dronken wat frisdrank.
+      Precies 12 buitenaardse wezens dronken wat cola.
+
+4736: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens bekeken enige sportwedstrijden.
+      Precies 12 buitenaardse wezens bekeken enige honkbalwedstrijden.
+
+4737: [unknown], unknown,    open, 'Ter',135   XP: []
+      Precies 12 buitenaardse wezens speelden met enige speeltjes.
+      Precies 12 buitenaardse wezens speelden met enige speelgoedauto's.
+
+4738: [unknown], unknown,    open, 'Ter',26    XP: []
+      Precies 12 buitenaardse wezens reden in enige autos.
+      Precies 12 buitenaardse wezens reden in enige SUVs.
+
+4740: [unknown], unknown,    open, 'Ter',114   XP: []
+      Precies 12 buitenaardse wezens bekeken enige honkbalwedstrijden.
+      Precies 12 buitenaardse wezens bekeken enige sportwedstrijden.
+
+4741: [unknown], unknown,    open, 'Ter',135   XP: []
+      Precies 12 buitenaardse wezens speelden met enige speelgoedauto's.
+      Precies 12 buitenaardse wezens speelden met enige speeltjes.
+
+4742: [unknown], unknown,    open, 'Ter',68    XP: []
+      Precies 12 buitenaardse wezens reden in enige SUVs.
+      Precies 12 buitenaardse wezens reden in enige autos.
+
+4743: [unknown], unknown,    open, 'Lim',410   XP: []
+      Alleen 12 buitenaardse wezens dronken enige frisdrank.
+      Alleen 12 buitenaardse wezens dronken enige cola.
+
+4744: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens keken enige sportwedstrijden.
+      Alleen 12 buitenaardse wezens keken enige honkbalwedstrijden.
+
+4745: [unknown], unknown,    open, 'Ter',135   XP: []
+      Alleen 12 buitenaardse wezens speelden met enige speeltjes.
+      Alleen 12 buitenaardse wezens speelden met enige speelgoedauto’s.
+
+4746: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens reden enige auto’s.
+      Alleen 12 buitenaardse wezens reden enige suv’s.
+
+4748: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens keken enige honkbalwedstrijden.
+      Alleen 12 buitenaardse wezens keken enige sportwedstrijden.
+
+4749: [unknown], unknown,    open, 'Ter',135   XP: []
+      Alleen 12 buitenaardse wezens speelden met enige speelgoedauto’s.
+      Alleen 12 buitenaardse wezens speelden met enige speeltjes.
+
+4750: [unknown], unknown,    open, 'Ter',114   XP: []
+      Alleen 12 buitenaardse wezens reden enige suv’s.
+      Alleen 12 buitenaardse wezens reden enige auto’s.
+
+4751: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens lazen een paar tijdschriften.
+      Precies 12 buitenaardse wezens lazen een paar nieuwstijdschriften.
+
+4752: [unknown], unknown,    open, 'Ter',298   XP: []
+      Precies 12 buitenaardse wezens aten bij een paar restaurants.
+      Precies 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+
+4753: [unknown], unknown,    open, 'Lim',410   XP: []
+      Precies 12 buitenaardse wezens kochtten enige kleren.
+      Precies 12 buitenaardse wezens kochtten enige shirts.
+
+4754: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens gebruikten een paar munten.
+      Precies 12 buitenaardse wezens gebruikten een paar kwartjes.
+
+4755: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Precies 12 buitenaardse wezens lazen een paar tijdschriften.
+
+4758: [unknown], unknown,    open, 'Ter',52    XP: []
+      Precies 12 buitenaardse wezens gebruikten een paar kwartjes.
+      Precies 12 buitenaardse wezens gebruikten een paar munten.
+
+4759: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens lazen een paar tijdschriften.
+      Alleen 12 buitenaardse wezens lazen een paar nieuwstijdschriften.
+
+4761: [unknown], unknown,    open, 'Ter',188   XP: []
+      Alleen 12 buitenaardse wezens kochten wat kleren.
+      Alleen 12 buitenaardse wezens kochten wat shirts.
+
+4762: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens gebruikten een paar munten.
+      Alleen 12 buitenaardse wezens gebruikten een paar kwartjes.
+
+4763: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens lazen een paar nieuwstijdschriften.
+      Alleen 12 buitenaardse wezens lazen een paar tijdschriften.
+
+4764: [unknown], unknown,    open, 'Ter',298   XP: []
+      Alleen 12 buitenaardse wezens aten bij een paar restaurants.
+      Alleen 12 buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+
+4766: [unknown], unknown,    open, 'Ter',52    XP: []
+      Alleen 12 buitenaardse wezens gebruikten een paar kwartjes.
+      Alleen 12 buitenaardse wezens gebruikten een paar munten.
+
+4767: [unknown], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen las een paar tijdschriften.
+      Ieder buitenaards wezen las een paar nieuwstijdschriften.
+
+4768: [unknown], unknown,    open, 'Ter',354   XP: []
+      Ieder buitenaards wezen at bij een paar restaurants.
+      Ieder buitenaards wezen at bij een paar Mexicaanse restaurants.
+
+4769: [unknown], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen kocht wat kleding.
+      Ieder buitenaards wezen kocht een paar shirts.
+
+4770: [unknown], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen gebruikte een paar munten.
+      Ieder buitenaards wezen gebruikte een paar kwartjes.
+
+4775: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens lazen een paar tijdschriften.
+      Veel buitenaardse wezens lazen een paar nieuwstijdschriften.
+
+4776: [unknown], unknown,    open, 'Ter',21    XP: []
+      Veel buitenaardse wezens aten bij een paar restaurants.
+      Veel buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+
+4777: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens kochten wat kleding.
+      Veel buitenaardse wezens kochten wat shirts.
+
+4778: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens gebruikten een paar munten.
+      Veel buitenaardse wezens gebruikten een paar kwartjes.
+
+4783: [unknown], unknown,    open, 'Ter',44    XP: []
+      Het rode buitenaardse wezen las een paar tijdschriften.
+      Het rode buitenaardse wezen las een paar nieuwstijdschriften.
+
+4784: [unknown], unknown,    open, 'Ter',122   XP: []
+      Het rode buitenaardse wezen at bij een paar restaurants.
+      Het rode buitenaardse wezen at bij een paar Mexicaanse restaurants.
+
+4785: [unknown], unknown,    open, 'Ter',94    XP: []
+      Het rode buitenaardse wezen kocht wat kleren.
+      Het rode buitenaardse wezen kocht wat shirts.
+
+4786: [unknown], unknown,    open, 'Ter',44    XP: []
+      Het rode buitenaardse wezen gebruikte een paar munten.
+      Het rode buitenaardse wezen gebruikte een paar kwartjes.
+
+4791: [unknown], unknown,    open, 'Ter',139   XP: []
+      Geen buitenaards wezen stierf zonder wat frisdrank te drinken.
+      Geen buitenaards wezen stierf zonder cola te drinken.
+
+4792: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder een paar boeken te lezen.
+      Geen buitenaards wezen stierf zonder sci-fi romans te lezen.
+
+4793: [unknown], unknown,    open, 'Ter',78    XP: []
+      Geen buitenaards wezen stierf zonder met een paar speeltjes te spelen.
+      Geen buitenaards wezen stierf zonder met speelgoedauto’s te spelen.
+
+4794: [unknown], unknown,    open, 'Ter',81    XP: []
+      Geen buitenaards wezen stierf zonder een paar ballen te gooien.
+      Geen buitenaards wezen stierf zonder tennisballen te gooien.
+
+4807: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enig vlees te eten.
+      Geen buitenaards wezen stierf zonder varkensvlees te eten.
+
+4808: [unknown], unknown,    open, 'Ter',122   XP: []
+      Geen buitenaards wezen stierf zonder bij enige restaurants te eten.
+      Geen buitenaards wezen stierf zonder bij Mexicaanse restaurants te eten.
+
+4809: [unknown], unknown,    open, 'Ter',4     XP: []
+      Geen buitenaards wezen stierf zonder enige vogels te zien.
+      Geen buitenaards wezen stierf zonder duiven te zien.
+
+4810: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige munten te gebruiken.
+      Geen buitenaards wezen stierf zonder kwartjes te gebruiken.
+
+4823: [unknown], unknown,    open, 'Ter',81    XP: []
+      Geen buitenaards wezen stierf zonder tijdschriften te lezen.
+      Geen buitenaards wezen stierf zonder nieuwstijdschriften te lezen.
+
+4824: [unknown], unknown,    open, 'Ter',77    XP: []
+      Geen buitenaards wezen stierf zonder sportwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder honkbalwedstrijden te kijken.
+
+4825: [unknown], unknown,    open, 'Ter',150   XP: []
+      Geen buitenaards wezen stierf zonder kleren te kopen.
+      Geen buitenaards wezen stierf zonder shirts te kopen.
+
+4826: [unknown], unknown,    open, 'Ter',73    XP: []
+      Geen buitenaards wezen stierf zonder auto’s te rijden.
+      Geen buitenaards wezen stierf zonder suv’s te rijden.
+
+4839: [unknown], unknown,    open, 'Ter',81    XP: []
+      Geen buitenaards wezen stierf zonder een paar tijdschriften te lezen.
+      Geen buitenaards wezen stierf zonder nieuwstijdschriften te lezen.
+
+4840: [unknown], unknown,    open, 'Ter',361   XP: []
+      Geen buitenaards wezen stierf zonder bij een paar restaurants te eten.
+      Geen buitenaards wezen stierf zonder bij Mexicaanse restaurants te eten.
+
+4841: [unknown], unknown,    open, 'Ter',150   XP: []
+      Geen buitenaards wezen stierf zonder wat kleren te kopen.
+      Geen buitenaards wezen stierf zonder shirts te kopen.
+
+4842: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen stierf zonder een paar munten te gebruiken.
+      Geen buitenaards wezen stierf zonder kwartjes te gebruiken.
+
+4855: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige frisdrank te drinken.
+      Geen buitenaards wezen stierf zonder cola te drinken.
+
+4856: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige sportwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder honkbalwedstrijden te kijken.
+
+4857: [unknown], unknown,    open, 'Ter',38    XP: []
+      Geen buitenaards wezen stierf zonder met enige speeltjes te spelen.
+      Geen buitenaards wezen stierf zonder met speelgoedauto’s te spelen.
+
+4858: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder enige auto’s te rijden.
+      Geen buitenaards wezen stierf zonder suv’s te rijden.
+
+4871: [unknown], unknown,    open, 'Ter',77    XP: []
+      Geen buitenaards wezen stierf zonder vlees te eten.
+      Geen buitenaards wezen stierf zonder varkensvlees te eten.
+
+4872: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen buitenaards wezen stierf zonder boeken te lezen.
+      Geen buitenaards wezen stierf zonder sci-fi romans te lezen.
+
+4873: [unknown], unknown,    open, 'Ter',150   XP: []
+      Geen buitenaards wezen stierf zonder vogels te zien.
+      Geen buitenaards wezen stierf zonder duiven te zien.
+
+4874: [unknown], unknown,    open, 'Ter',81    XP: []
+      Geen buitenaards wezen stierf zonder ballen te gooien.
+      Geen buitenaards wezen stierf zonder tennisballen te gooien.
+
+4887: [unknown], unknown,    open, 'Ter',77    XP: []
+      Geen buitenaards wezen stierf zonder wat vlees te eten.
+      Geen buitenaards wezen stierf zonder varkensvlees te eten.
+
+4889: [unknown], unknown,    open, 'Ter',77    XP: []
+      Geen buitenaards wezen stierf zonder een paar sportwedstrijden te kijken.
+      Geen buitenaards wezen stierf zonder honkbalwedstrijden te kijken.
+
+4891: [unknown], unknown,    open, 'Ter',150   XP: []
+      Geen buitenaards wezen stierf zonder een paar vogels te zien.
+      Geen buitenaards wezen stierf zonder duiven te zien.
+
+4901: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het rode buitenaardse wezen at geen enkel varkensvlees.
+      Het rode buitenaardse wezen at geen vlees.
+
+4902: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het rode buitenaardse wezen keek geen enkele honkbalwedstrijd.
+      Het rode buitenaardse wezen keek geen sportwedstrijden.
+
+4903: [unknown], unknown,    open, 'Lim',414   XP: []
+      Het rode buitenaardse wezen zag geen enkele duif.
+      Het rode buitenaardse wezen zag geen vogels.
+
+4904: [unknown], unknown,    open, 'Ter',193   XP: []
+      Het rode buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+      Het rode buitenaardse wezen at niet bij restaurants.
+
+4905: [unknown], unknown,    open, 'Ter',112   XP: []
+      Het rode buitenaardse wezen speelde met geen enkele speelgoedauto.
+      Het rode buitenaardse wezen speelde niet met speeltjes.
+
+4906: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het rode buitenaardse wezen gebruikte geen enkel kwartje.
+      Het rode buitenaardse wezen gebruikte geen munten.
+
+4909: [unknown], unknown,    open, 'Lim',414   XP: []
+      Het rode buitenaardse wezen kocht geen enkele shirts.
+      Het rode buitenaardse wezen kocht geen kleren.
+
+4910: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen kocht enige shirts.
+      Geen buitenaards wezen kocht kleren.
+
+4912: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het rode buitenaardse wezen gooide geen enkele tennisbal.
+      Het rode buitenaardse wezen gooide geen ballen.
+
+4913: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen gooide enige tennisballen.
+      Geen buitenaards wezen gooide ballen.
+
+4914: [unknown], unknown,    open, 'Lim',414   XP: []
+      Het rode buitenaardse wezen dronk geen enkele cola.
+      Het rode buitenaardse wezen dronk geen frisdrank.
+
+4917: [unknown], unknown,    open, 'Lim',413   XP: []
+      Het rode buitenaardse wezen las geen enkel nieuwstijdschrift.
+      Het rode buitenaardse wezen las geen tijdschriften.
+
+4918: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen las enige nieuwstijdschriften.
+      Geen buitenaards wezen las tijdschriften.
+
+4919: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens kochtten wat kleren.
+      Precies 12 buitenaardse wezens kochtten shirts.
+
+4921: [unknown], unknown,    open, 'Ter',364   XP: []
+      Precies 12 buitenaardse wezens gooiden enige ballen.
+      Precies 12 buitenaardse wezens gooiden tennisballen.
+
+4922: [unknown], unknown,    open, 'Ter',354   XP: []
+      Precies 12 buitenaardse wezens gooiden enige tennisballen.
+      Precies 12 buitenaardse wezens gooiden ballen.
+
+4923: [unknown], unknown,    open, 'Ter',364   XP: []
+      Precies 12 buitenaardse wezens lazen enige tijdschriften.
+      Precies 12 buitenaardse wezens lazen nieuwstijdschriften.
+
+4924: [unknown], unknown,    open, 'Ter',354   XP: []
+      Precies 12 buitenaardse wezens lazen enige nieuwstijdschriften.
+      Precies 12 buitenaardse wezens lazen tijdschriften.
+
+4925: [unknown], unknown,    open, 'Ter',44    XP: []
+      Het rode buitenaardse wezen at wat vlees.
+      Het rode buitenaardse wezen at varkensvlees.
+
+4926: [unknown], unknown,    open, 'Ter',125   XP: []
+      Ieder buitenaards wezen at wat vlees.
+      Ieder buitenaards wezen at varkensvlees.
+
+4929: [unknown], unknown,    open, 'Ter',65    XP: []
+      Het rode buitenaardse wezen keek een paar sportwedstrijden.
+      Het rode buitenaardse wezen keek honkbalwedstrijden.
+
+4930: [unknown], unknown,    open, 'Ter',360   XP: []
+      Ieder buitenaards wezen keek een paar sportwedstrijden.
+      Ieder buitenaards wezen keek honkbalwedstrijden.
+
+4933: [unknown], unknown,    open, 'Ter',125   XP: []
+      Het rode buitenaardse wezen zag een paar vogels.
+      Het rode buitenaardse wezen zag duiven.
+
+4934: [unknown], unknown,    open, 'Ter',336   XP: []
+      Ieder buitenaards wezen zag een paar vogels.
+      Ieder buitenaards wezen zag duiven.
+
+4939: [unknown], unknown,    open, 'Ter',212   XP: []
+      Ieder buitenaards wezen gebruikte een paar munten.
+      Ieder buitenaards wezen gebruikte kwartjes,
+
+4945: [unknown], unknown,    open, 'Ter',361   XP: []
+      Geen buitenaards wezen stierf zonder bij restaurants te eten.
+      Geen buitenaards wezen stierf zonder bij Mexicaanse restaurants te eten.
+
+4947: [unknown], unknown,    open, 'Ter',78    XP: []
+      Geen buitenaards wezen stierf zonder met speeltjes te spelen.
+      Geen buitenaards wezen stierf zonder met speelgoedauto’s te spelen.
+
+4949: [unknown], unknown,    open, 'Ter',82    XP: []
+      Geen buitenaards wezen stierf zonder munten te gebruiken.
+      Geen buitenaards wezen stierf zonder kwartjes te gebruiken.
+
+4955: [unknown], unknown,    open, 'Ter',139   XP: []
+      Geen buitenaards wezen stierf zonder frisdrank te drinken.
+      Geen buitenaards wezen stierf zonder cola te drinken.
+
+4960: [unknown], unknown,    open, 'Ter',11    XP: []
+      Weinig buitenaardse wezens kochten enige shirts.
+      Weinig buitenaardse wezens kochten kleren.
+
+4962: [unknown], unknown,    open, 'Ter',9     XP: []
+      Weinig buitenaardse wezens gooiden enige tennisballen.
+      Weinig buitenaardse wezens gooiden ballen.
+
+4964: [unknown], unknown,    open, 'Ter',9     XP: []
+      Weinig buitenaardse wezens lazen enige nieuwstijdschriften.
+      Weinig buitenaardse wezens lazen tijdschriften.
+
+4965: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens aten wat vlees.
+      Precies 12 buitenaardse wezens aten varkensvlees.
+
+4966: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens aten wat varkensvlees.
+      Precies 12 buitenaardse wezens aten vlees.
+
+4967: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens bekeken een paar sportwedstrijden.
+      Precies 12 buitenaardse wezens bekeken honkbalwedstrijden.
+
+4968: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens bekeken een paar honkbalwedstrijden.
+      Precies 12 buitenaardse wezens bekeken sportwedstrijden.
+
+4969: [unknown], unknown,    open, 'Lim',418   XP: []
+      Precies 12 buitenaardse wezens zagen een paar vogels.
+      Precies 12 buitenaardse wezens zagen duiven.
+
+4971: [unknown], unknown,    open, 'Ter',9     XP: []
+      Veel buitenaardse wezens aten wat vlees.
+      Veel buitenaardse wezens aten varkensvlees.
+
+4973: [unknown], unknown,    open, 'Ter',16    XP: []
+      Veel buitenaardse wezens keken een paar sportwedstrijden.
+      Veel buitenaardse wezens keken honkbalwedstrijden.
+
+4975: [unknown], unknown,    open, 'Ter',19    XP: []
+      Veel buitenaardse wezens zagen een paar vogels.
+      Veel buitenaardse wezens zagen duiven.
+
+4983: [unknown], unknown,    open, 'Lim',414   XP: []
+      Alleen 12 buitenaardse wezens kochten enige kleren.
+      Alleen 12 buitenaardse wezens kochten shirts.
+
+4984: [unknown], unknown,    open, 'Lim',414   XP: []
+      Alleen 12 buitenaardse wezens kochten enige shirts.
+      Alleen 12 buitenaardse wezens kochten kleren.
+
+4985: [unknown], unknown,    open, 'Ter',364   XP: []
+      Alleen 12 buitenaardse wezens gooiden enige ballen.
+      Alleen 12 buitenaardse wezens gooiden tennisballen.
+
+4986: [unknown], unknown,    open, 'Ter',354   XP: []
+      Alleen 12 buitenaardse wezens gooiden enige tennisballen.
+      Alleen 12 buitenaardse wezens gooiden ballen.
+
+4987: [unknown], unknown,    open, 'Ter',364   XP: []
+      Alleen 12 buitenaardse wezens lazen enige tijdschriften.
+      Alleen 12 buitenaardse wezens lazen nieuwstijdschriften.
+
+4988: [unknown], unknown,    open, 'Ter',354   XP: []
+      Alleen 12 buitenaardse wezens lazen enige nieuwstijdschriften.
+      Alleen 12 buitenaardse wezens lazen tijdschriften.
+
+4991: [unknown], unknown,    open, 'Ter',6     XP: []
+      Iedere man rende.
+      Iedere man rende snel.
+
+4996: [unknown], unknown,    open, 'Ter',9     XP: []
+      Precies een man danste snel.
+      Precies een man rende.
+
+4997: [unknown], unknown,    open, 'Ter',9     XP: []
+      Precies een man rende.
+      Precies een man danste snel.
+
+4999: [unknown], unknown,    open, 'Ter',11    XP: []
+      Iedere lange man rende.
+      Iedere man rende.
+
+5002: [unknown], unknown,    open, 'Ter',142   XP: []
+      Precies een man rende.
+      Precies een lange man rende.
+
+5005: [unknown], unknown,    open, 'Lim',401   XP: []
+      Iedere kok die geen man is rende.
+      Iedere kok die geen lange man is rende.
+
+5016: [unknown], unknown,    open, 'Ter',9     XP: []
+      Iedere man zong.
+      Iedere man zong en danste.
+
+5017: [unknown], unknown,    open, 'Ter',9     XP: []
+      Iedere man danste.
+      Iedere man zong en danste.
+
+5019: [unknown], unknown,    open, 'Ter',8     XP: []
+      Iedere man zong of danste.
+      Iedere man danste.
+
+ERROR: Cannot align tokens in sentence id=4915
+term tokens=[[[geen],[roos],[.]]]
+anno tokens=[Ze,gad,hem,geen,roos,.]
+5023: [unknown], unknown,    open, 'Ter',10    XP: []
+      Precies een man zong of danste.
+      Precies een man danste.
+
+5024: [unknown], unknown,    open, 'Ter',9     XP: []
+      Precies een man zong.
+      Precies een man zong of danste.
+
+5025: [unknown], unknown,    open, 'Ter',9     XP: []
+      Precies een man danste.
+      Precies een man zong of danste.
+
+5027: [unknown], unknown,    open, 'Ter',42    XP: []
+      Iedere lange man uit Japan rende snel.
+      Iedere lange man rende.
+
+5028: [unknown], unknown,    open, 'Ter',104   XP: []
+      Iedere lange man uit Japan die de blues zingt rende snel.
+      Iedere lange man rende.
+
+5030: [unknown], unknown,    open, 'Ter',22    XP: []
+      Ze gaf hem een bloem.
+      Ze gaf hem een roos.
+
+5032: [unknown], unknown,    open, 'Ter',18    XP: []
+      Ze raakte hem aan.
+      Ze kuste hem.
+
+5034: [unknown], unknown,    open, 'Ter',31    XP: []
+      Ze heeft een Europese auto.
+      Ze heeft een Duitse auto.
+
+5036: [unknown], unknown,    open, 'Ter',16    XP: []
+      Nina heeft een hond.
+      Nina heeft een bulldog.
+
+5038: [unknown], unknown,    open, 'Ter',18    XP: []
+      Aldo raakte Nina aan.
+      Aldo kuste Nina.
+
+5040: [unknown], unknown,    open, 'Ter',18    XP: []
+      Een hond viel Nina aan.
+      Een bulldog viel Nina aan.
+
+5041: [unknown], unknown,      NA, 'Defected'  XP: []
+      Ze gad hem geen roos.
+      Ze gaf hem geen bloem.
+
+5043: [unknown], unknown,    open, 'Ter',21    XP: []
+      Ze kuste hem nooit.
+      Ze raakte hem nooit aan.
+
+5045: [unknown], unknown,    open, 'Lim',400   XP: []
+      Niemand hier heeft een Duitse auto.
+      Niemand hier heeft een Europese auto.
+
+5047: [unknown], unknown,    open, 'Ter',8     XP: []
+      Iedere zebra is gestreept.
+      Ieder zoogdier is gestreept.
+
+5049: [unknown], unknown,    open, 'Ter',38    XP: []
+      Voordat zij hem kuste, poetste zij haar tanden.
+      Voordat zij hem aanraakte, poetste zij haar tanden.
+
+5052: [unknown], unknown,    open, 'Ter',31    XP: []
+      Hij houdt van een persoon.
+      Hij houdt van een vrouw.
+
+5054: [unknown], unknown,    open, 'Ter',16    XP: []
+      Hij kocht steen.
+      Hij kocht marmer.
+
+5056: [unknown], unknown,    open, 'Ter',58    XP: []
+      Hij kent een stad in Europa.
+      Hij kent een stad in spanje.
+
+5058: [unknown], unknown,    open, 'Ter',17    XP: []
+      Hij kuste geen vrouw.
+      Hij raakte geen vrouw aan.
+
+5064: [unknown], unknown,    open, 'Ter',18    XP: []
+      Hij had nooit een gebrek aan geld.
+      Hij had nooit een gebrek aan briefgeld.
+
+5067: [unknown], unknown,    open, 'Ter',6     XP: []
+      Pete gelooft dat hij een spin is.
+      Pete gelooft dat hij een zwarte weduwe is.
+
+5068: [unknown], unknown,    open, 'Ter',6     XP: []
+      Pete gelooft dat hij een zwarte weduwe is.
+      Pete gelooft dat hij een spin is.
+
+5069: [unknown], unknown,    open, 'Ter',6     XP: []
+      Pete gelooft dat hij een spin is.
+      Pete gelooft dat hij een spinachtige is.
+
+5070: [unknown], unknown,    open, 'Ter',6     XP: []
+      Pete gelooft dat hij een spinachtige is.
+      Pete gelooft dat hij een spin is.
+
+5071: [unknown], unknown,    open, 'Lim',422   XP: []
+      Precies vijf studenten brachten noten mee.
+      Precies vijf studenten brachten hazelnoten mee.
+
+5072: [unknown], unknown,    open, 'Lim',422   XP: []
+      Precies vijf studenten brachten hazelnoten mee.
+      Precies vijf studenten brachten noten mee.
+
+5073: [unknown], unknown,    open, 'Ter',105   XP: []
+      Precies vijf studenten brachten noten mee.
+      Precies vijf studenten brachten eten mee.
+
+5074: [unknown], unknown,    open, 'Ter',63    XP: []
+      Precies vijf studenten brachten eten mee.
+      Precies vijf studenten brachten noten mee.
+
+5076: [unknown], unknown,    open, 'Ter',1     XP: []
+      Niemand danste.
+      Niemand bewoog.
+
+5078: [unknown], unknown,    open, 'Ter',10    XP: []
+      We kusten nooit.
+      We dansten nooit.
+
+5080: [unknown], unknown,    open, 'Ter',2     XP: []
+      Alle hegelianen zijn sterfelijk.
+      Alle filosofen zijn sterfelijk.
+
+5082: [unknown], unknown,    open, 'Ter',30    XP: []
+      Betty woont in Duitsland.
+      Betty woont in Berlijn.
+
+5084: [unknown], unknown,    open, 'Ter',32    XP: []
+      Betty woont niet in Berlijn.
+      Betty woont niet in Duitsland.
+
+5086: [unknown], unknown,    open, 'Ter',10    XP: []
+      Het is niet waar dat Betty in Berlijn woont.
+      Het is niet waar dat Betty in Duitsland woont.
+
+5088: [unknown], unknown,    open, 'Ter',10    XP: []
+      Het is niet waar dat Betty niet in Duitsland woont.
+      Het is niet waar dat Betty niet in Berlijn woont.
+
+5090: [unknown], unknown,    open, 'Ter',3     XP: []
+      Alle stippen zijn rood.
+      Alle stippen zijn scharlaken.
+
+5092: [unknown], unknown,    open, 'Ter',10    XP: []
+      De meeste stippen zijn rood.
+      De meeste stippen zijn scharlaken.
+
+5094: [unknown], unknown,    open, 'Ter',7     XP: []
+      Een paar stippen zijn rood.
+      Een paar stippen zijn scharlaken.
+
+5098: [unknown], unknown,    open, 'Ter',3     XP: []
+      Geen stippen zijn scharlaken.
+      Geen stippen zijn rood.
+
+5101: [unknown], unknown,    open, 'Ter',13    XP: []
+      Precies vijf stippen zijn rood.
+      Precies vijf stippen zijn scharlaken.
+
+5102: [unknown], unknown,    open, 'Ter',13    XP: []
+      Precies vijf stippen zijn scharlaken.
+      Precies vijf stippen zijn rood.
+
+5104: [unknown], unknown,    open, 'Ter',279   XP: []
+      Meer dan de helft van de tenoren zijn ziek.
+      Meer dan de helft van de tenoren hebben de griep.
+
+5106: [unknown], unknown,    open, 'Ter',3     XP: []
+      Alle tenoren zijn ziek.
+      Alle tenoren hebben de griep.
+
+5112: [unknown], unknown,    open, 'Ter',10    XP: []
+      Freds stropdas is blauw.
+      Freds stropdas is marineblauw.
+
+5114: [unknown], unknown,    open, 'Ter',3     XP: []
+      Alle dikhuiden zijn blauw.
+      Alle dikhuiden zijn marineblauw.
+
+5116: [unknown], unknown,    open, 'Ter',2     XP: []
+      Alle olifanten zijn marineblauw.
+      Alle dikhuiden zijn marineblauw.
+
+5117: [unknown], unknown,    open, 'Ter',62    XP: []
+      Precies drie dikhuiden zijn blauw.
+      Precies drie olifanten zijn blauw.
+
+5118: [unknown], unknown,    open, 'Ter',62    XP: []
+      Precies drie olifanten zijn blauw.
+      Precies drie dikhuiden zijn blauw.
+
+5120: [unknown], unknown,    open, 'Ter',2     XP: []
+      Alle olifanten zijn roze.
+      Alle dikhuiden zijn roze.
+
+5122: [unknown], unknown,    open, 'Ter',9     XP: []
+      Een paar dikhuiden zijn roze.
+      Een paar olifanten zijn roze.
+
+5124: [unknown], unknown,    open, 'Ter',9     XP: []
+      Een paar dikhuiden zijn niet roze.
+      Een paar olifanten zijn niet roze.
+
+5126: [unknown], unknown,    open, 'Ter',5     XP: []
+      Geen olifanten zijn roze.
+      Geen dikhuiden zijn roze.
+
+5132: [unknown], unknown,    open, 'Ter',3     XP: []
+      Alle olifanten zijn blauw.
+      Alle olifanten zijn marineblauw.
+
+5134: [unknown], unknown,    open, 'Ter',7     XP: []
+      Een paar olifanten zijn blauw.
+      Een paar olifanten zijn marineblauw.
+
+5136: [unknown], unknown,    open, 'Ter',7     XP: []
+      Een paar olifanten zijn niet marineblauw.
+      Een paar olifanten zijn niet blauw.
+
+5138: [unknown], unknown,    open, 'Ter',3     XP: []
+      Geen olifanten zijn marineblauw.
+      Geen olifanten zijn blauw.
+
+5147: [unknown], unknown,    open, 'Ter',18    XP: []
+      Mary is verdrietig of moe.
+      Mary is moe.
+
+5148: [unknown], unknown,    open, 'Ter',33    XP: []
+      Mary is verdrietig of moe.
+      Mary is erg verdrietig of erg moe.
+
+5197: [unknown], unknown,    open, 'Ter',150   XP: []
+      Bijna iedere kampeerder heeft weleens een zonnebrand gehad of kou gevat.
+      Bijna iedere kampeerder heeft kou gevat.
+
+5198: [unknown], unknown,    open, 'Ter',143   XP: []
+      Bijna iedere kampeerder heeft een zonnebrand gehad of kou gevat.
+      Bijna iedere kampeerder heeft kou gevat.
+
+5199: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna ieder kind koos enige mint chocolaatjes of ging voor de suikerspin.
+      Bijna ieder kind ging voor de suikerspin.
+
+5200: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna ieder kind koos mint chocolaatjes of ging voor de suikerspin.
+      Bijna ieder kind ging voor de suikerspin.
+
+5201: [unknown], unknown,    open, 'Ter',91    XP: []
+      Bijna iedereen heeft weleens een zonnebrand gehad of kou gevat.
+      Bijna iedereen heeft kou gevat.
+
+5202: [unknown], unknown,    open, 'Ter',84    XP: []
+      Bijna iedereen heeft een zonnebrand gehad of kou gevat.
+      Bijna iedereen heeft kou gevat.
+
+5203: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna iedereen koos enige mint chocolaatjes of ging voor de suikerspin.
+      Bijna iedereen ging voor de suikerspin.
+
+5204: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna iedereen koos mint chocolaatjes of ging voor de suikerspin.
+      Bijna iedereen ging voor de suikerspin.
+
+5221: [unknown], unknown,    open, 'Ter',28    XP: []
+      Veel kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Veel kampeerders hebben kou gevat.
+
+5222: [unknown], unknown,    open, 'Ter',21    XP: []
+      Veel kampeerders hebben een zonnebrand gehad of kou gevat.
+      Veel kampeerders hebben kou gevat.
+
+5223: [unknown], unknown,    open, 'Ter',8     XP: []
+      Veel kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Veel kinderen gingen voor de suikerspin.
+
+5224: [unknown], unknown,    open, 'Ter',16    XP: []
+      Veel kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Veel kinderen gingen voor de suikerspin.
+
+5225: [unknown], unknown,    open, 'Ter',54    XP: []
+      Veel van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Veel van de kampeerders hebben kou gevat.
+
+5226: [unknown], unknown,    open, 'Ter',47    XP: []
+      Veel van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Veel van de kampeerders hebben kou gevat.
+
+5227: [unknown], unknown,    open, 'Ter',17    XP: []
+      Veel van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Veel van de kinderen gingen voor de suikerspin.
+
+5228: [unknown], unknown,    open, 'Ter',26    XP: []
+      Veel van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Veel van de kinderen gingen voor de suikerspin.
+
+5237: [unknown], unknown,    open, 'Lim',408   XP: []
+      Alleen vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Alleen vijf kampeerders hebben kou gevat.
+
+5238: [unknown], unknown,    open, 'Lim',408   XP: []
+      Alleen vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+      Alleen vijf kampeerders hebben kou gevat.
+
+5239: [unknown], unknown,    open, 'Ter',65    XP: []
+      Alleen vijf kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Alleen vijf kinderen gingen voor de suikerspin.
+
+5240: [unknown], unknown,    open, 'Lim',433   XP: []
+      Alleen vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+      Alleen vijf kinderen gingen voor de suikerspin.
+
+5245: [unknown], unknown,    open, 'Ter',155   XP: []
+      Bijna geen kampeerders hebben kou gevat.
+      Bijna geen kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+
+5246: [unknown], unknown,    open, 'Ter',154   XP: []
+      Bijna geen kampeerders hebben kou gevat.
+      Bijna geen kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5247: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna geen kinderen gingen voor de suikerspin.
+      Bijna geen kinderen kozen enige mint chocolaatjes of ging voor de suikerspin.
+
+5248: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna geen kinderen gingen voor de suikerspin.
+      Bijna geen kinderen kozen mint chocolaatjes of ging voor de suikerspin.
+
+5249: [unknown], unknown,    open, 'Ter',100   XP: []
+      Bijna niemand heeft kou gevat.
+      Bijna niemand heeft weleens een zonnebrand gehad of kou gevat.
+
+5250: [unknown], unknown,    open, 'Ter',93    XP: []
+      Bijna niemand heeft kou gevat.
+      Bijna niemand heeft een zonnebrand gehad of kou gevat.
+
+5251: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna niemand ging voor de suikerspin.
+      Bijna niemand koos enige mint chocolaatjes of ging voor de suikerspin.
+
+5252: [unknown], unknown,      NA, 'Defected'  XP: []
+      Bijna niemand ging voor de suikerspin.
+      Bijna niemand koos mint chocolaatjes of ging voor de suikerspin.
+
+5257: [unknown], unknown,    open, 'Ter',315   XP: []
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+      Niet meer dan de helft van de kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+
+5258: [unknown], unknown,    open, 'Ter',314   XP: []
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+      Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5259: [unknown], unknown,      NA, 'Defected'  XP: []
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
+
+5260: [unknown], unknown,    open, 'Lim',412   XP: []
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
+
+5265: [unknown], unknown,      NA, 'Defected'  XP: []
+      Minder dan vijf van de kampeerders hebben kou gevat.
+      Minder dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+5266: [unknown], unknown,      NA, 'Defected'  XP: []
+      Minder dan vijf van de kampeerders hebben kou gevat.
+      Minder dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5269: [unknown], unknown,    open, 'Ter',35    XP: []
+      Niet veel kampeerders hebben kou gevat.
+      Niet veel kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+5270: [unknown], unknown,    open, 'Ter',34    XP: []
+      Niet veel kampeerders hebben kou gevat.
+      Niet veel kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5271: [unknown], unknown,    open, 'Ter',47    XP: []
+      Niet veel kinderen gingen voor de suikerspin.
+      Niet veel kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+5272: [unknown], unknown,    open, 'Ter',70    XP: []
+      Niet veel kinderen gingen voor de suikerspin.
+      Niet veel kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+5273: [unknown], unknown,    open, 'Ter',45    XP: []
+      Niet veel van de kampeerders hebben kou gevat.
+      Niet veel van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+5274: [unknown], unknown,    open, 'Ter',44    XP: []
+      Niet veel van de kampeerders hebben kou gevat.
+      Niet veel van de kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5275: [unknown], unknown,    open, 'Ter',21    XP: []
+      Niet veel van de kinderen gingen voor de suikerspin.
+      Niet veel van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+5276: [unknown], unknown,    open, 'Ter',26    XP: []
+      Niet veel van de kinderen gingen voor de suikerspin.
+      Niet veel van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+5285: [unknown], unknown,    open, 'Ter',35    XP: []
+      Erg weinig kampeerders hebben kou gevat.
+      Erg weinig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+5286: [unknown], unknown,    open, 'Ter',34    XP: []
+      Erg weinig kampeerders hebben kou gevat.
+      Erg weinig kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5287: [unknown], unknown,    open, 'Ter',47    XP: []
+      Erg weinig kinderen gingen voor de suikerspin.
+      Erg weinig kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+5288: [unknown], unknown,    open, 'Ter',70    XP: []
+      Erg weinig kinderen gingen voor de suikerspin.
+      Erg weinig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+5289: [unknown], unknown,    open, 'Ter',45    XP: []
+      Erg weinig van de kampeerders hebben kou gevat.
+      Erg weinig van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+5290: [unknown], unknown,    open, 'Ter',44    XP: []
+      Erg weinig van de kampeerders hebben kou gevat.
+      Erg weinig van de kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5291: [unknown], unknown,    open, 'Ter',21    XP: []
+      Erg weinig van de kinderen gingen voor de suikerspin.
+      Erg weinig van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+5292: [unknown], unknown,    open, 'Ter',26    XP: []
+      Erg weinig van de kinderen gingen voor de suikerspin.
+      Erg weinig van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+5333: [unknown], unknown,    open, 'Ter',155   XP: []
+      Alleen vijf kampeerders hebben kou gevat.
+      Alleen vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+5334: [unknown], unknown,    open, 'Ter',154   XP: []
+      Alleen vijf kampeerders hebben kou gevat.
+      Alleen vijf kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5335: [unknown], unknown,    open, 'Ter',76    XP: []
+      Alleen vijf kinderen gingen voor de suikerspin.
+      Alleen vijf kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+
+5336: [unknown], unknown,    open, 'Ter',105   XP: []
+      Alleen vijf kinderen gingen voor de suikerspin.
+      Alleen vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
+
+5348: [unknown], unknown,    open, 'Ter',31    XP: []
+      John is een geweldige student.
+      John is een lange student.
+
+5349: [unknown], unknown,    open, 'Ter',17    XP: []
+      John is lang.
+      John is heel lang.
+
+5350: [unknown], unknown,    open, 'Ter',27    XP: []
+      John is een geweldige student.
+      John is een hele lange student.
+
+5351: [unknown], unknown,    open, 'Ter',361   XP: []
+      Iedere student kuste iedere lange leraar.
+      Iedere student kuste iedere leraar.
+
+5352: [unknown], unknown,    open, 'Lim',401   XP: []
+      Iedere student die iedere leraar kuste lachte.
+      Iedere student die iedere lange leraar kuste lachte.
+
+5353: [unknown], unknown,    open, 'Ter',9     XP: []
+      Geen lange leraar rende gisteren.
+      Geen leraar rende.
+
+5354: [unknown], unknown,    open, 'Ter',9     XP: []
+      Iedere lange leraar rende.
+      Iedere leraar rende gisteren.
+
+5358: [unknown], unknown,    open, 'Ter',36    XP: []
+      John zag geen lange student.
+      John zag geen student.
+
+5359: [unknown], unknown,    open, 'Ter',22    XP: []
+      Iedere student die Mary kuste lachte.
+      Iedere student die Mary aanraakte lachte.
+
+5362: [unknown], unknown,      NA, 'Defected'  XP: []
+      John loopt en Mary niet.
+      Mary beweegt niet.
+
+5363: [unknown], unknown,      NA, 'Defected'  XP: []
+      John beweegt en Mary niet.
+      John loopt.
+
+5376: [unknown], unknown,    open, 'Ter',21    XP: []
+      Iedere taalkundige betrad de race.
+      Iedere taalkundige betrad de race vroeg.
+
+5377: [unknown], unknown,    open, 'Ter',22    XP: []
+      John betrad de race.
+      John betrad de race vroeg.
+
+5378: [unknown], unknown,    open, 'Ter',39    XP: []
+      De meeste pindaboeren betraden de race.
+      De meeste pindaboeren betraden de race vroeg.
+
+5379: [unknown], unknown,    open, 'Ter',4     XP: []
+      Veel mannen betraden de race.
+      Veel boeren betraden de race vroeg.
+
+5380: [unknown], unknown,    open, 'Ter',12    XP: []
+      Veel mannen betraden de race vroeg.
+      Geen loodgieter betrad de race.
+
+5382: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen van beide democraten betrad te race vroeg.
+      Geen van beide democraten betrad te race.
+

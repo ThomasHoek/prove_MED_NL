@@ -1,0 +1,1005 @@
+8:     [yes], unknown,    open, 'Lim',436   XP: []
+      At least three commissioners spend a lot of time at home .
+      At least three commissioners spend time at home .
+
+16:     [yes], unknown,    open, 'Ter',70    XP: []
+      At most ten commissioners spend time at home .
+      At most ten commissioners spend a lot of time at home .
+  
+41:     [yes], unknown,    open, 'Ter',57    XP: []
+      Both Alan and Bob took their vacations in California .
+      Alan took his vacation in California .
+
+37:     [yes], unknown,    open, 'Ter',67    XP: []
+      At most ten commissioners spend time at home .
+      At most ten female commissioners spend time at home .
+  
+4210:     [yes], unknown,    open, 'Ter',50    XP: []
+      Few aliens used any coins .
+      Few aliens used quarters .
+  
+Inconsistency in node types (entail/8)
+52:     [yes], unknown,      NA, 'Defected'  XP: _898
+      We consider all words as positive examples and sample negatives at random from the dictionary .
+      We consider all context words as positive examples and sample negatives at random from the dictionary .
+  
+4209:     [yes], unknown,    open, 'Ter',50    XP: []
+      Few aliens saw any birds .
+      Few aliens saw doves .
+  
+97:     [yes], unknown,    open, 'Ter',0     XP: []
+      Understanding a long document requires tracking how entities are introduced and evolve over time .
+      Understanding a long document requires understanding how entities are introduced .
+
+42:     [yes], unknown,    open, 'Ter',7     XP: []
+      Socrates is rational .
+      Someone is rational .
+
+46:     [yes], unknown,    open, 'Lim',800   XP: []
+      Cruz has frequently derided as amnesty various bills that confer legal status or citizenship on people living in the country illegally .
+      Cruz has frequently derided as amnesty various plans that confer legal status or citizenship on people living in the country illegally .
+
+47:     [yes], unknown,    open, 'Ter',44    XP: []
+      In many developed areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+      In many areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+
+55:     [yes], unknown,    open, 'Lim',533   XP: []
+      Cruz has frequently derided as amnesty any plan that confers legal status or citizenship on people living in the country illegally .
+      Cruz has frequently derided as amnesty any bill that confers legal status or citizenship on people living in the country illegally .
+
+60:     [yes], unknown,    open, 'Lim',468   XP: []
+      The latest incident , reported Monday morning , killed a 17-year-old boy and wounded a woman .
+      The latest fatal incident , reported Monday morning , killed a 17-year-old boy and wounded a woman .
+   
+80:     [yes], unknown,      NA, 'Defected'  XP: []
+      Just watched the first quarter hour , got bored , skipped to the magic bit , it 's funnier as a gif .
+      Just watched the first 15 minutes , got bored , skipped to the magic bit , it 's funnier as a gif .
+
+Inconsistency in node types (entail/8)
+62:     [yes], unknown,      NA, 'Defected'  XP: _4392
+      No bills made it to abbott ’ s desk by the end of the legislative session in may .
+      No bathroom bill made it to abbott ’ s desk by the end of the legislative session in may .
+  
+82:     [yes], unknown,    open, 'Ter',4     XP: []
+      Weird that you want to show this video to a stack of papers .
+      Weird that you want to show something to a stack of papers .
+
+67:     [yes], unknown,    open, 'Lim',409   XP: []
+      The crown prince 's mother would n't be the first saudi royal whose movements were restricted since June 2017 .
+      The crown prince 's mother would n't be the first royal whose movements were restricted since June 2017 .
+
+74:     [yes], unknown,    open, 'Ter',111   XP: []
+      You know that some life-changing actions must be taken when grandma reacts with emoji .
+      You know that some life changing actions must be taken when grandma reacts with the sad emoji .
+
+76:     [yes], unknown,    open, 'Lim',444   XP: []
+      I have never seen a hummingbird .
+      I have never seen a hummingbird not flying .
+
+78:     [yes], unknown,    open, 'Lim',447   XP: []
+      I have never seen a bird not flying .
+      I have never seen a hummingbird not flying .
+  
+Inconsistency in node types (entail/8)
+4299:     [yes], unknown,      NA, 'Defected'  XP: _214090
+      The yellow alien read news magazines .
+      The yellow alien read magazines .
+
+79:     [yes], unknown,      NA, 'Defected'  XP: []
+      Just watched the first 15 minutes , got bored , skipped to the magic bit , it 's funnier as a gif .
+      Just watched the first quarter hour , got bored , skipped to the magic bit , it 's funnier as a gif .
+
+84:     [yes], unknown,    open, 'Lim',455   XP: []
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest child of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest son of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+
+88:     [yes], unknown,    open, 'Lim',407   XP: []
+      There are four scales above the eyes in almost all specimens and five supraciliary scales ( immediately above the eyes , below the supraoculars ) .
+      There are four supraocular scales ( above the eyes ) in almost all specimens and five supraciliary scales ( immediately above the eyes , below the supraoculars ) .
+
+93:     [yes], unknown,    open, 'Lim',449   XP: []
+      In grounded communication tasks , speakers face pressures in choosing referential expressions that distinguish their targets from others in the context , leading to many kinds of pragmatic meaning enrichment .
+      In grounded communication tasks , speakers face pressures in choosing referential expressions that distinguish their targets from others in the context , leading to many kinds of meaning enrichment .
+
+94:     [yes], unknown,    open, 'Lim',449   XP: []
+      In grounded communication tasks , speakers face pressures in choosing referential expressions that distinguish their targets from others in the context , leading to many kinds of meaning enrichment .
+      In grounded communication tasks , speakers face pressures in choosing referential expressions that distinguish their targets from others in the context , leading to many kinds of pragmatic meaning enrichment .
+
+Inconsistency in node types (entail/8)
+108:     [yes], unknown,      NA, 'Defected'  XP: _260514
+      I do n't want to have to keep entertaining people .
+      I do n't want to have to keep entertaining people who do n't value my time .
+
+113:     [yes], unknown,    open, 'Ter',69    XP: []
+      The leading car gradually shifted to the left lane .
+      The leading car shifted to the left lane .
+
+116:     [yes], unknown,    open, 'Ter',74    XP: []
+      The timing of the meeting has not been considered , according to a starbucks spokesperson .
+      The timing of the meeting has not been set , according to a starbucks spokesperson .
+
+119:     [yes], unknown,    open, 'Ter',20    XP: []
+      There are some amazing hikes around Mt . Fuji .
+      There are some amazing hikes in Japan .
+
+126:     [yes], unknown,    open, 'Ter',138   XP: []
+      A sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+      An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+
+4207:     [yes], unknown,    open, 'Ter',27    XP: []
+      Few aliens ate any meat .
+      Few aliens ate pork .
+
+4208:     [yes], unknown,    open, 'Ter',170   XP: []
+      Few aliens ate at any restaurants .
+      Few aliens ate at Mexican restaurants .
+
+4215:     [yes], unknown,    open, 'Ter',27    XP: []
+      The red alien did not eat any meat .
+      The red alien did not eat pork .
+
+4216:     [yes], unknown,    open, 'Ter',60    XP: []
+      The red alien did not eat at any restaurants .
+      The red alien did not eat at Mexican restaurants .
+
+4217:     [yes], unknown,    open, 'Ter',56    XP: []
+      The red alien did not see any birds .
+      The red alien did not see doves .
+
+4218:     [yes], unknown,    open, 'Ter',56    XP: []
+      The red alien did not use any coins .
+      The red alien did not use quarters .
+
+4223:     [yes], unknown,    open, 'Lim',402   XP: []
+      No alien ate any meat .
+      No alien ate pork .
+
+4224:     [yes], unknown,    open, 'Ter',21    XP: []
+      No alien ate at any restaurants .
+      No alien ate at Mexican restaurants .
+
+4225:     [yes], unknown,    open, 'Ter',93    XP: []
+      No alien saw any birds .
+      No alien saw doves .
+
+4226:     [yes], unknown,    open, 'Ter',93    XP: []
+      No alien used any coins .
+      No alien used quarters .
+
+4245:     [yes], unknown,    open, 'Ter',19    XP: []
+      Every alien bought shirts .
+      Every alien bought clothes .
+
+4246:     [yes], unknown,    open, 'Ter',19    XP: []
+      Every alien drove suvs .
+      Every alien drove cars .
+
+4256:     [yes], unknown,    open, 'Ter',54    XP: []
+      Few aliens watched sports matches .
+      Few aliens watched baseball matches .
+
+4257:     [yes], unknown,    open, 'Ter',91    XP: []
+      Few aliens bought clothes .
+      Few aliens bought shirts .
+
+4258:     [yes], unknown,    open, 'Ter',91    XP: []
+      Few aliens drove cars .
+      Few aliens drove suvs .
+
+4270:     [yes], unknown,    open, 'Ter',28    XP: []
+      Many aliens drove suvs .
+      Many aliens drove cars .
+  
+4269:     [yes], unknown,    open, 'Ter',28    XP: []
+      Many aliens bought shirts .
+      Many aliens bought clothes .
+
+4273:     [yes], unknown,    open, 'Ter',107   XP: []
+      The purple alien did not buy clothes .
+      The purple alien did not buy shirts .
+
+4274:     [yes], unknown,    open, 'Ter',107   XP: []
+      The purple alien did not drive cars .
+      The purple alien did not drive suvs .
+
+4281:     [yes], unknown,    open, 'Ter',219   XP: []
+      No alien bought clothes .
+      No alien bought shirts .
+
+4282:     [yes], unknown,    open, 'Ter',219   XP: []
+      No alien drove cars .
+      No alien drove suvs .
+
+4300:     [yes], unknown,    open, 'Ter',27    XP: []
+      The yellow alien watched baseball matches .
+      The yellow alien watched sports matches .
+
+4301:     [yes], unknown,    open, 'Ter',63    XP: []
+      The yellow alien bought shirts .
+      The yellow alien bought clothes .
+
+4302:     [yes], unknown,    open, 'Ter',63    XP: []
+      The yellow alien drove suvs .
+      The yellow alien drove cars .
+
+Inconsistency in node types (entail/8)
+4307:     [yes], unknown,      NA, 'Defected'  XP: _154746
+      Every alien drank some coke .
+      Every alien drank soda .
+
+4323:     [yes], unknown,    open, 'Ter',25    XP: []
+      Many aliens drank some coke .
+      Many aliens drank soda .
+
+4339:     [yes], unknown,    open, 'Ter',229   XP: []
+      The blue alien drank some coke .
+      The blue alien drank soda .
+
+Inconsistency in node types (entail/8)
+4340:     [yes], unknown,      NA, 'Defected'  XP: _316430
+      The blue alien read some sci-fi novels .
+      The blue alien read books .
+
+4343:     [yes], unknown,    open, 'Ter',27    XP: []
+      Few aliens drank any soda .
+      Few aliens drank coke .
+
+4344:     [yes], unknown,    open, 'Ter',10    XP: []
+      Few aliens watched any sports matches .
+      Few aliens watched baseball matches .
+
+4345:     [yes], unknown,    open, 'Ter',170   XP: []
+      Few aliens played with any toys .
+      Few aliens played with toy cars .
+
+4346:     [yes], unknown,    open, 'Ter',43    XP: []
+      Few aliens drove any cars .
+      Few aliens drove suvs .
+
+4351:     [yes], unknown,    open, 'Ter',27    XP: []
+      The red alien did not drink any soda .
+      The red alien did not drink coke .
+
+4352:     [yes], unknown,    open, 'Ter',16    XP: []
+      The red alien did not watch any sports matches .
+      The red alien did not watch baseball matches .
+
+4353:     [yes], unknown,    open, 'Ter',62    XP: []
+      The red alien did not play with any toys .
+      The red alien did not play with toy cars .
+
+4354:     [yes], unknown,    open, 'Ter',51    XP: []
+      The red alien did not drive any cars .
+      The red alien did not drive suvs .
+
+4359:     [yes], unknown,    open, 'Lim',401   XP: []
+      No alien drank any soda .
+      No alien drank coke .
+
+4360:     [yes], unknown,    open, 'Ter',134   XP: []
+      No alien watched any sports matches .
+      No alien watched baseball matches .
+  
+Inconsistency in node types (entail/8)
+4486:     [yes], unknown,      NA, 'Defected'  XP: _26424
+      The blue alien used some quarters .
+      The blue alien used coins .
+
+4361:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien played with any toys .
+      No alien played with toy cars .
+
+4362:     [yes], unknown,    open, 'Ter',80    XP: []
+      No alien drove any cars .
+      No alien drove suvs .
+
+4443:     [yes], unknown,    open, 'Ter',107   XP: []
+      Every alien ate pork .
+      Every alien ate meat .
+
+4469:     [yes], unknown,    open, 'Ter',75    XP: []
+      Every alien bought some shirts .
+      Every alien bought clothes .
+
+4477:     [yes], unknown,    open, 'Ter',54    XP: []
+      Many aliens bought some shirts .
+      Many aliens bought clothes .
+
+Inconsistency in node types (entail/8)
+4483:     [yes], unknown,      NA, 'Defected'  XP: _475984
+      The blue alien read some news magazines .
+      The blue alien read magazines .
+
+4485:     [yes], unknown,    open, 'Ter',45    XP: []
+      The blue alien bought some shirts .
+      The blue alien bought clothes .
+
+4489:     [yes], unknown,    open, 'Ter',21    XP: []
+      Few aliens bought any clothes .
+      Few aliens bought any shirts .
+
+4497:     [yes], unknown,    open, 'Ter',20    XP: []
+      The red alien did not buy any clothes .
+      The red alien did not buy any shirts .
+  
+90:     [yes], unknown,    open, 'Lim',406   XP: []
+      Regional governors could not rely on anyone for help in times of crisis , and the ensuing food shortages and political disputes escalated into famines and small-scale civil wars .
+      Regional governors could not rely on the king for help in times of crisis , and the ensuing food shortages and political disputes escalated into famines and small-scale civil wars .
+
+4498:     [yes], unknown,    open, 'Ter',57    XP: []
+      The red alien did not throw any balls .
+      The red alien did not throw tennis balls .
+
+4505:     [yes], unknown,    open, 'Ter',26    XP: []
+      No alien bought any clothes .
+      No alien bought any shirts .
+
+4511:     [yes], unknown,    open, 'Ter',43    XP: []
+      Few aliens drank soda .
+      Few aliens drank coke .
+
+4519:     [yes], unknown,    open, 'Ter',30    XP: []
+      The purple alien did not drink soda .
+      The purple alien did not drink coke .
+
+4527:     [yes], unknown,    open, 'Ter',51    XP: []
+      No alien drank soda .
+      No alien drank coke .
+
+4528:     [yes], unknown,    open, 'Lim',687   XP: []
+      No alien ate at restaurants .
+      No alien ate at Mexican restaurants .
+
+4587:     [yes], unknown,    open, 'Ter',51    XP: []
+      Every alien drank coke .
+      Every alien drank soda .
+
+Inconsistency in node types (entail/8)
+4590:     [yes], unknown,      NA, 'Defected'  XP: _417976
+      Every alien used quarters .
+      Every alien used coins .
+
+4595:     [yes], unknown,    open, 'Ter',25    XP: []
+      Many aliens drank coke .
+      Many aliens drank soda .
+
+4603:     [yes], unknown,    open, 'Ter',108   XP: []
+      The yellow alien drank coke .
+      The yellow alien drank soda .
+
+Inconsistency in node types (entail/8)
+4611:     [yes], unknown,      NA, 'Defected'  XP: _47890
+      Every alien ate some pork .
+      Every alien ate some meat .
+
+4614:     [yes], unknown,    open, 'Ter',72    XP: []
+      Every alien drove some suvs .
+      Every alien drove some cars .
+
+4622:     [yes], unknown,    open, 'Ter',54    XP: []
+      Many aliens drove some suvs .
+      Many aliens drove some cars .
+
+4630:     [yes], unknown,    open, 'Ter',31    XP: []
+      The blue alien drove some suvs .
+      The blue alien drove some cars .
+
+4648:     [yes], unknown,    open, 'Ter',9     XP: []
+      No alien ate at any restaurants .
+      No alien ate at any Mexican restaurants .
+
+Inconsistency in node types (entail/8)
+4691:     [yes], unknown,      NA, 'Defected'  XP: _434818
+      Every alien drank some coke .
+      Every alien drank some soda .
+
+4699:     [yes], unknown,    open, 'Ter',25    XP: []
+      Many aliens drank some coke .
+      Many aliens drank some soda .
+
+4707:     [yes], unknown,    open, 'Ter',390   XP: []
+      The blue alien drank some coke .
+      The blue alien drank some soda .
+
+4711:     [yes], unknown,    open, 'Ter',21    XP: []
+      Few aliens drank any soda .
+      Few aliens drank any coke .
+
+4714:     [yes], unknown,    open, 'Ter',21    XP: []
+      Few aliens drove any cars .
+      Few aliens drove any suvs .
+
+4719:     [yes], unknown,    open, 'Ter',20    XP: []
+      The red alien did not drink any soda .
+      The red alien did not drink any coke .
+
+4722:     [yes], unknown,    open, 'Ter',20    XP: []
+      The red alien did not drive any cars .
+      The red alien did not drive any suvs .
+
+4727:     [yes], unknown,    open, 'Ter',195   XP: []
+      No alien drank any soda .
+      No alien drank any coke .
+
+4730:     [yes], unknown,    open, 'Ter',26    XP: []
+      No alien drove any cars .
+      No alien drove any suvs .
+
+4773:     [yes], unknown,    open, 'Ter',72    XP: []
+      Every alien bought some shirts .
+      Every alien bought some clothes .
+
+4781:     [yes], unknown,    open, 'Ter',54    XP: []
+      Many aliens bought some shirts .
+      Many aliens bought some clothes .
+
+4789:     [yes], unknown,    open, 'Ter',31    XP: []
+      The blue alien bought some shirts .
+      The blue alien bought some clothes .
+
+4795:     [yes], unknown,    open, 'Ter',19    XP: []
+      No alien died without drinking some coke .
+      No alien died without drinking soda .
+
+4796:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without reading some sci-fi novels .
+      No alien died without reading books .
+
+4797:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without playing with some toy cars .
+      No alien died without playing with toys .
+
+4798:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without throwing some tennis balls .
+      No alien died without throwing balls .
+
+4803:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drink some coke is hairy .
+      Every alien who did not drink soda is hairy .
+
+4811:     [yes], unknown,    open, 'Ter',72    XP: []
+      No alien died without eating any pork .
+      No alien died without eating meat .
+
+4812:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without eating at any Mexican restaurants .
+      No alien died without eating at restaurants .
+
+4813:     [yes], unknown,    open, 'Ter',237   XP: []
+      No alien died without seeing any doves .
+      No alien died without seeing birds .
+
+4814:     [yes], unknown,    open, 'Ter',237   XP: []
+      No alien died without using any quarters .
+      No alien died without using coins .
+
+4819:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat any pork is hairy .
+      Every alien who did not eat meat is hairy .
+
+4820:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat at any Mexican restaurants is hairy .
+      Every alien who did not eat at restaurants is hairy .
+
+4821:     [yes], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not see any doves is hairy .
+      Every alien who did not see birds is hairy .
+
+4822:     [yes], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not use any quarters is hairy .
+      Every alien who did not use coins is hairy .
+
+4827:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without reading news magazines .
+      No alien died without reading magazines .
+
+4828:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without watching baseball matches .
+      No alien died without watching sports matches .
+
+4829:     [yes], unknown,    open, 'Ter',255   XP: []
+      No alien died without buying shirts .
+      No alien died without buying clothes .
+
+4830:     [yes], unknown,    open, 'Ter',255   XP: []
+      No alien died without driving suvs .
+      No alien died without driving cars .
+
+4836:     [yes], unknown,    open, 'Ter',132   XP: []
+      Every alien who did not watch baseball matches is hairy .
+      Every alien who did not watch sports matches is hairy .
+
+4837:     [yes], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not buy shirts is hairy .
+      Every alien who did not buy clothes is hairy .
+
+4838:     [yes], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not drive suvs is hairy .
+      Every alien who did not drive cars is hairy .
+
+4843:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without reading some news magazines .
+      No alien died without reading magazines .
+
+4844:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without eating at some Mexican restaurants .
+      No alien died without eating at restaurants .
+
+4845:     [yes], unknown,    open, 'Ter',165   XP: []
+      No alien died without buying some shirts .
+      No alien died without buying clothes .
+
+4846:     [yes], unknown,    open, 'Ter',261   XP: []
+      No alien died without using some quarters .
+      No alien died without using coins .
+
+4853:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not buy some shirts is hairy .
+      Every alien who did not buy clothes is hairy .
+
+4859:     [yes], unknown,    open, 'Ter',19    XP: []
+      No alien died without drinking any coke .
+      No alien died without drinking soda .
+
+4860:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without watching any baseball matches .
+      No alien died without watching sports matches .
+
+4861:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without playing with any toy cars .
+      No alien died without playing with toys .
+
+4862:     [yes], unknown,    open, 'Ter',107   XP: []
+      No alien died without driving any suvs .
+      No alien died without driving cars .
+
+4867:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drink any coke is hairy .
+      Every alien who did not drink soda is hairy .
+
+4868:     [yes], unknown,    open, 'Ter',159   XP: []
+      Every alien who did not watch any baseball matches is hairy .
+      Every alien who did not watch sports matches is hairy .
+
+4869:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not play with any toy cars is hairy .
+      Every alien who did not play with toys is hairy .
+
+4870:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drive any suvs is hairy .
+      Every alien who did not drive cars is hairy .
+
+4875:     [yes], unknown,    open, 'Ter',179   XP: []
+      No alien died without eating pork .
+      No alien died without eating meat .
+
+4876:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without reading sci-fi novels .
+      No alien died without reading books .
+
+4877:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without seeing doves .
+      No alien died without seeing birds .
+
+4878:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without throwing tennis balls .
+      No alien died without throwing balls .
+
+4888:     [yes], unknown,    open, 'Ter',179   XP: []
+      No alien died without eating some pork .
+      No alien died without eating meat .
+
+4890:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without watching some baseball matches .
+      No alien died without watching sports matches .
+
+4892:     [yes], unknown,    open, 'Ter',261   XP: []
+      No alien died without seeing some doves .
+      No alien died without seeing birds .
+
+4900:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drink coke is hairy .
+      Every alien who did not drink soda is hairy .
+
+4907:     [yes], unknown,    open, 'Ter',51    XP: []
+      The red alien did not buy any clothes .
+      The red alien did not buy shirts .
+
+4908:     [yes], unknown,    open, 'Ter',80    XP: []
+      No alien bought any clothes .
+      No alien bought shirts .
+
+4911:     [yes], unknown,    open, 'Ter',341   XP: []
+      No alien threw any balls .
+      No alien threw tennis balls .
+
+4915:     [yes], unknown,    open, 'Ter',57    XP: []
+      The red alien did not read any magazines .
+      The red alien did not read news magazines .
+
+4916:     [yes], unknown,    open, 'Ter',341   XP: []
+      No alien read any magazines .
+      No alien read news magazines .
+
+Inconsistency in node types (entail/8)
+4927:     [yes], unknown,      NA, 'Defected'  XP: _261630
+      The red alien ate some pork .
+      The red alien ate meat .
+
+4928:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien ate some pork .
+      Every alien ate meat .
+
+Inconsistency in node types (entail/8)
+4940:     [yes], unknown,      NA, 'Defected'  XP: _276564
+      The red alien used some quarters .
+      The red alien used coins .
+
+4941:     [yes], unknown,    open, 'Ter',45    XP: []
+      The red alien bought some shirts .
+      The red alien bought clothes .
+
+Inconsistency in node types (entail/8)
+4943:     [yes], unknown,      NA, 'Defected'  XP: _436248
+      The red alien drank some coke .
+      The red alien drank soda .
+
+Inconsistency in node types (entail/8)
+4944:     [yes], unknown,      NA, 'Defected'  XP: _446208
+      The red alien read some news magazines .
+      The red alien read magazines .
+
+4946:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without eating at Mexican restaurants .
+      No alien died without eating at restaurants .
+
+4948:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without playing with toy cars .
+      No alien died without playing with toys .
+
+4950:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without using quarters .
+      No alien died without using coins .
+
+4952:     [yes], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not buy any shirts is hairy .
+      Every alien who did not buy clothes is hairy .
+
+4954:     [yes], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not throw any tennis balls is hairy .
+      Every alien who did not throw balls is hairy .
+
+4956:     [yes], unknown,    open, 'Lim',400   XP: []
+      No alien died without drinking coke .
+      No alien died without drinking soda .
+
+4958:     [yes], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not read any news magazines is hairy .
+      Every alien who did not read magazines is hairy .
+
+4959:     [yes], unknown,    open, 'Ter',43    XP: []
+      Few aliens bought any clothes .
+      Few aliens bought shirts .
+
+4961:     [yes], unknown,    open, 'Ter',146   XP: []
+      Few aliens threw any balls .
+      Few aliens threw tennis balls .
+
+4963:     [yes], unknown,    open, 'Ter',146   XP: []
+      Few aliens read any magazines .
+      Few aliens read news magazines .
+
+4980:     [yes], unknown,    open, 'Ter',148   XP: []
+      Every alien who did not watch some baseball matches is hairy .
+      Every alien who did not watch sports matches is hairy .
+
+5029:     [yes], unknown,    open, 'Ter',18    XP: []
+      She gave him a rose .
+      She gave him a flower .
+
+5033:     [yes], unknown,    open, 'Ter',31    XP: []
+      She has a German car .
+      She has a European car .
+
+5042:     [yes], unknown,    open, 'Ter',38    XP: []
+      She did not give him a flower .
+      She did not give him a rose .
+
+5044:     [yes], unknown,    open, 'Ter',76    XP: []
+      She never touched him .
+      She never kissed him .
+
+5046:     [yes], unknown,    open, 'Ter',22    XP: []
+      Nobody here has a European car .
+      Nobody here has a German car .
+
+5050:     [yes], unknown,    open, 'Ter',38    XP: []
+      Before she touched him , she brushed her teeth .
+      Before she kissed him , she brushed her teeth .
+
+5055:     [yes], unknown,    open, 'Ter',62    XP: []
+      He knows a city in spain .
+      He knows a city in Europe .
+
+5059:     [yes], unknown,    open, 'Ter',21    XP: []
+      She whispered more than three words .
+      She said more than three words .
+
+Inconsistency in node types (entail/8)
+5061:     [yes], unknown,      NA, 'Defected'  XP: _211990
+      She said less than three words .
+      She whispered less than three words .
+
+5065:     [yes], unknown,    open, 'Ter',30    XP: []
+      At most three girls did not dance .
+      At most three girls did not move .
+
+5077:     [yes], unknown,    open, 'Ter',20    XP: []
+      We never touched .
+      We never kissed .
+
+5079:     [yes], unknown,    open, 'Ter',5     XP: []
+      All philosophers are mortal .
+      All hegelians are mortal .
+
+Inconsistency in node types (entail/8)
+5081:     [yes], unknown,      NA, 'Defected'  XP: _224330
+      Betty lives in Berlin .
+      Betty lives in Germany .
+
+5083:     [yes], unknown,    open, 'Ter',33    XP: []
+      Betty does n't live in Germany .
+      Betty does n't live in Berlin .
+
+Inconsistency in node types (entail/8)
+5085:     [yes], unknown,      NA, 'Defected'  XP: _187626
+      It 's not true that Betty lives in Germany .
+      It 's not true that Betty lives in Berlin .
+
+5103:     [yes], unknown,    open, 'Lim',420   XP: []
+      More than half of the tenors have the flu .
+      More than half of the tenors are sick .
+
+5105:     [yes], unknown,    open, 'Ter',31    XP: []
+      All the tenors have the flu .
+      All the tenors are sick .
+
+5107:     [yes], unknown,    open, 'Lim',412   XP: []
+      None of the sopranos sang with fewer than three of the tenors .
+      None of the sopranos sang with fewer than three of the male singers .
+
+5109:     [yes], unknown,    open, 'Ter',12    XP: []
+      Some of the sopranos sang with more than three of the tenors .
+      Some of the sopranos sang with more than three of the male singers .
+
+5129:     [yes], unknown,    open, 'Ter',27    XP: []
+      At most three pachyderms are pink .
+      At most three elephants are pink .
+  
+5149:     [yes], unknown,    open, 'Ter',48    XP: []
+      Almost no campers have ever had a sunburn or caught a cold .
+      Almost no campers have caught a cold .
+
+5141:     [yes], unknown,    open, 'Ter',29    XP: []
+      At most three elephants are blue .
+      At most three elephants are navy blue .
+
+5144:     [yes], unknown,    open, 'Lim',425   XP: []
+      Few of the books had typical or marginal readers .
+      Few of the books had ( some ) typical readers .
+
+5145:     [yes], unknown,    open, 'Ter',96    XP: []
+      Mary never ate pizza .
+      Mary never ate pizza with anchovies .
+
+5153:     [yes], unknown,    open, 'Ter',24    XP: []
+      Almost nobody has ever had a sunburn or caught a cold .
+      Almost nobody has caught a cold .
+
+5157:     [yes], unknown,    open, 'Ter',18    XP: []
+      At most five campers have ever had a sunburn or caught a cold .
+      At most five campers have caught a cold .
+
+5158:     [yes], unknown,    open, 'Ter',18    XP: []
+      At most five campers have had a sunburn or caught a cold .
+      At most five campers have caught a cold .
+
+5159:     [yes], unknown,    open, 'Ter',18    XP: []
+      At most five children chose any mint chocolates or decided on the cotton candy .
+      At most five children decided on the cotton candy .
+
+5160:     [yes], unknown,    open, 'Ter',18    XP: []
+      At most five children chose mint chocolates or decided on the cotton candy .
+      At most five children decided on the cotton candy .
+
+5161:     [yes], unknown,    open, 'Ter',36    XP: []
+      At most half campers have ever had a sunburn or caught a cold .
+      At most half campers have caught a cold .
+
+5162:     [yes], unknown,    open, 'Ter',61    XP: []
+      At most half campers have had a sunburn or caught a cold .
+      At most half campers have caught a cold .
+
+5163:     [yes], unknown,    open, 'Ter',59    XP: []
+      At most half children chose any mint chocolates or decided on the cotton candy .
+      At most half children decided on the cotton candy .
+
+5164:     [yes], unknown,    open, 'Ter',95    XP: []
+      At most half children chose mint chocolates or decided on the cotton candy .
+      At most half children decided on the cotton candy .
+
+5165:     [yes], unknown,    open, 'Ter',42    XP: []
+      Less than five campers have ever had a sunburn or caught a cold .
+      Less than five campers have caught a cold .
+
+5166:     [yes], unknown,    open, 'Ter',198   XP: []
+      Less than five campers have had a sunburn or caught a cold .
+      Less than five campers have caught a cold .
+
+5167:     [yes], unknown,    open, 'Lim',450   XP: []
+      Less than five children chose any mint chocolates or decided on the cotton candy .
+      Less than five children decided on the cotton candy .
+
+5168:     [yes], unknown,    open, 'Lim',466   XP: []
+      Less than five children chose mint chocolates or decided on the cotton candy .
+      Less than five children decided on the cotton candy .
+
+5169:     [yes], unknown,    open, 'Ter',0     XP: []
+      Less than five of campers have ever had a sunburn or caught a cold .
+      Less than five of campers have caught a cold .
+
+5170:     [yes], unknown,    open, 'Ter',0     XP: []
+      Less than five of campers have had a sunburn or caught a cold .
+      Less than five of campers have caught a cold .
+
+5171:     [yes], unknown,    open, 'Ter',0     XP: []
+      Less than five of the children chose any mint chocolates or decided on the cotton candy .
+      Less than five of the children decided on the cotton candy .
+
+5172:     [yes], unknown,    open, 'Ter',0     XP: []
+      Less than five of the children chose mint chocolates or decided on the cotton candy .
+      Less than five of the children decided on the cotton candy .
+
+5173:     [yes], unknown,    open, 'Ter',43    XP: []
+      Not many campers have ever had a sunburn or caught a cold .
+      Not many campers have caught a cold .
+
+5174:     [yes], unknown,    open, 'Ter',204   XP: []
+      Not many campers have had a sunburn or caught a cold .
+      Not many campers have caught a cold .
+
+5175:     [yes], unknown,    open, 'Lim',450   XP: []
+      Not many children chose any mint chocolates or decided on the cotton candy .
+      Not many children decided on the cotton candy .
+
+5176:     [yes], unknown,    open, 'Lim',466   XP: []
+      Not many children chose mint chocolates or decided on the cotton candy .
+      Not many children decided on the cotton candy .
+
+5177:     [yes], unknown,    open, 'Lim',423   XP: []
+      Not many of the campers have ever had a sunburn or caught a cold .
+      Not many of the campers have caught a cold .
+
+5178:     [yes], unknown,    open, 'Lim',436   XP: []
+      Not many of the campers have had a sunburn or caught a cold .
+      Not many of the campers have caught a cold .
+
+5179:     [yes], unknown,    open, 'Lim',439   XP: []
+      Not many of the children chose any mint chocolates or decided on the cotton candy .
+      Not many of the children decided on the cotton candy .
+
+5180:     [yes], unknown,    open, 'Lim',449   XP: []
+      Not many of the children chose mint chocolates or decided on the cotton candy .
+      Not many of the children decided on the cotton candy .
+
+5181:     [yes], unknown,    open, 'Ter',19    XP: []
+      No more than fifty campers have ever had a sunburn or caught a cold .
+      No more than fifty campers have caught a cold .
+
+5185:     [yes], unknown,    open, 'Ter',19    XP: []
+      No more than five campers have ever had a sunburn or caught a cold .
+      No more than five campers have caught a cold .
+
+5189:     [yes], unknown,    open, 'Ter',71    XP: []
+      Very few campers have ever had a sunburn or caught a cold .
+      Very few campers have caught a cold .
+
+5190:     [yes], unknown,    open, 'Lim',426   XP: []
+      Very few campers have had a sunburn or caught a cold .
+      Very few campers have caught a cold .
+
+5191:     [yes], unknown,    open, 'Lim',455   XP: []
+      Very few children chose any mint chocolates or decided on the cotton candy .
+      Very few children decided on the cotton candy .
+
+5192:     [yes], unknown,    open, 'Lim',470   XP: []
+      Very few children chose mint chocolates or decided on the cotton candy .
+      Very few children decided on the cotton candy .
+
+5193:     [yes], unknown,    open, 'Lim',435   XP: []
+      Very few of campers have ever had a sunburn or caught a cold .
+      Very few of campers have caught a cold .
+
+5194:     [yes], unknown,    open, 'Lim',454   XP: []
+      Very few of campers have had a sunburn or caught a cold .
+      Very few of campers have caught a cold .
+
+5195:     [yes], unknown,    open, 'Lim',457   XP: []
+      Very few of the children chose any mint chocolates or decided on the cotton candy .
+      Very few of the children decided on the cotton candy .
+
+5196:     [yes], unknown,    open, 'Lim',467   XP: []
+      Very few of the children chose mint chocolates or decided on the cotton candy .
+      Very few of the children decided on the cotton candy .
+
+5293:     [yes], unknown,    open, 'Ter',83    XP: []
+      Almost every camper has caught a cold .
+      Almost every camper has ever had a sunburn or caught a cold .
+
+5297:     [yes], unknown,    open, 'Ter',24    XP: []
+      Almost everybody has caught a cold .
+      Almost everybody has ever had a sunburn or caught a cold .
+
+5301:     [yes], unknown,    open, 'Ter',38    XP: []
+      At least five campers have caught a cold .
+      At least five campers have ever had a sunburn or caught a cold .
+
+5305:     [yes], unknown,    open, 'Ter',32    XP: []
+      At least half campers have caught a cold .
+      At least half campers have ever had a sunburn or caught a cold .
+
+5309:     [yes], unknown,    open, 'Ter',25    XP: []
+      More than five campers have caught a cold .
+      More than five campers have ever had a sunburn or caught a cold .
+
+5313:     [yes], unknown,    open, 'Ter',0     XP: []
+      More than five of campers have caught a cold .
+      More than five of campers have ever had a sunburn or caught a cold .
+
+5317:     [yes], unknown,    open, 'Ter',21    XP: []
+      Many campers have caught a cold .
+      Many campers have ever had a sunburn or caught a cold .
+
+5321:     [yes], unknown,    open, 'Lim',419   XP: []
+      Many of the campers have caught a cold .
+      Many of the campers have ever had a sunburn or caught a cold .
+
+5325:     [yes], unknown,    open, 'Lim',561   XP: []
+      No less than fifty campers have caught a cold .
+      No less than fifty campers have ever had a sunburn or caught a cold .
+
+5326:     [yes], unknown,    open, 'Lim',567   XP: []
+      No less than fifty campers have caught a cold .
+      No less than fifty campers have had a sunburn or caught a cold .
+
+5329:     [yes], unknown,    open, 'Ter',12    XP: []
+      No less than five campers have caught a cold .
+      No less than five campers have ever had a sunburn or caught a cold .
+
+5330:     [yes], unknown,    open, 'Ter',38    XP: []
+      No less than five campers have caught a cold .
+      No less than five campers have had a sunburn or caught a cold .
+
+Inconsistency in node types (entail/8)
+5357:     [yes], unknown,      NA, 'Defected'  XP: _475204
+      Some boy , the brother of whom Mary loves , walked .
+      Some boy walked .
+
+Inconsistency in node types (entail/8)
+5364:     [yes], unknown,      NA, 'Defected'  XP: _224784
+      John does and Mary does n't walk .
+      John moves .
+
+Inconsistency in node types (entail/8)
+5365:     [yes], unknown,      NA, 'Defected'  XP: _48780
+      Mary adores and passionately loves john .
+      Mary loves john .
+
+5371:     [yes], unknown,    open, 'Ter',36    XP: []
+      Many men farmers entered the race early .
+      Many men entered the race .
+
+5372:     [yes], unknown,    open, 'Ter',22    XP: []
+      No plumber entered the race .
+      Many men entered the race early .
+

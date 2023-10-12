@@ -1,0 +1,12 @@
+3056: [unknown],      no,  closed, 'Ter',12    XP: [int(comfortabel),isa(helemaal@no@tot@(a@(schoon@'drink water'))@toegang,tot@(a@(schoon@'drink water'))@toegang),isa(helemaal@no@(comfortabel@tot@(a@(schoon@'drink water'))@toegang),comfortabel@tot@(a@(schoon@'drink water'))@toegang)]
+      Veel mensen in Fiji hebben helemaal geen comfortabele toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3284: [unknown],      no,  closed, 'Ter',13    XP: [isa(helemaal@no@tot@(a@(schoon@'drink water'))@toegang,tot@(a@(schoon@'drink water'))@toegang)]
+      Veel mensen in Fiji hebben te voet helemaal geen toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+
+3503: [unknown],      no,  closed, 'Ter',13    XP: []
+      De politie vond helemaal vingerafdrukken in de omgeving.
+      De politie vond geen vingerafdrukken.
+

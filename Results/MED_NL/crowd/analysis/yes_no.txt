@@ -1,0 +1,64 @@
+1590:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@toeval,toeval)]
+      Het was geen toeval.
+      Het was helemaal geen toeval.
+
+1756:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@breed@heup,breed@heup)]
+      Ik heb geen brede heupen.
+      Ik heb helemaal geen brede heupen.
+
+1772:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@tegen@(van@(a@(white@meneer))@(the@(kiezen@worden)))@bezwaar,tegen@(van@(a@(white@meneer))@(the@(kiezen@worden)))@bezwaar)]
+      Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+      Meneer Thomas had helemaal geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+
+1813:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@van@(the@gevoelen)@geheim,van@(the@gevoelen)@geheim)]
+      Hij maakt geen geheim van zijn gevoelens.
+      Hij maakt helemaal geen geheim van zijn gevoelens.
+
+1856:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@zaak persoon,zaak persoon)]
+      Chen is geen zakenpersoon.
+      Chen is helemaal geen zakenpersoon.
+
+2297:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@ruimtelijk@bewustzijn,ruimtelijk@bewustzijn)]
+      Ze heeft geen ruimtelijk bewustzijn.
+      Ze heeft helemaal geen ruimtelijk bewustzijn.
+
+2625:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@probleem,probleem)]
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem.
+      Het meenemen van de groep kinderen naar de bibliotheek was helemaal geen probleem.
+
+2808:     [yes],      no,  closed, 'Ter',10    XP: []
+      Het gebouw heeft geen nooduitgang.
+      Het gebouw heeft nergens een nooduitgang.
+
+2984:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@geduld,geduld)]
+      Een paar mensen hebben geen geduld.
+      Een paar mensen hebben helemaal geen geduld.
+
+3039:     [yes],      no,  closed, 'Ter',21    XP: [int(ander),int(optie)]
+      Er zijn geen andere opties.
+      Er zijn geen andere soort opties.
+
+3055:     [yes],      no,  closed, 'Ter',12    XP: [int(comfortabel),isa(helemaal@no@tot@(a@(schoon@'drink water'))@toegang,tot@(a@(schoon@'drink water'))@toegang),isa(helemaal@no@(comfortabel@tot@(a@(schoon@'drink water'))@toegang),comfortabel@tot@(a@(schoon@'drink water'))@toegang)]
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben helemaal geen comfortabele toegang tot schoon drinkwater.
+
+3191:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@van@(a@(in@(the@hel)@kans))@schijn,van@(a@(in@(the@hel)@kans))@schijn)]
+      Je maakt geen schijn van kans in de hel.
+      Je maakt helemaal geen schijn van kans in de hel.
+
+3283:     [yes],      no,  closed, 'Ter',13    XP: [isa(helemaal@no@tot@(a@(schoon@'drink water'))@toegang,tot@(a@(schoon@'drink water'))@toegang)]
+      Veel mensen in Fiji hebben geen toegang tot schoon drinkwater.
+      Veel mensen in Fiji hebben te voet helemaal geen toegang tot schoon drinkwater.
+
+3502:     [yes],      no,  closed, 'Ter',13    XP: []
+      De politie vond geen vingerafdrukken.
+      De politie vond helemaal vingerafdrukken in de omgeving.
+
+3504:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@vingerafdruk,vingerafdruk)]
+      De politie vond geen vingerafdrukken.
+      De politie vond helemaal geen vingerafdrukken.
+
+4031:     [yes],      no,  closed, 'Ter',5     XP: [isa(helemaal@no@wezen,wezen)]
+      Geen wezen kan leven zonder lucht.
+      Helemaal geen wezen kan leven zonder lucht.
+

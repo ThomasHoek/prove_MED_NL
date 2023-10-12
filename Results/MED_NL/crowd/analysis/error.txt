@@ -1,0 +1,998 @@
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+152: [unknown], unknown,      NA, 'Defected'  XP: _267030
+      Een paar bloemen bloeien in de lente en anderen in de herfst.
+      Een paar roosbloemen bloeien in de lente en anderen in de herfst.
+
+ERROR: Cannot align tokens in sentence id=1056
+term tokens=[[[klein],[glazen],[sculptuur],[in],[de],[tuin],[.]]]
+anno tokens=[Er,staat,en,klein,glazen,sculptuur,in,de,tuin,.]
+ 245: [unknown], unknown,    open, 'Ter',48    XP: []
+      Een geur van lelies vulde de kamer.
+      Een geur van lelies en rozen vulde de kamer.
+
+ERROR: Cannot align tokens in sentence id=1056
+term tokens=[[[klein],[glazen],[sculptuur],[in],[de],[tuin],[.]]]
+anno tokens=[Er,staat,en,klein,glazen,sculptuur,in,de,tuin,.]
+ 252: [unknown], unknown,    open, 'Ter',4     XP: []
+      Rudolf heeft een groot huis gebouwd.
+      Rudolf bush heeft een groot huis gebouwd.
+
+Error in gen_quant_tt
+ 300: [unknown], unknown,      NA, 'Defected'  XP: []
+      Camera’s hebben niet de neiging om realiteit vast te leggen.
+      Mobiele telefoons neigen niet de realiteit vast te leggen.
+
+Error in gen_quant_tt
+ 341:     [yes],     yes,  closed, 'Ter',4     XP: [int(enorm)]
+      Tom gooide een enorme sneeuwbal naar Mary.
+      Tom gooide een sneeuwbal naar Mary.
+
+ERROR: Cannot align tokens in sentence id=3860
+term tokens=[[[politicus],[is],[een],[mensenrechten],[militant],[.]]]
+anno tokens=[Senator,politicus,is,een,mensenrechten,militant,.]
+ 364: [unknown], unknown,    open, 'Ter',34    XP: []
+      Ze draagt een leuke hoed.
+      Ze draagt een leuke hoed die gedragen wordt voor verschillende redenen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 403:     [yes],     yes,  closed, 'Ter',6     XP: [isa(in@c1@rood@agenda,rood@agenda)]
+      Ik kocht een rode agenda in de antiekwinkel.
+      Ik kocht een rode agenda.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 416: [unknown], unknown,    open, 'Ter',73    XP: []
+      Senator Rosario Ibarra is een mensenrechten militant.
+      Senator activist is een mensenrechten militant.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 445: [unknown], unknown,    open, 'Ter',9     XP: []
+      Dan gebruikte geen mobiel.
+      Dans vader gebruikte geen mobiel.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 454:     [yes], unknown,    open, 'Ter',22    XP: []
+      Winter ziet er niet echt uit zonder sneeuwstenen.
+      Winter ziet er niet echt uit zonder sneeuw.
+
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 581: [unknown], unknown,    open, 'Ter',248   XP: []
+      Een grote spin was een web aan het spinnen.
+      Een grote spin was een geweldig web aan het spinnen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 594:     [yes], unknown,    open, 'Ter',11    XP: []
+      Er zijn veel voedselfabrieken in Kawasaki.
+      Er zijn veel fabrieken in Kawasaki.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 597: [unknown], unknown,      NA, 'Defected'  XP: []
+      Er zitten een paar appels in de mand.
+      Er zitten een paar appels en peren in de mand.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 609: [unknown], unknown,    open, 'Ter',29    XP: []
+      Tom droeg een zwarte hoed.
+      Tom droeg een zwart vest.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 643:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kocht een paar lekkere chocolaatjes en snoepjes voor Mary.
+      Tom kocht een paar chocolaatjes voor Mary.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+ 644: [unknown], unknown,    open, 'Ter',31    XP: []
+      Hij gaf de hond een bot.
+      Hij gaf de hond een schedel.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 653: [unknown], unknown,    open, 'Ter',43    XP: []
+      Onder de tafel zit een kat.
+      Onder de tafel zit een rode kat.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+ 711: [unknown], unknown,    open, 'Ter',167   XP: []
+      Ik ben een normaal meisje.
+      Ik ben een normaal mooi meisje.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 717: [unknown], unknown,    open, 'Lim',437   XP: []
+      Tom heeft geen gevoel voor humor.
+      Tom heeft geen gevoel voor werk.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 719: [unknown], unknown,    open, 'Ter',60    XP: []
+      Een eekhoorn droeg hondsdolheid over aan mijn dochter.
+      Een eekhoorn droeg liefheid over aan mijn dochter.
+
+Error in gen_quant_tt
+ 735:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
+      Ik weet dat jij en Tom een paar problemen gehad hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 736: [unknown], unknown,    open, 'Ter',55    XP: []
+      Nucleaire wapens zijn een bedreiging voor de hele mensheid.
+      Biowapens zijn een bedreiging voor heel de mensheid.
+
+ERROR: Cannot align tokens in sentence id=1327
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Gisteren,is,niet,goed,voor,mij,.]
+Inconsistency in node types (entail/8)
+751: [unknown], unknown,      NA, 'Defected'  XP: _2740424
+      Vandaag is niet goed voor mij.
+      Gisteren is niet goed voor mij.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+ 752: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag is niet goed voor mij.
+      Maandag is niet goed voor me.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 795: [unknown], unknown,      NA, 'Defected'  XP: []
+      Moderne kunst interesseert Tom niet.
+      Moderne kunst en wetenschap interesseren Tom niet.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 797: [unknown], unknown,    open, 'Ter',41    XP: []
+      Hij vindt niet alleen muziek leuk, maar ook sport.
+      Hij vindt niet alleen muziek leuk, maar ook technologie.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 799: [unknown], unknown,    open, 'Ter',41    XP: []
+      Hij vindt niet alleen muziek leuk, maar ook sport.
+      Hij vindt niet alleen muziek leuk, maar ook geneeskunde.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+803: [unknown], unknown,      NA, 'Defected'  XP: _501016
+      Leven is niet alleen rozen en zonneschijn.
+      Liefde is niet alleen rozen en zonneschijn.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+807: [unknown], unknown,      NA, 'Defected'  XP: _5371058
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar ijs dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+808: [unknown], unknown,      NA, 'Defected'  XP: _684522
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar koffie met melk dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+809:     [yes], unknown,      NA, 'Defected'  XP: _1594818
+      Het is geen thee maar koffie met melk dat ik wil.
+      Het is geen thee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+810: [unknown], unknown,      NA, 'Defected'  XP: _159690
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar melk dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+811: [unknown], unknown,      NA, 'Defected'  XP: _3982930
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen thee maar bier dat ik wil.
+
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 838: [unknown], unknown,      NA, 'Defected'  XP: []
+      Ik ontving een telegram van haar.
+      Ik ontving een telegram die over haar vriend ging van haar.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 890: [unknown], unknown,    open, 'Ter',29    XP: []
+      Er zit een kat op de stoel.
+      Er zit een kat te slapen op de stoel.
+
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 918: [unknown], unknown,    open, 'Ter',104   XP: []
+      Tom maakte een pindakaas en jambroodje.
+      Tom maakte een lekkere koffie en ik vergezelde het met brood en pindakaas.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 926:     [yes], unknown,      NA, 'Defected'  XP: []
+      Meneer yamaha gaf een paar walnoten en geld aan een bedelaar.
+      Meneer yamaha gaf een paar walnoten aan een bedelaar.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 930: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom kan ook wat Frans spreken.
+      Tom kan ook wat Frans en Spaans spreken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 931:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom kan ook wat Frans en Spaans spreken.
+      Tom kan ook wat Frans spreken.
+
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 990: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag ging niet goed.
+      De meeting ging niet goed.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1000: [unknown], unknown,      NA, 'Defected'  XP: _1251276
+      Een paar grote vogels jagen op kleine vogels en dieren.
+      Een paar grote vogels jagen en jagen op kleine vogels en dieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1014: [unknown], unknown,    open, 'Ter',29    XP: []
+      Oorlog is geen natuurramp zoals een aardbeving of een tsunami.
+      Uitroeiing is geen natuurramp zoals een aardbeving of een tsunami.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+1083: [unknown], unknown,    open, 'Ter',33    XP: []
+      Een kersenboom groeit in een tuin.
+      Een kerstomaat groeit in een tuin.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1098:     [yes],     yes,  closed, 'Ter',4     XP: [int(dik)]
+      De spin spint een dik web.
+      De spin spint een web.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1114: [unknown], unknown,    open, 'Ter',29    XP: []
+      Tom is een bekwame timmerman.
+      Tom is een bekwame uitvinder.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+1123: [unknown], unknown,    open, 'Ter',33    XP: []
+      Tom drinkt melk iedere ochtend.
+      Tom drinkt thee iedere ochtend.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1182: [unknown], unknown,    open, 'Ter',78    XP: []
+      Mary heeft een dozijn eieren nodig.
+      Mary heeft een stukje spek en twee eieren nodig.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1185: [unknown], unknown,    open, 'Ter',321   XP: []
+      Een gevallen boom blokkeerde de weg.
+      Een gevallen dorre boom blokkeerde de weg.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1220: [unknown], unknown,      NA, 'Defected'  XP: []
+      Je morste wat ketchup op je stropdas.
+      Je morste wat ketchup en mayonaise op je stropdas.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1221:     [yes], unknown,      NA, 'Defected'  XP: []
+      Je morste wat ketchup en mayonaise op je stropdas.
+      Je morste wat ketchup op je stropdas.
+
+Error in gen_quant_tt
+1270:     [yes],     yes,  closed, 'Ter',11    XP: [int(rennen)]
+      Ik zie een man en een rennende vrouw.
+      Ik zie een man en een vrouw.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1335:     [yes], unknown,    open, 'Ter',20    XP: []
+      Ik kan geen fiets kopen.
+      Ik kan geen nieuwe fiets van mijn dromen kopen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1353: [unknown], unknown,      NA, 'Defected'  XP: []
+      Ik heb geen keuze en rechten.
+      Ik heb geen keuze.
+
+Error in gen_quant_tt
+1358:     [yes],     yes,  closed, 'Ter',4     XP: [int(blauw kleurig)]
+      Chris had geen auto.
+      Chris had geen blauwkleurige auto.
+
+Error in gen_quant_tt
+1383:     [yes],     yes,  closed, 'Ter',10    XP: [int(belangrijk)]
+      Ik heb geen ideeën meer.
+      Ik heb geen belangrijke ideeën meer.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+1447:     [yes],     yes,  closed, 'Ter',1     XP: [isa(baby,zuigeling),isa(zuigeling,baby)]
+      Je bent niet langer een baby.
+      Je bent niet langer een zuigeling.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1584:     [yes], unknown,      NA, 'Defected'  XP: _4216
+      Ik kan geen rucola of andere bittere groenten uitstaan.
+      Ik kan geen bladgroenten of andere bittere groenten uitstaan.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1585:     [yes], unknown,      NA, 'Defected'  XP: _4795604
+      Ik kan geen rucola of andere bittere groenten uitstaan.
+      Ik kan geen onrijpe rucola of andere bittere groenten uitstaan.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+1586: [unknown], unknown,      NA, 'Defected'  XP: _3160990
+      Ik kan geen onrijpe rucola of andere bittere groenten uitstaan.
+      Ik kan geen rucola of andere bittere groenten uitstaan.
+
+Error in gen_quant_tt
+1597:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Ik zou nooit een schelpenpak dragen.
+      Ik zou nooit een schelpenpak dragen op het strand.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1646:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom had geen opties over.
+      Tom had geen opties of oplossingen over.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1680:     [yes], unknown,      NA, 'Defected'  XP: []
+      Mary zei dat ze geen jongens kiest voor hun uiterlijk.
+      Mary zei dat ze geen jongens en vrienden kiest voor hun uiterlijk.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+1697:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom luister zelden naar muziek thuis.
+      Tom luistert zelden naar muziek in zijn nieuwe huis.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+1699:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom luister zelden naar muziek thuis.
+      Tom luistert zelden naar muziek in zijn huis.
+
+Error in gen_quant_tt
+1714: [unknown], unknown,    open, 'Ter',2     XP: []
+      Hij kan geen beslissing maken voordelig voor het bedrijf.
+      Hij kan geen beslissing maken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1740:     [yes], unknown,      NA, 'Defected'  XP: []
+      Winnaars gebruiken geen drugs.
+      Winnaars gebruiken geen drugs en verdovende middelen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1758:     [yes], unknown,      NA, 'Defected'  XP: []
+      Je begrijpt geen Britse humor.
+      Je begrijpt geen Britse humor of idiomen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1761: [unknown], unknown,    open, 'Ter',93    XP: []
+      Een paard eet geen groene komkommersalade.
+      Een paard eet geen komkommersalade.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1850:     [yes], unknown,      NA, 'Defected'  XP: []
+      We hebben nog niet genoeg informatie om een beslissing te maken.
+      We hebben nog niet genoeg feiten en informatie om een beslissing te maken.
+
+Inconsistency in node types (entail/8)
+Error in gen_quant_tt
+1873: [unknown], unknown,      NA, 'Defected'  XP: _4459654
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten voor ontbijt.
+      Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1948:     [yes], unknown,      NA, 'Defected'  XP: []
+      Wetenschappers hebben nog geen vaccin voor kanker gevonden.
+      Wetenschappers hebben nog geen vaccin en medicijn voor kanker gevonden.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1949:     [yes], unknown,      NA, 'Defected'  XP: []
+      Wetenschappers hebben nog geen vaccin voor kanker gevonden.
+      Wetenschappers hebben nog geen vaccin en succesvolle behandeling voor kanker gevonden.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1986:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom heeft niet genoeg ervaring.
+      Tom heeft niet genoeg ervaring en opleiding.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2065:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik verspil geen munitie.
+      Ik verspil geen wapens en munitie.
+
+Error in gen_quant_tt
+2084:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik heb niet veel interesse in koken.
+      Ik heb niet veel interesse of aanmoedigen in koken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2172:     [yes], unknown,      NA, 'Defected'  XP: []
+      Wolven eten geen salade.
+      Wolven eten geen salade en groenten.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2182:     [yes], unknown,      NA, 'Defected'  XP: _6070040
+      Ik krijg geen kop of staart van deze foto.
+      Ik krijg geen kop of staart van deze grote foto.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2183:     [yes], unknown,      NA, 'Defected'  XP: _6135260
+      Ik krijg geen kop of staart van deze foto.
+      Ik krijg geen kop of staart van deze mooie foto.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2184:     [yes], unknown,      NA, 'Defected'  XP: _910478
+      Ik krijg geen kop of staart van deze foto.
+      Ik krijg geen kop of staart van dit schilderij geschilderd door picasso.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2185:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik eet geen kippenhuid.
+      Ik eet geen kippenhuid en -hoofd.
+
+Error in gen_quant_tt
+2246: [unknown], unknown,    open, 'Ter',10    XP: []
+      Tom had geen lange afstandswapen.
+      Tom had geen wapen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2276:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik spreek geen Frans thuis.
+      Ik spreek geen Frans en Engels thuis.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2309:     [yes], unknown,      NA, 'Defected'  XP: []
+      Jack kan zich geen nieuwe fiets veroorloven.
+      Jack kan zich geen nieuwe fiets of motorfiets veroorloven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2392:     [yes], unknown,      NA, 'Defected'  XP: _4594718
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+      Iedere jongen en meisje in de klas is geleerd te lezen en schrijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2393: [unknown], unknown,      NA, 'Defected'  XP: _1943170
+      Iedere jongen en meisje in de klas is geleerd te lezen en schrijven.
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2394:     [yes], unknown,      NA, 'Defected'  XP: _5146
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+      Iedere jongen en meisje in de school is geleerd te lezen en schrijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+2395: [unknown], unknown,      NA, 'Defected'  XP: _2266908
+      Iedere jongen en meisje in de school is geleerd te lezen en schrijven.
+      Iedere jongen en meisje is geleerd te lezen en schrijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2401:     [yes], unknown,    open, 'Ter',19    XP: []
+      Alle goede dingen komen in drievoud.
+      Alle goede gewenste dingen komen in drievoud.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2423:     [yes], unknown,    open, 'Ter',73    XP: []
+      Als de natuur een bank was hadden ze het al gered.
+      Als de natuur een gemenebestbank was hadden ze het al gered.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2483:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ze hebben niet genoeg ruimte op de grond om te kamperen.
+      Ze hebben niet genoeg ruimte op de grond om te kamperen vandaag.
+
+ERROR: Cannot align tokens in sentence id=2934
+term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
+anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
+2492:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik stel gewoonlijk geen vragen.
+      Ik stel gewoonlijk niet vaak vragen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2592:     [yes], unknown,      NA, 'Defected'  XP: []
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk en toetsen.
+      Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2604: [unknown], unknown,    open, 'Ter',50    XP: []
+      Ze maakt niet altijd een reis naar centraal Frankrijk in de zomer.
+      Ze maakt niet altijd een reis naar Frankrijk in de zomer.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+2626:     [yes],     yes,  closed, 'Ter',4     XP: [isa(voor@ons@probleem,probleem)]
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem.
+      Het meenemen van de groep kinderen naar de bibliotheek was geen probleem voor ons.
+
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
+2649:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Ik heb niet eens een huis.
+      Ik heb niet eens een huis om te verblijven.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2658: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom wilde geen poker spelen.
+      Tom wilde geen poker of uno spelen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2659:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom wilde geen poker of uno spelen.
+      Tom wilde geen poker spelen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+2685:     [yes], unknown,      NA, 'Defected'  XP: []
+      Deze zin heeft geen auteurs.
+      Deze zin heeft geen schrijvers of auteurs.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2732:     [yes], unknown,    open, 'Ter',27    XP: []
+      Ik drink helemaal geen koffie.
+      Ik drink helemaal geen koffie met koekjes.
+
+Error in gen_quant_tt
+2746:     [yes], unknown,      NA, 'Defected'  XP: []
+      Je spreekt geen Engels en Japans.
+      Je spreekt geen Engels.
+
+ERROR: Cannot align tokens in sentence id=2934
+term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
+anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
+2756:     [yes], unknown,    open, 'Ter',17    XP: []
+      Ik kan helemaal geen Engels spreken.
+      Ik kan op geen enkele manier Engels spreken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2818:     [yes], unknown,      NA, 'Defected'  XP: []
+      Als ik een buitenlander was, zou ik waarschijnlijk geen rauwe vis kunnen eten.
+      Als ik een buitenlander was, zou ik waarschijnlijk geen rauwe vis of vlees kunnen eten.
+
+Error in gen_quant_tt
+2859:     [yes],     yes,  closed, 'Ter',14    XP: [int(blind)]
+      Ik word nooit uitgenodigd op feestjes.
+      Ik word nooit uitgenodigd op blinde feestjes.
+
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
+2866: [unknown], unknown,    open, 'Ter',42    XP: []
+      Hij is geen doorsnee universiteitsstudent.
+      Hij is geen doorsnee student.
+
+ERROR: Cannot align tokens in sentence id=2798
+term tokens=[[[het],[deuntje],[van],[het],[liedje]]]
+anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herinneren,.]
+2929: [unknown],     yes,  closed, 'Ter',17    XP: [int(elektrisch)]
+      Als je de elektrische draad aanraakt, zul je een schok krijgen.
+      Als je de draad aanraakt, zul je een schok krijgen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2940:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom draagt gewoonlijk geen hoed.
+      Tom draagt gewoonlijk geen hoed of pet.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2947:     [yes], unknown,    open, 'Ter',14    XP: []
+      Ik geloof niet in groepstherapie.
+      Ik geloof niet in groepshersteltherapie.
+
+Error in gen_quant_tt
+2955:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom zei dat hij geen vriendin wil.
+      Tom zei dat hij geen vriendin en vriend wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2962:     [yes], unknown,      NA, 'Defected'  XP: []
+      We accepteren geen liefdadigheid.
+      We accepteren geen liefdadigheid of hulp.
+
+ERROR: Cannot align tokens in sentence id=4437
+term tokens=[[[geen],[bezoekers],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,.]
+ERROR: Cannot align tokens in sentence id=4436
+term tokens=[[[geen],[bezoekers],[uit],[de],[VS],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,uit,de,VS,.]
+Inconsistency in node types (entail/8)
+2998:     [yes], unknown,      NA, 'Defected'  XP: _2984540
+      Tom verwachte geen bezoekers.
+      Tom verwachte geen bezoekers uit de VS.
+
+ERROR: Cannot align tokens in sentence id=4436
+term tokens=[[[geen],[bezoekers],[uit],[de],[VS],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,uit,de,VS,.]
+ERROR: Cannot align tokens in sentence id=4437
+term tokens=[[[geen],[bezoekers],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoekers,.]
+Inconsistency in node types (entail/8)
+2999: [unknown], unknown,      NA, 'Defected'  XP: _3697462
+      Tom verwachte geen bezoekers uit de VS.
+      Tom verwachte geen bezoekers.
+
+ERROR: Cannot align tokens in sentence id=4435
+term tokens=[[[geen],[bezoeken],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,.]
+ERROR: Cannot align tokens in sentence id=4434
+term tokens=[[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,van,zijn,neven,.]
+Inconsistency in node types (entail/8)
+3000:     [yes], unknown,      NA, 'Defected'  XP: _1006918
+      Tom verwachte geen bezoeken.
+      Tom verwachte geen bezoeken van zijn neven.
+
+ERROR: Cannot align tokens in sentence id=4435
+term tokens=[[[geen],[bezoeken],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,.]
+Inconsistency in node types (entail/8)
+3001: [unknown], unknown,      NA, 'Defected'  XP: _748120
+      Tom verwachte geen bezoeken van zijn neven.
+      Tom verwachte geen bezoeken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3031: [unknown], unknown,      NA, 'Defected'  XP: []
+      Hij had geen vrienden om hem te helpen.
+      Hij had geen vrienden of familieleden om hem te helpen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3070:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er is geen andere manier om dit te doen.
+      Er is geen andere manier of middel om dit te doen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3093:     [yes], unknown,      NA, 'Defected'  XP: []
+      Niet een paar huizen waren vernietigd in de tyfoon.
+      Niet een paar huizen en gebouwen waren vernietigd in de tyfoon.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3228:     [yes], unknown,      NA, 'Defected'  XP: []
+      Er is geen wetenschappelijke basis voor deze beweringen.
+      Er is geen wetenschappelijke en mensheid basis voor deze beweringen.
+
+ERROR: Cannot align tokens in sentence id=4434
+term tokens=[[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,van,zijn,neven,.]
+3238:     [yes], unknown,    open, 'Ter',13    XP: []
+      De overheid wordt bekritiseerd van alle kanten.
+      De overheid wordt bekritiseerd van alle aspecten.
+
+ERROR: Cannot align tokens in sentence id=2798
+term tokens=[[[het],[deuntje],[van],[het],[liedje]]]
+anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herinneren,.]
+3263:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik kan me het deuntje van het liedje niet herinneren.
+      Ik kan me het deuntje van het liedje dat hij ooit hoorde niet herinneren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3324:     [yes], unknown,      NA, 'Defected'  XP: []
+      Een blinde man zou geen kaartspellen moeten spelen.
+      Een blinde man zou helemaal geen kaartspellen en bordspellen moeten spelen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3327:     [yes], unknown,      NA, 'Defected'  XP: _6015036
+      Tom eet geen vlees of eieren.
+      Tom eet geen vlees of gebakken eieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3328: [unknown], unknown,      NA, 'Defected'  XP: _4954328
+      Tom eet geen vlees of gebakken eieren.
+      Tom eet geen vlees of eieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3329:     [yes], unknown,      NA, 'Defected'  XP: _4565178
+      Tom eet geen vlees of eieren.
+      Tom eet geen vlees of roerei.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3330: [unknown], unknown,      NA, 'Defected'  XP: _3948400
+      Tom eet geen vlees of roerei.
+      Tom eet geen vlees of eieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3331:     [yes], unknown,      NA, 'Defected'  XP: _408996
+      Tom eet geen vlees of eieren.
+      Tom eet geen vlees of eendeneieren.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3332: [unknown], unknown,      NA, 'Defected'  XP: _1443602
+      Tom eet geen vlees of eendeneieren.
+      Tom eet geen vlees of eieren.
+
+Error in gen_quant_tt
+3444: [unknown], unknown,    open, 'Ter',41    XP: []
+      Tom vat kritiek van zijn moeder niet goed op.
+      Tom vat kritiek niet goed op.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
+3500: [unknown], unknown,      NA, 'Defected'  XP: []
+      Ik kan geen Japans spreken.
+      Ik kan geen Japans en Engels spreken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3501:     [yes], unknown,      NA, 'Defected'  XP: []
+      De politie vond geen vingerafdrukken.
+      De politie vond geen vingerafdrukken of voetafdrukken.
+
+Error in gen_quant_tt
+3563: [unknown], unknown,    open, 'Lim',403   XP: []
+      Dit lijkt geen serieus probleem te zijn in onze school.
+      Dit lijkt helemaal geen serieus probleem te zijn.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3702:     [yes], unknown,      NA, 'Defected'  XP: []
+      Iedere student was om zijn of haar naam en geboorteplaats gevraagd.
+      Iedere vrouwelijke student was om zijn of haar naam gevraagd.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3703: [unknown], unknown,      NA, 'Defected'  XP: []
+      Iedere vrouwelijke student was om zijn of haar naam gevraagd.
+      Iedere student was om zijn of haar naam en geboorteplaats gevraagd.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3704:     [yes],     yes,  closed, 'Ter',4     XP: [int(leuk)]
+      Ik heb geen huis.
+      Ik heb geen leuk huis.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3748:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom had niet genoeg kracht om de la te openen.
+      Tom had niet genoeg kracht en energie om de la te openen.
+
+ERROR: Cannot align tokens in sentence id=2158
+term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
+anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
+3756:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ieder gesproken woord wekt zijn tegenspraak op.
+      Ieder tekst woord gesproken wekt zijn tegenspraak op.
+
+ERROR: Cannot align tokens in sentence id=2156
+term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
+anno tokens=[Ieder,sprekers,woord,gesproken,wekt,zijn,tegenspraak,op,.]
+3758:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ieder gesproken woord wekt zijn tegenspraak op.
+      Ieder sprekers woord gesproken wekt zijn tegenspraak op.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3808:     [yes], unknown,      NA, 'Defected'  XP: []
+      Je kan beter discussie over religie en politiek vermijden.
+      Je kan beter discussie over katholieke religie en politiek vermijden.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3809: [unknown], unknown,      NA, 'Defected'  XP: []
+      Je kan beter discussie over katholieke religie en politiek vermijden.
+      Je kan beter discussie over religie en politiek vermijden.
+
+ERROR: Cannot align tokens in sentence id=2158
+term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
+anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
+3835: [unknown], unknown,    open, 'Ter',17    XP: []
+      Ik hou niet van kippeneieren.
+      Ik hou niet van eieren.
+
+Error in gen_quant_tt
+3872:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ze heeft geen recht om dit te doen.
+      Ze heeft geen recht en authoriteit om dit te doen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3884:     [yes], unknown,      NA, 'Defected'  XP: []
+      Voorlopig heb ik geen plan.
+      Voorlopig heb ik geen plan of project gaande.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3896:     [yes], unknown,      NA, 'Defected'  XP: _5534532
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen groene thee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3897:     [yes], unknown,      NA, 'Defected'  XP: _4791148
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen kruidenthee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3898:     [yes], unknown,      NA, 'Defected'  XP: []
+      Het is geen thee maar koffie dat ik wil.
+      Het is geen kop thee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+Inconsistency in node types (entail/8)
+3899:     [yes], unknown,      NA, 'Defected'  XP: _4997190
+      Het is geen thee maar koffie dat ik wil.
+      Het is deze middag geen thee maar koffie dat ik wil.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3930:     [yes], unknown,      NA, 'Defected'  XP: []
+      Het was geen toestemming.
+      Het was geen toestemming of toestemming.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+3988:     [yes], unknown,    open, 'Ter',228   XP: []
+      Iedere toeschouwer koopt een kaartje.
+      Iedere persoon die een vrouwelijke toeschouwer is koopt een ticket.
+
+Error in gen_quant_tt
+4035:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom had geen keuze dan te grijnzen en het te verdragen.
+      Tom had geen keuze of alternatief dan te grijnzen en het te verdragen.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+4057:     [yes], unknown,      NA, 'Defected'  XP: []
+      Integriteit heeft geen regels nodig.
+      Integriteit heeft geen regels en manieren nodig.
+
+ERROR: Cannot align tokens in sentence id=2833
+term tokens=[[[verre,van],[Engels]]]
+anno tokens=[Ik,kan,verre,van,Engels,spreken,.]
+4084:     [yes], unknown,    open, 'Ter',63    XP: []
+      Ik kan geen woord Duits spreken.
+      Ik kan geen enkel woord Duits spreken.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+4151:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom heeft geen kredietkaart of bankrekening.
+      Tom heeft geen kredietkaart of vs bankrekening.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+4154:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik kan helemaal geen Duits spreken.
+      Ik kan geen Duits en Italiaans spreken.
+

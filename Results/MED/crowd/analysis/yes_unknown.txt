@@ -1,0 +1,3563 @@
+155:     [yes], unknown,    open, 'Ter',57    XP: []
+      All the players were in defending position .
+      All the players were in position .
+
+Inconsistency in node types (entail/8)
+170:     [yes], unknown,      NA, 'Defected'  XP: _218118
+      Tom swims in pool every other day .
+      Tom swims every other day .
+
+184:     [yes], unknown,    open, 'Ter',6     XP: []
+      Every one but lazy Jim came .
+      Every one but Jim came .
+
+186:     [yes], unknown,    open, 'Ter',11    XP: []
+      Every one but Jim who was busy that day came .
+      Every one but Jim came .
+
+188:     [yes], unknown,    open, 'Ter',4     XP: []
+      Every one but Jim and his wives came .
+      Every one but Jim came .
+
+190:     [yes], unknown,    open, 'Ter',25    XP: []
+      There is a beautiful glass sculpture in the play ground .
+      There is a glass sculpture in the garden .
+
+197:     [yes], unknown,    open, 'Ter',48    XP: []
+      Brian bought a lipstick for her sister Kate .
+      Brian bought a lipstick for Kate .
+
+206:     [yes], unknown,    open, 'Ter',30    XP: []
+      She bought him a big dog .
+      She bought him a dog .
+
+297:     [yes], unknown,    open, 'Ter',56    XP: []
+      Some animals , such as lions , eat some animals .
+      Some animals , such as lions , eat meat .
+
+372:     [yes], unknown,    open, 'Ter',35    XP: []
+      All of their children were born in western Malaysia .
+      All of their children were born in Malaysia .
+
+394:     [yes], unknown,    open, 'Ter',64    XP: []
+      Tom has a few friends in Boston subuerbs .
+      Tom has a few friends in Boston .
+
+423:     [yes], unknown,    open, 'Lim',431   XP: []
+      Tom sprinkled some powdered sugar on the toast .
+      Tom sprinkled some sugar on the toast .
+
+425:     [yes], unknown,    open, 'Lim',431   XP: []
+      Tom sprinkled some brown sugar on the toast .
+      Tom sprinkled some sugar on the toast .
+
+428:     [yes], unknown,    open, 'Ter',12    XP: []
+      Tom goes jogging and yoga in the park every morning .
+      Tom goes jogging in the park every morning .
+
+454:     [yes], unknown,    open, 'Ter',45    XP: []
+      Winter does not look real without snow stones .
+      Winter does not look real without snow .
+
+480:     [yes], unknown,    open, 'Ter',80    XP: []
+      I drive to central Tokyo every day .
+      I drive to Tokyo every day .
+
+489:     [yes], unknown,    open, 'Ter',65    XP: []
+      Tom was wearing a blue cowboy hat .
+      Tom was wearing a cowboyhat .
+
+569:     [yes], unknown,    open, 'Ter',64    XP: []
+      Tom is facing a few serious problems to face exams .
+      Tom is facing a few serious problems .
+
+632:     [yes], unknown,    open, 'Ter',8     XP: []
+      He approached the boy reading a nice book .
+      He approached the boy reading a book .
+
+641:     [yes], unknown,    open, 'Lim',428   XP: []
+      I do some painting work for Tom from time to time .
+      I do some work for Tom from time to time .
+
+643:     [yes], unknown,    open, 'Ter',33    XP: []
+      Tom bought Mary some tasty chocolates and candies .
+      Tom bought Mary some chocolates .
+
+809:     [yes], unknown,    open, 'Ter',18    XP: []
+      It is not tea but coffee with milk that I want .
+      It is not tea but coffee that I want .
+
+820:     [yes], unknown,    open, 'Ter',25    XP: []
+      He bought her some Russian chocolates .
+      He bought her some chocolates .
+
+839:     [yes], unknown,    open, 'Ter',47    XP: []
+      I received a telegram that was about her boyfriend from her .
+      I received a telegram from her .
+
+853:     [yes], unknown,    open, 'Ter',35    XP: []
+      Aunt Millie is n't eating an apple .
+      Millie is n't eating an apple .
+
+855:     [yes], unknown,    open, 'Ter',35    XP: []
+      Old Millie is n't eating an apple .
+      Millie is n't eating an apple .
+
+922:     [yes], unknown,    open, 'Lim',430   XP: []
+      I was in New York with my boyfriend for a few days .
+      I was in New York city for a few days .
+
+924:     [yes], unknown,    open, 'Ter',59    XP: []
+      I was in New York country club for a few days .
+      I was in New York for a few days .
+
+931:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom can also speak some French and Spanish .
+      Tom can also speak some French .
+
+950:     [yes], unknown,    open, 'Ter',17    XP: []
+      Tom has a swiss bank account with no money .
+      Tom has a swiss bank account .
+
+966:     [yes], unknown,    open, 'Ter',30    XP: []
+      Vladivostok is a city in Russia nearby golden horn bay .
+      Vladivostok is a city in Russia .
+
+976:     [yes], unknown,    open, 'Ter',368   XP: []
+      Thursday , we will go to a house with a swimming pool .
+      Thursday , we will go to a swimming pool .
+
+986:     [yes], unknown,    open, 'Ter',20    XP: []
+      He did nothing yasterday but cry .
+      He did nothing but cry .
+
+Inconsistency in node types (entail/8)
+999:     [yes], unknown,      NA, 'Defected'  XP: _234048
+      Some large birds hunt and prey upon small birds and animals .
+      Some large birds prey upon small birds and animals .
+
+1007:     [yes], unknown,    open, 'Ter',43    XP: []
+      Women and men did n't care for him .
+      Women did n't care for him .
+
+1042:     [yes], unknown,    open, 'Ter',14    XP: []
+      Cold mayo is nothing but chemicals !
+      Mayo is nothing but chemicals !
+
+1052:     [yes], unknown,    open, 'Ter',5     XP: []
+      Every dog is a lion and a guard at home .
+      Every dog in the house is a lion at home .
+
+1060:     [yes], unknown,    open, 'Ter',14    XP: []
+      Passionate love is only an invention .
+      Love is only an invention .
+
+1092:     [yes], unknown,    open, 'Ter',21    XP: []
+      I want to buy a dozen doughnuts to give them to my mom .
+      I want to buy a dozen doughnuts .
+
+1094:     [yes], unknown,    open, 'Ter',134   XP: []
+      The spider is spinning a web on the wall of peter 's room .
+      The spider is spinning a net .
+
+Inconsistency in node types (entail/8)
+1120:     [yes], unknown,      NA, 'Defected'  XP: _41456
+      Tom drinks a glass of cold milk every morning .
+      Tom drinks milk every morning .
+
+Inconsistency in node types (entail/8)
+1122:     [yes], unknown,      NA, 'Defected'  XP: _450068
+      Tom drinks warmed up milk every morning .
+      Tom drinks milk every morning .
+
+1131:     [yes], unknown,    open, 'Ter',10    XP: []
+      The young girl Lucy ca n't use chopsticks .
+      Lucy can ’ s use chopsticks .
+
+1151:     [yes], unknown,    open, 'Ter',54    XP: []
+      She is anything but a soprano singer .
+      She is anything but a singer .
+
+1153:     [yes], unknown,    open, 'Ter',54    XP: []
+      She is anything but a famous singer .
+      She is anything but a singer .
+
+1157:     [yes], unknown,    open, 'Ter',20    XP: []
+      Susan made a dress for Jill to premiere on the day of her friend 's wedding .
+      Susan made a dress for Jill .
+
+1173:     [yes], unknown,    open, 'Ter',108   XP: []
+      There are some boys buying ice cream in the park .
+      There are some guys in the park .
+
+1175:     [yes], unknown,    open, 'Ter',102   XP: []
+      The hunter shot at a deer but missed .
+      The hunter shot a deer .
+
+1177:     [yes], unknown,    open, 'Ter',61    XP: []
+      The hunter shot at a medium size deer .
+      The hunter shot at a deer .
+
+1254:     [yes], unknown,    open, 'Ter',18    XP: []
+      I bought a gift and some flowers for Tom .
+      I bought a gift for Tom .
+
+1284:     [yes], unknown,    open, 'Ter',2     XP: []
+      I gave Tom a sedative and tea .
+      I gave Tom a sedative .
+
+1303:     [yes], unknown,    open, 'Ter',38    XP: []
+      You ca n't separate language from culture .
+      You ca n't separate language from dialect .
+
+1306:     [yes], unknown,    open, 'Lim',439   XP: []
+      I rarely catch a cold .
+      I rarely catch a cold lasting more than one week .
+
+1308:     [yes], unknown,    open, 'Ter',38    XP: []
+      I do n't want to argue about this in front of everybody .
+      I do n't want to argue about this in front of all these people .
+
+1309:     [yes], unknown,    open, 'Ter',22    XP: []
+      Alessia ca n't speak English .
+      Alessia ca n't speak fluent English .
+
+1311:     [yes], unknown,    open, 'Ter',17    XP: []
+      Alessia ca n't speak English .
+      Alessia ca n't speak English confidently .
+
+1313:     [yes], unknown,    open, 'Lim',411   XP: []
+      You 'll never finish translating sentences on Tatoeba .
+      You 'll never finish translating French sentences on Tatoeba .
+
+1315:     [yes], unknown,    open, 'Ter',366   XP: []
+      You 'll never finish translating sentences on Tatoeba .
+      You 'll never finish translating bigger sentences on Tatoeba .
+
+1319:     [yes], unknown,    open, 'Ter',8     XP: []
+      If students do n't come , the lesson does n't start .
+      If most of the students do n't come , the lesson does n't start .
+
+Inconsistency in node types (entail/8)
+1320:     [yes], unknown,      NA, 'Defected'  XP: _24432
+      If students do n't come , the lesson does n't start .
+      If us students do n't come , the lesson does n't start .
+
+1323:     [yes], unknown,    open, 'Lim',446   XP: []
+      Tom has never eaten raw horse meat .
+      Tom has never eaten raw American horse meat .
+
+1325:     [yes], unknown,    open, 'Lim',446   XP: []
+      Tom has never eaten raw horse meat .
+      Tom has never eaten raw adult horse meat .
+
+1327:     [yes], unknown,    open, 'Lim',445   XP: []
+      Tom has never eaten horse meat .
+      Tom has never eaten raw horse meat .
+
+1337:     [yes], unknown,    open, 'Ter',28    XP: []
+      Humans ca n't live on Mars .
+      Humans ca n't live on Martian soil .
+
+1354:     [yes], unknown,    open, 'Ter',45    XP: []
+      I do n't have a choice .
+      I do n't have an opportunity .
+
+1364:     [yes], unknown,    open, 'Ter',33    XP: []
+      Chris did n't have a car .
+      Chris did n't have a proper car for that kind of driving .
+
+1366:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom does n't make mistakes .
+      Tom does n't make any mistakes .
+
+1367:     [yes], unknown,    open, 'Ter',46    XP: []
+      Tom does n't make mistakes .
+      Tom does n't make any types of mistakes .
+
+1374:     [yes], unknown,    open, 'Ter',50    XP: []
+      Tom does n't want an IPad .
+      Tom does n't want an apple IPhone .
+
+1376:     [yes], unknown,    open, 'Ter',58    XP: []
+      Tom does n't want an apple product .
+      Tom does n't want an IPad .
+
+1377:     [yes], unknown,    open, 'Ter',54    XP: []
+      Tom does n't want an IPad , but he wants a portable device that supports flash .
+      Tom does n't want an iproduct , but he wants a portable device that supports flash .
+
+1380:     [yes], unknown,    open, 'Ter',33    XP: []
+      I have no more ideas .
+      I have no better ideas anymore .
+
+1383:     [yes], unknown,    open, 'Ter',29    XP: []
+      I have no more ideas .
+      I have no more important ideas .
+
+1389:     [yes], unknown,    open, 'Ter',38    XP: []
+      No wedding would be complete without a fight with a partner .
+      No wedding would be complete without a fight .
+
+1391:     [yes], unknown,    open, 'Lim',717   XP: []
+      He has no interest in politics .
+      He has no desire in politics .
+
+1396:     [yes], unknown,    open, 'Lim',438   XP: []
+      He has no interest in politics .
+      He does not have any interest in politics .
+
+1397:     [yes], unknown,    open, 'Ter',44    XP: []
+      Tom has no wish to study .
+      Tom has no desire to study .
+
+1398:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you have a question , please raise your right hand .
+      If you have a proper question , please raise your right hand .
+
+1399:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you have a question , please raise your right hand .
+      If you have a question not resolved , please raise your right hand .
+
+1400:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you have a question , please raise your right hand .
+      If you have a good question , please raise your right hand .
+
+Inconsistency in node types (entail/8)
+1401:     [yes], unknown,      NA, 'Defected'  XP: _174142
+      If you have a question , please raise your right hand .
+      If you want to ask a question , please raise your right hand .
+
+1402:     [yes], unknown,    open, 'Lim',417   XP: []
+      Tom does n't actually live within Boston city limits .
+      Tom does n't actually live within Boston city area .
+
+1407:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom will probably never go to Boston again .
+      Tom will probably never go to Boston stadium for the game again .
+
+1415:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom seldom wears a hat .
+      Tom seldom wears a big hat .
+
+1417:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom seldom wears a hat .
+      Tom seldom wears a black cowboy hat .
+
+1419:     [yes], unknown,    open, 'Lim',404   XP: []
+      He believed that blacks could win their fight for equal rights without violence .
+      He believed that blacks could win their fight for equal rights without generalized violence .
+
+1421:     [yes], unknown,    open, 'Ter',161   XP: []
+      He believed that blacks could win their fight for equal rights without violence .
+      He believed that blacks could win their fight for equal rights without any serious violence .
+
+1423:     [yes], unknown,    open, 'Lim',404   XP: []
+      He believed that blacks could win their fight for equal rights without violence .
+      He believed that blacks could win their fight for equal rights without using violence .
+
+1424:     [yes], unknown,    open, 'Ter',303   XP: []
+      He believed that blacks could win their fight for equal rights without violence .
+      He believed that blacks could win their fight for equal rights without violence and rioting .
+
+1426:     [yes], unknown,    open, 'Lim',404   XP: []
+      He believed that blacks could win their fight for equal rights without violence .
+      He believed that blacks could win their fight for equal rights without widespread violence .
+
+1434:     [yes], unknown,    open, 'Ter',35    XP: []
+      Tom does n't like to eat fish .
+      Tom does n't like to eat fish cooked in restaurants .
+
+1438:     [yes], unknown,    open, 'Ter',28    XP: []
+      She is no longer a baby .
+      She is no longer a little baby .
+
+1440:     [yes], unknown,    open, 'Ter',28    XP: []
+      She is no longer a baby .
+      She is no longer a young baby .
+
+1442:     [yes], unknown,    open, 'Ter',27    XP: []
+      She is no longer a baby .
+      She is no longer a baby wearing diapers .
+
+1444:     [yes], unknown,    open, 'Ter',28    XP: []
+      She is no longer a baby .
+      She is no longer a baby with a pacifier .
+
+1445:     [yes], unknown,    open, 'Ter',28    XP: []
+      She is no longer a baby .
+      She is no longer a screaming baby .
+
+1448:     [yes], unknown,    open, 'Ter',102   XP: []
+      I do n't want to get a full denture .
+      I do n't want to get a full teeth replacement .
+
+1449:     [yes], unknown,    open, 'Ter',102   XP: []
+      I do n't want to get a full denture .
+      I do n't want to get a full teeth change .
+
+1454:     [yes], unknown,    open, 'Lim',800   XP: []
+      The talk between labor and management yielded no definite results .
+      The talk between labor and management yielded no definite final .
+
+1455:     [yes], unknown,    open, 'Lim',800   XP: []
+      The talk between labor and management yielded no definite results .
+      The talk between labor and management yielded no definite agreements .
+
+1456:     [yes], unknown,    open, 'Lim',800   XP: []
+      The talk between labor and management yielded no definite results .
+      The talk between labor and management yielded no definite earnings .
+
+1457:     [yes], unknown,    open, 'Ter',121   XP: []
+      Most people do n't drink enough water .
+      Most people do n't drink enough liquids .
+
+1459:     [yes], unknown,    open, 'Ter',43    XP: []
+      I do n't like English .
+      I do n't like British English .
+
+1461:     [yes], unknown,    open, 'Ter',43    XP: []
+      I do n't like English .
+      I do n't like American English .
+
+1467:     [yes], unknown,    open, 'Lim',461   XP: []
+      She has never fallen in love .
+      She has never fallen in great love .
+
+1468:     [yes], unknown,    open, 'Lim',461   XP: []
+      She has never fallen in love .
+      She has never fallen in awesome love .
+
+1471:     [yes], unknown,    open, 'Lim',402   XP: []
+      Doctors refused to perform a second operation .
+      Doctors refused to perform a second health operation .
+
+1472:     [yes], unknown,    open, 'Lim',402   XP: []
+      Doctors refused to perform a second operation .
+      Doctors refused to perform a second stomach operation .
+
+1490:     [yes], unknown,    open, 'Ter',59    XP: []
+      Petrol is no longer a cheap fuel .
+      Petrol is no longer a cheap car fuel .
+
+1492:     [yes], unknown,    open, 'Ter',59    XP: []
+      Petrol is no longer a cheap fuel .
+      Petrol is no longer a cheap liquid fuel .
+
+1494:     [yes], unknown,    open, 'Ter',59    XP: []
+      Petrol is no longer a cheap fuel .
+      Petrol is no longer a cheap available fuel .
+
+1497:     [yes], unknown,    open, 'Ter',31    XP: []
+      Petrol is no longer a cheap fuel .
+      Petrol is no longer a cheap fossil .
+
+1498:     [yes], unknown,    open, 'Ter',59    XP: []
+      Petrol is no longer a cheap fuel .
+      Petrol is no longer a cheap powerful fuel .
+
+1520:     [yes], unknown,    open, 'Ter',33    XP: []
+      Most people do n't like hospitals .
+      Most people do n't like clinic .
+
+1521:     [yes], unknown,    open, 'Ter',19    XP: []
+      She is only a child .
+      She is only a child with special need .
+
+1522:     [yes], unknown,    open, 'Ter',18    XP: []
+      She is only a child .
+      She is only a little girl .
+
+1523:     [yes], unknown,    open, 'Ter',24    XP: []
+      She is only a child .
+      She is only a strange child .
+
+1524:     [yes], unknown,    open, 'Ter',47    XP: []
+      This medicine has no harmful side-effects .
+      This medicine has no harmful side-effects against the person .
+
+1530:     [yes], unknown,      NA, 'Defected'  XP: []
+      My sister does n't have a car .
+      My sister does n't have an auto .
+
+1537:     [yes], unknown,    open, 'Ter',29    XP: []
+      I do n't want to be a hero .
+      I do n't want to be a heroine .
+
+1542:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you want peace , prepare for war .
+      If you want more peace , prepare for war .
+
+1543:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you want peace , prepare for war .
+      If you want strong peace , prepare for war .
+
+1544:     [yes], unknown,    open, 'Lim',423   XP: []
+      Here is a list of things you should avoid eating .
+      Here is a great list of things you should avoid eating .
+
+1545:     [yes], unknown,    open, 'Lim',423   XP: []
+      Here is a list of things you should avoid eating .
+      Here is a short list of things you should avoid eating .
+
+1546:     [yes], unknown,    open, 'Lim',423   XP: []
+      Here is a list of things you should avoid eating .
+      Here is a big list of things you should avoid eating .
+
+1547:     [yes], unknown,    open, 'Lim',423   XP: []
+      Here is a list of things you should avoid eating .
+      Here is a small list of things you should avoid eating .
+
+1555:     [yes], unknown,    open, 'Lim',415   XP: []
+      Sida does not take any new decisions on support to projects in the baltic states .
+      Sida does not take any new decisions on real support to projects in the baltic states .
+
+1556:     [yes], unknown,    open, 'Lim',415   XP: []
+      Sida does not take any new decisions on support to projects in the baltic states .
+      Sida does not take any new decisions on feasible support to projects in the baltic states .
+
+1557:     [yes], unknown,    open, 'Lim',415   XP: []
+      Sida does not take any new decisions on support to projects in the baltic states .
+      Sida does not take any new decisions on reasonable support to projects in the baltic states .
+
+1558:     [yes], unknown,    open, 'Lim',415   XP: []
+      Sida does not take any new decisions on support to projects in the baltic states .
+      Sida does not take any new decisions on economic support to projects in the baltic states .
+
+1559:     [yes], unknown,    open, 'Lim',415   XP: []
+      Sida does not take any new decisions on support to projects in the baltic states .
+      Sida does not take any new decisions on gathering support to projects in the baltic states .
+
+1560:     [yes], unknown,    open, 'Lim',415   XP: []
+      Sida does not take any new decisions on support to projects in the baltic states .
+      Sida does not take any new decisions on military support to projects in the baltic states .
+
+1567:     [yes], unknown,    open, 'Ter',48    XP: []
+      We did n't expect guests .
+      We did n't expect visitors .
+
+1568:     [yes], unknown,    open, 'Ter',45    XP: []
+      We did n't expect guests .
+      We did n't expect aliens .
+
+1570:     [yes], unknown,    open, 'Ter',60    XP: []
+      We did n't expect guests .
+      We did n't expect arrival of guests .
+
+1574:     [yes], unknown,    open, 'Ter',29    XP: []
+      I do n't like spring .
+      I do n't like when comes spring .
+
+1577:     [yes], unknown,    open, 'Lim',443   XP: []
+      Some food is pretty bland without salt .
+      Some food is pretty bland without salt found in the sea .
+
+1579:     [yes], unknown,    open, 'Ter',24    XP: []
+      You 're in no danger .
+      You 're in no dangerous situation .
+
+1580:     [yes], unknown,    open, 'Ter',24    XP: []
+      You 're in no danger .
+      You 're in no dangerous place .
+
+1584:     [yes], unknown,    open, 'Ter',38    XP: []
+      I ca n't stand arugula or any bitter greens .
+      I ca n't stand leafy vegetable or any bitter greens .
+
+1587:     [yes], unknown,    open, 'Ter',46    XP: []
+      Tom was n't allowed to visit his father in prison .
+      Tom was n't allowed to visit his father in jail .
+
+1596:     [yes], unknown,    open, 'Ter',17    XP: []
+      I 'd never wear a shell suit .
+      I would never wear a shell costume .
+
+1597:     [yes], unknown,    open, 'Ter',76    XP: []
+      I 'd never wear a shell suit .
+      I 'd never wear a shell suit in the beach .
+
+1599:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you change a sentence that already has some translations , please warn the authors of the translations about it .
+      If you change a meaning that already has some translations , please warn the authors of the translations about it .
+
+Inconsistency in node types (entail/8)
+1600:     [yes], unknown,      NA, 'Defected'  XP: _291530
+      If you change a sentence that already has some translations , please warn the authors of the translations about it .
+      If you change this kind of sentence that already has some translations , please warn the authors of the translations about it .
+
+1601:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you change a sentence that already has some translations , please warn the authors of the translations about it .
+      If you change a sentence in this text , that already has some translations , please warn the authors of the translations about it .
+
+1602:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you change a sentence that already has some translations , please warn the authors of the translations about it .
+      If you change a sentence order that already has some translations , please warn the authors of the translations about it .
+
+1603:     [yes], unknown,    open, 'Ter',107   XP: []
+      I like all vegetables except cabbage .
+      I like all vegetables except green cabbage .
+
+1605:     [yes], unknown,    open, 'Ter',145   XP: []
+      I like all vegetables except cabbage .
+      I like all vegetables except cabbage on my salad .
+
+1607:     [yes], unknown,    open, 'Ter',63    XP: []
+      I like all vegetables except cabbage .
+      I like all vegetables except cabbagehead .
+
+1609:     [yes], unknown,    open, 'Ter',107   XP: []
+      I like all vegetables except cabbage .
+      I like all vegetables except mini cabbage .
+
+1614:     [yes], unknown,    open, 'Ter',92    XP: []
+      Tom did n't want to work overtime on Christmas Eve .
+      Tom did n't want to work overtime tomorrow on Christmas Eve .
+
+1615:     [yes], unknown,    open, 'Ter',45    XP: []
+      Tom did n't want to work overtime on Christmas Eve .
+      Tom did n't want to work outside of your schedule on Christmas Eve .
+
+1617:     [yes], unknown,    open, 'Ter',61    XP: []
+      Tom did n't want to work overtime on Christmas Eve .
+      Tom did n't want to work overtime for many hours on Christmas Eve .
+
+1623:     [yes], unknown,    open, 'Ter',35    XP: []
+      Tom did n't like living in Boston .
+      Tom did n't like living in the city of Boston .
+
+1625:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom did n't like living in Boston .
+      Tom did n't like living in the bustling Boston .
+
+1626:     [yes], unknown,    open, 'Ter',43    XP: []
+      Tom did n't like living in Boston .
+      Tom did n't like living in the cold city of Boston .
+
+1630:     [yes], unknown,    open, 'Ter',28    XP: []
+      Tom did n't like living in Boston .
+      Tom did n't like living in Boston alone .
+
+1634:     [yes], unknown,    open, 'Ter',140   XP: []
+      The catholic church does n't condone the use of condoms .
+      The catholic church does n't condone the use of any type of condoms .
+
+1642:     [yes], unknown,    open, 'Ter',53    XP: []
+      Tom had no options left .
+      Tom had no easy options left .
+
+1644:     [yes], unknown,    open, 'Lim',413   XP: []
+      Tom had no options left .
+      Tom had no career options left .
+
+1646:     [yes], unknown,    open, 'Ter',155   XP: []
+      Tom had no options left .
+      Tom had no options or solutions left .
+
+1658:     [yes], unknown,    open, 'Ter',82    XP: []
+      A good tree ca n't bear bad fruits .
+      A good tree ca n't bear bad fruits if you care about it .
+
+1662:     [yes], unknown,    open, 'Ter',4     XP: []
+      He had no place to live .
+      He had no space to live .
+
+1663:     [yes], unknown,    open, 'Ter',4     XP: []
+      He had no place to live .
+      He had no place in this city to live .
+
+1665:     [yes], unknown,    open, 'Ter',9     XP: []
+      He had no place to live .
+      He had no place in this town to live .
+
+1667:     [yes], unknown,    open, 'Ter',66    XP: []
+      Tom is , without question , the best man for the job .
+      Tom is , without any question , the best man for the job .
+
+1668:     [yes], unknown,    open, 'Ter',159   XP: []
+      Tom is , without question , the best man for the job .
+      Tom is , without question at all , the best man for the job .
+
+1670:     [yes], unknown,    open, 'Ter',64    XP: []
+      Tom is , without question , the best man for the job .
+      Tom is , without any question at all , the best man for the job .
+
+1671:     [yes], unknown,    open, 'Ter',166   XP: []
+      Tom is , without question , the best man for the job .
+      Tom is , without question and certainly , the best man for the job .
+
+1675:     [yes], unknown,    open, 'Ter',23    XP: []
+      I ca n't talk to girls .
+      I ca n't talk to her .
+
+1676:     [yes], unknown,    open, 'Ter',32    XP: []
+      I ca n't talk to girls .
+      I ca n't talk to women .
+
+1680:     [yes], unknown,    open, 'Ter',160   XP: []
+      Mary said that she does n't pick guys for their looks .
+      Mary said that she does n't pick guys and friends for their looks .
+
+1682:     [yes], unknown,    open, 'Ter',36    XP: []
+      I have never been to that town .
+      I have never been to that city .
+
+1683:     [yes], unknown,    open, 'Ter',36    XP: []
+      I have never been to that town .
+      I have never been to that place .
+
+1684:     [yes], unknown,    open, 'Ter',71    XP: []
+      I had never before seen this species of fish .
+      I had never before seen this species of fish with that green color .
+
+1686:     [yes], unknown,    open, 'Lim',431   XP: []
+      I had never before seen this species of fish .
+      I had never before seen this species of fish in museum .
+
+1688:     [yes], unknown,    open, 'Ter',37    XP: []
+      If it is fine tomorrow , we 'll go on a picnic .
+      If it is fine tomorrow morning , we 'll go on a picnic .
+
+1696:     [yes], unknown,      NA, 'Defected'  XP: []
+      I do n't work on Sundays .
+      I do n't work on Sundays because i rest all day .
+
+1697:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom seldom listens to music at home .
+      Tom seldom listens to music at his new home .
+
+1702:     [yes], unknown,    open, 'Ter',42    XP: []
+      She has no real friends .
+      She has no real partners .
+
+1712:     [yes], unknown,      NA, 'Defected'  XP: []
+      He ca n't make a decision .
+      He ca n't make a decision that matters .
+
+1726:     [yes], unknown,    open, 'Ter',50    XP: []
+      Tom did n't really enjoy studying French .
+      Tom did n't really enjoy studying French language .
+
+1727:     [yes], unknown,    open, 'Ter',47    XP: []
+      Tom did n't really enjoy studying French .
+      Tom did n't really enjoy studying French that is studied by advanced learners .
+
+1735:     [yes], unknown,    open, 'Ter',64    XP: []
+      I do n't play cards .
+      I do n't play the game of cards .
+
+1743:     [yes], unknown,    open, 'Ter',123   XP: []
+      Winners do n't use drugs .
+      Winners do n't use any solid drugs .
+
+1747:     [yes], unknown,    open, 'Ter',150   XP: []
+      Tom says he has never tried eating whale meat .
+      Tom says he has never tried eating whale meat in his life .
+
+1758:     [yes], unknown,    open, 'Ter',115   XP: []
+      You do n't understand British humour .
+      You do n't understand British humour or idioms .
+
+1759:     [yes], unknown,    open, 'Lim',438   XP: []
+      No need to translate this text , i already have its Spanish version .
+      No further need to translate this text , i already have its Spanish version .
+
+1762:     [yes], unknown,    open, 'Ter',18    XP: []
+      I do n't want trouble .
+      I want to avoid problems .
+
+1763:     [yes], unknown,    open, 'Ter',36    XP: []
+      We can talk here , no problem .
+      We can talk here , no problem and start talking .
+
+1764:     [yes], unknown,    open, 'Ter',2     XP: []
+      We can talk here , no problem .
+      We can talk here , no problem and i 'm all ears .
+
+1765:     [yes], unknown,    open, 'Ter',359   XP: []
+      I seldom go to a library .
+      I seldom go to a public library .
+
+1770:     [yes], unknown,    open, 'Ter',4     XP: []
+      Mr. Thomas had no objection to mr. white being elected chairman .
+      Mr. Thomas had no true objection to mr. white being elected chairman .
+
+1771:     [yes], unknown,    open, 'Ter',71    XP: []
+      Mr. Thomas had no objection to mr. white being elected chairman .
+      Mr. Thomas had no problems to mr. white being elected chairman .
+
+1772:     [yes], unknown,    open, 'Ter',32    XP: []
+      Mr. Thomas had no objection to mr. white being elected chairman .
+      Mr. Thomas had no objection at all to mr. white being elected chairman .
+
+1773:     [yes], unknown,    open, 'Ter',21    XP: []
+      I ca n't wait for school to start .
+      I ca n't wait for high school to start .
+
+1775:     [yes], unknown,    open, 'Ter',174   XP: []
+      He had to go without food for days .
+      He had to go without any food for days .
+
+1784:     [yes], unknown,    open, 'Ter',28    XP: []
+      You ca n't have a conversation without an interlocutor .
+      You ca n't have a conversation only without an interlocutor .
+
+1786:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom seldom eats Italian food .
+      Tom seldom eats Italian cuisine .
+
+1787:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom seldom eats Italian food .
+      Tom seldom eats Italian spicy food .
+
+1790:     [yes], unknown,    open, 'Ter',70    XP: []
+      I do n't like spoiled children .
+      I do n't like spoiled offsprings .
+
+1791:     [yes], unknown,    open, 'Ter',434   XP: []
+      I have n't used anki in a week and now i have 500 flashcards due .
+      I have n't used anki device in a week and now i have 500 flashcards due .
+
+1797:     [yes], unknown,    open, 'Ter',35    XP: []
+      England expects that every man will do his duty .
+      England expects that every male will do his duty .
+
+1811:     [yes], unknown,    open, 'Ter',13    XP: []
+      Every body is busy except me .
+      Every body here is busy except me .
+
+1813:     [yes], unknown,    open, 'Ter',264   XP: []
+      He makes no disguise of his feelings .
+      He makes no disguise at all of his feelings .
+
+1821:     [yes], unknown,      NA, 'Defected'  XP: []
+      You ca n't park in front of my house on weekends .
+      You ca n't park in front of my house on winter weekends .
+
+1823:     [yes], unknown,      NA, 'Defected'  XP: []
+      You ca n't park in front of my house on weekends .
+      You ca n't park in front of my house on holiday weekends .
+
+1833:     [yes], unknown,    open, 'Ter',48    XP: []
+      You are not a child anymore .
+      You are not a child with no responsibilities anymore .
+
+1836:     [yes], unknown,    open, 'Ter',34    XP: []
+      I do n't like his taste in color .
+      I do n't like his taste in any color .
+
+1837:     [yes], unknown,    open, 'Ter',48    XP: []
+      She said that she takes a shower every morning .
+      She said that she takes a shower every sunny morning .
+
+1839:     [yes], unknown,    open, 'Ter',48    XP: []
+      She said that she takes a shower every morning .
+      She said that she takes a shower every late morning .
+
+1848:     [yes], unknown,    open, 'Ter',53    XP: []
+      We do n't make mistakes .
+      We do n't make mistakes ever .
+
+1851:     [yes], unknown,    open, 'Ter',28    XP: []
+      We do n't have enough information yet to make a decision .
+      We do n't have enough verified information yet to make a decision .
+
+1857:     [yes], unknown,    open, 'Ter',36    XP: []
+      Chen is not a businessperson .
+      Chen is not a businessperson or self-employed .
+
+1858:     [yes], unknown,    open, 'Ter',81    XP: []
+      He runs to the station every morning .
+      He runs to the station every early in the morning .
+
+1860:     [yes], unknown,    open, 'Ter',67    XP: []
+      He runs to the station every morning .
+      He runs to the station every morning with his friends .
+
+1868:     [yes], unknown,    open, 'Ter',29    XP: []
+      Tom says that he 's never tried eating dog food .
+      Tom says that he 's never tried eating dog food in his life .
+
+1869:     [yes], unknown,    open, 'Lim',403   XP: []
+      Tom says that he 's never tried eating dog food .
+      Tom says that he 's never tried eating mushy dog food .
+
+1870:     [yes], unknown,    open, 'Lim',403   XP: []
+      Tom says that he 's never tried eating dog food .
+      Tom says that he 's never tried eating dry dog-food .
+
+1872:     [yes], unknown,    open, 'Ter',72    XP: []
+      Tom says that he 's never tried eating dog food .
+      Tom says that he 's never tried eating dog food for breakfast .
+
+1878:     [yes], unknown,    open, 'Ter',49    XP: []
+      The world court has no power to enforce its orders but its decisions have traditionally carried some diplomatic weight .
+      The world court has no assets to enforce its orders but its decisions have traditionally carried some diplomatic weight .
+
+1879:     [yes], unknown,    open, 'Ter',49    XP: []
+      The world court has no power to enforce its orders but its decisions have traditionally carried some diplomatic weight .
+      The world court has no watt to enforce its orders but its decisions have traditionally carried some diplomatic weight .
+
+1880:     [yes], unknown,    open, 'Ter',25    XP: []
+      The park is busy every season .
+      The park is busy every season in the afternoon .
+
+1882:     [yes], unknown,    open, 'Ter',25    XP: []
+      The park is busy every season .
+      The park is busy every season of the year .
+
+1883:     [yes], unknown,    open, 'Ter',25    XP: []
+      The park is busy every season .
+      The park is busy every tourist season .
+
+1885:     [yes], unknown,    open, 'Ter',25    XP: []
+      The park is busy every season .
+      The park is busy every cold season .
+
+1894:     [yes], unknown,    open, 'Ter',55    XP: []
+      Tom really leads no easy life .
+      Tom really leads no easy life all those years .
+
+1896:     [yes], unknown,    open, 'Ter',242   XP: []
+      Tom really leads no easy life .
+      Tom really leads no easy life of his own .
+
+1897:     [yes], unknown,    open, 'Ter',222   XP: []
+      Tom really leads no easy life .
+      Tom really leads no easy life unlike others .
+
+1905:     [yes], unknown,    open, 'Ter',25    XP: []
+      This soup has no substance .
+      This soup has no vegetable .
+
+1918:     [yes], unknown,    open, 'Ter',16    XP: []
+      I can not speak German .
+      I can not speak German very well .
+
+1920:     [yes], unknown,    open, 'Ter',18    XP: []
+      I can not speak German .
+      I can not speak German out of the college .
+
+1923:     [yes], unknown,    open, 'Ter',43    XP: []
+      I do n't speak Catalan .
+      I do n't speak native Catalan .
+
+1925:     [yes], unknown,    open, 'Ter',44    XP: []
+      I do n't speak Catalan .
+      I do n't speak catalan at all .
+
+1926:     [yes], unknown,    open, 'Ter',43    XP: []
+      I do n't speak Catalan .
+      I do n't speak correct Catalan .
+
+1928:     [yes], unknown,    open, 'Lim',400   XP: []
+      There is a library in every city in America .
+      There is a library in every corner in every city in America .
+
+1935:     [yes], unknown,    open, 'Ter',11    XP: []
+      If today was Sunday , I would go fishing .
+      If this day was Sunday , I would go fishing .
+
+1936:     [yes], unknown,    open, 'Ter',11    XP: []
+      If today was Sunday , I would go fishing .
+      If this beautiful day was Sunday , I would go fishing .
+
+1938:     [yes], unknown,    open, 'Ter',73    XP: []
+      I wish you all a Merry Christmas and a Happy New Year .
+      I sincerely wish you all a Merry Christmas and a Happy New Year .
+
+1939:     [yes], unknown,    open, 'Ter',67    XP: []
+      I wish you all a Merry Christmas and a Happy New Year .
+      I wish you all a joy , a Merry Christmas and a Happy New Year .
+
+1945:     [yes], unknown,    open, 'Lim',413   XP: []
+      Scientists have n't found a vaccine for cancer yet .
+      Scientists have n't found a cure for cancer yet .
+
+1948:     [yes], unknown,    open, 'Lim',413   XP: []
+      Scientists have n't found a vaccine for cancer yet .
+      Scientists have n't found a vaccine and medicine for cancer yet .
+
+1950:     [yes], unknown,    open, 'Lim',451   XP: []
+      I never had a girlfriend before .
+      I never had a blonde girlfriend begore .
+
+1952:     [yes], unknown,    open, 'Lim',464   XP: []
+      I never had a girlfriend before .
+      I never had an yellow haired girlfriend before .
+
+1954:     [yes], unknown,    open, 'Lim',473   XP: []
+      I never had a girlfriend before .
+      I never had a girlfriend taller than me before .
+
+1956:     [yes], unknown,    open, 'Lim',468   XP: []
+      I never had a girlfriend before .
+      I never had a girlfriend in high school before .
+
+1958:     [yes], unknown,    open, 'Ter',42    XP: []
+      I 've never flown in an airplane .
+      I 've never flown in an airplane because i 'm afraid .
+
+1959:     [yes], unknown,    open, 'Ter',42    XP: []
+      I 've never flown in an airplane .
+      I 've never flown in an airplane because there was no money for a ticket .
+
+1960:     [yes], unknown,    open, 'Lim',474   XP: []
+      He will never yield to the pressure of a politician .
+      He will never yield to the pressure of a democrats politician .
+
+1962:     [yes], unknown,    open, 'Lim',474   XP: []
+      He will never yield to the pressure of a politician .
+      He will never yield to the pressure of a dishonest politician .
+
+1971:     [yes], unknown,    open, 'Ter',66    XP: []
+      My father takes a walk every morning .
+      My father takes a walk every sunny morning .
+
+1973:     [yes], unknown,    open, 'Ter',60    XP: []
+      My father takes a walk every morning .
+      My father takes a walk every day .
+
+Inconsistency in node types (entail/8)
+1975:     [yes], unknown,      NA, 'Defected'  XP: _24694
+      Some people quarrel for no reason at all .
+      Some people quarrel for no reason whatever .
+
+1976:     [yes], unknown,    open, 'Lim',478   XP: []
+      Some people quarrel for no reason at all .
+      Some people quarrel for no reason sometimes .
+
+1978:     [yes], unknown,    open, 'Ter',594   XP: []
+      Some people quarrel for no reason at all .
+      Some people quarrel for no reason anytime .
+
+1979:     [yes], unknown,    open, 'Lim',770   XP: []
+      Some people quarrel for no reason at all .
+      Some people quarrel for no reason for ever .
+
+1980:     [yes], unknown,    open, 'Ter',14    XP: []
+      That boy showed no fear .
+      That boy showed no grain of fear .
+
+1990:     [yes], unknown,    open, 'Ter',39    XP: []
+      The problem is not worth consideration .
+      The problem is not worth my consideration at all .
+
+1991:     [yes], unknown,    open, 'Ter',55    XP: []
+      The problem is not worth consideration .
+      The problem is not worth your consideration .
+
+1993:     [yes], unknown,    open, 'Ter',17    XP: []
+      It 's not written in French .
+      It 's not written in difficult French .
+
+1995:     [yes], unknown,    open, 'Ter',17    XP: []
+      It 's not written in French .
+      It 's not written in readable French .
+
+1996:     [yes], unknown,    open, 'Ter',18    XP: []
+      It 's not written in readable French .
+      It 's not written in French .
+
+1997:     [yes], unknown,    open, 'Ter',19    XP: []
+      You need n't have bought that book .
+      You need n't have bought that book from that bookstore .
+
+1999:     [yes], unknown,    open, 'Ter',4     XP: []
+      You need n't have bought that book .
+      You need n't have bought that book , you already have many books .
+
+2000:     [yes], unknown,    open, 'Ter',109   XP: []
+      He said that he takes a walk in the park every morning .
+      He said that he takes a walk in the park every sunny or cloudless morning .
+
+2002:     [yes], unknown,    open, 'Ter',42    XP: []
+      If Esperanto were an easy language I would n't need a proofreader .
+      If Esperanto were an easy language I would n't need a proofreader or a translator .
+
+2003:     [yes], unknown,    open, 'Ter',30    XP: []
+      If Esperanto were an easy language I would n't need a proofreader .
+      If Esperanto were an easy language I would n't need a proofreader to help me .
+
+2005:     [yes], unknown,    open, 'Ter',33    XP: []
+      If Esperanto were an easy language I would n't need a proofreader .
+      If Esperanto were an easy language I would n't need a proofreader to learn it .
+
+2006:     [yes], unknown,    open, 'Ter',33    XP: []
+      If Esperanto were an easy language I would n't need a proofreader .
+      If Esperanto were an easy language I would n't need a proofreader to write it .
+
+2011:     [yes], unknown,    open, 'Ter',100   XP: []
+      There is no actual accounting for taste .
+      There is no accounting for taste .
+
+2012:     [yes], unknown,    open, 'Ter',58    XP: []
+      He reads the paper every morning .
+      He reads the paper every Monday morning .
+
+2014:     [yes], unknown,    open, 'Ter',52    XP: []
+      Tom is n't studying French now .
+      Tom is n't studying old French language now .
+
+2016:     [yes], unknown,    open, 'Ter',50    XP: []
+      Tom is n't studying French now .
+      Tom is n't studying French dialect now .
+
+2018:     [yes], unknown,    open, 'Ter',22    XP: []
+      She reads the newspaper every morning .
+      She reads the newspaper every morning at 8 am .
+
+2019:     [yes], unknown,    open, 'Ter',46    XP: []
+      She reads the newspaper every morning .
+      She reads the newspaper every morning with a cup of tea .
+
+2028:     [yes], unknown,    open, 'Ter',47    XP: []
+      Tom does n't live in Boston .
+      Tom does n't live in west Boston .
+
+2032:     [yes], unknown,    open, 'Ter',135   XP: []
+      The civilian unrest is showing no signs of abating .
+      The civilian unrest does not come down .
+
+2041:     [yes], unknown,    open, 'Ter',46    XP: []
+      We could n't have wished for a better start of things .
+      We could n't have wished for a better start of education .
+
+2042:     [yes], unknown,    open, 'Ter',24    XP: []
+      I do n't like to post photos on facebook .
+      I do n't like to post photos on facebook because I do n't known who 's looking .
+
+2048:     [yes], unknown,    open, 'Ter',76    XP: []
+      I 've never seen a live whale .
+      I 've never seen a live whale in water .
+
+2050:     [yes], unknown,    open, 'Lim',408   XP: []
+      I 've never seen a live whale .
+      I 've never seen a live white whale .
+
+2052:     [yes], unknown,    open, 'Lim',408   XP: []
+      I 've never seen a live whale .
+      I 've never seen a live baby whale .
+
+2054:     [yes], unknown,    open, 'Ter',35    XP: []
+      I do n't like to wash dishes .
+      I do n't like to wash plates .
+
+2067:     [yes], unknown,    open, 'Ter',54    XP: []
+      I do n't waste good ammunition .
+      I do n't waste ammunition .
+
+2071:     [yes], unknown,    open, 'Lim',410   XP: []
+      I just want to live simply and happily , without troubles .
+      I just want to live simply and happily , without big problems .
+
+2072:     [yes], unknown,    open, 'Ter',151   XP: []
+      Such a plan can hardly succeed .
+      Such a difficult plan can hardly succeed .
+
+2074:     [yes], unknown,    open, 'Ter',6     XP: []
+      A car , you say ! he ca n't even afford to buy a sack of onions .
+      A car , you say ! he ca n't even afford to buy a carrier bag of onions .
+
+2075:     [yes], unknown,    open, 'Lim',419   XP: []
+      Every early in the morning that woman used to go to the beach and run three miles .
+      Every early morning that woman used to go to the beach and run three miles .
+
+2077:     [yes], unknown,    open, 'Ter',9     XP: []
+      Every morning that woman used to go to the beach and run three miles .
+      Every day that woman used to go to the beach and run three miles .
+
+2083:     [yes], unknown,    open, 'Lim',714   XP: []
+      She has no sense of humor .
+      She has no meaning of humor .
+
+2084:     [yes], unknown,    open, 'Ter',300   XP: []
+      I do n't have much interest in cooking .
+      I do n't have much interest or encourage in cooking .
+
+2094:     [yes], unknown,    open, 'Ter',80    XP: []
+      John and fred do n't play in a musical band .
+      John and fred do n't play in a band .
+
+2099:     [yes], unknown,    open, 'Ter',17    XP: []
+      I could n't remember the title of that song .
+      I could n't remember the name of that wonderful song .
+
+2102:     [yes], unknown,    open, 'Ter',68    XP: []
+      I do n't really like horses .
+      I do n't really like small and slow horses .
+
+2104:     [yes], unknown,    open, 'Ter',68    XP: []
+      I do n't really like horses .
+      I do n't really like black and tall horses .
+
+2106:     [yes], unknown,    open, 'Ter',38    XP: []
+      I do n't really like horses .
+      I do n't really like wild horses .
+
+2112:     [yes], unknown,    open, 'Ter',292   XP: []
+      The author does n't display much talent in his book .
+      The author does n't display much of his talent in his book .
+
+2117:     [yes], unknown,    open, 'Ter',4     XP: []
+      Every crime must be punished .
+      Every criminals must be punished .
+
+2123:     [yes], unknown,    open, 'Ter',29    XP: []
+      Tom did n't want to go to jail .
+      Tom did n't want to go to maricopa county 4th avenue jail .
+
+2125:     [yes], unknown,    open, 'Ter',31    XP: []
+      Tom did n't want to go to jail .
+      Tom did n't want to go to jail that he was sent to .
+
+2133:     [yes], unknown,    open, 'Ter',30    XP: []
+      You should n't count on others for help .
+      You should n't count on others for any kind of help .
+
+2136:     [yes], unknown,    open, 'Ter',62    XP: []
+      You should n't count on others for help .
+      You should n't count on others for help or reliance .
+
+2137:     [yes], unknown,    open, 'Lim',403   XP: []
+      If the sun were to stop shining , all living things would die .
+      If the sun were to stop shining , all living and plants would die .
+
+2145:     [yes], unknown,    open, 'Ter',36    XP: []
+      It was n't a fair fight .
+      It was n't a fair confrontation .
+
+2152:     [yes], unknown,    open, 'Ter',46    XP: []
+      We do n't have secrets .
+      We do n't have secrets that we want to share .
+
+2156:     [yes], unknown,    open, 'Ter',87    XP: []
+      Every unmarried man is a groom for life .
+      Every unmarried man from my town is a groom for life .
+
+2158:     [yes], unknown,    open, 'Ter',87    XP: []
+      Every unmarried man is a groom for life .
+      Every unmarried man from my city is a groom for life .
+
+2166:     [yes], unknown,    open, 'Ter',92    XP: []
+      You should n't read useless books .
+      You should n't read useless fairy tales .
+
+2177:     [yes], unknown,    open, 'Ter',187   XP: []
+      Tom has never eaten raw horse meat .
+      Tom has never eaten raw horse meat yet .
+
+2178:     [yes], unknown,    open, 'Lim',446   XP: []
+      Tom has never eaten raw horse meat .
+      Tom has never eaten raw horse red meat .
+
+2186:     [yes], unknown,    open, 'Ter',30    XP: []
+      I do n't eat chicken skin .
+      I do n't eat chicken skin at any cost .
+
+2187:     [yes], unknown,    open, 'Ter',57    XP: []
+      I do n't eat chicken skin .
+      I do n't eat chicken epidermis .
+
+2200:     [yes], unknown,    open, 'Ter',11    XP: []
+      No words can express her deep sorrow .
+      No words in the world can express her deep sorrow .
+
+Inconsistency in node types (entail/8)
+2217:     [yes], unknown,      NA, 'Defected'  XP: _190224
+      Having no destination , I am never lost .
+      Having no destination where to get , I am never lost .
+
+2218:     [yes], unknown,    open, 'Ter',2     XP: []
+      Having no destination , I am never lost .
+      Having no destination after the trip , I am never lost .
+
+2219:     [yes], unknown,    open, 'Ter',2     XP: []
+      Having no destination , I am never lost .
+      Having no right destination , I am never lost .
+
+2220:     [yes], unknown,    open, 'Ter',2     XP: []
+      Having no destination , I am never lost .
+      Having no destination for my road trip , I am never lost .
+
+2223:     [yes], unknown,    open, 'Ter',40    XP: []
+      Tom is n't a fluent speaker of French .
+      Tom is n't a speaker of French .
+
+2225:     [yes], unknown,    open, 'Lim',408   XP: []
+      I 've never seen a fat vegan .
+      I 've never seen a fat strict vegan .
+
+2229:     [yes], unknown,    open, 'Ter',99    XP: []
+      Tom said some things that did n't make sense .
+      Tom said some things that did n't make any sense .
+
+2230:     [yes], unknown,    open, 'Ter',93    XP: []
+      Tom said some things that did n't make sense .
+      Tom said some things that did n't make any logical sense .
+
+2232:     [yes], unknown,    open, 'Ter',121   XP: []
+      Tom said some things that did n't make sense .
+      Tom said some things that did n't make any sense to me .
+
+2234:     [yes], unknown,    open, 'Ter',109   XP: []
+      The tanker has only a small crew on board .
+      The tanker has only a small crew on board for being operated .
+
+2235:     [yes], unknown,    open, 'Ter',109   XP: []
+      The tanker has only a small crew on board .
+      The tanker has only a small crew on board to move on .
+
+2240:     [yes], unknown,    open, 'Ter',99    XP: []
+      I do n't have enough storage space .
+      I do n't have enough storage resources .
+
+2243:     [yes], unknown,    open, 'Ter',26    XP: []
+      I do n't have enough storage space .
+      I do n't have enough storage space to store a large table .
+
+2258:     [yes], unknown,    open, 'Ter',6     XP: []
+      Every road leads to the end of the world .
+      Every road in the world leads to the end of the world .
+
+2260:     [yes], unknown,    open, 'Ter',6     XP: []
+      Every road leads to the end of the world .
+      Every road to hell leads to the end of the world .
+
+2262:     [yes], unknown,    open, 'Ter',6     XP: []
+      Every road leads to the end of the world .
+      Every road to the left leads to the end of the world .
+
+2264:     [yes], unknown,    open, 'Ter',53    XP: []
+      Man can live without friends .
+      Man can live without best friends .
+
+2266:     [yes], unknown,    open, 'Ter',314   XP: []
+      Man can live without friends .
+      Man can live without friends and companions .
+
+2267:     [yes], unknown,    open, 'Ter',123   XP: []
+      Man can live without friends .
+      Man can live without good friends .
+
+2269:     [yes], unknown,    open, 'Ter',123   XP: []
+      Man can live without friends .
+      Man can live without male friends .
+
+2271:     [yes], unknown,    open, 'Ter',8     XP: []
+      I 'll do my best to have no regrets .
+      I 'll do my best to have no reason for regrets .
+
+2272:     [yes], unknown,    open, 'Ter',8     XP: []
+      I 'll do my best to have no regrets .
+      I 'll do my best to have no possible regrets .
+
+2273:     [yes], unknown,    open, 'Ter',8     XP: []
+      I 'll do my best to have no regrets .
+      I 'll do my best to have no regrets for this issue .
+
+2274:     [yes], unknown,    open, 'Ter',8     XP: []
+      I 'll do my best to have no regrets .
+      I 'll do my best to have no regrets for you .
+
+2275:     [yes], unknown,    open, 'Ter',8     XP: []
+      I 'll do my best to have no regrets .
+      I 'll do my best to have no regrets for anything .
+
+2276:     [yes], unknown,    open, 'Ter',43    XP: []
+      I do n't speak French at home .
+      I do n't speak French and English at home .
+
+2280:     [yes], unknown,    open, 'Ter',54    XP: []
+      I 'm bursting for a wee and I ca n't find a washroom .
+      I 'm bursting for a wee and I ca n't find a toilet .
+
+2281:     [yes], unknown,    open, 'Ter',40    XP: []
+      I 'm bursting for a wee and I ca n't find a washroom .
+      I 'm bursting for a wee and I ca n't find how to go to the washroom .
+
+2282:     [yes], unknown,    open, 'Ter',157   XP: []
+      If you touch a wire , you will receive a shock .
+      If you touch an exposed wire , you will receive a shock .
+
+2284:     [yes], unknown,    open, 'Ter',157   XP: []
+      If you touch a wire , you will receive a shock .
+      If you touch a blue wire , you will receive a shock .
+
+2294:     [yes], unknown,    open, 'Ter',157   XP: []
+      She has no spatial awareness .
+      She has no spatial awareness of life .
+
+2295:     [yes], unknown,    open, 'Ter',158   XP: []
+      She has no spatial awareness .
+      She has no spatial awareness of good life .
+
+2298:     [yes], unknown,    open, 'Ter',37    XP: []
+      Farragut captured new orleans without a fight .
+      Farragut captured new orleans without a single problem or any kind of dispute .
+
+2299:     [yes], unknown,    open, 'Ter',143   XP: []
+      Farragut captured new orleans without a fight .
+      Farragut captured new orleans without a fierce fight .
+
+2301:     [yes], unknown,    open, 'Ter',143   XP: []
+      Farragut captured new orleans without a fight .
+      Farragut captured new orleans without a cool fight .
+
+2304:     [yes], unknown,    open, 'Ter',20    XP: []
+      I ca n't remember everyone .
+      I ca n't remember all of them .
+
+2309:     [yes], unknown,    open, 'Ter',155   XP: []
+      Jack ca n't afford a new bicycle .
+      Jack ca n't afford a new bicycle or motorbike .
+
+2312:     [yes], unknown,    open, 'Ter',26    XP: []
+      We were n't given homework .
+      We were n't given work to do at home .
+
+2313:     [yes], unknown,    open, 'Ter',53    XP: []
+      We were n't given homework .
+      We were n't given school assignments .
+
+2315:     [yes], unknown,    open, 'Ter',64    XP: []
+      You do n't have to go to an Ivy League school to get a good education .
+      You do n't have to go to an Ivy League college to get a good education .
+
+2317:     [yes], unknown,    open, 'Ter',64    XP: []
+      You do n't have to go to an Ivy League educational institution to get a good education .
+      You do n't have to go to an Ivy League college to get a good education .
+
+2321:     [yes], unknown,    open, 'Ter',35    XP: []
+      He does n't want to get in trouble .
+      He does n't want to get in any kind of trouble .
+
+2323:     [yes], unknown,      NA, 'Defected'  XP: []
+      Do n't believe that , it 's all a fairy tale .
+      Do n't believe that , it 's all an old fairy tale .
+
+2330:     [yes], unknown,    open, 'Ter',299   XP: []
+      Tom seems to have no sense of humor .
+      Tom seems to have no feel of humor .
+
+2331:     [yes], unknown,    open, 'Ter',299   XP: []
+      Tom seems to have no sense of humor .
+      Tom seems to have no feeling of humor .
+
+2334:     [yes], unknown,    open, 'Ter',16    XP: []
+      Little Sophie was not obedient .
+      Sophie was not obedient in her dance class .
+
+2335:     [yes], unknown,    open, 'Ter',22    XP: []
+      Little Sophie was not obedient .
+      Little girl Sophie was not obedient .
+
+2336:     [yes], unknown,    open, 'Ter',22    XP: []
+      Little Sophie was not obedient .
+      Little baby Sophie was not obedient .
+
+2337:     [yes], unknown,    open, 'Ter',45    XP: []
+      Little Sophie was not obedient .
+      Little baby girl Sophie was not obedient .
+
+2357:     [yes], unknown,    open, 'Ter',14    XP: []
+      Most Americans ca n't speak German .
+      Most Americans ca n't speak German language .
+
+2360:     [yes], unknown,    open, 'Ter',15    XP: []
+      Most Americans ca n't speak German .
+      Most Americans ca n't speak old German language .
+
+2362:     [yes], unknown,    open, 'Ter',25    XP: []
+      Most Americans ca n't speak German .
+      Most Americans ca n't speak German spoken in hamburg .
+
+2366:     [yes], unknown,    open, 'Ter',27    XP: []
+      If i were a foreigner , i probably could n't eat raw fish .
+      If i were a tourist , i probably could n't eat raw fish .
+
+2375:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom hardly ever listens to music .
+      Tom hardly ever listens to mainstream music .
+
+2377:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom hardly ever listens to music .
+      Tom hardly ever listens to classic .
+
+2379:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom hardly ever listens to music .
+      Tom hardly ever listens to rock'n'roll .
+
+2381:     [yes], unknown,    open, 'Ter',0     XP: []
+      Tom hardly ever listens to music .
+      Tom hardly ever listens to music of ballads .
+
+2392:     [yes], unknown,    open, 'Ter',22    XP: []
+      Every boy and girl is taught to read and write .
+      Every boy and girl in the class is taught to read and write .
+
+2394:     [yes], unknown,    open, 'Ter',22    XP: []
+      Every boy and girl is taught to read and write .
+      Every boy and girl in the school is taught to read and write .
+
+2396:     [yes], unknown,    open, 'Ter',46    XP: []
+      Capitalism has n't to be a monster .
+      Capitalism has n't to be a beast .
+
+2398:     [yes], unknown,    open, 'Ter',86    XP: []
+      We ca n't use cellphones in here .
+      We ca n't use use mobiles in here .
+
+Inconsistency in node types (entail/8)
+2402:     [yes], unknown,      NA, 'Defected'  XP: _422816
+      All good things come in threes .
+      All good things that one is expecting come in threes .
+
+2403:     [yes], unknown,    open, 'Ter',11    XP: []
+      All good things come in threes .
+      All good things in life come in threes .
+
+Inconsistency in node types (entail/8)
+2404:     [yes], unknown,      NA, 'Defected'  XP: _496716
+      Tom does n't know which way to go .
+      Tom does n't know which way he can to go effectively .
+
+2406:     [yes], unknown,    open, 'Ter',45    XP: []
+      The moon has no atmosphere .
+      The moon has no atmosphere , and the gravity force is too low .
+
+2415:     [yes], unknown,    open, 'Ter',40    XP: []
+      Every dog is a lion at home .
+      Every discipline dog is a lion at home .
+
+2420:     [yes], unknown,    open, 'Ter',30    XP: []
+      If nature were a bank they would have saved it already .
+      If nature were a type of bank they would have saved it already .
+
+2426:     [yes], unknown,    open, 'Ter',16    XP: []
+      All animals should go naked .
+      All animals of the world should go naked .
+
+2427:     [yes], unknown,    open, 'Ter',6     XP: []
+      All animals should go naked .
+      All animals of creation should go naked .
+
+2428:     [yes], unknown,    open, 'Ter',14    XP: []
+      All animals should go naked .
+      All animals of the planet earth should go naked .
+
+2436:     [yes], unknown,    open, 'Ter',356   XP: []
+      He did n't exactly cover himself in glory .
+      He did n't exactly cover himself in some of glory .
+
+2437:     [yes], unknown,      NA, 'Defected'  XP: []
+      Do n't go to extremes , to be moderate is important in anything .
+      Do n't go to silly extremes , to be moderate is important in anything .
+
+2438:     [yes], unknown,      NA, 'Defected'  XP: []
+      Do n't go to extremes , to be moderate is important in anything .
+      Do n't go to ridiculous extremes , to be moderate is important in anything .
+
+2439:     [yes], unknown,      NA, 'Defected'  XP: []
+      Do n't go to extremes , to be moderate is important in anything .
+      Do n't go to such extremes , to be moderate is important in anything .
+
+2440:     [yes], unknown,      NA, 'Defected'  XP: []
+      Do n't go to extremes , to be moderate is important in anything .
+      Do n't go to that level of extremes , to be moderate is important in anything .
+
+2445:     [yes], unknown,    open, 'Ter',42    XP: []
+      I ca n't drink sweet stuff .
+      I ca n't drink sweet things because i suffer from sugar .
+
+2448:     [yes], unknown,    open, 'Lim',407   XP: []
+      You ca n't have a rainbow without a little rain .
+      You ca n't have a colour spectrum without a little rain .
+
+2456:     [yes], unknown,    open, 'Lim',527   XP: []
+      I will never fall in love again .
+      I will never fall in love with you again .
+
+2458:     [yes], unknown,    open, 'Ter',115   XP: []
+      We wish we did n't have to take a test in English .
+      We wish we did n't have to take a test in English class .
+
+2459:     [yes], unknown,    open, 'Ter',115   XP: []
+      We wish we did n't have to take a test in English .
+      We wish we did n't have to take a test in hard English .
+
+2461:     [yes], unknown,    open, 'Ter',54    XP: []
+      I could n't live in Boston without you .
+      I could n't live in Boston avenue without you .
+
+2465:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom ca n't drive a car .
+      Tom ca n't drive an auto .
+
+2466:     [yes], unknown,    open, 'Ter',31    XP: []
+      Tom ca n't drive a car .
+      Tom ca n't drive a motor vehicle .
+
+2467:     [yes], unknown,    open, 'Ter',14    XP: []
+      It 's no secret that Tom does n't agree with you .
+      It 's no big secret that Tom does n't agree with you .
+
+2468:     [yes], unknown,    open, 'Ter',23    XP: []
+      It 's no secret that Tom does n't agree with you .
+      It 's no secret of any kind that Tom does n't agree with you .
+
+2469:     [yes], unknown,    open, 'Ter',91    XP: []
+      It 's no secret that Tom does n't agree with you .
+      It 's no secret that Tom disagrees with you after cheating .
+
+2475:     [yes], unknown,    open, 'Ter',27    XP: []
+      Whoever sows thorns should n't expect to harvest roses .
+      Whoever sows thorns should n't expect to harvest any roses .
+
+2476:     [yes], unknown,    open, 'Ter',17    XP: []
+      Whoever sows thorns should n't expect to harvest roses .
+      Whoever sows thorns should n't expect to harvest even a single rose .
+
+2477:     [yes], unknown,    open, 'Ter',0     XP: []
+      Whoever sows thorns should n't expect to harvest roses .
+      Whoever sows thorns should n't expect to harvest even one rose .
+
+2482:     [yes], unknown,    open, 'Ter',33    XP: []
+      Please do n't take pictures here .
+      Please do n't take any photos here .
+
+2485:     [yes], unknown,    open, 'Ter',26    XP: []
+      They do n't have enough ground space to camp .
+      They do n't have enough ground space to survivalist camp .
+
+2494:     [yes], unknown,    open, 'Ter',51    XP: []
+      Raúl ca n't have fun without his friends .
+      Raúl ca n't have fun without his friends or family .
+
+2497:     [yes], unknown,    open, 'Ter',17    XP: []
+      You must n't throw litter in the street .
+      You must n't throw shining litter in the street .
+
+2499:     [yes], unknown,    open, 'Ter',171   XP: []
+      You must n't throw litter in the street .
+      You must n't throw rubbish in the street .
+
+2500:     [yes], unknown,    open, 'Ter',171   XP: []
+      You must n't throw litter in the street .
+      You must n't throw trash in the street .
+
+2501:     [yes], unknown,    open, 'Lim',415   XP: []
+      I do n't know a lot of jokes .
+      I do n't know too much jokes .
+
+2502:     [yes], unknown,    open, 'Ter',59    XP: []
+      Tom is n't at all selfish .
+      Tom is n't at all really selfish .
+
+2507:     [yes], unknown,    open, 'Ter',390   XP: []
+      Tom never graduated from high school .
+      Tom never graduated from high school as he was expected to .
+
+2508:     [yes], unknown,    open, 'Lim',465   XP: []
+      Ken has never been to New York .
+      Ken has never been to New York city museum .
+
+2510:     [yes], unknown,    open, 'Lim',463   XP: []
+      Ken has never been to New York .
+      Ken has never been to New York center .
+
+2513:     [yes], unknown,    open, 'Ter',29    XP: []
+      Tom had no right to do that .
+      Tom had no reason to do that .
+
+2517:     [yes], unknown,    open, 'Lim',472   XP: []
+      I have never felt prouder in my whole life .
+      I have never felt happier and prouder in my whole life .
+
+2518:     [yes], unknown,    open, 'Ter',96    XP: []
+      I have never felt prouder in my whole life .
+      I have never felt gratified in my whole life .
+
+2537:     [yes], unknown,    open, 'Lim',505   XP: []
+      They had no alternative energy sources .
+      They had no alternative power sources .
+
+2544:     [yes], unknown,    open, 'Lim',414   XP: []
+      I have never tried to translate a book .
+      I have never tried to translate a scientific book .
+
+2546:     [yes], unknown,    open, 'Ter',105   XP: []
+      I have never tried to translate a book .
+      I have never tried to translate a book with so many pages .
+
+2548:     [yes], unknown,    open, 'Lim',414   XP: []
+      I have never tried to translate a book .
+      I have never tried to translate a book comprising poems .
+
+2554:     [yes], unknown,    open, 'Ter',60    XP: []
+      I hope you wo n't expect results immediately .
+      I hope you wo n't expect perfect results immediately .
+
+2556:     [yes], unknown,    open, 'Ter',60    XP: []
+      I hope you wo n't expect results immediately .
+      I hope you wo n't expect clear results immediately .
+
+2560:     [yes], unknown,    open, 'Ter',94    XP: []
+      I hope you wo n't expect results immediately .
+      I hope you wo n't expect the results we do not find immediately .
+
+2570:     [yes], unknown,    open, 'Ter',49    XP: []
+      My father does n't lift a finger at home .
+      My father does n't lift a finger to clean his room at home .
+
+2572:     [yes], unknown,    open, 'Ter',42    XP: []
+      I have not yet collected sufficient materials to write a book .
+      I have not yet collected sufficient materials to write a history book .
+
+2575:     [yes], unknown,    open, 'Ter',29    XP: []
+      Tom had no choice but to follow Mary .
+      Tom had no opportunity but to follow Mary .
+
+2581:     [yes], unknown,    open, 'Lim',420   XP: []
+      Tom paid no attention to Mary all day .
+      Tom paid no attention to Mary all afternoon .
+
+2584:     [yes], unknown,    open, 'Lim',422   XP: []
+      Tom paid no attention to Mary all afternoon .
+      Tom paid no hasty attention to Mary all afternoon .
+
+2593:     [yes], unknown,    open, 'Lim',400   XP: []
+      At this school , there are no grades and students having no homework .
+      At this school , there are no grades and students having no lecture to do at home .
+
+2595:     [yes], unknown,    open, 'Lim',400   XP: []
+      At this school , there are no grades and students having no homework .
+      At this school , there are no grades and students having no assignments .
+
+2596:     [yes], unknown,    open, 'Ter',54    XP: []
+      Chris did n't have a car to drive .
+      Chris did n't have a car to drive to work .
+
+2598:     [yes], unknown,    open, 'Lim',410   XP: []
+      I never listen to dirty jokes .
+      I never listen to dirty ugly jokes .
+
+2600:     [yes], unknown,    open, 'Ter',141   XP: []
+      I never listen to dirty jokes .
+      I never listen to dirty puns .
+
+2603:     [yes], unknown,    open, 'Lim',417   XP: []
+      She does n't always take a trip to France in summer .
+      She does n't always take a trip to central France in summer .
+
+2605:     [yes], unknown,    open, 'Lim',417   XP: []
+      She does n't always take a trip to France in summer .
+      She does n't always take a trip to la France continentale in summer .
+
+2615:     [yes], unknown,    open, 'Ter',19    XP: []
+      My tree had a few blossoms but no fruit .
+      My tree had a few blossoms but no fruits to eat .
+
+2617:     [yes], unknown,    open, 'Ter',19    XP: []
+      My tree had a few blossoms but no fruit .
+      My tree had a few blossoms but no ripe fruit .
+
+2619:     [yes], unknown,    open, 'Ter',24    XP: []
+      We do n't have enough information yet to make a decision .
+      We do n't have enough information yet to make a final decision .
+
+2620:     [yes], unknown,    open, 'Ter',24    XP: []
+      We do n't have enough information yet to make a decision .
+      We do n't have enough information yet to make the right decision .
+
+2621:     [yes], unknown,    open, 'Ter',47    XP: []
+      We do n't have enough information yet to make a decision .
+      We still do not have enough information to make an informed decision .
+
+2623:     [yes], unknown,    open, 'Ter',0     XP: []
+      Taking the group of children to the library was no problem .
+      Taking the group of children to the library was no discipline problem .
+
+2626:     [yes], unknown,    open, 'Ter',0     XP: []
+      Taking the group of children to the library was no problem .
+      Taking the group of children to the library was no problem for us .
+
+2628:     [yes], unknown,    open, 'Ter',76    XP: []
+      I 've never had a traffic accident .
+      I 've never had a traffic accident at night .
+
+2630:     [yes], unknown,    open, 'Lim',408   XP: []
+      I 've never had a traffic accident .
+      I 've never had a traffic wreck .
+
+2645:     [yes], unknown,    open, 'Ter',87    XP: []
+      I assume this is n't the best time to ask for a promotion .
+      I assume this is n't the best time to ask for a long-awaited promotion .
+
+2646:     [yes], unknown,    open, 'Ter',78    XP: []
+      He had a fatal lack of ability to think logically .
+      He had a fatal lack of ability and speed to think logically .
+
+2647:     [yes], unknown,    open, 'Ter',63    XP: []
+      He had a fatal lack of ability to think logically .
+      He had a fatal lack of capacity to think logically .
+
+2648:     [yes], unknown,    open, 'Ter',38    XP: []
+      He had a fatal lack of ability to think logically .
+      He had a fatal lack of skill to think logically .
+
+2649:     [yes], unknown,    open, 'Ter',43    XP: []
+      I do n't even have a house .
+      I do n't even have a house to stay .
+
+2655:     [yes], unknown,    open, 'Ter',36    XP: []
+      Tom does n't want to live in an apartment .
+      Tom does n't want to live in a condo .
+
+2660:     [yes], unknown,    open, 'Ter',18    XP: []
+      I ca n't remember the melody of that song .
+      I ca n't remember the melody of that lyrics .
+
+2661:     [yes], unknown,    open, 'Ter',19    XP: []
+      I ca n't remember the melody of that song .
+      I ca n't remember the melody of that music .
+
+2663:     [yes], unknown,    open, 'Ter',23    XP: []
+      I ca n't remember the melody of that song .
+      I ca n't remember the melody of that paragraph of song .
+
+2664:     [yes], unknown,    open, 'Ter',18    XP: []
+      I ca n't remember the melody of that song .
+      I ca n't remember the melody of that couplet .
+
+2667:     [yes], unknown,    open, 'Ter',69    XP: []
+      She does n't drive for fear of an accident .
+      She does n't drive for phobia of an accident .
+
+2668:     [yes], unknown,    open, 'Ter',268   XP: []
+      I was only a seven-year-old girl at that time .
+      I was only a seven-year-old smart girl at that time .
+
+2691:     [yes], unknown,    open, 'Lim',403   XP: []
+      I want to avoid unnecessary risks .
+      I want to avoid unnecessary risks and misfortunes .
+
+2702:     [yes], unknown,    open, 'Lim',800   XP: []
+      Tom has never been in trouble in his life .
+      Tom has never been in such trouble in his life .
+
+2703:     [yes], unknown,    open, 'Ter',175   XP: []
+      Tom has never been in trouble in his life .
+      Tom has never been in any trouble in his life .
+
+2704:     [yes], unknown,    open, 'Lim',457   XP: []
+      Tom has never been in trouble in his life .
+      Tom has never been in important trouble in his life .
+
+2708:     [yes], unknown,    open, 'Lim',416   XP: []
+      Bad weather is no obstacle .
+      Bad weather is no problem .
+
+2709:     [yes], unknown,    open, 'Lim',416   XP: []
+      Bad weather is no obstacle .
+      Bad weather is no impediment .
+
+Inconsistency in node types (entail/8)
+2719:     [yes], unknown,      NA, 'Defected'  XP: _112618
+      Tom did n't move an inch .
+      Tom did n't move an inch from where he was .
+
+2726:     [yes], unknown,    open, 'Lim',800   XP: []
+      My brother does n't like the taste of sea urchin .
+      My brother does n't like the taste of sea urchins in all oceans .
+
+2743:     [yes], unknown,    open, 'Ter',43    XP: []
+      You do n't speak English .
+      You do n't speak fluent English .
+
+2746:     [yes], unknown,    open, 'Ter',28    XP: []
+      You do n't speak English and Japanese .
+      You do n't speak English .
+
+2747:     [yes], unknown,    open, 'Ter',43    XP: []
+      You do n't speak English .
+      You do n't speak proper English .
+
+2756:     [yes], unknown,    open, 'Ter',21    XP: []
+      I ca n't speak English at all .
+      I ca n't speak English in any way .
+
+2757:     [yes], unknown,    open, 'Ter',21    XP: []
+      I ca n't speak English at all .
+      I ca n't speak English by any means .
+
+2758:     [yes], unknown,    open, 'Ter',49    XP: []
+      I ca n't speak English at all .
+      I ca n't speak English at all even if i try .
+
+Inconsistency in node types (entail/8)
+2759:     [yes], unknown,      NA, 'Defected'  XP: _357948
+      Every author suffers from writer 's block from time to time .
+      Every famous author suffers from writer 's block from time to time .
+
+Inconsistency in node types (entail/8)
+2761:     [yes], unknown,      NA, 'Defected'  XP: _397360
+      Every author suffers from writer 's block from time to time .
+      Every well known author suffers from writer 's block from time to time .
+
+2763:     [yes], unknown,    open, 'Ter',78    XP: []
+      Tom does n't live in Boston anymore .
+      Tom does n't live in the suburbs of Boston anymore .
+
+2771:     [yes], unknown,    open, 'Ter',27    XP: []
+      I ca n't swim at all .
+      I ca n't swim in the sea at all .
+
+2775:     [yes], unknown,    open, 'Ter',30    XP: []
+      George weighs not less than 70 kilograms .
+      George weighs not under 70 kilograms .
+
+2776:     [yes], unknown,    open, 'Ter',62    XP: []
+      George weighs not less than 70 kilograms .
+      George weighs not smaller than 70 kilograms .
+
+2786:     [yes], unknown,    open, 'Ter',39    XP: []
+      I 'm not nervous at all .
+      I 'm not nervous for the party at all .
+
+2790:     [yes], unknown,    open, 'Ter',17    XP: []
+      I 'm not tired at all .
+      I 'm not tired at any rate .
+
+2791:     [yes], unknown,    open, 'Ter',18    XP: []
+      I 'm not tired at all .
+      I 'm not tired anyhow .
+
+Inconsistency in node types (entail/8)
+2796:     [yes], unknown,      NA, 'Defected'  XP: _328140
+      I did n't understand that last sentence .
+      I did n't understand that last half of the sentence .
+
+2797:     [yes], unknown,      NA, 'Defected'  XP: []
+      I did n't understand that last sentence .
+      I did n't understand that last sentence you wrote .
+
+Inconsistency in node types (entail/8)
+2798:     [yes], unknown,      NA, 'Defected'  XP: _263026
+      I did n't understand that last sentence .
+      I did n't understand that last funny sentence .
+
+2800:     [yes], unknown,    open, 'Ter',149   XP: []
+      The inky night sky had no stars .
+      The inky night sky had no blaze .
+
+2802:     [yes], unknown,    open, 'Ter',133   XP: []
+      No creature can live without air and water .
+      No creature can live without air .
+
+2803:     [yes], unknown,    open, 'Lim',400   XP: []
+      No creature can live without clean air .
+      No creature can live without air .
+
+2805:     [yes], unknown,    open, 'Ter',33    XP: []
+      No creature can live without air in the sea .
+      No creature can live without air .
+
+2809:     [yes], unknown,    open, 'Ter',196   XP: []
+      The building has no fire exit .
+      The building has no fire exit for emergency rescue .
+
+2810:     [yes], unknown,    open, 'Ter',195   XP: []
+      The building has no fire exit .
+      The building has no fire exit for use .
+
+2814:     [yes], unknown,    open, 'Lim',403   XP: []
+      If i were a foreigner , i probably could n't eat raw fish .
+      If i were a foreigner , i probably could n't eat raw fish from this restaurant .
+
+2818:     [yes], unknown,    open, 'Lim',404   XP: []
+      If i were a foreigner , i probably could n't eat raw fish .
+      If i were a foreigner , i probably could n't eat raw fish or meat .
+
+2825:     [yes], unknown,    open, 'Ter',149   XP: []
+      We 've never been to the place .
+      We 've never been to the interesting place .
+
+2827:     [yes], unknown,    open, 'Ter',149   XP: []
+      We 've never been to the place .
+      We 've never been to the wonderful place .
+
+2829:     [yes], unknown,    open, 'Ter',149   XP: []
+      We 've never been to the place .
+      We 've never been to the blooming place .
+
+2833:     [yes], unknown,    open, 'Ter',25    XP: []
+      We 've never been to that place .
+      We 've never been to that room .
+
+2834:     [yes], unknown,    open, 'Ter',5     XP: []
+      If Tom goes to boston , so will I .
+      If Tom goes to Boston for the graduation , so will I .
+
+2836:     [yes], unknown,    open, 'Ter',14    XP: []
+      If Tom goes to boston , so will I .
+      If Tom goes to Boston this summer , so will I .
+
+2838:     [yes], unknown,    open, 'Ter',5     XP: []
+      If Tom goes to boston , so will I .
+      If Tom goes to Boston in february , so will I .
+
+2857:     [yes], unknown,    open, 'Lim',409   XP: []
+      I never get invited to parties .
+      I never get invited to adult parties .
+
+2859:     [yes], unknown,    open, 'Ter',33    XP: []
+      I never get invited to parties .
+      I never get invited to blind parties .
+
+2861:     [yes], unknown,    open, 'Lim',409   XP: []
+      I never get invited to parties .
+      I never get invited to good parties .
+
+2863:     [yes], unknown,    open, 'Lim',409   XP: []
+      I never get invited to parties .
+      I never get invited to funny parties .
+
+2869:     [yes], unknown,    open, 'Lim',412   XP: []
+      He is no ordinary student .
+      He is no ordinary master 's student .
+
+2880:     [yes], unknown,    open, 'Ter',97    XP: []
+      I will never write and speak again in English .
+      I will never write again in English .
+
+2881:     [yes], unknown,    open, 'Lim',475   XP: []
+      I will never write again in English .
+      I will never write stories again in English .
+
+2893:     [yes], unknown,    open, 'Lim',411   XP: []
+      You 'll never finish translating sentences on Tatoeba .
+      You 'll never finish translating sentences on Tatoeba website .
+
+2897:     [yes], unknown,    open, 'Ter',2     XP: []
+      No smoking is allowed at this train station .
+      No smoking at any time is allowed at this train station .
+
+2902:     [yes], unknown,    open, 'Ter',37    XP: []
+      You have no legal right to seize my property .
+      You have no legal position to seize my property .
+
+2903:     [yes], unknown,    open, 'Ter',37    XP: []
+      You have no legal right to seize my property .
+      You have no legal authority to seize my property .
+
+2904:     [yes], unknown,    open, 'Ter',43    XP: []
+      You have no legal right to seize my property .
+      You have no legal right and also any international right to seize my property .
+
+2905:     [yes], unknown,    open, 'Ter',37    XP: []
+      You have no legal right to seize my property .
+      You have no legal freedom to seize my property .
+
+2906:     [yes], unknown,    open, 'Ter',37    XP: []
+      You have no legal right to seize my property .
+      You have no legal permission to seize my property .
+
+2907:     [yes], unknown,    open, 'Ter',37    XP: []
+      You have no legal right to seize my property .
+      You have no legal liberty to seize my property .
+
+2916:     [yes], unknown,    open, 'Lim',415   XP: []
+      They do n't have enough ground space to camp .
+      They do n't have enough surface space to camp .
+
+2917:     [yes], unknown,    open, 'Lim',415   XP: []
+      They do n't have enough ground space to camp .
+      They do n't have enough territory space to camp .
+
+2925:     [yes], unknown,    open, 'Ter',62    XP: []
+      I do n't use birth control .
+      I do n't use pills .
+
+2926:     [yes], unknown,    open, 'Ter',30    XP: []
+      If you touch the wire , you 'll get a shock .
+      If you touch the bare wire , you 'll get a shock .
+
+2928:     [yes], unknown,    open, 'Ter',30    XP: []
+      If you touch the wire , you 'll get a shock .
+      If you touch the electric wire , you 'll get a shock .
+
+2930:     [yes], unknown,    open, 'Ter',30    XP: []
+      If you touch the wire , you 'll get a shock .
+      If you touch the copper wire , you 'll get a shock .
+
+2932:     [yes], unknown,    open, 'Ter',30    XP: []
+      If you touch the wire , you 'll get a shock .
+      If you touch the long wire , you 'll get a shock .
+
+2934:     [yes], unknown,    open, 'Ter',30    XP: []
+      If you touch the wire , you 'll get a shock .
+      If you touch the damaged wire , you 'll get a shock .
+
+2936:     [yes], unknown,    open, 'Ter',2     XP: []
+      You ca n't learn here , this is a school !
+      You ca n't learn here , this is a great school !
+
+2940:     [yes], unknown,    open, 'Ter',116   XP: []
+      Tom does n't usually wear a hat .
+      Tom does n't usually wear a hat or a cap .
+
+2949:     [yes], unknown,    open, 'Ter',22    XP: []
+      If your child drinks poison , rush him to the hospital .
+      If your child drinks liquid of poison , rush him to the hospital .
+
+2950:     [yes], unknown,    open, 'Ter',65    XP: []
+      If your child drinks poison , rush him to the hospital .
+      If your child drinks a bottle of poison , rush him to the hospital .
+
+2951:     [yes], unknown,    open, 'Ter',65    XP: []
+      If your child drinks poison , rush him to the hospital .
+      If your child drinks a type of poison , rush him to the hospital .
+
+2952:     [yes], unknown,    open, 'Ter',104   XP: []
+      If your child drinks poison , rush him to the hospital .
+      If your child drinks this danger poison , rush him to the hospital .
+
+2953:     [yes], unknown,    open, 'Ter',65    XP: []
+      If your child drinks poison , rush him to the hospital .
+      If your child drinks a little of poison , rush him to the hospital .
+
+2954:     [yes], unknown,    open, 'Lim',420   XP: []
+      If your child drinks poison , rush him to the hospital .
+      If your child drinks venom , rush him to the hospital .
+
+2956:     [yes], unknown,    open, 'Ter',4     XP: []
+      I had no choice but to go .
+      I had no alternative choice but to go .
+
+2957:     [yes], unknown,    open, 'Ter',4     XP: []
+      I had no choice but to go .
+      I had no valid choice but to go .
+
+2958:     [yes], unknown,    open, 'Ter',4     XP: []
+      I had no choice but to go .
+      I had no easy choice but to go .
+
+2959:     [yes], unknown,    open, 'Ter',4     XP: []
+      I had no choice but to go .
+      I had no better choice but to go .
+
+2960:     [yes], unknown,    open, 'Ter',4     XP: []
+      I had no choice but to go .
+      I had no other choice but to go .
+
+2962:     [yes], unknown,    open, 'Ter',59    XP: []
+      We do n't accept charity .
+      We do n't accept charity or help .
+
+2965:     [yes], unknown,    open, 'Ter',45    XP: []
+      We do n't accept charity .
+      We do n't accept generosity .
+
+2966:     [yes], unknown,    open, 'Ter',45    XP: []
+      We do n't accept charity .
+      We do n't accept donation .
+
+2973:     [yes], unknown,    open, 'Ter',38    XP: []
+      I see no conspiracy there .
+      I see no absurd conspiracies there .
+
+2975:     [yes], unknown,    open, 'Ter',269   XP: []
+      I see no conspiracy there .
+      I see no signs of conspiracy there .
+
+2983:     [yes], unknown,    open, 'Ter',40    XP: []
+      The point of hipster subculture is to avoid conforming to societal norms .
+      The point of hipster subculture today is to avoid conforming to societal norms .
+
+2985:     [yes], unknown,    open, 'Ter',86    XP: []
+      Some people have no patience .
+      Some people have no patience about money .
+
+2987:     [yes], unknown,      NA, 'Defected'  XP: []
+      If you wish for peace , prepare for war .
+      If you wish for world peace , prepare for war .
+
+2992:     [yes], unknown,    open, 'Ter',32    XP: []
+      She was never heard speaking ill of others .
+      She was never heard speaking ill of other actors .
+
+2994:     [yes], unknown,    open, 'Ter',32    XP: []
+      She was never heard speaking ill of others .
+      She was never heard speaking ill of other women .
+
+2996:     [yes], unknown,    open, 'Lim',409   XP: []
+      She can hardly speak Japanese .
+      She can hardly speak Japanese she wants to talk .
+
+3015:     [yes], unknown,    open, 'Ter',17    XP: []
+      That should n't be too much of a problem .
+      That should n't be too much of a hurdle .
+
+3019:     [yes], unknown,    open, 'Ter',46    XP: []
+      He took no notice of me or my sister .
+      He took no notice of me .
+
+3028:     [yes], unknown,    open, 'Lim',408   XP: []
+      Tom should n't make fun of Mary 's limp .
+      Tom should n't make unfriendly remarks of Mary 's limp .
+
+3032:     [yes], unknown,    open, 'Ter',6     XP: []
+      He had no friends or relatives to help him .
+      He had no friends to help him .
+
+3039:     [yes], unknown,    open, 'Ter',45    XP: []
+      There are no other options .
+      There are no other kind of options .
+
+3045:     [yes], unknown,    open, 'Ter',65    XP: []
+      Some people quarrel for no reason at all .
+      Some people quarrel for no supported reason at all .
+
+3047:     [yes], unknown,    open, 'Lim',483   XP: []
+      Some people quarrel for no reason at all .
+      Some people quarrel for no basis at all .
+
+3048:     [yes], unknown,    open, 'Ter',458   XP: []
+      Some people quarrel for no reason at all .
+      Some people quarrel for no rationale at all .
+
+3049:     [yes], unknown,    open, 'Lim',505   XP: []
+      Many people in Fiji do n't have access to clean drinking water .
+      Many people in Fiji do n't have access to clean drinking cold water .
+
+3061:     [yes], unknown,    open, 'Lim',437   XP: []
+      My brother and sister get up about seven-thirty every morning .
+      My brother and sister get up about seven-thirty every weekday morning .
+
+3063:     [yes], unknown,    open, 'Lim',430   XP: []
+      My brother and sister get up about seven-thirty every morning .
+      My brother and sister get up about seven-thirty every morning in summer .
+
+3065:     [yes], unknown,    open, 'Lim',438   XP: []
+      My brother and sister get up about seven-thirty every morning .
+      My brother and sister get up about seven-thirty every school day morning .
+
+3067:     [yes], unknown,    open, 'Lim',430   XP: []
+      My brother and sister get up about seven-thirty every morning .
+      My brother and sister get up about seven-thirty every morning in the holidays .
+
+3069:     [yes], unknown,    open, 'Lim',432   XP: []
+      My brother and sister get up about seven-thirty every morning .
+      My brother and sister get up about seven-thirty every early in the morning .
+
+3070:     [yes], unknown,    open, 'Ter',39    XP: []
+      There 's no other way to do this .
+      There 's no other way or means to do this .
+
+3077:     [yes], unknown,    open, 'Ter',14    XP: []
+      Ben learned to make a fire without matches .
+      Ben learned to make a fire without incendiary matches .
+
+3078:     [yes], unknown,    open, 'Ter',6     XP: []
+      Ben learned to make a fire without matches .
+      Ben learned to make a fire without matches and lighters .
+
+3086:     [yes], unknown,    open, 'Ter',45    XP: []
+      We play football every saturday .
+      We play football every saturday in spring .
+
+3093:     [yes], unknown,    open, 'Ter',45    XP: []
+      Not a few houses were destroyed in the typhoon .
+      Not a few houses and buildings were destroyed in the typhoon .
+
+3094:     [yes], unknown,    open, 'Ter',45    XP: []
+      Not a few houses were destroyed in the typhoon .
+      Not a few homesteads were destroyed in the typhoon .
+
+3098:     [yes], unknown,    open, 'Ter',27    XP: []
+      I do n't want to go to work !
+      I do n't want to go to work this morning !
+
+3100:     [yes], unknown,    open, 'Ter',27    XP: []
+      I do n't want to go to work !
+      I do n't want to go to work for government anymore !
+
+3104:     [yes], unknown,    open, 'Ter',21    XP: []
+      The weather forecast is not reliable at all .
+      The weather forecast is not reliable at all in summer .
+
+3112:     [yes], unknown,    open, 'Ter',82    XP: []
+      Tom never forgets a name or a face .
+      Tom never forgets a full name or a face .
+
+3115:     [yes], unknown,    open, 'Ter',102   XP: []
+      They 've been looking for the plane for eight days , without success .
+      They 've been looking for the plane for eight days , without great success .
+
+3117:     [yes], unknown,    open, 'Ter',102   XP: []
+      They 've been looking for the plane for eight days , without success .
+      They 've been looking for the plane for eight days , without splendid success .
+
+3119:     [yes], unknown,    open, 'Ter',114   XP: []
+      They 've been looking for the plane for eight days , without success .
+      They 've been looking for the plane for eight days , without success and benefit .
+
+3124:     [yes], unknown,    open, 'Ter',58    XP: []
+      Cats do n't like dogs .
+      Cats do n't like pups .
+
+3126:     [yes], unknown,    open, 'Ter',58    XP: []
+      Cats do n't like dogs .
+      Cats do n't like bitchs .
+
+3139:     [yes], unknown,    open, 'Lim',416   XP: []
+      She does n't always take a trip to France in summer .
+      She does n't always take a trip to France and italy in summer .
+
+3140:     [yes], unknown,    open, 'Ter',28    XP: []
+      I ca n't imagine life without him .
+      I ca n't imagine living without him .
+
+3142:     [yes], unknown,    open, 'Ter',37    XP: []
+      I ca n't imagine life without him and his dog .
+      I ca n't imagine life without him .
+
+3144:     [yes], unknown,    open, 'Ter',35    XP: []
+      I ca n't imagine life without his family .
+      I ca n't imagine our life without him .
+
+3147:     [yes], unknown,    open, 'Ter',256   XP: []
+      We combed police records of the incident but found no mention of witnesses seeing a tall , bearded man .
+      We combed police records of the incident but found no precise mention of witnesses seeing a tall , bearded man .
+
+3149:     [yes], unknown,    open, 'Ter',256   XP: []
+      We combed police records of the incident but found no mention of witnesses seeing a tall , bearded man .
+      We combed police records of the incident but found no slight mention of witnesses seeing a tall , bearded man .
+
+3151:     [yes], unknown,    open, 'Ter',256   XP: []
+      We combed police records of the incident but found no mention of witnesses seeing a tall , bearded man .
+      We combed police records of the incident but found no unexpected mention of witnesses seeing a tall , bearded man .
+
+3153:     [yes], unknown,    open, 'Ter',256   XP: []
+      We combed police records of the incident but found no mention of witnesses seeing a tall , bearded man .
+      We combed police records of the incident but found no clear mention of witnesses seeing a tall , bearded man .
+
+3155:     [yes], unknown,    open, 'Ter',26    XP: []
+      The garrison saw no choice but to surrender .
+      The garrison saw no chance but to surrender .
+
+3156:     [yes], unknown,    open, 'Ter',26    XP: []
+      The garrison saw no choice but to surrender .
+      The garrison saw no more choice but to surrender .
+
+3157:     [yes], unknown,    open, 'Ter',26    XP: []
+      The garrison saw no choice but to surrender .
+      The garrison saw no good choice but to surrender .
+
+3159:     [yes], unknown,    open, 'Ter',26    XP: []
+      The garrison saw no choice but to surrender .
+      The garrison saw no possible choice but to surrender .
+
+3161:     [yes], unknown,    open, 'Ter',26    XP: []
+      The garrison saw no choice but to surrender .
+      The garrison saw no special choice but to surrender .
+
+3167:     [yes], unknown,    open, 'Ter',74    XP: []
+      Every member of the cabinet was present .
+      Every participant of the cabinet was present .
+
+3176:     [yes], unknown,    open, 'Lim',416   XP: []
+      She does n't always take a trip to France in summer .
+      She does n't always take a walk to France in summer .
+
+3188:     [yes], unknown,    open, 'Ter',24    XP: []
+      If Esperanto were an easy language I would n't need a proofreader .
+      If tamil were an easy language I would n't need a proofreader .
+
+3189:     [yes], unknown,    open, 'Ter',25    XP: []
+      If Esperanto were an easy language I would n't need a proofreader .
+      If international Esperanto were an easy language I would n't need a proofreader .
+
+3190:     [yes], unknown,    open, 'Ter',124   XP: []
+      You do n't stand a snowball 's chance in hell .
+      You do n't stand a snowball 's chance in a fire of hell .
+
+3193:     [yes], unknown,    open, 'Lim',800   XP: []
+      People who regularly work in the open air do not suffer from sleeplessness .
+      People who regularly work in the open air do not suffer from lack of deep sleep .
+
+3195:     [yes], unknown,    open, 'Lim',800   XP: []
+      People who regularly work in the open air do not suffer from sleeplessness .
+      People who regularly work in the open air do not suffer from diseases called insomnia .
+
+Inconsistency in node types (entail/8)
+3196:     [yes], unknown,      NA, 'Defected'  XP: _187390
+      Tom and Mary talked all afternoon .
+      Tom and Mary talked all afternoon until night .
+
+3203:     [yes], unknown,    open, 'Ter',172   XP: []
+      The word came to be used for all small heavenly bodies revolving about larger ones .
+      The word came to be used for all the little celestials in heaven with god .
+
+3204:     [yes], unknown,    open, 'Lim',402   XP: []
+      The word came to be used for all small heavenly bodies revolving about larger ones .
+      The word came to be used for all small heavenly artificial bodies revolving about larger ones .
+
+3206:     [yes], unknown,    open, 'Lim',402   XP: []
+      The word came to be used for all small heavenly bodies revolving about larger ones .
+      The word came to be used for all small heavenly dusty bodies revolving about larger ones .
+
+3208:     [yes], unknown,    open, 'Ter',141   XP: []
+      The word came to be used for all small heavenly bodies revolving about larger ones .
+      The word came to be used for all small heavenly planets revolving about larger ones .
+
+3209:     [yes], unknown,    open, 'Ter',90    XP: []
+      My mother does n't like watching TV .
+      My mother does n't like watching soap operas .
+
+3225:     [yes], unknown,    open, 'Ter',8     XP: []
+      This glue does not adhere to plastic .
+      This glue does not adhere to plastic fastly .
+
+3227:     [yes], unknown,    open, 'Ter',35    XP: []
+      There is no scientific basis for these claims .
+      There is no scientific basis of integrative medicine for these claims .
+
+3230:     [yes], unknown,      NA, 'Defected'  XP: []
+      Every morning I ask myself why .
+      Every day I ask myself why .
+
+3236:     [yes], unknown,    open, 'Ter',347   XP: []
+      Tom never forgets a name or a face .
+      Tom never forgets a name or a distinguished looking face .
+
+3237:     [yes], unknown,    open, 'Ter',64    XP: []
+      The government are being criticised from all sides .
+      The government are being criticised from all sides by the public and opposition .
+
+3238:     [yes], unknown,    open, 'Ter',46    XP: []
+      The government are being criticised from all sides .
+      The government are being criticised from all aspects .
+
+3240:     [yes], unknown,    open, 'Ter',42    XP: []
+      The government are being criticised from all sides .
+      The government are being criticised from all sides , left and right .
+
+3245:     [yes], unknown,    open, 'Ter',163   XP: []
+      I 'm not a little girl anymore .
+      I 'm not a little kid anymore .
+
+3249:     [yes], unknown,    open, 'Lim',496   XP: []
+      Tom and Mary have actually never been on a date yet .
+      Tom and Mary have actually never been on a real date yet .
+
+3251:     [yes], unknown,    open, 'Lim',496   XP: []
+      Tom and Mary have actually never been on a date yet .
+      Tom and Mary have actually never been on a first date yet .
+
+3252:     [yes], unknown,    open, 'Lim',500   XP: []
+      Tom and Mary have actually never been on a date yet .
+      Tom and Mary have actually never been on a date outside yet .
+
+3254:     [yes], unknown,    open, 'Ter',21    XP: []
+      If Esperanto were an easy language , I would n't need a proofreader .
+      If Esperanto was an easy translator , I would not need a proofreader .
+
+3258:     [yes], unknown,    open, 'Lim',714   XP: []
+      Tom has no sense of humor .
+      Tom has no ability of humor .
+
+3259:     [yes], unknown,    open, 'Ter',463   XP: []
+      Tom has no sense of humor .
+      Tom has no feel of humor .
+
+3260:     [yes], unknown,    open, 'Ter',339   XP: []
+      Tom has no sense of humor .
+      Tom has no feelings of humor .
+
+3275:     [yes], unknown,    open, 'Lim',416   XP: []
+      If you 're so demanding of others , you should also be demanding of yourself .
+      If you 're so demanding of needs of others , you should also be demanding of yourself .
+
+3276:     [yes], unknown,    open, 'Ter',85    XP: []
+      If you 're so demanding of others , you should also be demanding of yourself .
+      If you 're so demanding of another one , you should also be demanding of yourself .
+
+3281:     [yes], unknown,    open, 'Lim',505   XP: []
+      Many people in Fiji do n't have access to clean drinking water .
+      Many people in Fiji do n't have access to clean drinking mineral water .
+
+3289:     [yes], unknown,    open, 'Ter',298   XP: []
+      Many people in Fiji do n't have access to clean drinking water .
+      Many people in Fiji do n't have access to clean drinking running water .
+
+3290:     [yes], unknown,    open, 'Ter',254   XP: []
+      Many people in Fiji do n't have access to clean drinking water .
+      Many people in Fiji do n't have access to clean and safe drinking water .
+
+3293:     [yes], unknown,    open, 'Lim',600   XP: []
+      Many people in Fiji do n't have access to clean drinking water .
+      Many people in Fiji do n't have access to clean fresh water .
+
+3297:     [yes], unknown,    open, 'Ter',37    XP: []
+      I do n't watch that program anymore .
+      I do n't watch that show anymore .
+
+3307:     [yes], unknown,    open, 'Ter',60    XP: []
+      Tom and Mary ca n't afford to buy a house .
+      Tom and Mary ca n't afford to buy a house like this house .
+
+3309:     [yes], unknown,    open, 'Ter',29    XP: []
+      If someone ca n't remember his past , he 's doomed to experience it anew .
+      If maria victoria ca n't remember his past , he 's doomed to experience it anew .
+
+3311:     [yes], unknown,    open, 'Ter',138   XP: []
+      Tom goes to bed at the same time every night .
+      Tom goes to bed at the same time every night in april .
+
+3313:     [yes], unknown,    open, 'Ter',138   XP: []
+      Tom goes to bed at the same time every night .
+      Tom goes to bed at the same time every night in his house .
+
+3315:     [yes], unknown,    open, 'Ter',138   XP: []
+      Tom goes to bed at the same time every night .
+      Tom goes to bed at the same time every night in winter .
+
+3318:     [yes], unknown,    open, 'Ter',37    XP: []
+      I have not yet collected sufficient materials to write a book .
+      I have not yet collected sufficient data to write a book .
+
+3319:     [yes], unknown,      NA, 'Defected'  XP: []
+      You ca n't park in front of my house on weekends .
+      You ca n't park in front of my large house on weekends .
+
+3320:     [yes], unknown,      NA, 'Defected'  XP: []
+      You ca n't park in front of my house on weekends .
+      You ca n't park in front of driveway of my house on weekends .
+
+3322:     [yes], unknown,      NA, 'Defected'  XP: []
+      You ca n't park in front of my house on weekends .
+      You ca n't park in front of the entrance of my house on weekends .
+
+3324:     [yes], unknown,    open, 'Ter',8     XP: []
+      A blind man should n't play cards .
+      A blind man should n ’ t play cards and board games at all .
+
+3329:     [yes], unknown,    open, 'Ter',198   XP: []
+      Tom does n't eat meat or eggs .
+      Tom does n't eat meat or scrambled eggs .
+
+3333:     [yes], unknown,    open, 'Ter',44    XP: []
+      You and I do n't see eye-to-eye .
+      You and I do n't see in person .
+
+3334:     [yes], unknown,    open, 'Ter',94    XP: []
+      You have to judge the case without bias .
+      You have to judge the case without any bias of gender .
+
+3336:     [yes], unknown,    open, 'Ter',143   XP: []
+      You have to judge the case without bias .
+      You have to judge the case without bias towards a specific party .
+
+3338:     [yes], unknown,    open, 'Ter',131   XP: []
+      You have to judge the case without bias .
+      You have to judge the case without bias to your friend .
+
+3340:     [yes], unknown,    open, 'Ter',151   XP: []
+      You have to judge the case without bias .
+      You have to judge the case without bias and profanity .
+
+3341:     [yes], unknown,    open, 'Ter',183   XP: []
+      You have to judge the case without bias .
+      You have to judge the case without bias and with honesty .
+
+3342:     [yes], unknown,    open, 'Ter',145   XP: []
+      You have to judge the case without bias .
+      You have to judge the case without bias of ignorant people .
+
+3358:     [yes], unknown,    open, 'Lim',421   XP: []
+      I wo n't ever talk in class again .
+      I wo n't ever talk in lessons again .
+
+3362:     [yes], unknown,    open, 'Ter',53    XP: []
+      We did n't have much trouble .
+      We did n't have much trouble about stealing this .
+
+3364:     [yes], unknown,    open, 'Ter',44    XP: []
+      Tom was in no particular hurry to get back home .
+      Tom was in no particular dash to get back home .
+
+3365:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom was in no particular hurry to get back home .
+      Tom was in no particular habitual hurry to get back home .
+
+3366:     [yes], unknown,    open, 'Ter',73    XP: []
+      I ca n't imagine life without music .
+      I ca n't imagine life and the world without good music .
+
+3376:     [yes], unknown,    open, 'Ter',17    XP: []
+      I ca n't imagine life without music .
+      I ca n't imagine living without soul music .
+
+3377:     [yes], unknown,    open, 'Ter',17    XP: []
+      I ca n't imagine life without music .
+      I ca n't imagine existing without rock'n'roll music .
+
+3380:     [yes], unknown,    open, 'Ter',66    XP: []
+      I ca n't eat fruit in the morning .
+      I ca n't eat any cold fruit in the morning .
+
+3390:     [yes], unknown,    open, 'Ter',45    XP: []
+      It did n't take a genius .
+      It did n't take a thinker .
+
+3395:     [yes], unknown,    open, 'Ter',61    XP: []
+      Tom had no say in the matter .
+      Tom had no say in the matter since he was provided incorrect data .
+
+3400:     [yes], unknown,    open, 'Ter',16    XP: []
+      Please do n't smoke in bed .
+      Please do n't smoke in bed at this hotel .
+
+3401:     [yes], unknown,    open, 'Ter',17    XP: []
+      Please do n't smoke in bed .
+      Please do n't smoke in sleeping bed .
+
+3403:     [yes], unknown,    open, 'Ter',49    XP: []
+      She was never at a loss for an excuse .
+      She was never at a loss for an excuse in that matter .
+
+3405:     [yes], unknown,    open, 'Ter',49    XP: []
+      He does n't have the capacity to be president .
+      He does n't have the capacity to be president of the United States .
+
+3408:     [yes], unknown,    open, 'Ter',33    XP: []
+      He is not a teacher but a student who helps his peers .
+      He is not a teacher but a student .
+
+3410:     [yes], unknown,    open, 'Ter',33    XP: []
+      He is not a teacher but an excellent student .
+      He is not a teacher but a student .
+
+3411:     [yes], unknown,    open, 'Ter',33    XP: []
+      He is not a teacher but a student .
+      He is not a teacher but an engineering student .
+
+3417:     [yes], unknown,    open, 'Ter',45    XP: []
+      She does n't mince words .
+      She does n't mince utterance .
+
+3426:     [yes], unknown,    open, 'Ter',19    XP: []
+      Germany has no minimum wage .
+      There is no minimum wage in Germany .
+
+3432:     [yes], unknown,    open, 'Ter',29    XP: []
+      Beauty is but skin deep .
+      Beauty is but human skin deep .
+
+3434:     [yes], unknown,    open, 'Ter',100   XP: []
+      I ca n't feel at home in a hotel and a pension .
+      I ca n't feel at home in a hotel .
+
+3437:     [yes], unknown,    open, 'Ter',48    XP: []
+      He does n't play soccer .
+      He does n't play football .
+
+3442:     [yes], unknown,    open, 'Ter',28    XP: []
+      Tom does n't take criticism well .
+      Tom does n't take any diferrent opinion well .
+
+3443:     [yes], unknown,    open, 'Ter',48    XP: []
+      Tom does n't take criticism well .
+      Tom does n't take criticism from his mother well .
+
+3445:     [yes], unknown,    open, 'Ter',30    XP: []
+      Tom does n't take criticism well .
+      Tom does n't take this kind of criticism well .
+
+3453:     [yes], unknown,    open, 'Ter',48    XP: []
+      They will not eat meat .
+      They will not eat meat which they say fatten .
+
+3466:     [yes], unknown,    open, 'Ter',50    XP: []
+      I do n't have a landline .
+      I do n't have a home phone .
+
+3469:     [yes], unknown,    open, 'Ter',48    XP: []
+      I ca n't beat Tom at chess .
+      I ca n't beat Tom at a game of chess .
+
+3485:     [yes], unknown,    open, 'Ter',254   XP: []
+      Tom does n't spend much time in Boston .
+      Tom does n't spend much time for study in Boston .
+
+3487:     [yes], unknown,    open, 'Ter',39    XP: []
+      We do not accept tips .
+      We do not accept tips in this town at all .
+
+3489:     [yes], unknown,    open, 'Ter',63    XP: []
+      She does n't speak Japanese at home and at school .
+      She does n't speak Japanese at home .
+
+3499:     [yes], unknown,    open, 'Ter',22    XP: []
+      I ca n't speak Japanese and English .
+      I ca n't speak Japanese .
+
+3501:     [yes], unknown,    open, 'Ter',53    XP: []
+      The police did n't find fingerprints .
+      The police did n't find fingerprints or footprints .
+
+3504:     [yes], unknown,    open, 'Ter',27    XP: []
+      The police did n't find fingerprints .
+      The police did n't find any fingerprints .
+
+3505:     [yes], unknown,    open, 'Ter',126   XP: []
+      Bush Jr. never lied to Americans .
+      Bush Jr. never lied to residents of the United States .
+
+3507:     [yes], unknown,    open, 'Ter',126   XP: []
+      Bush Jr. never lied to Americans .
+      Bush Jr. never lied to citizens of the United States .
+
+3509:     [yes], unknown,    open, 'Ter',64    XP: []
+      Bush Jr. never lied to Americans .
+      Bush Jr. never lied to old Americans .
+
+3517:     [yes], unknown,    open, 'Ter',30    XP: []
+      He dreams that every body in China speaks Esperanto .
+      He dreams that every men in China speaks Esperanto .
+
+3523:     [yes], unknown,    open, 'Ter',24    XP: []
+      He is not a good driver .
+      He is not a good driver at night .
+
+3525:     [yes], unknown,    open, 'Lim',442   XP: []
+      I have never seen a giraffe .
+      I have never seen a big giraffe .
+
+3527:     [yes], unknown,    open, 'Lim',442   XP: []
+      I have never seen a giraffe .
+      I have never seen a real giraffe .
+
+3529:     [yes], unknown,    open, 'Lim',442   XP: []
+      I have never seen a giraffe .
+      I have never seen a pretty giraffe .
+
+3531:     [yes], unknown,    open, 'Lim',442   XP: []
+      I have never seen a giraffe .
+      I have never seen a baby giraffe .
+
+3533:     [yes], unknown,    open, 'Ter',162   XP: []
+      I have never seen a giraffe .
+      I have never seen a giraffe in a zoo .
+
+3535:     [yes], unknown,    open, 'Lim',426   XP: []
+      I have never seen a giraffe .
+      I have never seen a giraffe and his long neck .
+
+3537:     [yes], unknown,    open, 'Ter',25    XP: []
+      You 're not romantic at all .
+      You 're not romantic or affectionate at all .
+
+3564:     [yes], unknown,    open, 'Lim',406   XP: []
+      It is no use your waiting for him .
+      It is no use your waiting for him for hours .
+
+3566:     [yes], unknown,    open, 'Ter',49    XP: []
+      I do n't have the time to read books .
+      I do n't have the time to read boring books .
+
+3578:     [yes], unknown,    open, 'Ter',38    XP: []
+      She can never keep a secret .
+      She can never keep a secret normally .
+
+3579:     [yes], unknown,    open, 'Lim',409   XP: []
+      She can never keep a secret .
+      She can never keep a full secret .
+
+3581:     [yes], unknown,    open, 'Ter',168   XP: []
+      He has never told a lie .
+      He has never told a lie from his mouth .
+
+3582:     [yes], unknown,    open, 'Ter',168   XP: []
+      He has never told a lie .
+      He has never told a lie in his life .
+
+3583:     [yes], unknown,    open, 'Lim',442   XP: []
+      He has never told a lie .
+      He has never told a white lie .
+
+3584:     [yes], unknown,    open, 'Ter',81    XP: []
+      A trivial problem does n't require long contemplation .
+      A trivial problem does n't require long review .
+
+3585:     [yes], unknown,    open, 'Ter',81    XP: []
+      A trivial problem does n't require long contemplation .
+      A trivial problem does n't require long time .
+
+3591:     [yes], unknown,    open, 'Lim',800   XP: []
+      Boys have no respect for girls .
+      Boys have no kind of respect for girls .
+
+3596:     [yes], unknown,    open, 'Ter',15    XP: []
+      He is not an American but a Frenchman .
+      He is not an American by his face but a Frenchman .
+
+Inconsistency in node types (entail/8)
+3597:     [yes], unknown,      NA, 'Defected'  XP: _507030
+      He has no spatial awareness .
+      He has no spatial awareness or similar .
+
+3598:     [yes], unknown,    open, 'Lim',453   XP: []
+      It 's only a matter of adaptation .
+      It 's only an obvious matter of adaptation .
+
+3599:     [yes], unknown,    open, 'Ter',17    XP: []
+      This sentence does n't make sense .
+      This sentence does n't make sense here at all .
+
+3601:     [yes], unknown,    open, 'Ter',58    XP: []
+      She dared to walk the tightrope without a net .
+      She dared to walk a tightrope without a net beneath her .
+
+3603:     [yes], unknown,    open, 'Lim',403   XP: []
+      She dared to walk the tightrope without a net .
+      She dared to walk the tightrope without a net below .
+
+3605:     [yes], unknown,    open, 'Lim',408   XP: []
+      I 've never seen you in a dress before .
+      I 've never seen you in a pretty dress before .
+
+3607:     [yes], unknown,    open, 'Ter',51    XP: []
+      Tom did n't want to work overtime on Christmas Eve .
+      Tom did n't want to work overtime on the morning of Christmas Eve .
+
+3609:     [yes], unknown,    open, 'Ter',22    XP: []
+      Tom did n't want to work overtime on Christmas Eve .
+      Tom did n't want to work overtime on xmas eve .
+
+3617:     [yes], unknown,    open, 'Ter',22    XP: []
+      I ca n't call Tom at home .
+      I ca n't call Tom at home since this morning .
+
+3638:     [yes], unknown,    open, 'Lim',445   XP: []
+      Extraordinary things never happen in simple and ordinary ways .
+      Extraordinary things never happen in simple and ordinary ways they are complicated .
+
+3640:     [yes], unknown,    open, 'Lim',452   XP: []
+      Extraordinary things never happen in simple and ordinary ways .
+      Extraordinary things never happen in simple and ordinary normal ways .
+
+3641:     [yes], unknown,    open, 'Lim',452   XP: []
+      Extraordinary things never happen in simple and ordinary ways .
+      Extraordinary things never happen in simple and ordinary usual ways .
+
+3643:     [yes], unknown,    open, 'Lim',452   XP: []
+      Extraordinary things never happen in simple and ordinary ways .
+      Extraordinary things never happen in simple and ordinary habitual ways .
+
+3655:     [yes], unknown,    open, 'Ter',34    XP: []
+      You 're no longer children .
+      You 're no longer kids .
+
+3656:     [yes], unknown,    open, 'Ter',182   XP: []
+      You 're no longer children .
+      You 're no longer small children .
+
+3658:     [yes], unknown,    open, 'Ter',182   XP: []
+      You 're no longer children .
+      You 're no longer little kids .
+
+3661:     [yes], unknown,    open, 'Ter',20    XP: []
+      You 're no longer teenagers .
+      You 're no longer children .
+
+3662:     [yes], unknown,    open, 'Ter',34    XP: []
+      You 're no longer children .
+      You 're no longer babies .
+
+3664:     [yes], unknown,      NA, 'Defected'  XP: []
+      Do n't sit on that box , you 'll break it !
+      Do n't sit on that fragile box , you 'll break it !
+
+3665:     [yes], unknown,    open, 'Ter',12    XP: []
+      If you and marco are well , paulo and i are well .
+      If you , marko and Tom are well , paulo and i are well .
+
+3670:     [yes], unknown,    open, 'Lim',416   XP: []
+      I did n't actually want to go to college and canteen .
+      I did n't actually want to go to college .
+
+3671:     [yes], unknown,    open, 'Ter',61    XP: []
+      I did n't actually want to go to college .
+      I did n't actually want to go to collge this year .
+
+3677:     [yes], unknown,    open, 'Ter',23    XP: []
+      Tom said he did n't enjoy watching baseball .
+      Tom said he did n't enjoy watching his son ’ s baseball games .
+
+3684:     [yes], unknown,    open, 'Ter',25    XP: []
+      We should n't lose hope .
+      We should n't lose faith .
+
+3686:     [yes], unknown,      NA, 'Defected'  XP: []
+      We should n't lose hope .
+      We should n't lose hope without trying .
+
+3690:     [yes], unknown,    open, 'Ter',23    XP: []
+      Tom does n't like washing dishes .
+      Tom does n't like washing dirty dishes .
+
+3692:     [yes], unknown,    open, 'Ter',43    XP: []
+      Tom does n't like washing dishes .
+      Tom does n't like washing dishes and pans .
+
+3693:     [yes], unknown,    open, 'Ter',349   XP: []
+      Tom does n't like washing dishes .
+      Tom does n't like washing piles of dirty dishes .
+
+3712:     [yes], unknown,    open, 'Ter',191   XP: []
+      I do n't usually have to work on Sundays .
+      I do n't usally have to work on Sundays because that would mean I had to get paid overtime .
+
+3713:     [yes], unknown,    open, 'Ter',149   XP: []
+      I do n't usually have to work on Sundays .
+      I do n't usally have to work on Sundays because my days off are saturday and sunday .
+
+3714:     [yes], unknown,    open, 'Ter',155   XP: []
+      I do n't usually have to work on Sundays .
+      I do n't usually have to work on Sundays every two weeks .
+
+Inconsistency in node types (entail/8)
+3718:     [yes], unknown,      NA, 'Defected'  XP: _270272
+      I did n't know that song .
+      I did n't know that song and who sings it .
+
+3723:     [yes], unknown,    open, 'Ter',22    XP: []
+      I hope this is n't a mistake .
+      I hope this is n't a foul .
+
+3725:     [yes], unknown,    open, 'Ter',50    XP: []
+      We do n't have a garden .
+      We do n't have a good ground .
+
+3737:     [yes], unknown,    open, 'Ter',101   XP: []
+      I do n't like heavy makeup on a young girl .
+      I do not like heavy makeup in a female child under 18 .
+
+3741:     [yes], unknown,    open, 'Ter',26    XP: []
+      I have n't heard that name in years .
+      I have not heard that place name in years .
+
+3742:     [yes], unknown,      NA, 'Defected'  XP: []
+      I have n't heard that name in years .
+      I have n't heard that beautiful name in years .
+
+3743:     [yes], unknown,    open, 'Ter',44    XP: []
+      No need to translate this sentence , I understand it .
+      No need to search in a dictionary to translate this sentence , I understand it .
+
+3746:     [yes], unknown,    open, 'Ter',32    XP: []
+      I do n't live in that city .
+      I do n't live in that town .
+
+3749:     [yes], unknown,    open, 'Ter',26    XP: []
+      Tom did n't have enough strength to open the drawer .
+      Tom did n't have enough strength in his arms to open the drawer .
+
+3758:     [yes], unknown,    open, 'Ter',66    XP: []
+      Every word spoken excites its contradiction .
+      Every speaker 's word spoken excites its contradiction .
+
+3763:     [yes], unknown,    open, 'Ter',36    XP: []
+      He prefers to drink his coffee without sugar .
+      He prefers to drink his coffee without too much sugar .
+
+3766:     [yes], unknown,    open, 'Ter',35    XP: []
+      He prefers to drink his coffee without sugar or milk .
+      He prefers to drink his coffee without sugar .
+
+3769:     [yes], unknown,    open, 'Ter',36    XP: []
+      I wo n't return to that terrible place .
+      I wo n't return to that terrible city .
+
+3770:     [yes], unknown,    open, 'Ter',36    XP: []
+      I wo n't return to that terrible place .
+      I wo n't return to that terrible town .
+
+3771:     [yes], unknown,    open, 'Ter',37    XP: []
+      I wo n't return to that terrible place .
+      I wo n't return to that terrible area .
+
+3774:     [yes], unknown,    open, 'Ter',31    XP: []
+      You are no longer a child .
+      You are no longer a hateful and pretentious child .
+
+3779:     [yes], unknown,    open, 'Lim',800   XP: []
+      Picasso was no clown , and he was a sarcastic commentator on a confused age , a great archivist of humanity 's foolishness .
+      Picasso was no comic figure , and he was a sarcastic commentator on a confused age , a great archivist of humanity 's foolishness .
+
+3780:     [yes], unknown,    open, 'Lim',426   XP: []
+      He 's a man who does n't make mistakes .
+      He 's a man who does n't make such mistakes .
+
+3784:     [yes], unknown,    open, 'Lim',408   XP: []
+      Tom does n't have much interest in outdoor sports .
+      Tom does n't have much interest in outdoor sports to play .
+
+3792:     [yes], unknown,    open, 'Lim',415   XP: []
+      I do n't have much time for TV .
+      I do not have time to watch television in the afternoon .
+
+3798:     [yes], unknown,    open, 'Ter',64    XP: []
+      He did n't give an answer to the question .
+      He did n't give a convincing answer to the question .
+
+3800:     [yes], unknown,    open, 'Ter',82    XP: []
+      He did n't give an answer to the question .
+      He did n't give an answer in time to the question .
+
+3802:     [yes], unknown,    open, 'Ter',77    XP: []
+      He did n't give an answer to the question .
+      He did n't give an answer that was relevant to the question .
+
+3807:     [yes], unknown,    open, 'Lim',408   XP: []
+      You 'd better avoid discussion of religion and politics .
+      You 'd better avoid discussion of controversial subjects like religion and politics .
+
+3808:     [yes], unknown,    open, 'Lim',408   XP: []
+      You 'd better avoid discussion of religion and politics .
+      You 'd better avoid discussion of catholic religion and politics .
+
+3810:     [yes], unknown,    open, 'Ter',124   XP: []
+      You 'd better avoid discussion of religion and politics .
+      You 'd better avoid discussion of any various religion and politics .
+
+3811:     [yes], unknown,    open, 'Ter',46    XP: []
+      If you want a man to propose marriage , feed him well .
+      If you want a man to propose surprising marriage , feed him well .
+
+3812:     [yes], unknown,    open, 'Ter',46    XP: []
+      If you want a man to propose marriage , feed him well .
+      If you want a man to propose fast marriage , feed him well .
+
+3814:     [yes], unknown,    open, 'Lim',800   XP: []
+      The world began without man and shall end without him .
+      The world began without man in it and shall end without him .
+
+3815:     [yes], unknown,    open, 'Lim',469   XP: []
+      The villagers have done without electricity for a long time .
+      The villagers have done without electricity in their home for a long time .
+
+3817:     [yes], unknown,    open, 'Ter',41    XP: []
+      He lied , without hesitation .
+      He lied , without hesitation and uneasiness .
+
+3818:     [yes], unknown,    open, 'Ter',14    XP: []
+      He lied , without hesitation .
+      He lied , without any hesitation .
+
+3819:     [yes], unknown,    open, 'Ter',32    XP: []
+      He lied , without hesitation .
+      He lied , without initial hesitation .
+
+3828:     [yes], unknown,    open, 'Lim',419   XP: []
+      Not a day passes without traffic accidents .
+      Not a day passes without scary traffic accidents .
+
+3830:     [yes], unknown,    open, 'Ter',31    XP: []
+      He ca n't have told a lie .
+      He ca n't have told a falsehood .
+
+3831:     [yes], unknown,    open, 'Ter',20    XP: []
+      He ca n't have told a lie .
+      He ca n't have told a lie in any way .
+
+3836:     [yes], unknown,    open, 'Ter',48    XP: []
+      If human life is convex , we can optimize it .
+      If human life is unusual and convex , we can optimize it .
+
+3837:     [yes], unknown,      NA, 'Defected'  XP: []
+      You ca n't say that word in my country !
+      You ca n't say that bad word in my country !
+
+3838:     [yes], unknown,      NA, 'Defected'  XP: []
+      You ca n't say that word in my country !
+      You ca n't say that horrible word in my country !
+
+3846:     [yes], unknown,    open, 'Lim',415   XP: []
+      I do n't like novels without heroes .
+      I do n't like books without heroes .
+
+3847:     [yes], unknown,    open, 'Lim',416   XP: []
+      I do n't like novels without heroes .
+      I do n't like writings without heroes .
+
+3848:     [yes], unknown,    open, 'Lim',415   XP: []
+      I do n't like novels without heroes .
+      I do n't like recent works of literature without heroes .
+
+3850:     [yes], unknown,    open, 'Ter',38    XP: []
+      I 've never played golf .
+      I 've never played golf professionally .
+
+3852:     [yes], unknown,    open, 'Ter',74    XP: []
+      I 've never played golf .
+      I 've never played golf with instructor .
+
+3861:     [yes], unknown,    open, 'Ter',29    XP: []
+      I do n't want to miss happy hour .
+      I do n't want to miss happy hour to enjoy with my friends .
+
+3863:     [yes], unknown,    open, 'Lim',402   XP: []
+      My children refuse to eat fish .
+      My children refuse to eat red fish .
+
+3865:     [yes], unknown,    open, 'Lim',402   XP: []
+      My children refuse to eat fish .
+      My children refuse to eat sea fish .
+
+3867:     [yes], unknown,    open, 'Lim',402   XP: []
+      My children refuse to eat fish .
+      My children refuse to eat river fish .
+
+3869:     [yes], unknown,    open, 'Lim',402   XP: []
+      My children refuse to eat fish .
+      My children refuse to eat the tuna fish .
+
+3871:     [yes], unknown,    open, 'Lim',402   XP: []
+      My children refuse to eat fish .
+      My children refuse to eat the delicious fish .
+
+3898:     [yes], unknown,    open, 'Ter',32    XP: []
+      It is not tea but coffee that I want .
+      It is not a cup of tea but coffee that I want .
+
+3900:     [yes], unknown,    open, 'Ter',107   XP: []
+      It is n't much fun going mountain climbing by yourself .
+      It is n't much fun and exciting going mountain climbing by yourself .
+
+3901:     [yes], unknown,    open, 'Ter',51    XP: []
+      It is n't much fun going mountain climbing by yourself .
+      It is n't much fun for me going mountain climbing by yourself .
+
+3902:     [yes], unknown,    open, 'Ter',57    XP: []
+      It is n't much fun going mountain climbing by yourself .
+      It is n't much entertainment going mountain climbing by yourself .
+
+3903:     [yes], unknown,    open, 'Ter',57    XP: []
+      It is n't much fun going mountain climbing by yourself .
+      It is n't much joy going mountain climbing by yourself .
+
+3924:     [yes], unknown,    open, 'Ter',57    XP: []
+      Tom wo n't be extradited to Australia .
+      Tom wo n't be extradited to his country Australia .
+
+3925:     [yes], unknown,    open, 'Ter',63    XP: []
+      Tom wo n't be extradited to Australia .
+      Tom wo n't be extradited to the faraway country of Australia .
+
+3939:     [yes], unknown,    open, 'Ter',24    XP: []
+      It was only a nightmare .
+      It was only a terrible nightmare .
+
+3940:     [yes], unknown,    open, 'Ter',24    XP: []
+      It was only a nightmare .
+      It was only a horrible nightmare .
+
+3941:     [yes], unknown,    open, 'Ter',24    XP: []
+      It was only a nightmare .
+      It was only a ridiculous nightmare .
+
+3942:     [yes], unknown,    open, 'Ter',38    XP: []
+      I can live without water .
+      I can live without much water .
+
+3944:     [yes], unknown,    open, 'Ter',38    XP: []
+      I can live without water .
+      I can live without sterilized water .
+
+3946:     [yes], unknown,    open, 'Ter',38    XP: []
+      I can live without water .
+      I can live without cold water .
+
+Inconsistency in node types (entail/8)
+3948:     [yes], unknown,      NA, 'Defected'  XP: _114240
+      Prince Hamletwas n't a play-wright .
+      Prince Hamletwas n't a dramatist .
+
+3950:     [yes], unknown,    open, 'Lim',408   XP: []
+      I could never afford a house as nice as that .
+      I could never afford a big house as nice as that .
+
+3952:     [yes], unknown,    open, 'Lim',408   XP: []
+      I could never afford a house as nice as that .
+      I could never afford a beach house as nice as that .
+
+3954:     [yes], unknown,    open, 'Lim',408   XP: []
+      I could never afford a house as nice as that .
+      I could never afford a colorful house as nice as that .
+
+3967:     [yes], unknown,    open, 'Ter',48    XP: []
+      Tom does n't play soccer .
+      Tom does n't play football .
+
+3972:     [yes], unknown,    open, 'Ter',29    XP: []
+      Tom does n't play soccer .
+      Tom does n't play soccer tonight .
+
+3974:     [yes], unknown,    open, 'Ter',15    XP: []
+      She refused to speak English .
+      She refused to speak English frequently .
+
+3976:     [yes], unknown,    open, 'Ter',20    XP: []
+      She refused to speak English .
+      She refused to speak English correctly .
+
+3978:     [yes], unknown,    open, 'Ter',14    XP: []
+      She refused to speak English .
+      She refused to speak English with us .
+
+Inconsistency in node types (entail/8)
+3991:     [yes], unknown,      NA, 'Defected'  XP: _287072
+      I had no choice but to take the plane .
+      I took the plane because I had no choice .
+
+3992:     [yes], unknown,    open, 'Ter',336   XP: []
+      If you can not enjoy solitude , you can not enjoy the company of others .
+      If you can not enjoy solitude , you can not enjoy the company of neighbors .
+
+3994:     [yes], unknown,    open, 'Ter',225   XP: []
+      Tom has never had a good job .
+      Tom has never had a good job in his field of expertise .
+
+3996:     [yes], unknown,    open, 'Lim',448   XP: []
+      Tom has never had a good job .
+      Tom has never had a good job that he liked .
+
+4000:     [yes], unknown,    open, 'Ter',154   XP: []
+      Tom did n't even say thanks .
+      Tom did n't even say thanks or greetings .
+
+4001:     [yes], unknown,    open, 'Ter',158   XP: []
+      Optimism is merely a lack of information .
+      Optimism is merely a lack of realistic information .
+
+4002:     [yes], unknown,    open, 'Ter',158   XP: []
+      Optimism is merely a lack of information .
+      Optimism is merely a lack of true information .
+
+4003:     [yes], unknown,    open, 'Ter',54    XP: []
+      Optimism is merely a lack of information .
+      Optimism is merely a lack of information at all .
+
+4004:     [yes], unknown,    open, 'Ter',158   XP: []
+      Optimism is merely a lack of information .
+      Optimism is merely a lack of useful information .
+
+4005:     [yes], unknown,    open, 'Ter',158   XP: []
+      Optimism is merely a lack of information .
+      Optimism is merely a lack of significant information .
+
+4015:     [yes], unknown,    open, 'Ter',140   XP: []
+      She seldom goes to that sort of place .
+      She seldom goes to that sort of fancy area .
+
+4017:     [yes], unknown,    open, 'Lim',408   XP: []
+      She 's never fallen in love .
+      She 's never fallen in true love .
+
+4019:     [yes], unknown,    open, 'Ter',76    XP: []
+      She 's never fallen in love .
+      She 's never fallen in love in her lifetime .
+
+4020:     [yes], unknown,    open, 'Lim',408   XP: []
+      She 's never fallen in love .
+      She 's never fallen in love with anyone .
+
+4021:     [yes], unknown,    open, 'Lim',408   XP: []
+      She 's never fallen in love .
+      She 's never fallen in love with her whole heart .
+
+4022:     [yes], unknown,    open, 'Ter',42    XP: []
+      She 's never fallen in love .
+      She 's never fallen in love wholeheartedly .
+
+4025:     [yes], unknown,    open, 'Lim',498   XP: []
+      Darkness is the absence of light .
+      Darkness is the absence of light that illuminates everything .
+
+4035:     [yes], unknown,    open, 'Ter',8     XP: []
+      Tom had no choice but to grin and bear it .
+      Tom had no choice or alternative but to grin and bear it .
+
+4036:     [yes], unknown,    open, 'Ter',248   XP: []
+      I would n't mind a cup of coffee .
+      I would n't mind a drink of coffee .
+
+4037:     [yes], unknown,    open, 'Ter',78    XP: []
+      I would n't mind a cup of coffee .
+      I would n't mind a mug of coffee .
+
+Inconsistency in node types (entail/8)
+4038:     [yes], unknown,      NA, 'Defected'  XP: _63980
+      I would n't mind a cup of coffee .
+      Would n't mind a glass of coffee .
+
+4039:     [yes], unknown,    open, 'Ter',9     XP: []
+      She had no tissues to wipe away her tears .
+      She had no napkin to wipe away her tears .
+
+4045:     [yes], unknown,    open, 'Ter',12    XP: []
+      If you want a man to propose marriage , feed him well .
+      If you want a husband to propose marriage , feed him well .
+
+4053:     [yes], unknown,    open, 'Ter',34    XP: []
+      I do n't expect help .
+      I do n't expect any help .
+
+4054:     [yes], unknown,    open, 'Ter',42    XP: []
+      I do n't expect help .
+      I do n't expect somebody to help .
+
+4057:     [yes], unknown,    open, 'Lim',532   XP: []
+      Integrity has no need of rules .
+      Integrity has no need of rules and manners .
+
+4063:     [yes], unknown,    open, 'Ter',32    XP: []
+      He does n't take vacations .
+      He does n't take vacations for this year .
+
+4064:     [yes], unknown,    open, 'Ter',30    XP: []
+      Tom thought Mary would n't want to live in Boston .
+      Tom thought Mary would n't want to live in the center of Boston .
+
+4065:     [yes], unknown,    open, 'Ter',38    XP: []
+      Tom thought Mary would n't want to live in Boston .
+      Tom thought Mary would n't want to live in a big city like Boston .
+
+4066:     [yes], unknown,    open, 'Ter',29    XP: []
+      Tom thought Mary would n't want to live in Boston .
+      Tom thought Mary would n't want to live in is such a congested area like Boston .
+
+4067:     [yes], unknown,    open, 'Ter',26    XP: []
+      Tom thought Mary would n't want to live in Boston .
+      Tom thought Mary would n't want to live away from her family in Boston .
+
+4068:     [yes], unknown,    open, 'Ter',132   XP: []
+      Tom does n't pay attention in class .
+      Tom does n't pay attention to teachers in class .
+
+4071:     [yes], unknown,    open, 'Ter',59    XP: []
+      I do n't have a clue .
+      I do n't have a clue or idea .
+
+4079:     [yes], unknown,    open, 'Ter',50    XP: []
+      Pedro does n't have a sister .
+      Pedro does n't have a female relative .
+
+4088:     [yes], unknown,    open, 'Ter',304   XP: []
+      One thing a married man should never forget is his wedding anniversary .
+      One thing a married older man should never forget is his wedding anniversary .
+
+4095:     [yes], unknown,    open, 'Ter',30    XP: []
+      Tom said he would n't want to live in Boston .
+      Tom said he would n't want to live in city of Boston .
+
+4096:     [yes], unknown,    open, 'Ter',29    XP: []
+      Tom said he would n't want to live in Boston .
+      Tom said he would n't want to live in beautiful Boston .
+
+4103:     [yes], unknown,    open, 'Ter',71    XP: []
+      A rapper without bling is like a pope without a crucifix .
+      A rapper without bling is like a pope without an incomplete crucifix .
+
+4104:     [yes], unknown,    open, 'Ter',42    XP: []
+      Tom does n't like asking for help .
+      Tom does n't like asking for help from his parents .
+
+4106:     [yes], unknown,    open, 'Ter',42    XP: []
+      Tom does n't like asking for help .
+      Tom does n't like asking for help in times of trouble .
+
+4107:     [yes], unknown,    open, 'Ter',34    XP: []
+      Tom does n't like asking for help .
+      Tom does n't like asking for any help .
+
+4109:     [yes], unknown,    open, 'Ter',23    XP: []
+      Tom does n't like asking for help .
+      Tom does n't like to ask for cooperation from others .
+
+4110:     [yes], unknown,    open, 'Ter',23    XP: []
+      Tom does n't like asking for help .
+      Tom does n't like to ask for assistance in his things .
+
+4112:     [yes], unknown,    open, 'Ter',154   XP: []
+      I would n't like to meet him in a dark place .
+      I would n't like to meet him in a dark area .
+
+4119:     [yes], unknown,    open, 'Lim',464   XP: []
+      It 's no use asking me for money .
+      It 's no use asking me and Tom for money .
+
+4120:     [yes], unknown,    open, 'Ter',219   XP: []
+      It 's no use asking me for money .
+      It 's no good asking me for money .
+
+4126:     [yes], unknown,    open, 'Lim',439   XP: []
+      It 's only a slight cold .
+      It 's only a slight head cold .
+
+4127:     [yes], unknown,    open, 'Ter',28    XP: []
+      His logic is in no way defensible .
+      His logic is in no way and under any circumstances defensible .
+
+4128:     [yes], unknown,    open, 'Ter',344   XP: []
+      His logic is in no way defensible .
+      His logic is in no way defensible and strong .
+
+4129:     [yes], unknown,    open, 'Ter',42    XP: []
+      This rule does n't apply to emergencies .
+      This rule does n't apply to situation of emergencies .
+
+4130:     [yes], unknown,    open, 'Ter',43    XP: []
+      If it is fine tomorrow , we will play baseball .
+      If it is fine tomorrow morning , we will play baseball .
+
+4131:     [yes], unknown,    open, 'Ter',48    XP: []
+      If it is fine tomorrow , we will play baseball .
+      If it is fine tomorrow afternoon , we will play baseball .
+
+4132:     [yes], unknown,    open, 'Ter',32    XP: []
+      Tom is n't a criminal .
+      Tom is n't a extortion criminal .
+
+4134:     [yes], unknown,    open, 'Ter',31    XP: []
+      Tom is n't a criminal .
+      Tom is n't a criminal of people .
+
+4135:     [yes], unknown,    open, 'Ter',32    XP: []
+      Tom is n't a criminal .
+      Tom is n't a habitual criminal .
+
+4137:     [yes], unknown,    open, 'Ter',30    XP: []
+      Tom is n't a criminal .
+      Tom is n't a person of criminal background .
+
+4139:     [yes], unknown,    open, 'Ter',65    XP: []
+      Tom does n't like chess .
+      Tom does n't like game of chess .
+
+4140:     [yes], unknown,    open, 'Ter',31    XP: []
+      Tom does n't like chess .
+      Tom does n't like playing chess .
+
+4142:     [yes], unknown,    open, 'Ter',81    XP: []
+      Tom does n't like chess .
+      Tom does n't like long game of chess .
+
+4143:     [yes], unknown,    open, 'Ter',52    XP: []
+      The ship left every Monday in the morning .
+      The ship left every monday .
+
+4144:     [yes], unknown,    open, 'Ter',11    XP: []
+      The ship left every monday .
+      The ship left every Monday evening or afternoon .
+
+4150:     [yes], unknown,    open, 'Ter',60    XP: []
+      Tom does n't have a microwave oven .
+      Tom does n't have a philips microwave-oven .
+
+4151:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom does n't have a credit card or a bank account .
+      Tom does n't have a credit card or an us bank-account .
+
+4152:     [yes], unknown,    open, 'Ter',66    XP: []
+      I do not like ice cream .
+      I do not like the taste of ice cream .
+
+4153:     [yes], unknown,    open, 'Ter',131   XP: []
+      I 've never been to paris .
+      I 've never been to paris , the capital of france .
+
+4154:     [yes], unknown,    open, 'Ter',29    XP: []
+      I ca n't speak German at all .
+      I ca n't speak German and italian .
+
+4155:     [yes], unknown,    open, 'Ter',20    XP: []
+      I ca n't speak German at all .
+      I ca n't speak German confidently at all .
+
+4156:     [yes], unknown,    open, 'Ter',43    XP: []
+      I ca n't speak and write German at all .
+      I ca n't speak German at all .
+
+4166:     [yes], unknown,    open, 'Ter',165   XP: []
+      I was n't in time for school this morning .
+      I was n't in time for my school this morning .
+
+4167:     [yes], unknown,    open, 'Ter',174   XP: []
+      I was n't in time for school this morning .
+      I was n't in time for elementary school this morning .
+
+4168:     [yes], unknown,    open, 'Ter',188   XP: []
+      I was n't in time for school this morning .
+      I was n't in time for junior high school this morning .
+
+4169:     [yes], unknown,    open, 'Ter',53    XP: []
+      We do n't have this in Australia .
+      We do n't have this in beautiful Australia .
+
+4171:     [yes], unknown,    open, 'Lim',714   XP: []
+      Honesty is no guarantee of success .
+      Honesty is no assurance of success .
+
+4177:     [yes], unknown,    open, 'Ter',20    XP: []
+      I can not swim at all .
+      I can not swim to save my life .
+
+4184:     [yes], unknown,    open, 'Ter',94    XP: []
+      Tom goes jogging in the park every early in the morning .
+      Tom goes jogging in the park every morning .
+
+4185:     [yes], unknown,    open, 'Ter',37    XP: []
+      Every body but Tom smiled .
+      Every body in the meeting but Tom smiled .
+
+4187:     [yes], unknown,    open, 'Ter',42    XP: []
+      I did n't unlock that door .
+      I did n't unlock that door or any other .
+
+Inconsistency in node types (entail/8)
+4189:     [yes], unknown,      NA, 'Defected'  XP: _367830
+      If a dog bites you , wash the wound with soap and water .
+      If a puppy bites you , wash the wound with soap and water .
+
+Inconsistency in node types (entail/8)
+4190:     [yes], unknown,      NA, 'Defected'  XP: _297146
+      If a dog bites you , wash the wound with soap and water .
+      If a big dog bites you , wash the wound with soap and water .
+
+Inconsistency in node types (entail/8)
+4191:     [yes], unknown,      NA, 'Defected'  XP: _44136
+      If a dog bites you , wash the wound with soap and water .
+      If a sick dog bites you , wash the wound with soap and water .
+
+Inconsistency in node types (entail/8)
+4192:     [yes], unknown,      NA, 'Defected'  XP: _463596
+      If a dog bites you , wash the wound with soap and water .
+      If an ill dog bites you , wash the wound with soap and water .
+
+Inconsistency in node types (entail/8)
+4193:     [yes], unknown,      NA, 'Defected'  XP: _285258
+      If a dog bites you , wash the wound with soap and water .
+      If an angry dog bites you , wash the wound with soap and water .
+
+4196:     [yes], unknown,    open, 'Ter',43    XP: []
+      He does not speak English .
+      He does not speak fluent English .
+
+4198:     [yes], unknown,    open, 'Ter',28    XP: []
+      He does not speak English .
+      He does not speak any English .
+

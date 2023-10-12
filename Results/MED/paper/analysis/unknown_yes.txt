@@ -1,0 +1,592 @@
+68: [unknown],     yes,  closed, 'Ter',77    XP: [int(first),int(saudus),int(whose@movement@(be@(since@(june@'2017')@restrict)))]
+      The crown prince 's mother would n't be the first royal whose movements were restricted since June 2017 .
+      The crown prince 's mother would n't be the first saudi royal whose movements were restricted since June 2017 .
+
+75: [unknown],     yes,  closed, 'Ter',22    XP: []
+      I have never seen a hummingbird not flying .
+      I have never seen a hummingbird .
+
+77: [unknown],     yes,  closed, 'Ter',21    XP: [isa(hummingbird,bird)]
+      I have never seen a hummingbird not flying .
+      I have never seen a bird not flying .
+  
+59: [unknown],     yes,  closed, 'Ter',6     XP: [int(fatal),int(latest)]
+      The latest fatal incident , reported Monday morning , killed a 17-year-old boy and wounded a woman .
+      The latest incident , reported Monday morning , killed a 17-year-old boy and wounded a woman .
+
+103: [unknown],     yes,  closed, 'Ter',20    XP: []
+      Looking at pictures online of people trying to take photos of mirrors they want to sell is my new thing .
+      Looking at pictures online of people trying to take photos of mirrors is my new thing .
+
+109: [unknown],     yes,  closed, 'Ter',12    XP: [int(first),int(pleasurable),int(who@abst(_301914,interact@(with@(another@(human@being)))@(have@_301914)@i))]
+      The first pleasurable experience I had interacting with another human being was at the age of seventeen .
+      The first experience I had interacting with another human being was at the age of seventeen .
+
+125: [unknown],     yes,  closed, 'Ter',4     XP: [int(experienced)]
+      An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+      A sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+
+129: [unknown],     yes,  closed, 'Ter',4     XP: [isa(cherry tree,tree)]
+      So far two of my cherry trees have already bloomed , and it 's not even april .
+      So far two of my trees have already bloomed , and it 's not even april .
+
+4251: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Exactly 12 aliens read news magazines .
+      Exactly 12 aliens read magazines .
+
+4252: [unknown],     yes,  closed, 'Ter',7     XP: [int(alien),int(watch),isa(baseball,sport)]
+      Exactly 12 aliens watched baseball matches .
+      Exactly 12 aliens watched sports matches .
+
+4291: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Only 12 aliens read news magazines .
+      Only 12 aliens read magazines .
+
+4292: [unknown],     yes,  closed, 'Ter',7     XP: [int(alien),int(watch),isa(baseball,sport)]
+      Only 12 aliens watched baseball matches .
+      Only 12 aliens watched sports matches .
+
+4316: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Exactly 12 aliens read some sci-fi novels .
+      Exactly 12 aliens read books .
+
+4317: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Exactly 12 aliens played with some toy cars .
+      Exactly 12 aliens played with toys .
+
+4318: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Exactly 12 aliens threw some tennis balls .
+      Exactly 12 aliens threw balls .
+
+4332: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Only 12 aliens read some sci-fi novels .
+      Only 12 aliens read books .
+
+4333: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Only 12 aliens played with some toy cars .
+      Only 12 aliens played with toys .
+
+4334: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Only 12 aliens threw some tennis balls .
+      Only 12 aliens threw balls .
+
+4412: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Exactly 12 aliens read sci-fi novels .
+      Exactly 12 aliens read books .
+
+4413: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Exactly 12 aliens saw doves .
+      Exactly 12 aliens saw birds .
+
+4414: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Exactly 12 aliens threw tennis balls .
+      Exactly 12 aliens threw balls .
+
+4420: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Only 12 aliens read sci-fi novels .
+      Only 12 aliens read books .
+
+4421: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Only 12 aliens saw doves .
+      Only 12 aliens saw birds .
+
+4422: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Only 12 aliens threw tennis balls .
+      Only 12 aliens threw balls .
+
+4427: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Exactly 12 aliens read some news magazines .
+      Exactly 12 aliens read magazines .
+
+4428: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Exactly 12 aliens ate at some Mexican restaurants .
+      Exactly 12 aliens ate at restaurants .
+
+4430: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Exactly 12 aliens used some quarters .
+      Exactly 12 aliens used coins .
+
+4435: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Only 12 aliens read some news magazines .
+      Only 12 aliens read magazines .
+
+4436: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Only 12 aliens ate at some Mexican restaurants .
+      Only 12 aliens ate at restaurants .
+
+4438: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Only 12 aliens used some quarters .
+      Only 12 aliens used coins .
+
+4439: [unknown],     yes,  closed, 'Ter',7     XP: [int(alien),int(ate),isa(pork,meat)]
+      Every alien ate meat .
+      Every alien ate pork .
+
+4532: [unknown],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      No alien ate at Mexican restaurants .
+      No alien ate at restaurants .
+
+4539: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Exactly 12 aliens read any news magazines .
+      Exactly 12 aliens read any magazines .
+
+4542: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Exactly 12 aliens threw any tennis balls .
+      Exactly 12 aliens threw any balls .
+
+4547: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Only 12 aliens read any news magazines .
+      Only 12 aliens read any magazines .
+
+4548: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Only 12 aliens read any sci-fi novels .
+      Only 12 aliens read any books .
+
+4550: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Only 12 aliens threw any tennis balls .
+      Only 12 aliens threw any balls .
+
+4556: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Exactly 12 aliens ate at Mexican restaurants .
+      Exactly 12 aliens ate at restaurants .
+
+4557: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Exactly 12 aliens played with toy cars .
+      Exactly 12 aliens played with toys .
+
+4558: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Exactly 12 aliens used quarters .
+      Exactly 12 aliens used coins .
+
+4564: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Only 12 aliens ate at Mexican restaurants .
+      Only 12 aliens ate at restaurants .
+
+4565: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Only 12 aliens played with toy cars .
+      Only 12 aliens played with toys .
+
+4566: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Only 12 aliens used quarters .
+      Only 12 aliens used coins .
+
+4571: [unknown],     yes,  closed, 'Ter',2     XP: [isa(pork,meat)]
+      Exactly 12 aliens ate some pork .
+      Exactly 12 aliens ate some meat .
+
+4572: [unknown],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Exactly 12 aliens watched some baseball matches .
+      Exactly 12 aliens watched some sports matches .
+
+4573: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Exactly 12 aliens saw some doves .
+      Exactly 12 aliens saw some birds .
+
+4579: [unknown],     yes,  closed, 'Ter',2     XP: [isa(pork,meat)]
+      Only 12 aliens ate some pork .
+      Only 12 aliens ate some meat .
+
+4581: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Only 12 aliens saw some doves .
+      Only 12 aliens saw some birds .
+
+4652: [unknown],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      No alien ate at any Mexican restaurants .
+      No alien ate at any restaurants .
+
+4659: [unknown],     yes,  closed, 'Ter',2     XP: [isa(pork,meat)]
+      Exactly 12 aliens ate any pork .
+      Exactly 12 aliens ate any meat .
+
+4660: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Exactly 12 aliens ate at any Mexican restaurants .
+      Exactly 12 aliens ate at any restaurants .
+
+4661: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Exactly 12 aliens saw any doves .
+      Exactly 12 aliens saw any birds .
+
+4662: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Exactly 12 aliens used any quarters .
+      Exactly 12 aliens used any coins .
+
+4667: [unknown],     yes,  closed, 'Ter',2     XP: [isa(pork,meat)]
+      Only 12 aliens ate any pork .
+      Only 12 aliens ate any meat .
+
+4668: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Only 12 aliens ate at any Mexican restaurants .
+      Only 12 aliens ate at any restaurants .
+
+4669: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Only 12 aliens saw any doves .
+      Only 12 aliens saw any birds .
+
+4670: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Only 12 aliens used any quarters .
+      Only 12 aliens used any coins .
+
+4676: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Exactly 12 aliens read some sci-fi novels .
+      Exactly 12 aliens read some books .
+
+4677: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Exactly 12 aliens played with some toy cars .
+      Exactly 12 aliens played with some toys .
+  
+4748: [unknown],     yes,  closed, 'Ter',10    XP: [isa(baseball,sport)]
+      Only 12 aliens watched any baseball matches .
+      Only 12 aliens watched any sports matches .
+
+4678: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Exactly 12 aliens threw some tennis balls .
+      Exactly 12 aliens threw some balls .
+
+4684: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Only 12 aliens read some sci-fi novels .
+      Only 12 aliens read some books .
+
+4685: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Only 12 aliens played with some toy cars .
+      Only 12 aliens played with some toys .
+
+4686: [unknown],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Only 12 aliens threw some tennis balls .
+      Only 12 aliens threw some balls .
+
+4740: [unknown],     yes,  closed, 'Ter',10    XP: [isa(baseball,sport)]
+      Exactly 12 aliens watched any baseball matches .
+      Exactly 12 aliens watched any sports matches .
+
+4741: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Exactly 12 aliens played with any toy cars .
+      Exactly 12 aliens played with any toys .
+
+4749: [unknown],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Only 12 aliens played with any toy cars .
+      Only 12 aliens played with any toys .
+
+4755: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Exactly 12 aliens read some news magazines .
+      Exactly 12 aliens read some magazines .
+
+4756: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Exactly 12 aliens ate at some Mexican restaurants .
+      Exactly 12 aliens ate at some restaurants .
+
+4758: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Exactly 12 aliens used some quarters .
+      Exactly 12 aliens used some coins .
+
+4763: [unknown],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Only 12 aliens read some news magazines .
+      Only 12 aliens read some magazines .
+
+4764: [unknown],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Only 12 aliens ate at some Mexican restaurants .
+      Only 12 aliens ate at some restaurants .
+
+4766: [unknown],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Only 12 aliens used some quarters .
+      Only 12 aliens used some coins .
+  
+4540: [unknown],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Exactly 12 aliens read any sci-fi novels .
+      Exactly 12 aliens read any books .
+  
+4580: [unknown],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Only 12 aliens watched some baseball matches .
+      Only 12 aliens watched some sports matches .
+
+4792: [unknown],     yes,  closed, 'Ter',12    XP: [int(sci-fi),isa(novel,book)]
+      No alien died without reading some books .
+      No alien died without reading sci-fi novels .
+
+4793: [unknown],     yes,  closed, 'Ter',12    XP: [int(toy)]
+      No alien died without playing with some toys .
+      No alien died without playing with toy cars .
+
+4794: [unknown],     yes,  closed, 'Ter',10    XP: [isa(tennis ball,ball)]
+      No alien died without throwing some balls .
+      No alien died without throwing tennis balls .
+
+4823: [unknown],     yes,  closed, 'Ter',10    XP: [isa(news magazine,magazine)]
+      No alien died without reading magazines .
+      No alien died without reading news magazines .
+
+4824: [unknown],     yes,  closed, 'Ter',28    XP: [int(who@match),isa(baseball,sport)]
+      No alien died without watching sports matches .
+      No alien died without watching baseball matches .
+
+4839: [unknown],     yes,  closed, 'Ter',10    XP: [isa(news magazine,magazine)]
+      No alien died without reading some magazines .
+      No alien died without reading news magazines .
+
+4840: [unknown],     yes,  closed, 'Ter',12    XP: [int(mexican)]
+      No alien died without eating at some restaurants .
+      No alien died without eating at Mexican restaurants .
+
+4842: [unknown],     yes,  closed, 'Ter',10    XP: [isa(quarter,coin)]
+      No alien died without using some coins .
+      No alien died without using quarters .
+
+4871: [unknown],     yes,  closed, 'Ter',10    XP: [isa(pork,meat)]
+      No alien died without eating meat .
+      No alien died without eating pork .
+
+4872: [unknown],     yes,  closed, 'Ter',12    XP: [int(sci-fi),isa(novel,book)]
+      No alien died without reading books .
+      No alien died without reading sci-fi novels .
+
+4873: [unknown],     yes,  closed, 'Ter',10    XP: [isa(dove,bird)]
+      No alien died without seeing birds .
+      No alien died without seeing doves .
+
+4874: [unknown],     yes,  closed, 'Ter',10    XP: [isa(tennis ball,ball)]
+      No alien died without throwing balls .
+      No alien died without throwing tennis balls .
+
+4887: [unknown],     yes,  closed, 'Ter',10    XP: [isa(pork,meat)]
+      No alien died without eating some meat .
+      No alien died without eating pork .
+
+4889: [unknown],     yes,  closed, 'Ter',30    XP: [int(who@match),isa(baseball,sport)]
+      No alien died without watching some sports matches .
+      No alien died without watching baseball matches .
+
+4891: [unknown],     yes,  closed, 'Ter',10    XP: [isa(dove,bird)]
+      No alien died without seeing some birds .
+      No alien died without seeing doves .
+
+4945: [unknown],     yes,  closed, 'Ter',12    XP: [int(mexican)]
+      No alien died without eating at restaurants .
+      No alien died without eating at Mexican restaurants .
+
+4947: [unknown],     yes,  closed, 'Ter',12    XP: [int(toy)]
+      No alien died without playing with toys .
+      No alien died without playing with toy cars .
+
+4949: [unknown],     yes,  closed, 'Ter',10    XP: [isa(quarter,coin)]
+      No alien died without using coins .
+      No alien died without using quarters .
+
+4970: [unknown],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Exactly 12 aliens saw some doves .
+      Exactly 12 aliens saw birds .
+
+4996: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Exactly one man ran quickly .
+      Exactly one man ran .
+
+5003: [unknown],     yes,  closed, 'Ter',4     XP: [int(tall)]
+      Exactly one tall man ran .
+      Exactly one man ran .
+
+5024: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Exactly one man sang .
+      Exactly one man sang or danced .
+
+5025: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Exactly one man danced .
+      Exactly one man sang or danced .
+
+5043: [unknown],     yes,  closed, 'Ter',11    XP: []
+      She never kissed him .
+      She never touched him .
+
+5049: [unknown],     yes,  closed, 'Ter',9     XP: []
+      Before she kissed him , she brushed her teeth .
+      Before she touched him , she brushed her teeth .
+
+5068: [unknown],     yes,  closed, 'Ter',7     XP: [isa(black widow,spider)]
+      Pete believes he is a black widow .
+      Pete believes he is a spider .
+
+5069: [unknown],     yes,  closed, 'Ter',7     XP: [isa(spider,arachnid)]
+      Pete believes he is a spider .
+      Pete believes he is an arachnid .
+
+5072: [unknown],     yes,  closed, 'Ter',2     XP: [isa(hazelnut,nut)]
+      Exactly five students brought hazelnuts .
+      Exactly five students brought nuts .
+
+5088: [unknown],     yes,  closed, 'Ter',30    XP: []
+      It 's not true that Betty does n't live in Germany .
+      It 's not true that Betty does n't live in Berlin .
+
+5090: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      All dots are red .
+      All dots are scarlet .
+
+5092: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Most dots are red .
+      Most dots are scarlet .
+
+5094: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Some dots are red .
+      Some dots are scarlet .
+
+5096: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      At least five dots are red .
+      At least five dots are scarlet .
+
+5098: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      No dots are scarlet .
+      No dots are red .
+
+5100: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Fewer than five dots are scarlet .
+      Fewer than five dots are red .
+
+5101: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Exactly five dots are red .
+      Exactly five dots are scarlet .
+
+5102: [unknown],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Exactly five dots are scarlet .
+      Exactly five dots are red .
+
+5118: [unknown],     yes,  closed, 'Ter',2     XP: [isa(elephant,pachyderm)]
+      Exactly three elephants are blue .
+      Exactly three pachyderms are blue .
+
+5230: [unknown],     yes,  closed, 'Ter',5     XP: []
+      No less than fifty campers have had a sunburn or caught a cold .
+      No less than fifty campers have caught a cold .
+
+5231: [unknown],     yes,  closed, 'Ter',8     XP: []
+      No less than fifty children chose any mint chocolates or decided on the cotton candy .
+      No less than fifty children decided on the cotton candy .
+
+5232: [unknown],     yes,  closed, 'Ter',8     XP: []
+      No less than fifty children chose mint chocolates or decided on the cotton candy .
+      No less than fifty children decided on the cotton candy .
+
+5234: [unknown],     yes,  closed, 'Ter',5     XP: []
+      No less than five campers have had a sunburn or caught a cold .
+      No less than five campers have caught a cold .
+
+5247: [unknown],     yes,  closed, 'Ter',3     XP: []
+      Almost no children decided on the cotton candy .
+      Almost no children chose any mint chocolates or decided on the cotton candy .
+
+5248: [unknown],     yes,  closed, 'Ter',3     XP: []
+      Almost no children decided on the cotton candy .
+      Almost no children chose mint chocolates or decided on the cotton candy .
+
+5251: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Almost nobody decided on the cotton candy .
+      Almost nobody chose any mint chocolates or decided on the cotton candy .
+
+5252: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Almost nobody decided on the cotton candy .
+      Almost nobody chose mint chocolates or decided on the cotton candy .
+
+5254: [unknown],     yes,  closed, 'Ter',8     XP: []
+      At most five campers have caught a cold .
+      At most five campers have had a sunburn or caught a cold .
+
+5255: [unknown],     yes,  closed, 'Ter',7     XP: []
+      At most five children decided on the cotton candy .
+      At most five children chose any mint chocolates or decided on the cotton candy .
+
+5256: [unknown],     yes,  closed, 'Ter',7     XP: []
+      At most five children decided on the cotton candy .
+      At most five children chose mint chocolates or decided on the cotton candy .
+
+5262: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Less than five campers have caught a cold .
+      Less than five campers have had a sunburn or caught a cold .
+
+5263: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Less than five children decided on the cotton candy .
+      Less than five children chose any mint chocolates or decided on the cotton candy .
+
+5264: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Less than five children decided on the cotton candy .
+      Less than five children chose mint chocolates or decided on the cotton candy .
+
+5266: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Less than five of campers have caught a cold .
+      Less than five of campers have had a sunburn or caught a cold .
+
+5267: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Less than five of the children decided on the cotton candy .
+      Less than five of the children chose any mint chocolates or decided on the cotton candy .
+
+5268: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Less than five of the children decided on the cotton candy .
+      Less than five of the children chose mint chocolates or decided on the cotton candy .
+
+5270: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Not many campers have caught a cold .
+      Not many campers have had a sunburn or caught a cold .
+
+5271: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Not many children decided on the cotton candy .
+      Not many children chose any mint chocolates or decided on the cotton candy .
+
+5272: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Not many children decided on the cotton candy .
+      Not many children chose mint chocolates or decided on the cotton candy .
+
+5274: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Not many of the campers have caught a cold .
+      Not many of the campers have had a sunburn or caught a cold .
+
+5275: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Not many of the children decided on the cotton candy .
+      Not many of the children chose any mint chocolates or decided on the cotton candy .
+
+5276: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Not many of the children decided on the cotton candy .
+      Not many of the children chose mint chocolates or decided on the cotton candy .
+
+5286: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Very few campers have caught a cold .
+      Very few campers have had a sunburn or caught a cold .
+
+5287: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Very few children decided on the cotton candy .
+      Very few children chose any mint chocolates or decided on the cotton candy .
+
+5288: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Very few children decided on the cotton candy .
+      Very few children chose mint chocolates or decided on the cotton candy .
+
+5290: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Very few of campers have caught a cold .
+      Very few of campers have had a sunburn or caught a cold .
+
+5291: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Very few of the children decided on the cotton candy .
+      Very few of the children chose any mint chocolates or decided on the cotton candy .
+
+5292: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Very few of the children decided on the cotton candy .
+      Very few of the children chose mint chocolates or decided on the cotton candy .
+
+5334: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Only five campers have caught a cold .
+      Only five campers have had a sunburn or caught a cold .
+
+5335: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Only five children decided on the cotton candy .
+      Only five children chose any mint chocolates or decided on the cotton candy .
+
+5336: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Only five children decided on the cotton candy .
+      Only five children chose mint chocolates or decided on the cotton candy .
+
+5338: [unknown],     yes,  closed, 'Ter',7     XP: []
+      Only five of the campers have caught a cold .
+      Only five of the campers have had a sunburn or caught a cold .
+
+5339: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Only five of the children decided on the cotton candy .
+      Only five of the children chose any mint chocolates or decided on the cotton candy .
+
+5340: [unknown],     yes,  closed, 'Ter',5     XP: []
+      Only five of the children decided on the cotton candy .
+      Only five of the children chose mint chocolates or decided on the cotton candy .
+

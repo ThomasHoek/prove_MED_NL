@@ -1,0 +1,376 @@
+1:     [yes],     yes,  closed, 'Ter',10    XP: [isa(voor@c1@nobel prijs,nobel prijs)]
+      Een Ierse man won de nobelprijs voor literatuur.
+      Een Ierse man won een nobelprijs.
+  
+108:     [yes],     yes,  closed, 'Ter',20    XP: []
+      Ik wil niet mensen blijven vermaken.
+      Ik wil niet mensen blijven vermaken die mijn tijd niet waarderen.
+  
+76:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Ik heb nog nooit een kolibrie gezien.
+      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+
+3:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+      Een paar afgevaardigden hadden de vragenlijst af.
+
+4:     [yes],     yes,  closed, 'Ter',4     XP: [int(interessant)]
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
+      Veel afgevaardigden haalden resultaten uit de vragenlijst.
+  
+43:     [yes],     yes,  closed, 'Ter',4     XP: [isa(hond,dier)]
+      Een paar honden krabben graag hun oren.
+      Een paar dieren krabben graag hun oren.
+
+90:     [yes],     yes,  closed, 'Ter',90    XP: [isa(koning,persoon)]
+      Regionale gouverneurs konden op niemand rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
+      Regionale gouverneurs konden niet op de koning rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
+
+105:     [yes],     yes,  closed, 'Ter',4     XP: [int(sereen)]
+      Een serene wind rolde over de open plek.
+      Een wind rolde over de open plek.
+
+4245:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleding)]
+      Ieder buitenaards wezen kocht shirts.
+      Ieder buitenaards wezen kocht kleding.
+
+4269:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Veel buitenaardse wezens kochten shirts.
+      Veel buitenaardse wezens kochten kleren.
+
+4273:     [yes],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Het paarse buitenaardse wezen kocht geen kleren.
+      Het paarse buitenaardse wezen kocht geen shirts.
+
+4281:     [yes],     yes,  closed, 'Ter',5     XP: [isa(shirt,kleren)]
+      Geen buitenaards wezen kocht kleren.
+      Geen buitenaards wezen kocht shirts.
+
+4301:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Het gele buitenaardse wezen kocht shirts.
+      Het gele buitenaardse wezen kocht kleren.
+
+4307:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Ieder buitenaards wezen dronk wat cola.
+      Ieder buitenaards wezen dronk frisdrank.
+
+4323:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Veel buitenaardse wezens dronken wat cola.
+      Veel buitenaardse wezens dronken frisdrank.
+
+4339:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Het blauwe buitenaardse wezen dronk wat cola.
+      Het blauwe buitenaardse wezen dronk frisdrank.
+  
+4477:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Veel buitenaardse wezens kochten wat shirts.
+      Veel buitenaardse wezens kochten kleren.
+
+4377:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Het paarse buitenaardse wezen zag geen vogels.
+      Het paarse buitenaardse wezen zag geen duiven.
+
+4385:     [yes],     yes,  closed, 'Ter',5     XP: [isa(duif,vogel)]
+      Geen buitenaards wezen zag vogels.
+      Geen buitenaards wezen zag duiven.
+
+4445:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Ieder buitenaards wezen zag duiven.
+      Ieder buitenaards wezen zag vogels.
+
+4453:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Veel buitenaardse wezens zagen duiven.
+      Veel buitenaardse wezens zagen vogels.
+
+4461:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Het gele buitenaardse wezen zag duiven.
+      Het gele buitenaardse wezen zag vogels.
+
+4468:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Ieder buitenaards wezen at bij een paar Mexicaanse restaurants.
+      Ieder buitenaards wezen at bij restaurants.
+
+4469:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleding)]
+      Ieder buitenaards wezen kocht een paar shirts.
+      Ieder buitenaards wezen kocht kleding.
+
+4476:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Veel buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Veel buitenaardse wezens aten bij restaurants.
+
+4484:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Het blauwe buitenaardse wezen at bij een paar Mexicaanse restaurants.
+      Het blauwe buitenaardse wezen at bij restaurants.
+
+4485:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Het blauwe buitenaardse wezen kocht wat shirts.
+      Het blauwe buitenaardse wezen kocht kleren.
+
+4497:     [yes],     yes,  closed, 'Ter',3     XP: [isa(shirt,kleren)]
+      Het rode buitenaardse wezen kocht geen enkele kleren.
+      Het rode buitenaardse wezen kocht geen enkele shirts.
+
+4505:     [yes],     yes,  closed, 'Ter',5     XP: [isa(shirt,kleren)]
+      Geen buitenaards wezen kocht enige kleren.
+      Geen buitenaards wezen kocht enige shirts.
+
+4519:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Het paarse buitenaardse wezen dronk geen frisdrank.
+      Het paarse buitenaardse wezen dronk geen cola.
+
+4520:     [yes],     yes,  closed, 'Ter',6     XP: [int(Mexicaans)]
+      Het paarse buitenaardse wezen at niet bij restaurants.
+      Het paarse buitenaardse wezen at niet bij Mexicaanse restaurants.
+
+4527:     [yes],     yes,  closed, 'Ter',5     XP: [isa(cola,frisdrank)]
+      Geen buitenaards wezen dronk frisdrank.
+      Geen buitenaards wezen dronk cola.
+
+4528:     [yes],     yes,  closed, 'Ter',7     XP: [int(Mexicaans)]
+      Geen buitenaards wezen at bij restaurants.
+      Geen buitenaards wezen at bij Mexicaanse restaurants.
+
+4587:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Ieder buitenaards wezen dronk cola.
+      Ieder buitenaards wezen dronk frisdrank.
+
+4588:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Ieder buitenaards wezen at bij Mexicaanse restaurants.
+      Ieder buitenaards wezen at bij restaurants.
+
+4595:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Veel buitenaardse wezens dronken cola.
+      Veel buitenaardse wezens dronken frisdrank.
+
+4596:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Veel buitenaardse wezens aten bij Mexicaanse restaurants.
+      Veel buitenaardse wezens aten bij restaurants.
+
+4603:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Het gele buitenaardse wezen dronk cola.
+      Het gele buitenaardse wezen dronk frisdrank.
+
+4604:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Het gele buitenaardse wezen at bij Mexicaanse restaurants.
+      Het gele buitenaardse wezen at bij restaurants.
+
+4613:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Ieder buitenaards wezen zag een paar duiven.
+      Ieder buitenaards wezen zag een paar vogels.
+
+4621:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Veel buitenaardse wezens zagen een paar duiven.
+      Veel buitenaardse wezens zagen een paar vogels.
+
+4629:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Het blauwe buitenaardse wezen zag een paar duiven.
+      Het blauwe buitenaardse wezen zag een paar vogels.
+
+4640:     [yes],     yes,  closed, 'Ter',5     XP: [int(Mexicaans),int(enkel)]
+      Het rode buitenaardse wezen at bij geen enkel restaurant.
+      Het rode buitenaardse wezen at bij geen enkel Mexicaans restaurant.
+
+4641:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
+      Het rode buitenaardse wezen zag geen enkele vogel.
+      Het rode buitenaardse wezen zag geen enkele duif.
+
+4648:     [yes],     yes,  closed, 'Ter',7     XP: [int(Mexicaans)]
+      Geen buitenaards wezen at bij enige restaurants.
+      Geen buitenaards wezen at bij enige Mexicaanse restaurants.
+
+4649:     [yes],     yes,  closed, 'Ter',5     XP: [isa(duif,vogel)]
+      Geen buitenaards wezen zag enige vogels.
+      Geen buitenaards wezen zag enige duiven.
+
+4691:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Ieder buitenaards wezen dronk wat cola.
+      Ieder buitenaards wezen dronk wat frisdrank.
+
+4699:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Veel buitenaardse wezens dronken wat cola.
+      Veel buitenaardse wezens dronken wat frisdrank.
+
+4707:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Het blauwe buitenaardse wezen dronk wat cola.
+      Het blauwe buitenaardse wezen dronk wat frisdrank.
+
+4719:     [yes],     yes,  closed, 'Ter',3     XP: [isa(cola,frisdrank)]
+      Het rode buitenaardse wezen dronk geen enkele frisdrank.
+      Het rode buitenaardse wezen dronk geen enkele cola.
+
+4727:     [yes],     yes,  closed, 'Ter',5     XP: [isa(cola,frisdrank)]
+      Geen buitenaards wezen dronk enige frisdrank.
+      Geen buitenaards wezen dronk enige cola.
+
+4772:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Ieder buitenaards wezen at bij een paar Mexicaanse restaurants.
+      Ieder buitenaards wezen at bij een paar restaurants.
+
+4773:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleding)]
+      Ieder buitenaards wezen kocht een paar shirts.
+      Ieder buitenaards wezen kocht wat kleding.
+
+4780:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Veel buitenaardse wezens aten bij een paar Mexicaanse restaurants.
+      Veel buitenaardse wezens aten bij een paar restaurants.
+
+4781:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleding)]
+      Veel buitenaardse wezens kochten wat shirts.
+      Veel buitenaardse wezens kochten wat kleding.
+
+4788:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Het blauwe buitenaardse wezen at bij een paar Mexicaanse restaurants.
+      Het blauwe buitenaardse wezen at bij een paar restaurants.
+
+4789:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Het blauwe buitenaardse wezen kocht wat shirts.
+      Het blauwe buitenaardse wezen kocht wat kleren.
+
+4795:     [yes],     yes,  closed, 'Ter',9     XP: [isa(cola,frisdrank)]
+      Geen buitenaards wezen stierf zonder wat cola te drinken.
+      Geen buitenaards wezen stierf zonder frisdrank te drinken.
+
+4829:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleren)]
+      Geen buitenaards wezen stierf zonder shirts te kopen.
+      Geen buitenaards wezen stierf zonder kleren te kopen.
+
+4844:     [yes],     yes,  closed, 'Ter',11    XP: [int(Mexicaans)]
+      Geen buitenaards wezen stierf zonder bij een paar Mexicaanse restaurants te eten.
+      Geen buitenaards wezen stierf zonder bij restaurants te eten.
+
+4845:     [yes],     yes,  closed, 'Ter',9     XP: [isa(shirt,kleren)]
+      Geen buitenaards wezen stierf zonder wat shirts te kopen.
+      Geen buitenaards wezen stierf zonder kleren te kopen.
+
+4877:     [yes],     yes,  closed, 'Ter',9     XP: [isa(duif,vogel)]
+      Geen buitenaards wezen stierf zonder duiven te zien.
+      Geen buitenaards wezen stierf zonder vogels te zien.
+
+4892:     [yes],     yes,  closed, 'Ter',9     XP: [isa(duif,vogel)]
+      Geen buitenaards wezen stierf zonder een paar duiven te zien.
+      Geen buitenaards wezen stierf zonder vogels te zien.
+
+4935:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Het rode buitenaardse wezen zag een paar duiven.
+      Het rode buitenaardse wezen zag vogels.
+
+4936:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Ieder buitenaards wezen zag een paar duiven.
+      Ieder buitenaards wezen zag vogels.
+
+4937:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Het rode buitenaardse wezen at bij een paar Mexicaanse restaurants.
+      Het rode buitenaardse wezen at bij restaurants.
+
+4941:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Het rode buitenaardse wezen kocht wat shirts.
+      Het rode buitenaardse wezen kocht kleren.
+
+4943:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
+      Het rode buitenaardse wezen dronk wat cola.
+      Het rode buitenaardse wezen dronk frisdrank.
+
+4946:     [yes],     yes,  closed, 'Ter',11    XP: [int(Mexicaans)]
+      Geen buitenaards wezen stierf zonder bij Mexicaanse restaurants te eten.
+      Geen buitenaards wezen stierf zonder bij restaurants te eten.
+
+4956:     [yes],     yes,  closed, 'Ter',9     XP: [isa(cola,frisdrank)]
+      Geen buitenaards wezen stierf zonder cola te drinken.
+      Geen buitenaards wezen stierf zonder frisdrank te drinken.
+
+4976:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
+      Veel buitenaardse wezens zagen een paar duiven.
+      Veel buitenaardse wezens zagen vogels.
+
+4990:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Iedere man rende snel.
+      Iedere man rende.
+
+4995:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Geen man rende.
+      Geen man rende snel.
+
+4998:     [yes],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Iedere man rende.
+      Iedere lange man rende.
+
+5004:     [yes],     yes,  closed, 'Ter',11    XP: [int(lang)]
+      Iedere kok die geen lange man is rende.
+      Iedere kok die geen man is rende.
+
+5014:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Iedere man zong en danste.
+      Iedere man zong.
+
+5015:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Iedere man zong en danste.
+      Iedere man danste.
+
+5026:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Iedere lange man rende snel.
+      Iedere lange man rende.
+
+5029:     [yes],     yes,  closed, 'Ter',2     XP: [isa(roos,bloem)]
+      Ze gaf hem een roos.
+      Ze gaf hem een bloem.
+
+5048:     [yes],     yes,  closed, 'Ter',3     XP: [isa(zebra,zoogdier)]
+      Ieder zoogdier is gestreept.
+      Iedere zebra is gestreept.
+
+5051:     [yes],     yes,  closed, 'Ter',2     XP: [isa(vrouw,persoon)]
+      Hij houdt van een vrouw.
+      Hij houdt van een persoon.
+
+5075:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dansen,bewegen)]
+      Niemand bewoog.
+      Niemand danste.
+
+5144:     [yes],     yes,  closed, 'Ter',5     XP: [isa(of@(marginaal@lezer)@(typisch@lezer),typisch@lezer)]
+      Weinig van de boeken hadden typische of marginale lezers.
+      Weinig van de boeken hadden (een paar) typische lezers.
+
+5145:     [yes],     yes,  closed, 'Ter',8     XP: [isa(met@c1@pizza,pizza)]
+      Mary at nooit pizza.
+      Mary at nooit pizza met ansjovis.
+
+5342:     [yes],     yes,  closed, 'Ter',6     XP: []
+      John is heel lang.
+      John is lang.
+
+5344:     [yes],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      Iedere student kuste iedere leraar.
+      Iedere student kuste iedere lange leraar.
+
+5345:     [yes],     yes,  closed, 'Ter',11    XP: [int(lang)]
+      Iedere student die iedere lange leraar kuste lachte.
+      Iedere student die iedere leraar kuste lachte.
+
+5346:     [yes],     yes,  closed, 'Ter',6     XP: [int(lang)]
+      Geen leraar rende.
+      Geen lange leraar rende gisteren.
+
+5347:     [yes],     yes,  closed, 'Ter',6     XP: [int(lang)]
+      Iedere leraar rende gisteren.
+      Iedere lange leraar rende.
+
+5355:     [yes],     yes,  closed, 'Ter',4     XP: [int(lang)]
+      John zag geen student.
+      John zag geen lange student.
+
+5365:     [yes],     yes,  closed, 'Ter',10    XP: []
+      Mary adoreert en houdt gepassioneerd van John.
+      Mary houdt van John.
+
+5368:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Iedere taalkundige betrad de race vroeg.
+      Iedere taalkundige betrad de race.
+
+5369:     [yes],     yes,  closed, 'Ter',2     XP: []
+      John betrad de race vroeg.
+      John betrad de race.
+
+5370:     [yes],     yes,  closed, 'Ter',2     XP: []
+      De meeste pindaboeren betraden de race vroeg.
+      De meeste pindaboeren betraden de race.
+

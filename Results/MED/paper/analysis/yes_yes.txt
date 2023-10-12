@@ -1,0 +1,1037 @@
+4:     [yes],     yes,  closed, 'Ter',37    XP: [int(interesting),isa(from@the@survey@result,result),isa(from@the@survey@(interesting@result),interesting@result)]
+      Many delegates obtained interesting results from the survey .
+      Many delegates obtained results from the survey .
+
+5:     [yes],     yes,  closed, 'Ter',13    XP: [int(major),int(national)]
+      Several delegates got the results published in major national newspapers .
+      Several delegates got the results published .
+  
+26:     [yes],     yes,  closed, 'Ter',6     XP: [int(female)]
+      At least three female commissioners spend time at home .
+      At least three commissioners spend time at home .
+  
+71:     [yes],     yes,  closed, 'Ter',13    XP: [int(change),int(life)]
+      You know that some life changing actions must be taken when grandma reacts with the sad emoji .
+      You know that some actions must be taken when grandma reacts with the sad emoji .
+  
+57:     [yes],     yes,  closed, 'Ter',4     XP: [int(developed)]
+      In all areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+      In all developed areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+
+6:     [yes],     yes,  closed, 'Ter',12    XP: [int(lead)]
+      Both commissioners used to be leading businessmen .
+      Both commissioners used to be businessmen .
+  
+3:     [yes],     yes,  closed, 'Ter',6     XP: []
+      Some delegates finished the survey on time .
+      Some delegates finished the survey .
+   
+18:     [yes],     yes,  closed, 'Ter',4     XP: [int(irish)]
+      Some Irish delegates finished the survey on time .
+      Some delegates finished the survey on time .
+  
+54:     [yes],     yes,  closed, 'Ter',3     XP: []
+      All animals like to scratch their ears .
+      All dogs like to scratch their ears .
+  
+1:     [yes],     yes,  closed, 'Ter',10    XP: [isa(for@c1@nobel@prize,nobel@prize)]
+      An Irishman won the nobel prize for literature .
+      An Irishman won a nobel prize .
+  
+22:     [yes],     yes,  closed, 'Ter',5     XP: [int(female)]
+      A few female committee members are from Scandinavia .
+      At least a few committee members are from Scandinavia .
+  
+20:     [yes],     yes,  closed, 'Ter',4     XP: [int(portuguese)]
+      Several Portuguese delegates got the results published in major national newspapers .
+      Several delegates got the results published in major national newspapers .
+  
+43:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Some dogs like to scratch their ears .
+      Some animals like to scratch their ears .
+
+49:     [yes],     yes,  closed, 'Ter',15    XP: [int(context)]
+      We consider some context words as positive examples and sample negatives at random from the dictionary .
+      We consider some words as positive examples and sample negatives at random from the dictionary .
+Difference in Lemma Lexicons after normalization
+  
+33:     [yes],     yes,  closed, 'Ter',4     XP: [int(female)]
+      Few committee members are from southern Europe .
+      Few female committee members are from southern Europe .
+
+65:     [yes],     yes,  closed, 'Ter',19    XP: [int(government),int(of@(s@(who@(boycott@israel)@company)))]
+      Missouri lawmakers are considering a government boycott of companies that boycott Israel .
+      Missouri lawmakers are considering a boycott of companies that boycott Israel .
+
+87:     [yes],     yes,  closed, 'Ter',19    XP: [int(above@(and@(five@(supraciliary@scale))@(s@(in@(every@(almost@specimen))@eye)))),int(supraocular)]
+      There are four supraocular scales ( above the eyes ) in almost all specimens and five supraciliary scales ( immediately above the eyes , below the supraoculars ) .
+      There are four scales above the eyes in almost all specimens and five supraciliary scales ( immediately above the eyes , below the supraoculars ) .
+
+91:     [yes],     yes,  closed, 'Ter',35    XP: [int(15th),int(red),int(soviet),int(tank),isa(of@c3@corps,corps),isa(of@c3@(tank@corps),tank@corps),isa(of@c4@(tank@corps),tank@corps)]
+      The 15th tank corps was a tank corps of the soviet union 's red army .
+      The 15th tank corps was a corps of the soviet union 's red army .
+  
+38:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Pluto and Uranus are now directly aligned with Neptune .
+      Pluto or Uranus is now directly aligned with Neptune .
+  
+92:     [yes],     yes,  closed, 'Ter',42    XP: [int(15th),int(red),int(soviet),int(tank),isa(of@c3@corps,corps),isa(of@c4@corps,corps)]
+      The 15th tank corps was a corps of the soviet union 's red army .
+      The 15th tank corps was a tank corps of the soviet union 's red army .
+
+105:     [yes],     yes,  closed, 'Ter',4     XP: [int(serene)]
+      A serene wind rolled across the glade .
+      A wind rolled across the glade .
+
+4243:     [yes],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Every alien read news magazines .
+      Every alien read magazines .
+
+4244:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Every alien watched baseball matches .
+      Every alien watched sports matches .
+
+4255:     [yes],     yes,  closed, 'Ter',5     XP: [isa(news magazine,magazine)]
+      Few aliens read magazines .
+      Few aliens read news magazines .
+
+4267:     [yes],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Many aliens read news magazines .
+      Many aliens read magazines .
+
+4268:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Many aliens watched baseball matches .
+      Many aliens watched sports matches .
+
+4271:     [yes],     yes,  closed, 'Ter',10    XP: [isa(news magazine,magazine)]
+      The purple alien did not read magazines .
+      The purple alien did not read news magazines .
+
+4272:     [yes],     yes,  closed, 'Ter',21    XP: [isa(baseball,sport)]
+      The purple alien did not watch sports matches .
+      The purple alien did not watch baseball matches .
+
+4279:     [yes],     yes,  closed, 'Ter',5     XP: [isa(news magazine,magazine)]
+      No alien read magazines .
+      No alien read news magazines .
+
+4280:     [yes],     yes,  closed, 'Ter',13    XP: [int(who@match),isa(baseball,sport)]
+      No alien watched sports matches .
+      No alien watched baseball matches .
+
+4308:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Every alien read some sci-fi novels .
+      Every alien read books .
+
+4310:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Every alien threw some tennis balls .
+      Every alien threw balls .
+  
+4309:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Every alien played with some toy cars .
+      Every alien played with toys .
+
+4324:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Many aliens read some sci-fi novels .
+      Many aliens read books .
+
+4325:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Many aliens played with some toy cars .
+      Many aliens played with toys .
+
+4341:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      The blue alien played with some toy cars .
+      The blue alien played with toys .
+
+4342:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      The blue alien threw some tennis balls .
+      The blue alien threw balls .
+
+4367:     [yes],     yes,  closed, 'Ter',5     XP: [isa(pork,meat)]
+      Few aliens ate meat .
+      Few aliens ate pork .
+
+4368:     [yes],     yes,  closed, 'Ter',7     XP: [int(sci-fi),isa(novel,book)]
+      Few aliens read books .
+      Few aliens read sci-fi novels .
+  
+4631:     [yes],     yes,  closed, 'Ter',5     XP: [isa(pork,meat)]
+      Few aliens ate any meat .
+      Few aliens ate any pork .
+
+4369:     [yes],     yes,  closed, 'Ter',5     XP: [isa(dove,bird)]
+      Few aliens saw birds .
+      Few aliens saw doves .
+
+4370:     [yes],     yes,  closed, 'Ter',5     XP: [isa(tennis ball,ball)]
+      Few aliens threw balls .
+      Few aliens threw tennis balls .
+
+4375:     [yes],     yes,  closed, 'Ter',10    XP: [isa(pork,meat)]
+      The purple alien did not eat meat .
+      The purple alien did not eat pork .
+
+4376:     [yes],     yes,  closed, 'Ter',19    XP: [int(sci-fi),isa(novel,book)]
+      The purple alien did not read books .
+      The purple alien did not read sci-fi novels .
+
+4377:     [yes],     yes,  closed, 'Ter',10    XP: [isa(dove,bird)]
+      The purple alien did not see birds .
+      The purple alien did not see doves .
+
+4378:     [yes],     yes,  closed, 'Ter',10    XP: [isa(tennis ball,ball)]
+      The purple alien did not throw balls .
+      The purple alien did not throw tennis balls .
+
+4383:     [yes],     yes,  closed, 'Ter',7     XP: [int(alien),int(ate),isa(pork,meat)]
+      No alien ate meat .
+      No alien ate pork .
+
+4384:     [yes],     yes,  closed, 'Ter',7     XP: [int(sci-fi),isa(novel,book)]
+      No alien read books .
+      No alien read sci-fi novels .
+
+4385:     [yes],     yes,  closed, 'Ter',5     XP: [isa(dove,bird)]
+      No alien saw birds .
+      No alien saw doves .
+
+4386:     [yes],     yes,  closed, 'Ter',5     XP: [isa(tennis ball,ball)]
+      No alien threw balls .
+      No alien threw tennis balls .
+
+4444:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Every alien read sci-fi novels .
+      Every alien read books .
+
+4445:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Every alien saw doves .
+      Every alien saw birds .
+
+4446:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Every alien threw tennis balls .
+      Every alien threw balls .
+
+4451:     [yes],     yes,  closed, 'Ter',2     XP: [isa(pork,meat)]
+      Many aliens ate pork .
+      Many aliens ate meat .
+
+4452:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Many aliens read sci-fi novels .
+      Many aliens read books .
+
+4453:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Many aliens saw doves .
+      Many aliens saw birds .
+
+4454:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Many aliens threw tennis balls .
+      Many aliens threw balls .
+
+4459:     [yes],     yes,  closed, 'Ter',14    XP: [int(alien),int(ate),int(yellow),isa(pork,meat)]
+      The yellow alien ate pork .
+      The yellow alien ate meat .
+
+4460:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      The yellow alien read sci-fi novels .
+      The yellow alien read books .
+
+4461:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      The yellow alien saw doves .
+      The yellow alien saw birds .
+
+4462:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      The yellow alien threw tennis balls .
+      The yellow alien threw balls .
+
+4467:     [yes],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Every alien read some news magazines .
+      Every alien read magazines .
+
+4468:     [yes],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      Every alien ate at some Mexican restaurants .
+      Every alien ate at restaurants .
+
+4470:     [yes],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Every alien used some quarters .
+      Every alien used coins .
+
+4475:     [yes],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Many aliens read some news magazines .
+      Many aliens read magazines .
+
+4476:     [yes],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Many aliens ate at some Mexican restaurants .
+      Many aliens ate at restaurants .
+
+4478:     [yes],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Many aliens used some quarters .
+      Many aliens used coins .
+
+4484:     [yes],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      The blue alien ate at some Mexican restaurants .
+      The blue alien ate at restaurants .
+
+4487:     [yes],     yes,  closed, 'Ter',5     XP: [isa(news magazine,magazine)]
+      Few aliens read any magazines .
+      Few aliens read any news magazines .
+
+4488:     [yes],     yes,  closed, 'Ter',7     XP: [int(sci-fi),isa(novel,book)]
+      Few aliens read any books .
+      Few aliens read any sci-fi novels .
+
+4490:     [yes],     yes,  closed, 'Ter',5     XP: [isa(tennis ball,ball)]
+      Few aliens threw any balls .
+      Few aliens threw any tennis balls .
+
+4495:     [yes],     yes,  closed, 'Ter',10    XP: [isa(news magazine,magazine)]
+      The red alien did not read any magazines .
+      The red alien did not read any news magazines .
+
+4496:     [yes],     yes,  closed, 'Ter',19    XP: [int(sci-fi),isa(novel,book)]
+      The red alien did not read any books .
+      The red alien did not read any sci-fi novels .
+
+4503:     [yes],     yes,  closed, 'Ter',5     XP: [isa(news magazine,magazine)]
+      No alien read any magazines .
+      No alien read any news magazines .
+
+4504:     [yes],     yes,  closed, 'Ter',7     XP: [int(sci-fi),isa(novel,book)]
+      No alien read any books .
+      No alien read any sci-fi novels .
+
+4506:     [yes],     yes,  closed, 'Ter',5     XP: [isa(tennis ball,ball)]
+      No alien threw any balls .
+      No alien threw any tennis balls .
+  
+4606:     [yes],     yes,  closed, 'Ter',9     XP: [isa(quarter,coin)]
+      The yellow alien used quarters .
+      The yellow alien used coins .
+
+4512:     [yes],     yes,  closed, 'Ter',7     XP: [int(mexican)]
+      Few aliens ate at restaurants .
+      Few aliens ate at Mexican restaurants .
+
+4513:     [yes],     yes,  closed, 'Ter',7     XP: [int(toy)]
+      Few aliens played with toys .
+      Few aliens played with toy cars .
+
+4514:     [yes],     yes,  closed, 'Ter',5     XP: [isa(quarter,coin)]
+      Few aliens used coins .
+      Few aliens used quarters .
+
+4520:     [yes],     yes,  closed, 'Ter',19    XP: [int(mexican)]
+      The purple alien did not eat at restaurants .
+      The purple alien did not eat at Mexican restaurants .
+
+4521:     [yes],     yes,  closed, 'Ter',19    XP: [int(toy)]
+      The purple alien did not play with toys .
+      The purple alien did not play with toy cars .
+
+4522:     [yes],     yes,  closed, 'Ter',10    XP: [isa(quarter,coin)]
+      The purple alien did not use coins .
+      The purple alien did not use quarters .
+
+4529:     [yes],     yes,  closed, 'Ter',7     XP: [int(toy)]
+      No alien played with toys .
+      No alien played with toy cars .
+
+4530:     [yes],     yes,  closed, 'Ter',5     XP: [isa(quarter,coin)]
+      No alien used coins .
+      No alien used quarters .
+
+4588:     [yes],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      Every alien ate at Mexican restaurants .
+      Every alien ate at restaurants .
+
+4589:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Every alien played with toy cars .
+      Every alien played with toys .
+  
+4629:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      The blue alien saw some doves .
+      The blue alien saw some birds .
+
+4596:     [yes],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Many aliens ate at Mexican restaurants .
+      Many aliens ate at restaurants .
+
+4597:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Many aliens played with toy cars .
+      Many aliens played with toys .
+
+4598:     [yes],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Many aliens used quarters .
+      Many aliens used coins .
+
+4604:     [yes],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      The yellow alien ate at Mexican restaurants .
+      The yellow alien ate at restaurants .
+
+4605:     [yes],     yes,  closed, 'Ter',13    XP: [int(toy)]
+      The yellow alien played with toy cars .
+      The yellow alien played with toys .
+  
+4326:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Many aliens threw some tennis balls .
+      Many aliens threw balls .
+  
+99:     [yes],     yes,  closed, 'Ter',17    XP: [int(dedicated),int(for@(and@(no@(between@(s@(entity@(and@('non-mention'@word)@mention)))@distinction))@(every@entity))),int(high-dimensional)]
+      So there is no dedicated memory block for every entity and no distinction between entity mentions and non-mention words .
+      So there is no dedicated high-dimensional memory block for every entity and no distinction between entity mentions and non-mention words .
+
+4612:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Every alien watched some baseball matches .
+      Every alien watched some sports matches .
+
+4613:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Every alien saw some doves .
+      Every alien saw some birds .
+
+4619:     [yes],     yes,  closed, 'Ter',2     XP: [isa(pork,meat)]
+      Many aliens ate some pork .
+      Many aliens ate some meat .
+
+4620:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Many aliens watched some baseball matches .
+      Many aliens watched some sports matches .
+
+4621:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Many aliens saw some doves .
+      Many aliens saw some birds .
+
+4627:     [yes],     yes,  closed, 'Ter',22    XP: [int(a),int(alien),int(ate),int(blue),isa(pork,meat)]
+      The blue alien ate some pork .
+      The blue alien ate some meat .
+
+4628:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      The blue alien watched some baseball matches .
+      The blue alien watched some sports matches .
+
+4632:     [yes],     yes,  closed, 'Ter',7     XP: [int(mexican)]
+      Few aliens ate at any restaurants .
+      Few aliens ate at any Mexican restaurants .
+
+4633:     [yes],     yes,  closed, 'Ter',5     XP: [isa(dove,bird)]
+      Few aliens saw any birds .
+      Few aliens saw any doves .
+
+4639:     [yes],     yes,  closed, 'Ter',10    XP: [isa(pork,meat)]
+      The red alien did not eat any meat .
+      The red alien did not eat any pork .
+
+4640:     [yes],     yes,  closed, 'Ter',19    XP: [int(mexican)]
+      The red alien did not eat at any restaurants .
+      The red alien did not eat at any Mexican restaurants .
+
+4641:     [yes],     yes,  closed, 'Ter',10    XP: [isa(dove,bird)]
+      The red alien did not see any birds .
+      The red alien did not see any doves .
+
+4642:     [yes],     yes,  closed, 'Ter',10    XP: [isa(quarter,coin)]
+      The red alien did not use any coins .
+      The red alien did not use any quarters .
+
+4647:     [yes],     yes,  closed, 'Ter',13    XP: [int(alien),int(any),int(ate),isa(pork,meat)]
+      No alien ate any meat .
+      No alien ate any pork .
+
+4649:     [yes],     yes,  closed, 'Ter',5     XP: [isa(dove,bird)]
+      No alien saw any birds .
+      No alien saw any doves .
+
+4650:     [yes],     yes,  closed, 'Ter',5     XP: [isa(quarter,coin)]
+      No alien used any coins .
+      No alien used any quarters .
+
+4692:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Every alien read some sci-fi novels .
+      Every alien read some books .
+
+4693:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Every alien played with some toy cars .
+      Every alien played with some toys .
+
+4694:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Every alien threw some tennis balls .
+      Every alien threw some balls .
+
+4700:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      Many aliens read some sci-fi novels .
+      Many aliens read some books .
+  
+4720:     [yes],     yes,  closed, 'Ter',18    XP: [isa(baseball,sport)]
+      The red alien did not watch any sports matches .
+      The red alien did not watch any baseball matches .
+
+4701:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      Many aliens played with some toy cars .
+      Many aliens played with some toys .
+
+4702:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      Many aliens threw some tennis balls .
+      Many aliens threw some balls .
+
+4708:     [yes],     yes,  closed, 'Ter',4     XP: [int(sci-fi),isa(novel,book)]
+      The blue alien read some sci-fi novels .
+      The blue alien read some books .
+
+4709:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      The blue alien played with some toy cars .
+      The blue alien played with some toys .
+
+4710:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      The blue alien threw some tennis balls .
+      The blue alien threw some balls .
+
+4712:     [yes],     yes,  closed, 'Ter',6     XP: [isa(baseball,sport)]
+      Few aliens watched any sports matches .
+      Few aliens watched any baseball matches .
+
+4713:     [yes],     yes,  closed, 'Ter',7     XP: [int(toy)]
+      Few aliens played with any toys .
+      Few aliens played with any toy cars .
+
+4721:     [yes],     yes,  closed, 'Ter',19    XP: [int(toy)]
+      The red alien did not play with any toys .
+      The red alien did not play with any toy cars .
+
+4728:     [yes],     yes,  closed, 'Ter',6     XP: [isa(baseball,sport)]
+      No alien watched any sports matches .
+      No alien watched any baseball matches .
+
+4729:     [yes],     yes,  closed, 'Ter',7     XP: [int(toy)]
+      No alien played with any toys .
+      No alien played with any toy cars .
+
+4771:     [yes],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Every alien read some news magazines .
+      Every alien read some magazines .
+
+4772:     [yes],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      Every alien ate at some Mexican restaurants .
+      Every alien ate at some restaurants .
+
+4774:     [yes],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Every alien used some quarters .
+      Every alien used some coins .
+
+4779:     [yes],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      Many aliens read some news magazines .
+      Many aliens read some magazines .
+
+4780:     [yes],     yes,  closed, 'Ter',4     XP: [int(mexican)]
+      Many aliens ate at some Mexican restaurants .
+      Many aliens ate at some restaurants .
+
+4782:     [yes],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      Many aliens used some quarters .
+      Many aliens used some coins .
+
+4787:     [yes],     yes,  closed, 'Ter',2     XP: [isa(news magazine,magazine)]
+      The blue alien read some news magazines .
+      The blue alien read some magazines .
+
+4788:     [yes],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      The blue alien ate at some Mexican restaurants .
+      The blue alien ate at some restaurants .
+
+4790:     [yes],     yes,  closed, 'Ter',2     XP: [isa(quarter,coin)]
+      The blue alien used some quarters .
+      The blue alien used some coins .
+
+4804:     [yes],     yes,  closed, 'Ter',15    XP: [int(sci-fi),isa(novel,book)]
+      Every alien who did not read some sci-fi novels is hairy .
+      Every alien who did not read books is hairy .
+
+4805:     [yes],     yes,  closed, 'Ter',15    XP: [int(toy)]
+      Every alien who did not play with some toy cars is hairy .
+      Every alien who did not play with toys is hairy .
+
+4806:     [yes],     yes,  closed, 'Ter',13    XP: [isa(tennis ball,ball)]
+      Every alien who did not throw some tennis balls is hairy .
+      Every alien who did not throw balls is hairy .
+
+4835:     [yes],     yes,  closed, 'Ter',13    XP: [isa(news magazine,magazine)]
+      Every alien who did not read news magazines is hairy .
+      Every alien who did not read magazines is hairy .
+
+4851:     [yes],     yes,  closed, 'Ter',13    XP: [isa(news magazine,magazine)]
+      Every alien who did not read some news magazines is hairy .
+      Every alien who did not read magazines is hairy .
+
+4852:     [yes],     yes,  closed, 'Ter',15    XP: [int(mexican)]
+      Every alien who did not eat at some Mexican restaurants is hairy .
+      Every alien who did not eat at restaurants is hairy .
+  
+4634:     [yes],     yes,  closed, 'Ter',5     XP: [isa(quarter,coin)]
+      Few aliens used any coins .
+      Few aliens used any quarters .
+
+4854:     [yes],     yes,  closed, 'Ter',13    XP: [isa(quarter,coin)]
+      Every alien who did not use some quarters is hairy .
+      Every alien who did not use coins is hairy .
+
+4883:     [yes],     yes,  closed, 'Ter',13    XP: [isa(pork,meat)]
+      Every alien who did not eat pork is hairy .
+      Every alien who did not eat meat is hairy .
+
+4884:     [yes],     yes,  closed, 'Ter',15    XP: [int(sci-fi),isa(novel,book)]
+      Every alien who did not read sci-fi novels is hairy .
+      Every alien who did not read books is hairy .
+
+4885:     [yes],     yes,  closed, 'Ter',13    XP: [isa(dove,bird)]
+      Every alien who did not see doves is hairy .
+      Every alien who did not see birds is hairy .
+
+4886:     [yes],     yes,  closed, 'Ter',13    XP: [isa(tennis ball,ball)]
+      Every alien who did not throw tennis balls is hairy .
+      Every alien who did not throw balls is hairy .
+
+4894:     [yes],     yes,  closed, 'Ter',15    XP: [int(mexican)]
+      Every alien who did not eat at Mexican restaurants is hairy .
+      Every alien who did not eat at restaurants is hairy .
+
+4896:     [yes],     yes,  closed, 'Ter',15    XP: [int(toy)]
+      Every alien who did not play with toy cars is hairy .
+      Every alien who did not play with toys is hairy .
+
+4898:     [yes],     yes,  closed, 'Ter',13    XP: [isa(quarter,coin)]
+      Every alien who did not use quarters is hairy .
+      Every alien who did not use coins is hairy .
+
+4931:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      The red alien watched some baseball matches .
+      The red alien watched sports matches .
+
+4932:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Every alien watched some baseball matches .
+      Every alien watched sports matches .
+
+4935:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      The red alien saw some doves .
+      The red alien saw birds .
+
+4936:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Every alien saw some doves .
+      Every alien saw birds .
+
+4937:     [yes],     yes,  closed, 'Ter',6     XP: [int(mexican)]
+      The red alien ate at some Mexican restaurants .
+      The red alien ate at restaurants .
+
+4938:     [yes],     yes,  closed, 'Ter',4     XP: [int(toy)]
+      The red alien played with some toy cars .
+      The red alien played with toys .
+
+4942:     [yes],     yes,  closed, 'Ter',2     XP: [isa(tennis ball,ball)]
+      The red alien threw some tennis balls .
+      The red alien threw balls .
+
+4972:     [yes],     yes,  closed, 'Ter',2     XP: [isa(pork,meat)]
+      Many aliens ate some pork .
+      Many aliens ate meat .
+
+4974:     [yes],     yes,  closed, 'Ter',10    XP: [int(who@match),isa(baseball,sport)]
+      Many aliens watched some baseball matches .
+      Many aliens watched sports matches .
+
+4976:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dove,bird)]
+      Many aliens saw some doves .
+      Many aliens saw birds .
+
+4978:     [yes],     yes,  closed, 'Ter',13    XP: [isa(pork,meat)]
+      Every alien who did not eat some pork is hairy .
+      Every alien who did not eat meat is hairy .
+
+4982:     [yes],     yes,  closed, 'Ter',13    XP: [isa(dove,bird)]
+      Every alien who did not see some doves is hairy .
+      Every alien who did not see birds is hairy .
+
+4990:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Every man ran quickly .
+      Every man ran .
+
+4992:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Some man ran quickly .
+      Some man ran .
+
+4995:     [yes],     yes,  closed, 'Ter',4     XP: []
+      No man ran .
+      No man ran quickly .
+
+4998:     [yes],     yes,  closed, 'Ter',4     XP: [int(tall)]
+      Every man ran .
+      Every tall man ran .
+
+5001:     [yes],     yes,  closed, 'Ter',4     XP: [int(tall)]
+      Some tall man ran .
+      Some man ran .
+
+5004:     [yes],     yes,  closed, 'Ter',13    XP: [int(tall)]
+      Every cook who is not a tall man ran .
+      Every cook who is not a man ran .
+
+5006:     [yes],     yes,  closed, 'Ter',6     XP: []
+      At least one man sang and danced .
+      At least one man sang .
+
+5007:     [yes],     yes,  closed, 'Ter',6     XP: []
+      At least one man sang and danced .
+      At least one man danced .
+
+5012:     [yes],     yes,  closed, 'Ter',9     XP: []
+      At least one man sang .
+      At least one man sang or danced .
+
+5013:     [yes],     yes,  closed, 'Ter',9     XP: []
+      At least one man danced .
+      At least one man sang or danced .
+
+5014:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Every man sang and danced .
+      Every man sang .
+
+5015:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Every man sang and danced .
+      Every man danced .
+
+5020:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Every man sang .
+      Every man sang or danced .
+
+5021:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Every man danced .
+      Every man sang or danced .
+
+5026:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Every tall man ran quickly .
+      Every tall man ran .
+
+5031:     [yes],     yes,  closed, 'Ter',5     XP: []
+      She kissed him .
+      She touched him .
+
+5035:     [yes],     yes,  closed, 'Ter',2     XP: [isa(bulldog,dog)]
+      Nina has a bulldog .
+      Nina has a dog .
+
+5037:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Aldo kissed Nina .
+      Aldo touched Nina .
+
+5039:     [yes],     yes,  closed, 'Ter',3     XP: [isa(bulldog,dog)]
+      A bulldog attacked Nina .
+      A dog attacked Nina .
+
+5048:     [yes],     yes,  closed, 'Ter',3     XP: [isa(zebra,mammal)]
+      Every mammal is striped .
+      Every zebra is striped .
+
+5051:     [yes],     yes,  closed, 'Ter',2     XP: []
+      He loves a woman .
+      He loves a person .
+
+5053:     [yes],     yes,  closed, 'Ter',2     XP: [isa(marble,stone)]
+      He bought marble .
+      He bought stone .
+
+5057:     [yes],     yes,  closed, 'Ter',8     XP: []
+      He touched no woman .
+      He kissed no woman .
+
+5063:     [yes],     yes,  closed, 'Ter',15    XP: [int(paper)]
+      He never lacked paper money .
+      He never lacked money .
+
+5075:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dance,move)]
+      Nobody moved .
+      Nobody danced .
+
+5087:     [yes],     yes,  closed, 'Ter',30    XP: []
+      It 's not true that Betty does n't live in Berlin .
+      It 's not true that Betty does n't live in Germany .
+
+5089:     [yes],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      All dots are scarlet .
+      All dots are red .
+
+5091:     [yes],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Most dots are scarlet .
+      Most dots are red .
+
+5093:     [yes],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Some dots are scarlet .
+      Some dots are red .
+
+5095:     [yes],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      At least five dots are scarlet .
+      At least five dots are red .
+
+5097:     [yes],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      No dots are red .
+      No dots are scarlet .
+
+5099:     [yes],     yes,  closed, 'Ter',1     XP: [isa(red,scarlet),isa(scarlet,red)]
+      Fewer than five dots are red .
+      Fewer than five dots are scarlet .
+
+5111:     [yes],     yes,  closed, 'Ter',8     XP: [isa(navy blue,blue)]
+      Fred ’ s tie is navy blue .
+      Fred ’ s tie is blue .
+
+5113:     [yes],     yes,  closed, 'Ter',4     XP: [isa(navy blue,blue)]
+      All pachyderms are navy blue .
+      All pachyderms are blue .
+
+5115:     [yes],     yes,  closed, 'Ter',3     XP: [isa(elephant,pachyderm)]
+      All pachyderms are navy blue .
+      All elephants are navy blue .
+
+5119:     [yes],     yes,  closed, 'Ter',3     XP: [isa(elephant,pachyderm)]
+      All pachyderms are pink .
+      All elephants are pink .
+
+5121:     [yes],     yes,  closed, 'Ter',2     XP: [isa(elephant,pachyderm)]
+      Some elephants are pink .
+      Some pachyderms are pink .
+
+5123:     [yes],     yes,  closed, 'Ter',2     XP: [isa(elephant,pachyderm)]
+      Some elephants are not pink .
+      Some pachyderms are not pink .
+
+5125:     [yes],     yes,  closed, 'Ter',3     XP: [isa(elephant,pachyderm)]
+      No pachyderms are pink .
+      No elephants are pink .
+
+5127:     [yes],     yes,  closed, 'Ter',4     XP: [isa(elephant,pachyderm)]
+      At least three elephants are pink .
+      At least three pachyderms are pink .
+
+5131:     [yes],     yes,  closed, 'Ter',4     XP: [isa(navy blue,blue)]
+      All elephants are navy blue .
+      All elephants are blue .
+
+5133:     [yes],     yes,  closed, 'Ter',4     XP: [isa(navy blue,blue)]
+      Some elephants are navy blue .
+      Some elephants are blue .
+
+5135:     [yes],     yes,  closed, 'Ter',8     XP: [isa(navy blue,blue)]
+      Some elephants are not blue .
+      Some elephants are not navy blue .
+
+5137:     [yes],     yes,  closed, 'Ter',5     XP: [isa(navy blue,blue)]
+      No elephants are blue .
+      No elephants are navy blue .
+
+5139:     [yes],     yes,  closed, 'Ter',6     XP: [isa(navy blue,blue)]
+      At least three elephants are navy blue .
+      At least three elephants are blue .
+
+5143:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Many of the books had typical readers .
+      Many of the books had typical or marginal readers .
+
+5150:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Almost no campers have had a sunburn or caught a cold .
+      Almost no campers have caught a cold .
+
+5151:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Almost no children chose any mint chocolates or decided on the cotton candy .
+      Almost no children decided on the cotton candy .
+
+5152:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Almost no children chose mint chocolates or decided on the cotton candy .
+      Almost no children decided on the cotton candy .
+
+5154:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Almost nobody has had a sunburn or caught a cold .
+      Almost nobody has caught a cold .
+
+5155:     [yes],     yes,  closed, 'Ter',13    XP: []
+      Almost nobody chose any mint chocolates or decided on the cotton candy .
+      Almost nobody decided on the cotton candy .
+
+5156:     [yes],     yes,  closed, 'Ter',13    XP: []
+      Almost nobody chose mint chocolates or decided on the cotton candy .
+      Almost nobody decided on the cotton candy .
+
+5182:     [yes],     yes,  closed, 'Ter',5     XP: []
+      No more than fifty campers have had a sunburn or caught a cold .
+      No more than fifty campers have caught a cold .
+
+5186:     [yes],     yes,  closed, 'Ter',5     XP: []
+      No more than five campers have had a sunburn or caught a cold .
+      No more than five campers have caught a cold .
+
+5294:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Almost every camper has caught a cold .
+      Almost every camper has had a sunburn or caught a cold .
+
+5295:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Almost every child decided on the cotton candy .
+      Almost every child chose any mint chocolates or decided on the cotton candy .
+
+5296:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Almost every child decided on the cotton candy .
+      Almost every child chose mint chocolates or decided on the cotton candy .
+
+5298:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Almost everybody has caught a cold .
+      Almost everybody has had a sunburn or caught a cold .
+
+5299:     [yes],     yes,  closed, 'Ter',14    XP: [int(almost)]
+      Almost everybody decided on the cotton candy .
+      Almost everybody chose any mint chocolates or decided on the cotton candy .
+
+5300:     [yes],     yes,  closed, 'Ter',14    XP: [int(almost)]
+      Almost everybody decided on the cotton candy .
+      Almost everybody chose mint chocolates or decided on the cotton candy .
+
+5302:     [yes],     yes,  closed, 'Ter',9     XP: []
+      At least five campers have caught a cold .
+      At least five campers have had a sunburn or caught a cold .
+
+5303:     [yes],     yes,  closed, 'Ter',10    XP: []
+      At least five children decided on the cotton candy .
+      At least five children chose any mint chocolates or decided on the cotton candy .
+
+5304:     [yes],     yes,  closed, 'Ter',10    XP: []
+      At least five children decided on the cotton candy .
+      At least five children chose mint chocolates or decided on the cotton candy .
+
+5306:     [yes],     yes,  closed, 'Ter',9     XP: []
+      At least half campers have caught a cold .
+      At least half campers have had a sunburn or caught a cold .
+
+5307:     [yes],     yes,  closed, 'Ter',10    XP: []
+      At least half children decided on the cotton candy .
+      At least half children chose any mint chocolates or decided on the cotton candy .
+
+5308:     [yes],     yes,  closed, 'Ter',10    XP: []
+      At least half children decided on the cotton candy .
+      At least half children chose mint chocolates or decided on the cotton candy .
+
+5310:     [yes],     yes,  closed, 'Ter',7     XP: []
+      More than five campers have caught a cold .
+      More than five campers have had a sunburn or caught a cold .
+  
+5370:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Most peanut farmers entered the race early .
+      Most peanut farmers entered the race .
+
+5311:     [yes],     yes,  closed, 'Ter',5     XP: []
+      More than five children decided on the cotton candy .
+      More than five children chose any mint chocolates or decided on the cotton candy .
+
+5312:     [yes],     yes,  closed, 'Ter',5     XP: []
+      More than five children decided on the cotton candy .
+      More than five children chose mint chocolates or decided on the cotton candy .
+
+5314:     [yes],     yes,  closed, 'Ter',7     XP: []
+      More than five of campers have caught a cold .
+      More than five of campers have had a sunburn or caught a cold .
+
+5315:     [yes],     yes,  closed, 'Ter',5     XP: []
+      More than five of the children decided on the cotton candy .
+      More than five of the children chose any mint chocolates or decided on the cotton candy .
+
+5316:     [yes],     yes,  closed, 'Ter',5     XP: []
+      More than five of the children decided on the cotton candy .
+      More than five of the children chose mint chocolates or decided on the cotton candy .
+
+5318:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Many campers have caught a cold .
+      Many campers have had a sunburn or caught a cold .
+
+5319:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Many children decided on the cotton candy .
+      Many children chose any mint chocolates or decided on the cotton candy .
+
+5320:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Many children decided on the cotton candy .
+      Many children chose mint chocolates or decided on the cotton candy .
+
+5322:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Many of the campers have caught a cold .
+      Many of the campers have had a sunburn or caught a cold .
+
+5323:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Many of the children decided on the cotton candy .
+      Many of the children chose any mint chocolates or decided on the cotton candy .
+
+5324:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Many of the children decided on the cotton candy .
+      Many of the children chose mint chocolates or decided on the cotton candy .
+
+5327:     [yes],     yes,  closed, 'Ter',3     XP: []
+      No less than fifty children decided on the cotton candy .
+      No less than fifty children chose any mint chocolates or decided on the cotton candy .
+
+5328:     [yes],     yes,  closed, 'Ter',3     XP: []
+      No less than fifty children decided on the cotton candy .
+      No less than fifty children chose mint chocolates or decided on the cotton candy .
+
+5341:     [yes],     yes,  closed, 'Ter',4     XP: [int(tall)]
+      John is a tall student .
+      John is a student .
+
+5342:     [yes],     yes,  closed, 'Ter',7     XP: []
+      John is very tall .
+      John is tall .
+
+5343:     [yes],     yes,  closed, 'Ter',4     XP: [isa(very@tall@student,student)]
+      John is a very tall student .
+      John is a student .
+
+5344:     [yes],     yes,  closed, 'Ter',4     XP: [int(tall)]
+      Every student kissed every teacher .
+      Every student kissed every tall teacher .
+
+5345:     [yes],     yes,  closed, 'Ter',11    XP: [int(tall)]
+      Every student who kissed every tall teacher smiled .
+      Every student who kissed every teacher smiled .
+
+5346:     [yes],     yes,  closed, 'Ter',5     XP: [int(tall)]
+      No teacher ran .
+      No tall teacher ran yesterday .
+
+5347:     [yes],     yes,  closed, 'Ter',5     XP: [int(tall)]
+      Every teacher ran yesterday .
+      Every tall teacher ran .
+
+5355:     [yes],     yes,  closed, 'Ter',4     XP: [int(tall)]
+      John saw no student .
+      John saw no tall student .
+
+5356:     [yes],     yes,  closed, 'Ter',11    XP: [isa(whom@abst(_383496,kiss@smile@_372342@mary)@student,student)]
+      Every student whom Mary touched smiled .
+      Every student whom Mary kissed smiled .
+
+5361:     [yes],     yes,  closed, 'Ter',9     XP: []
+      John does and Mary does n't move .
+      Mary does n't walk .
+
+5366:     [yes],     yes,  closed, 'Ter',4     XP: [int(creative),sim(intelligent,smart),sim(smart,intelligent)]
+      Some creative intelligent boy smiled .
+      Some smart boy smiled .
+
+5367:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Some republican entered the race early .
+      Some republican entered the race .
+
+5368:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Every linguist entered the race early .
+      Every linguist entered the race .
+
+5369:     [yes],     yes,  closed, 'Ter',5     XP: []
+      John entered the race early .
+      John entered the race .
+
+5373:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Few linguists entered the race .
+      Few linguists entered the race early .
+
+5374:     [yes],     yes,  closed, 'Ter',4     XP: []
+      Neither democrat entered the race .
+      Neither democrat entered the race early .
+

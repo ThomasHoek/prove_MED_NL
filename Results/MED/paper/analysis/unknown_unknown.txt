@@ -1,0 +1,2640 @@
+14: [unknown], unknown,    open, 'Ter',21    XP: []
+      Both commissioners used to be businessmen .
+      Both commissioners used to be leading businessmen .
+   
+2: [unknown], unknown,    open, 'Ter',19    XP: []
+      No delegate finished the report on time .
+      No delegate finished the report .
+  
+11: [unknown], unknown,    open, 'Ter',32    XP: []
+      Some delegates finished the survey .
+      Some delegates finished the survey on time .
+
+25: [unknown], unknown,    open, 'Ter',93    XP: []
+      Neither female commissioner spends a lot of time at home .
+      One of the commissioners spends a lot of time at home .
+  
+117: [unknown], unknown,    open, 'Ter',21    XP: []
+      Some of the orator 's statements were incomprehensible , but the crowd loved them .
+      Some of the orator 's statements were comprehensible , but the crowd loved them .
+  
+4205: [unknown], unknown,    open, 'Ter',63    XP: []
+      Exactly 12 aliens saw any doves .
+      Exactly 12 aliens saw birds .
+  
+58: [unknown], unknown,    open, 'Ter',74    XP: []
+      In all developed areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+      In all areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+  
+72: [unknown], unknown,    open, 'Ter',120   XP: []
+      You know that some actions must be taken when grandma reacts with the sad emoji .
+      You know that some life changing actions must be taken when grandma reacts with the sad emoji .
+  
+39: [unknown], unknown,    open, 'Ter',347   XP: []
+      Pluto or Uranus is now directly aligned with Neptune .
+      Pluto and Uranus are now directly aligned with Neptune .
+
+28: [unknown], unknown,    open, 'Ter',71    XP: []
+      Some delegates finished the survey on time .
+      Some Irish delegates finished the survey on time .
+
+Inconsistency in node types (entail/8)
+34: [unknown], unknown,      NA, 'Defected'  XP: _874
+      Both commissioners used to be in business .
+      Both female commissioners used to be in business .
+  
+23: [unknown], unknown,    open, 'Ter',10    XP: []
+      Few female committee members are from southern Europe .
+      Few committee members are from southern Europe .
+   
+10: [unknown], unknown,    open, 'Ter',36    XP: []
+      An Irishman won a nobel prize .
+      An Irishman won the nobel prize for literature .
+  
+17: [unknown], unknown,    open, 'Ter',35    XP: []
+      No Scandinavian delegate finished the report on time .
+      Some delegate finished the report on time .
+  
+31: [unknown], unknown,    open, 'Ter',10    XP: []
+      Most Europeans can travel freely within Europe .
+      Most Europeans who are resident outside Europe can travel freely within Europe .
+  
+Inconsistency in node types (entail/8)
+63: [unknown], unknown,      NA, 'Defected'  XP: _22408
+      No bathroom bill made it to abbott ’ s desk by the end of the legislative session in may .
+      A bill made it to abbott ’ s desk by the end of the legislative session in may .
+   
+40: [unknown], unknown,    open, 'Ter',20    XP: []
+      Alan took his vacation in California .
+      Both Alan and Bob took their vacations in California .
+
+36: [unknown], unknown,    open, 'Ter',61    XP: []
+      At least three commissioners spend time at home .
+      At least three male commissioners spend time at home .
+  
+32: [unknown], unknown,    open, 'Ter',33    XP: []
+      A few committee members are from Scandinavia .
+      At least a few female committee members are from Scandinavia .
+  
+29: [unknown], unknown,    open, 'Ter',71    XP: []
+      Many delegates obtained interesting results from the survey .
+      Many British delegates obtained interesting results from the survey .
+
+48: [unknown], unknown,    open, 'Ter',43    XP: []
+      In many areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+      In many developed areas , human activity has changed the form of river channels , altering magnitudes and frequencies of flooding .
+
+50: [unknown], unknown,    open, 'Lim',465   XP: []
+      We consider some words as positive examples and sample negatives at random from the dictionary .
+      We consider some context words as positive examples and sample negatives at random from the dictionary .
+Difference in Lemma Lexicons after normalization
+
+Inconsistency in node types (entail/8)
+51: [unknown], unknown,      NA, 'Defected'  XP: _898
+      We consider all context words as positive examples and sample negatives at random from the dictionary .
+      We consider all words as positive examples and sample negatives at random from the dictionary .
+  
+21: [unknown], unknown,    open, 'Ter',15    XP: []
+      Most Europeans who are resident in Europe can travel freely within Europe .
+      Most Europeans can travel freely within Europe .
+  
+Inconsistency in node types (entail/8)
+102: [unknown], unknown,      NA, 'Defected'  XP: _38490
+      Indeed , it is often stated that for humans to learn how to perform adequately in a domain , any number of examples is enough from which to learn .
+      Indeed , it is often stated that for humans to learn how to perform adequately in a domain , one example is enough from which to learn .
+  
+19: [unknown], unknown,    open, 'Ter',67    XP: []
+      Many British delegates obtained interesting results from the survey .
+      Many delegates obtained interesting results from the survey .
+
+Inconsistency in node types (entail/8)
+64: [unknown], unknown,      NA, 'Defected'  XP: _5748
+      A bill made it to abbott ’ s desk by the end of the legislative session in may .
+      No bathroom bill made it to abbott ’ s desk by the end of the legislative session in may .
+  
+4349: [unknown], unknown,    open, 'Ter',161   XP: []
+      Few aliens played with any toy cars .
+      Few aliens played with toys .
+
+70: [unknown], unknown,    open, 'Lim',476   XP: []
+      Last time I visited my friend was nearly 6 months ago and I am still finding husky fur on my socks .
+      Last time I visited was nearly 6 months ago and I am still finding husky fur on my socks .
+
+83: [unknown], unknown,    open, 'Lim',455   XP: []
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest son of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest child of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+
+86: [unknown], unknown,    open, 'Lim',455   XP: []
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest able-bodied son of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest son of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+
+95: [unknown], unknown,    open, 'Ter',25    XP: []
+      While most successful approaches for reading comprehension rely on recurrent neural networks ( RNNs ) , running them over long documents is prohibitively slow because it is difficult to parallelize over sequences .
+      While most approaches for reading comprehension rely on recurrent neural networks ( RNNs ) , running them over long documents is prohibitively slow because it is difficult to parallelize over sequences .
+
+98: [unknown], unknown,    open, 'Ter',0     XP: []
+      Understanding a long document requires understanding how entities are introduced .
+      Understanding a long document requires tracking how entities are introduced and evolve over time .
+
+100: [unknown], unknown,    open, 'Lim',423   XP: []
+      So there is no dedicated high-dimensional memory block for every entity and no distinction between entity mentions and non-mention words .
+      So there is no dedicated memory block for every entity and no distinction between entity mentions and non-mention words .
+
+Inconsistency in node types (entail/8)
+101: [unknown], unknown,      NA, 'Defected'  XP: _33408
+      Indeed , it is often stated that for humans to learn how to perform adequately in a domain , one example is enough from which to learn .
+      Indeed , it is often stated that for humans to learn how to perform adequately in a domain , any number of examples is enough from which to learn .
+  
+12: [unknown], unknown,    open, 'Ter',111   XP: []
+      Many delegates obtained results from the survey .
+      Many delegates obtained interesting results from the survey .
+
+104: [unknown], unknown,    open, 'Ter',0     XP: []
+      Looking at pictures online of people trying to take photos of mirrors is my new thing .
+      Looking at pictures online of people trying to take photos of mirrors they want to sell is my new thing .
+
+106: [unknown], unknown,    open, 'Ter',37    XP: []
+      A wind rolled across the glade .
+      A serene wind rolled across the glade .
+  
+4688: [unknown], unknown,    open, 'Lim',400   XP: []
+      Every alien read some books .
+      Every alien read some sci-fi novels .
+
+Inconsistency in node types (entail/8)
+107: [unknown], unknown,      NA, 'Defected'  XP: _103992
+      I do n't want to have to keep entertaining people who do n't value my time .
+      I do n't want to have to keep entertaining people .
+
+110: [unknown], unknown,    open, 'Lim',431   XP: []
+      The first experience I had interacting with another human being was at the age of seventeen .
+      The first pleasurable experience I had interacting with another human being was at the age of seventeen .
+
+111: [unknown], unknown,    open, 'Lim',432   XP: []
+      The first pleasurable experience I had interacting with another human being was at the age of seventeen .
+      The first displeasurable experience I had interacting with another human being was at the age of seventeen .
+
+112: [unknown], unknown,    open, 'Lim',432   XP: []
+      The first displeasurable experience I had interacting with another human being was at the age of seventeen .
+      The first pleasurable experience I had interacting with another human being was at the age of seventeen .
+
+114: [unknown], unknown,    open, 'Ter',57    XP: []
+      The leading car shifted to the left lane .
+      The leading car gradually shifted to the left lane .
+
+115: [unknown], unknown,    open, 'Ter',74    XP: []
+      The timing of the meeting has not been set , according to a starbucks spokesperson .
+      The timing of the meeting has not been considered , according to a starbucks spokesperson .
+
+118: [unknown], unknown,    open, 'Ter',21    XP: []
+      Some of the orator 's statements were comprehensible , but the crowd loved them .
+      Some of the orator 's statements were incomprehensible , but the crowd loved them .
+
+120: [unknown], unknown,    open, 'Ter',20    XP: []
+      There are some amazing hikes in Japan .
+      There are some amazing hikes around Mt . Fuji .
+  
+4849: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not buy some clothes is hairy .
+      Every alien who did not buy shirts is hairy .
+
+121: [unknown], unknown,    open, 'Ter',19    XP: []
+      There are some amazing hikes around Mt . Fuji .
+      There are some amazing hikes in nepal .
+
+122: [unknown], unknown,    open, 'Ter',24    XP: []
+      There are some amazing hikes in nepal .
+      There are some amazing hikes around Mt . Fuji .
+  
+Inconsistency in node types (entail/8)
+61: [unknown], unknown,      NA, 'Defected'  XP: _62348
+      No bathroom bill made it to abbott ’ s desk by the end of the legislative session in may .
+      No bills made it to abbott ’ s desk by the end of the legislative session in may .
+   
+9: [unknown], unknown,    open, 'Ter',74    XP: []
+      At most ten commissioners spend a lot of time at home .
+      At most ten commissioners spend time at home .
+  
+30: [unknown], unknown,    open, 'Ter',65    XP: []
+      Several delegates got the results published in major national newspapers .
+      Several Portuguese delegates got the results published in major national newspapers .
+  
+81: [unknown], unknown,    open, 'Ter',4     XP: []
+      Weird that you want to show something to a stack of papers .
+      Weird that you want to show this video to a stack of papers .
+
+123: [unknown], unknown,    open, 'Ter',53    XP: []
+      There are some amazing hikes around Mt . Fuji .
+      There are some strenuous hikes around Mt . Fuji .
+
+124: [unknown], unknown,    open, 'Ter',53    XP: []
+      There are some strenuous hikes around Mt . Fuji .
+      There are some amazing hikes around Mt . Fuji .
+
+127: [unknown], unknown,    open, 'Ter',143   XP: []
+      An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+      An Italian sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+
+128: [unknown], unknown,    open, 'Ter',143   XP: []
+      An Italian sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+      An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German riesling .
+
+130: [unknown], unknown,    open, 'Ter',22    XP: []
+      So far two of my trees have already bloomed , and it 's not even april .
+      So far two of my cherry trees have already bloomed , and it 's not even april .
+
+Inconsistency in node types (entail/8)
+4199: [unknown], unknown,      NA, 'Defected'  XP: _220624
+      Exactly 12 aliens ate any meat .
+      Exactly 12 aliens ate pork .
+
+4200: [unknown], unknown,    open, 'Ter',377   XP: []
+      Exactly 12 aliens ate at any restaurants .
+      Exactly 12 aliens ate at Mexican restaurants .
+
+4201: [unknown], unknown,    open, 'Ter',95    XP: []
+      Exactly 12 aliens saw any birds .
+      Exactly 12 aliens saw doves .
+
+4202: [unknown], unknown,    open, 'Ter',95    XP: []
+      Exactly 12 aliens used any coins .
+      Exactly 12 aliens used quarters .
+
+Inconsistency in node types (entail/8)
+4203: [unknown], unknown,      NA, 'Defected'  XP: _383262
+      Exactly 12 aliens ate any pork .
+      Exactly 12 aliens ate meat .
+
+4204: [unknown], unknown,    open, 'Ter',68    XP: []
+      Exactly 12 aliens ate at any Mexican restaurants .
+      Exactly 12 aliens ate at restaurants .
+
+4206: [unknown], unknown,    open, 'Ter',63    XP: []
+      Exactly 12 aliens used any quarters .
+      Exactly 12 aliens used coins .
+
+4211: [unknown], unknown,    open, 'Ter',27    XP: []
+      Few aliens ate any pork .
+      Few aliens ate meat .
+
+4212: [unknown], unknown,    open, 'Ter',164   XP: []
+      Few aliens ate at any Mexican restaurants .
+      Few aliens ate at restaurants .
+
+4213: [unknown], unknown,    open, 'Ter',89    XP: []
+      Few aliens saw any doves .
+      Few aliens saw birds .
+
+4214: [unknown], unknown,    open, 'Ter',89    XP: []
+      Few aliens used any quarters .
+      Few aliens used coins .
+
+4219: [unknown], unknown,    open, 'Ter',27    XP: []
+      The blue alien did not eat any pork .
+      The blue alien did not eat meat .
+
+4220: [unknown], unknown,    open, 'Ter',63    XP: []
+      The blue alien did not eat at any Mexican restaurants .
+      The blue alien did not eat at restaurants .
+
+4221: [unknown], unknown,    open, 'Ter',63    XP: []
+      The blue alien did not see any doves .
+      The blue alien did not see birds .
+
+4222: [unknown], unknown,    open, 'Ter',63    XP: []
+      The blue alien did not use any quarters .
+      The blue alien did not use coins .
+
+4227: [unknown], unknown,    open, 'Lim',401   XP: []
+      No alien ate any pork .
+      No alien ate meat .
+
+4228: [unknown], unknown,    open, 'Ter',20    XP: []
+      No alien ate at any Mexican restaurants .
+      No alien ate at restaurants .
+
+4229: [unknown], unknown,    open, 'Ter',292   XP: []
+      No alien saw any doves .
+      No alien saw birds .
+
+4230: [unknown], unknown,    open, 'Ter',292   XP: []
+      No alien used any quarters .
+      No alien used coins .
+  
+4265: [unknown], unknown,    open, 'Ter',28    XP: []
+      Many aliens bought clothes .
+      Many aliens bought shirts .
+
+Inconsistency in node types (entail/8)
+4231: [unknown], unknown,      NA, 'Defected'  XP: _386940
+      Only 12 aliens ate any meat .
+      Only 12 aliens ate pork .
+
+4232: [unknown], unknown,    open, 'Ter',23    XP: []
+      Only 12 aliens ate at any restaurants .
+      Only 12 aliens ate at Mexican restaurants .
+
+4233: [unknown], unknown,    open, 'Ter',10    XP: []
+      Only 12 aliens saw any birds .
+      Only 12 aliens saw doves .
+
+4234: [unknown], unknown,    open, 'Ter',10    XP: []
+      Only 12 aliens used any coins .
+      Only 12 aliens used quarters .
+
+Inconsistency in node types (entail/8)
+4235: [unknown], unknown,      NA, 'Defected'  XP: _312966
+      Only 12 aliens ate any pork .
+      Only 12 aliens ate meat .
+
+4236: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens ate at any Mexican restaurants .
+      Only 12 aliens ate at restaurants .
+
+4237: [unknown], unknown,    open, 'Ter',8     XP: []
+      Only 12 aliens saw any doves .
+      Only 12 aliens saw birds .
+
+4238: [unknown], unknown,    open, 'Ter',8     XP: []
+      Only 12 aliens used any quarters .
+      Only 12 aliens used coins .
+
+4239: [unknown], unknown,    open, 'Ter',43    XP: []
+      Every alien read magazines .
+      Every alien read news magazines .
+
+4240: [unknown], unknown,    open, 'Ter',70    XP: []
+      Every alien watched sports matches .
+      Every alien watched baseball matches .
+
+4241: [unknown], unknown,    open, 'Ter',19    XP: []
+      Every alien bought clothes .
+      Every alien bought shirts .
+
+4242: [unknown], unknown,    open, 'Ter',19    XP: []
+      Every alien drove cars .
+      Every alien drove suvs .
+
+4247: [unknown], unknown,    open, 'Lim',421   XP: []
+      Exactly 12 aliens read magazines .
+      Exactly 12 aliens read news magazines .
+
+4248: [unknown], unknown,    open, 'Ter',45    XP: []
+      Exactly 12 aliens watched sports matches .
+      Exactly 12 aliens watched baseball matches .
+
+4249: [unknown], unknown,    open, 'Ter',104   XP: []
+      Exactly 12 aliens bought clothes .
+      Exactly 12 aliens bought shirts .
+
+4250: [unknown], unknown,    open, 'Ter',104   XP: []
+      Exactly 12 aliens drove cars .
+      Exactly 12 aliens drove suvs .
+  
+13: [unknown], unknown,    open, 'Lim',423   XP: []
+      Several delegates got the results published .
+      Several delegates got the results published in major national newspapers .
+  
+53: [unknown], unknown,    open, 'Ter',8     XP: []
+      All dogs like to scratch their ears .
+      All animals like to scratch their ears .
+
+4253: [unknown], unknown,    open, 'Ter',104   XP: []
+      Exactly 12 aliens bought shirts .
+      Exactly 12 aliens bought clothes .
+
+4254: [unknown], unknown,    open, 'Ter',104   XP: []
+      Exactly 12 aliens drove suvs .
+      Exactly 12 aliens drove cars .
+
+4259: [unknown], unknown,    open, 'Lim',400   XP: []
+      Few aliens read news magazines .
+      Few aliens read magazines .
+
+4260: [unknown], unknown,    open, 'Ter',8     XP: []
+      Few aliens watched baseball matches .
+      Few aliens watched sports matches .
+
+4261: [unknown], unknown,    open, 'Ter',91    XP: []
+      Few aliens bought shirts .
+      Few aliens bought clothes .
+
+4262: [unknown], unknown,    open, 'Ter',91    XP: []
+      Few aliens drove suvs .
+      Few aliens drove cars .
+
+4263: [unknown], unknown,    open, 'Ter',43    XP: []
+      Many aliens read magazines .
+      Many aliens read news magazines .
+
+4264: [unknown], unknown,    open, 'Ter',48    XP: []
+      Many aliens watched sports matches .
+      Many aliens watched baseball matches .
+
+4266: [unknown], unknown,    open, 'Ter',28    XP: []
+      Many aliens drove cars .
+      Many aliens drove suvs .
+
+4275: [unknown], unknown,    open, 'Ter',170   XP: []
+      The yellow alien did not read news magazines .
+      The yellow alien did not read magazines .
+  
+85: [unknown], unknown,    open, 'Lim',455   XP: []
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest son of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+      At the age of 24 , she was betrothed to prince albert victor , duke of clarence and avondale , the eldest able-bodied son of the prince of wales , but six weeks after the announcement of the engagement , he died unexpectedly of pneumonia .
+
+4276: [unknown], unknown,    open, 'Ter',96    XP: []
+      The yellow alien did not watch baseball matches .
+      The yellow alien did not watch sports matches .
+
+4277: [unknown], unknown,    open, 'Ter',107   XP: []
+      The yellow alien did not buy shirts .
+      The yellow alien did not buy clothes .
+
+4278: [unknown], unknown,    open, 'Ter',107   XP: []
+      The yellow alien did not drive suvs .
+      The yellow alien did not drive cars .
+
+4283: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien read news magazines .
+      No alien read magazines .
+  
+4866: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drive any cars is hairy .
+      Every alien who did not drive suvs is hairy .
+
+4284: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien watched baseball matches .
+      No alien watched sports matches .
+
+4285: [unknown], unknown,    open, 'Ter',219   XP: []
+      No alien bought shirts .
+      No alien bought clothes .
+  
+Inconsistency in node types (entail/8)
+24: [unknown], unknown,      NA, 'Defected'  XP: _139694
+      Both female commissioners used to be in business .
+      Both commissioners used to be in business .
+  
+44: [unknown], unknown,    open, 'Ter',12    XP: []
+      Some animals like to scratch their ears .
+      Some dogs like to scratch their ears .
+
+4286: [unknown], unknown,    open, 'Ter',219   XP: []
+      No alien drove suvs .
+      No alien drove cars .
+
+4287: [unknown], unknown,    open, 'Ter',34    XP: []
+      Only 12 aliens read magazines .
+      Only 12 aliens read news magazines .
+
+4288: [unknown], unknown,    open, 'Ter',18    XP: []
+      Only 12 aliens watched sports matches .
+      Only 12 aliens watched baseball matches .
+
+4289: [unknown], unknown,    open, 'Ter',16    XP: []
+      Only 12 aliens bought clothes .
+      Only 12 aliens bought shirts .
+
+4290: [unknown], unknown,    open, 'Ter',16    XP: []
+      Only 12 aliens drove cars .
+      Only 12 aliens drove suvs .
+
+4293: [unknown], unknown,    open, 'Ter',16    XP: []
+      Only 12 aliens bought shirts .
+      Only 12 aliens bought clothes .
+
+4294: [unknown], unknown,    open, 'Ter',16    XP: []
+      Only 12 aliens drove suvs .
+      Only 12 aliens drove cars .
+
+Inconsistency in node types (entail/8)
+4295: [unknown], unknown,      NA, 'Defected'  XP: _316928
+      The purple alien read magazines .
+      The purple alien read news magazines .
+
+4296: [unknown], unknown,    open, 'Ter',193   XP: []
+      The purple alien watched sports matches .
+      The purple alien watched baseball matches .
+
+4297: [unknown], unknown,    open, 'Ter',63    XP: []
+      The purple alien bought clothes .
+      The purple alien bought shirts .
+
+4298: [unknown], unknown,    open, 'Ter',63    XP: []
+      The purple alien drove cars .
+      The purple alien drove suvs .
+
+4303: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien drank some soda .
+      Every alien drank coke .
+
+4304: [unknown], unknown,    open, 'Lim',400   XP: []
+      Every alien read some books .
+      Every alien read sci-fi novels .
+
+4305: [unknown], unknown,    open, 'Lim',400   XP: []
+      Every alien played with some toys .
+      Every alien played with toy cars .
+  
+15: [unknown], unknown,    open, 'Lim',436   XP: []
+      At least three commissioners spend time at home .
+      At least three commissioners spend a lot of time at home .
+
+4306: [unknown], unknown,    open, 'Ter',393   XP: []
+      Every alien threw some balls .
+      Every alien threw tennis balls .
+
+4311: [unknown], unknown,    open, 'Ter',59    XP: []
+      Exactly 12 aliens drank some soda .
+      Exactly 12 aliens drank coke .
+
+4312: [unknown], unknown,    open, 'Lim',421   XP: []
+      Exactly 12 aliens read some books .
+      Exactly 12 aliens read sci-fi novels .
+
+4313: [unknown], unknown,    open, 'Ter',229   XP: []
+      Exactly 12 aliens played with some toys .
+      Exactly 12 aliens played with toy cars .
+
+4314: [unknown], unknown,    open, 'Ter',237   XP: []
+      Exactly 12 aliens threw some balls .
+      Exactly 12 aliens threw tennis balls .
+
+Inconsistency in node types (entail/8)
+4315: [unknown], unknown,      NA, 'Defected'  XP: _329694
+      Exactly 12 aliens drank some coke .
+      Exactly 12 aliens drank soda .
+
+4319: [unknown], unknown,    open, 'Ter',25    XP: []
+      Many aliens drank some soda .
+      Many aliens drank coke .
+
+4320: [unknown], unknown,    open, 'Lim',414   XP: []
+      Many aliens read some books .
+      Many aliens read sci-fi novels .
+
+4321: [unknown], unknown,    open, 'Ter',236   XP: []
+      Many aliens played with some toys .
+      Many aliens played with toy cars .
+
+4322: [unknown], unknown,    open, 'Ter',210   XP: []
+      Many aliens threw some balls .
+      Many aliens threw tennis balls .
+
+4327: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens drank some soda .
+      Only 12 aliens drank coke .
+
+4328: [unknown], unknown,    open, 'Ter',51    XP: []
+      Only 12 aliens read some books .
+      Only 12 aliens read sci-fi novels .
+
+4330: [unknown], unknown,    open, 'Ter',29    XP: []
+      Only 12 aliens threw some balls .
+      Only 12 aliens threw tennis balls .
+  
+4329: [unknown], unknown,    open, 'Ter',30    XP: []
+      Only 12 aliens played with some toys .
+      Only 12 aliens played with toy cars .
+
+Inconsistency in node types (entail/8)
+4331: [unknown], unknown,      NA, 'Defected'  XP: _20148
+      Only 12 aliens drank some coke .
+      Only 12 aliens drank soda .
+
+Inconsistency in node types (entail/8)
+4335: [unknown], unknown,      NA, 'Defected'  XP: _340442
+      The red alien drank some soda .
+      The red alien drank coke .
+
+4336: [unknown], unknown,    open, 'Ter',166   XP: []
+      The red alien read some books .
+      The red alien read sci-fi novels .
+
+4337: [unknown], unknown,    open, 'Ter',97    XP: []
+      The red alien played with some toys .
+      The red alien played with toy cars .
+
+4338: [unknown], unknown,    open, 'Ter',91    XP: []
+      The red alien threw some balls .
+      The red alien threw tennis balls .
+
+4347: [unknown], unknown,    open, 'Ter',27    XP: []
+      Few aliens drank any coke .
+      Few aliens drank soda .
+
+4348: [unknown], unknown,    open, 'Lim',400   XP: []
+      Few aliens watched any baseball matches .
+      Few aliens watched sports matches .
+
+4350: [unknown], unknown,    open, 'Ter',43    XP: []
+      Few aliens drove any suvs .
+      Few aliens drove cars .
+  
+73: [unknown], unknown,    open, 'Ter',42    XP: []
+      You know that some life changing actions must be taken when grandma reacts with the sad emoji .
+      You know that some life-changing actions must be taken when grandma reacts with emoji .
+
+4355: [unknown], unknown,    open, 'Ter',27    XP: []
+      The blue alien did not drink any coke .
+      The blue alien did not drink soda .
+
+4356: [unknown], unknown,    open, 'Ter',16    XP: []
+      The blue alien did not watch any baseball matches .
+      The blue alien did not watch sports matches .
+
+4357: [unknown], unknown,    open, 'Ter',66    XP: []
+      The blue alien did not play with any toy cars .
+      The blue alien did not play with toys .
+
+4358: [unknown], unknown,    open, 'Ter',51    XP: []
+      The blue alien did not drive any suvs .
+      The blue alien did not drive cars .
+
+4363: [unknown], unknown,    open, 'Lim',401   XP: []
+      No alien drank any coke .
+      No alien drank soda .
+
+4364: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien watched any baseball matches .
+      No alien watched sports matches .
+
+4365: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien played with any toy cars .
+      No alien played with toys .
+
+4366: [unknown], unknown,    open, 'Ter',80    XP: []
+      No alien drove any suvs .
+      No alien drove cars .
+
+4371: [unknown], unknown,    open, 'Ter',50    XP: []
+      Few aliens ate pork .
+      Few aliens ate meat .
+
+4372: [unknown], unknown,    open, 'Lim',400   XP: []
+      Few aliens read sci-fi novels .
+      Few aliens read books .
+
+4373: [unknown], unknown,    open, 'Ter',144   XP: []
+      Few aliens saw doves .
+      Few aliens saw birds .
+
+4374: [unknown], unknown,    open, 'Lim',400   XP: []
+      Few aliens threw tennis balls .
+      Few aliens threw balls .
+
+4379: [unknown], unknown,    open, 'Ter',48    XP: []
+      The yellow alien did not eat pork .
+      The yellow alien did not eat meat .
+
+4380: [unknown], unknown,    open, 'Ter',335   XP: []
+      The yellow alien did not read sci-fi novels .
+      The yellow alien did not read books .
+
+4381: [unknown], unknown,    open, 'Ter',157   XP: []
+      The yellow alien did not see doves .
+      The yellow alien did not see birds .
+
+4382: [unknown], unknown,    open, 'Ter',170   XP: []
+      The yellow alien did not throw tennis balls .
+      The yellow alien did not throw balls .
+
+4387: [unknown], unknown,    open, 'Ter',107   XP: []
+      No alien ate pork .
+      No alien ate meat .
+
+4388: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien read sci-fi novels .
+      No alien read books .
+
+4389: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien saw doves .
+      No alien saw birds .
+
+4390: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien threw tennis balls .
+      No alien threw balls .
+  
+56: [unknown], unknown,    open, 'Lim',533   XP: []
+      Cruz has frequently derided as amnesty any bill that confers legal status or citizenship on people living in the country illegally .
+      Cruz has frequently derided as amnesty any plan that confers legal status or citizenship on people living in the country illegally .
+
+4391: [unknown], unknown,    open, 'Ter',37    XP: []
+      Exactly 12 aliens drank any soda .
+      Exactly 12 aliens drank coke .
+
+4392: [unknown], unknown,    open, 'Ter',42    XP: []
+      Exactly 12 aliens watched any sports matches .
+      Exactly 12 aliens watched baseball matches .
+
+4393: [unknown], unknown,    open, 'Ter',377   XP: []
+      Exactly 12 aliens played with any toys .
+      Exactly 12 aliens played with toy cars .
+
+4394: [unknown], unknown,    open, 'Ter',51    XP: []
+      Exactly 12 aliens drove any cars .
+      Exactly 12 aliens drove suvs .
+
+Inconsistency in node types (entail/8)
+4395: [unknown], unknown,      NA, 'Defected'  XP: _190068
+      Exactly 12 aliens drank any coke .
+      Exactly 12 aliens drank soda .
+
+4396: [unknown], unknown,    open, 'Ter',42    XP: []
+      Exactly 12 aliens watched any baseball matches .
+      Exactly 12 aliens watched sports matches .
+
+4397: [unknown], unknown,    open, 'Ter',68    XP: []
+      Exactly 12 aliens played with any toy cars .
+      Exactly 12 aliens played with toys .
+
+4398: [unknown], unknown,    open, 'Ter',51    XP: []
+      Exactly 12 aliens drove any suvs .
+      Exactly 12 aliens drove cars .
+
+4399: [unknown], unknown,    open, 'Ter',4     XP: []
+      Only 12 aliens drank any soda .
+      Only 12 aliens drank coke .
+
+4400: [unknown], unknown,    open, 'Ter',13    XP: []
+      Only 12 aliens watched any sports matches .
+      Only 12 aliens watched baseball matches .
+
+4401: [unknown], unknown,    open, 'Ter',23    XP: []
+      Only 12 aliens played with any toys .
+      Only 12 aliens played with toy cars .
+
+4402: [unknown], unknown,    open, 'Ter',6     XP: []
+      Only 12 aliens drove any cars .
+      Only 12 aliens drove suvs .
+
+Inconsistency in node types (entail/8)
+4403: [unknown], unknown,      NA, 'Defected'  XP: _51216
+      Only 12 aliens drank any coke .
+      Only 12 aliens drank soda .
+
+4404: [unknown], unknown,    open, 'Ter',13    XP: []
+      Only 12 aliens watched any baseball matches .
+      Only 12 aliens watched sports matches .
+
+4405: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens played with any toy cars .
+      Only 12 aliens played with toys .
+
+Inconsistency in node types (entail/8)
+4407: [unknown], unknown,      NA, 'Defected'  XP: _389558
+      Exactly 12 aliens ate meat .
+      Exactly 12 aliens ate pork .
+
+4408: [unknown], unknown,    open, 'Lim',421   XP: []
+      Exactly 12 aliens read books .
+      Exactly 12 aliens read sci-fi novels .
+
+4409: [unknown], unknown,    open, 'Ter',107   XP: []
+      Exactly 12 aliens saw birds .
+      Exactly 12 aliens saw doves .
+
+4410: [unknown], unknown,    open, 'Lim',421   XP: []
+      Exactly 12 aliens threw balls .
+      Exactly 12 aliens threw tennis balls .
+
+Inconsistency in node types (entail/8)
+4411: [unknown], unknown,      NA, 'Defected'  XP: _68420
+      Exactly 12 aliens ate pork .
+      Exactly 12 aliens ate meat .
+
+Inconsistency in node types (entail/8)
+4415: [unknown], unknown,      NA, 'Defected'  XP: _200864
+      Only 12 aliens ate meat .
+      Only 12 aliens ate pork .
+
+4416: [unknown], unknown,    open, 'Ter',74    XP: []
+      Only 12 aliens read books .
+      Only 12 aliens read sci-fi novels .
+
+4417: [unknown], unknown,    open, 'Ter',19    XP: []
+      Only 12 aliens saw birds .
+      Only 12 aliens saw doves .
+
+4418: [unknown], unknown,    open, 'Ter',34    XP: []
+      Only 12 aliens threw balls .
+      Only 12 aliens threw tennis balls .
+
+Inconsistency in node types (entail/8)
+4419: [unknown], unknown,      NA, 'Defected'  XP: _166934
+      Only 12 aliens ate pork .
+      Only 12 aliens ate meat .
+
+4423: [unknown], unknown,    open, 'Ter',237   XP: []
+      Exactly 12 aliens read some magazines .
+      Exactly 12 aliens read news magazines .
+
+4424: [unknown], unknown,    open, 'Ter',229   XP: []
+      Exactly 12 aliens ate at some restaurants .
+      Exactly 12 aliens ate at Mexican restaurants .
+
+4425: [unknown], unknown,    open, 'Ter',67    XP: []
+      Exactly 12 aliens bought some clothes .
+      Exactly 12 aliens bought shirts .
+
+4426: [unknown], unknown,    open, 'Ter',70    XP: []
+      Exactly 12 aliens used some coins .
+      Exactly 12 aliens used quarters .
+
+4429: [unknown], unknown,    open, 'Ter',67    XP: []
+      Exactly 12 aliens bought some shirts .
+      Exactly 12 aliens bought clothes .
+
+4431: [unknown], unknown,    open, 'Ter',29    XP: []
+      Only 12 aliens read some magazines .
+      Only 12 aliens read news magazines .
+
+4432: [unknown], unknown,    open, 'Ter',30    XP: []
+      Only 12 aliens ate at some restaurants .
+      Only 12 aliens ate at Mexican restaurants .
+
+4433: [unknown], unknown,    open, 'Ter',13    XP: []
+      Only 12 aliens bought some clothes .
+      Only 12 aliens bought shirts .
+
+4434: [unknown], unknown,    open, 'Ter',16    XP: []
+      Only 12 aliens used some coins .
+      Only 12 aliens used quarters .
+
+4437: [unknown], unknown,    open, 'Ter',13    XP: []
+      Only 12 aliens bought some shirts .
+      Only 12 aliens bought clothes .
+
+4440: [unknown], unknown,    open, 'Ter',110   XP: []
+      Every alien read books .
+      Every alien read sci-fi novels .
+
+4441: [unknown], unknown,    open, 'Ter',26    XP: []
+      Every alien saw birds .
+      Every alien saw doves .
+
+4442: [unknown], unknown,    open, 'Ter',43    XP: []
+      Every alien threw balls .
+      Every alien threw tennis balls .
+
+4447: [unknown], unknown,    open, 'Ter',28    XP: []
+      Many aliens ate meat .
+      Many aliens ate pork .
+
+4448: [unknown], unknown,    open, 'Ter',65    XP: []
+      Many aliens read books .
+      Many aliens read sci-fi novels .
+
+4449: [unknown], unknown,    open, 'Ter',31    XP: []
+      Many aliens saw birds .
+      Many aliens saw doves .
+  
+35: [unknown], unknown,    open, 'Lim',442   XP: []
+      Neither commissioner spends a lot of time at home .
+      One of the female commissioners spends a lot of time at home .
+Difference in Lemma Lexicons after normalization
+
+4450: [unknown], unknown,    open, 'Ter',43    XP: []
+      Many aliens threw balls .
+      Many aliens threw tennis balls .
+
+4455: [unknown], unknown,    open, 'Ter',220   XP: []
+      The purple alien ate meat .
+      The purple alien ate pork .
+
+Inconsistency in node types (entail/8)
+4456: [unknown], unknown,      NA, 'Defected'  XP: _380026
+      The purple alien read books .
+      The purple alien read sci-fi novels .
+
+4457: [unknown], unknown,    open, 'Ter',113   XP: []
+      The purple alien saw birds .
+      The purple alien saw doves .
+
+4458: [unknown], unknown,    open, 'Ter',127   XP: []
+      The purple alien threw balls .
+      The purple alien threw tennis balls .
+
+4463: [unknown], unknown,    open, 'Ter',393   XP: []
+      Every alien read some magazines .
+      Every alien read news magazines .
+
+4464: [unknown], unknown,    open, 'Ter',102   XP: []
+      Every alien ate at some restaurants .
+      Every alien ate at Mexican restaurants .
+
+4465: [unknown], unknown,    open, 'Ter',75    XP: []
+      Every alien bought some clothes .
+      Every alien bought shirts .
+
+Inconsistency in node types (entail/8)
+4466: [unknown], unknown,      NA, 'Defected'  XP: _17492
+      Every alien used some coins .
+      Every alien used quarters .
+
+4471: [unknown], unknown,    open, 'Ter',210   XP: []
+      Many aliens read some magazines .
+      Many aliens read news magazines .
+
+4472: [unknown], unknown,    open, 'Ter',229   XP: []
+      Many aliens ate at some restaurants .
+      Many aliens ate at Mexican restaurants .
+
+4473: [unknown], unknown,    open, 'Ter',54    XP: []
+      Many aliens bought some clothes .
+      Many aliens bought shirts .
+
+4474: [unknown], unknown,    open, 'Ter',252   XP: []
+      Many aliens used some coins .
+      Many aliens used quarters .
+
+4479: [unknown], unknown,    open, 'Ter',91    XP: []
+      The red alien read some magazines .
+      The red alien read news magazines .
+
+4480: [unknown], unknown,    open, 'Ter',76    XP: []
+      The red alien ate at some restaurants .
+      The red alien ate at Mexican restaurants .
+
+4481: [unknown], unknown,    open, 'Ter',45    XP: []
+      The red alien bought some clothes .
+      The red alien bought shirts .
+
+Inconsistency in node types (entail/8)
+4482: [unknown], unknown,      NA, 'Defected'  XP: _203808
+      The red alien used some coins .
+      The red alien used quarters .
+
+4491: [unknown], unknown,    open, 'Ter',36    XP: []
+      Few aliens read any news magazines .
+      Few aliens read any magazines .
+
+4492: [unknown], unknown,    open, 'Ter',61    XP: []
+      Few aliens read any sci-fi novels .
+      Few aliens read any books .
+
+4493: [unknown], unknown,    open, 'Ter',21    XP: []
+      Few aliens bought any shirts .
+      Few aliens bought any clothes .
+
+4494: [unknown], unknown,    open, 'Ter',36    XP: []
+      Few aliens threw any tennis balls .
+      Few aliens threw any balls .
+
+4499: [unknown], unknown,    open, 'Ter',26    XP: []
+      The blue alien did not read any news magazines .
+      The blue alien did not read any magazines .
+
+4500: [unknown], unknown,    open, 'Ter',28    XP: []
+      The blue alien did not read any sci-fi novels .
+      The blue alien did not read any books .
+
+4501: [unknown], unknown,    open, 'Ter',20    XP: []
+      The blue alien did not buy any shirts .
+      The blue alien did not buy any clothes .
+
+4502: [unknown], unknown,    open, 'Ter',45    XP: []
+      The blue alien did not throw tennis balls .
+      The blue alien did not throw any balls .
+
+4507: [unknown], unknown,    open, 'Ter',62    XP: []
+      No alien read any news magazines .
+      No alien read any magazines .
+
+4508: [unknown], unknown,    open, 'Ter',113   XP: []
+      No alien read any sci-fi novels .
+      No alien read any books .
+
+4509: [unknown], unknown,    open, 'Ter',26    XP: []
+      No alien bought any shirts .
+      No alien bought any clothes .
+
+4510: [unknown], unknown,    open, 'Ter',62    XP: []
+      No alien threw any tennis balls .
+      No alien threw any balls .
+
+4515: [unknown], unknown,    open, 'Ter',43    XP: []
+      Few aliens drank coke .
+      Few aliens drank soda .
+
+4516: [unknown], unknown,    open, 'Lim',401   XP: []
+      Few aliens ate at Mexican restaurants .
+      Few aliens ate at restaurants .
+
+4517: [unknown], unknown,    open, 'Lim',400   XP: []
+      Few aliens played with toy cars .
+      Few aliens played with toys .
+
+4518: [unknown], unknown,    open, 'Ter',144   XP: []
+      Few aliens used quarters .
+      Few aliens used coins .
+
+4523: [unknown], unknown,    open, 'Ter',30    XP: []
+      The yellow alien did not drink coke .
+      The yellow alien did not drink soda .
+
+4524: [unknown], unknown,    open, 'Ter',171   XP: []
+      The yellow alien did not eat at Mexican restaurants .
+      The yellow alien did not eat at restaurants .
+
+4525: [unknown], unknown,    open, 'Ter',159   XP: []
+      The yellow alien did not play with toy cars .
+      The yellow alien did not play with toys .
+
+4526: [unknown], unknown,    open, 'Ter',157   XP: []
+      The yellow alien did not use quarters .
+      The yellow alien did not use coins .
+
+4531: [unknown], unknown,    open, 'Ter',51    XP: []
+      No alien drank coke .
+      No alien drank soda .
+
+4533: [unknown], unknown,    open, 'Lim',401   XP: []
+      No alien played with toy cars .
+      No alien played with toys .
+
+4534: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien used quarters .
+      No alien used coins .
+
+4535: [unknown], unknown,    open, 'Ter',36    XP: []
+      Exactly 12 aliens read any magazines .
+      Exactly 12 aliens read any news magazines .
+
+4536: [unknown], unknown,    open, 'Ter',43    XP: []
+      Exactly 12 aliens read any books .
+      Exactly 12 aliens read any sci-fi novels .
+
+4537: [unknown], unknown,    open, 'Ter',29    XP: []
+      Exactly 12 aliens bought any clothes .
+      Exactly 12 aliens bought any shirts .
+
+4538: [unknown], unknown,    open, 'Ter',36    XP: []
+      Exactly 12 aliens threw any balls .
+      Exactly 12 aliens threw any tennis balls .
+
+4541: [unknown], unknown,    open, 'Ter',29    XP: []
+      Exactly 12 aliens bought any shirts .
+      Exactly 12 aliens bought any clothes .
+
+4543: [unknown], unknown,    open, 'Ter',7     XP: []
+      Only 12 aliens read any magazines .
+      Only 12 aliens read any news magazines .
+
+4544: [unknown], unknown,    open, 'Ter',6     XP: []
+      Only 12 aliens read any books .
+      Only 12 aliens read any sci-fi novels .
+
+4545: [unknown], unknown,    open, 'Ter',4     XP: []
+      Only 12 aliens bought any clothes .
+      Only 12 aliens bought any shirts .
+  
+4770: [unknown], unknown,    open, 'Ter',121   XP: []
+      Every alien used some coins .
+      Every alien used some quarters .
+
+4546: [unknown], unknown,    open, 'Ter',7     XP: []
+      Only 12 aliens threw any balls .
+      Only 12 aliens threw any tennis balls .
+
+4549: [unknown], unknown,    open, 'Ter',4     XP: []
+      Only 12 aliens bought any shirts .
+      Only 12 aliens bought any clothes .
+
+Inconsistency in node types (entail/8)
+4551: [unknown], unknown,      NA, 'Defected'  XP: _303808
+      Exactly 12 aliens drank soda .
+      Exactly 12 aliens drank coke .
+
+4552: [unknown], unknown,    open, 'Lim',423   XP: []
+      Exactly 12 aliens ate at restaurants .
+      Exactly 12 aliens ate at Mexican restaurants .
+
+4553: [unknown], unknown,    open, 'Lim',423   XP: []
+      Exactly 12 aliens played with toys .
+      Exactly 12 aliens played with toy cars .
+
+4554: [unknown], unknown,    open, 'Ter',132   XP: []
+      Exactly 12 aliens used coins .
+      Exactly 12 aliens used quarters .
+
+Inconsistency in node types (entail/8)
+4555: [unknown], unknown,      NA, 'Defected'  XP: _268012
+      Exactly 12 aliens drank coke .
+      Exactly 12 aliens drank soda .
+
+Inconsistency in node types (entail/8)
+4559: [unknown], unknown,      NA, 'Defected'  XP: _104512
+      Only 12 aliens drank soda .
+      Only 12 aliens drank coke .
+
+4560: [unknown], unknown,    open, 'Ter',35    XP: []
+      Only 12 aliens ate at restaurants .
+      Only 12 aliens ate at Mexican restaurants .
+
+4561: [unknown], unknown,    open, 'Ter',35    XP: []
+      Only 12 aliens played with toys .
+      Only 12 aliens played with toy cars .
+
+4562: [unknown], unknown,    open, 'Ter',19    XP: []
+      Only 12 aliens used coins .
+      Only 12 aliens used quarters .
+
+Inconsistency in node types (entail/8)
+4563: [unknown], unknown,      NA, 'Defected'  XP: _338758
+      Only 12 aliens drank coke .
+      Only 12 aliens drank soda .
+
+4567: [unknown], unknown,    open, 'Ter',62    XP: []
+      Exactly 12 aliens ate some meat .
+      Exactly 12 aliens ate some pork .
+
+4568: [unknown], unknown,    open, 'Ter',115   XP: []
+      Exactly 12 aliens watched some sports matches .
+      Exactly 12 aliens watched some baseball matches .
+
+4569: [unknown], unknown,    open, 'Ter',62    XP: []
+      Exactly 12 aliens saw some birds .
+      Exactly 12 aliens saw some doves .
+
+4570: [unknown], unknown,    open, 'Ter',59    XP: []
+      Exactly 12 aliens drove some cars .
+      Exactly 12 aliens drove some suvs .
+
+4574: [unknown], unknown,    open, 'Ter',59    XP: []
+      Exactly 12 aliens drove some suvs .
+      Exactly 12 aliens drove some cars .
+
+4575: [unknown], unknown,    open, 'Ter',12    XP: []
+      Only 12 aliens ate some meat .
+      Only 12 aliens ate some pork .
+
+4576: [unknown], unknown,    open, 'Ter',14    XP: []
+      Only 12 aliens watched some sports matches .
+      Only 12 aliens watched some baseball matches .
+
+4577: [unknown], unknown,    open, 'Ter',12    XP: []
+      Only 12 aliens saw some birds .
+      Only 12 aliens saw some doves .
+
+4578: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens drove some cars .
+      Only 12 aliens drove some suvs .
+
+4582: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens drove some suvs .
+      Only 12 aliens drove some cars .
+
+4583: [unknown], unknown,    open, 'Ter',51    XP: []
+      Every alien drank soda .
+      Every alien drank coke .
+
+4584: [unknown], unknown,    open, 'Ter',102   XP: []
+      Every alien ate at restaurants .
+      Every alien ate at Mexican restaurants .
+
+4585: [unknown], unknown,    open, 'Ter',46    XP: []
+      Every alien played with toys .
+      Every alien played with toy cars .
+  
+96: [unknown], unknown,    open, 'Ter',26    XP: []
+      While most approaches for reading comprehension rely on recurrent neural networks ( RNNs ) , running them over long documents is prohibitively slow because it is difficult to parallelize over sequences .
+      While most successful approaches for reading comprehension rely on recurrent neural networks ( RNNs ) , running them over long documents is prohibitively slow because it is difficult to parallelize over sequences .
+
+Inconsistency in node types (entail/8)
+4586: [unknown], unknown,      NA, 'Defected'  XP: _198768
+      Every alien used coins .
+      Every alien used quarters .
+  
+69: [unknown], unknown,    open, 'Lim',486   XP: []
+      Last time I visited was nearly 6 months ago and I am still finding husky fur on my socks .
+      Last time I visited my friend was nearly 6 months ago and I am still finding husky fur on my socks .
+
+4591: [unknown], unknown,    open, 'Ter',25    XP: []
+      Many aliens drank soda .
+      Many aliens drank coke .
+
+4592: [unknown], unknown,    open, 'Ter',46    XP: []
+      Many aliens ate at restaurants .
+      Many aliens ate at Mexican restaurants .
+
+4593: [unknown], unknown,    open, 'Ter',52    XP: []
+      Many aliens played with toys .
+      Many aliens played with toy cars .
+
+4594: [unknown], unknown,    open, 'Ter',31    XP: []
+      Many aliens used coins .
+      Many aliens used quarters .
+
+4599: [unknown], unknown,    open, 'Ter',108   XP: []
+      The purple alien drank soda .
+      The purple alien drank coke .
+
+4600: [unknown], unknown,    open, 'Ter',76    XP: []
+      The purple alien ate at restaurants .
+      The purple alien ate at Mexican restaurants .
+
+4601: [unknown], unknown,    open, 'Ter',133   XP: []
+      The purple alien played with toys .
+      The purple alien played with toy cars .
+
+4602: [unknown], unknown,    open, 'Lim',418   XP: []
+      The purple alien used coins .
+      The purple alien used quarters .
+
+Inconsistency in node types (entail/8)
+4607: [unknown], unknown,      NA, 'Defected'  XP: _241168
+      Every alien ate some meat .
+      Every alien ate some pork .
+
+4608: [unknown], unknown,    open, 'Ter',222   XP: []
+      Every alien watched some sports matches .
+      Every alien watched some baseball matches .
+
+4609: [unknown], unknown,    open, 'Ter',121   XP: []
+      Every alien saw some birds .
+      Every alien saw some doves .
+
+4610: [unknown], unknown,    open, 'Ter',72    XP: []
+      Every alien drove some cars .
+      Every alien drove some suvs .
+
+4615: [unknown], unknown,    open, 'Ter',28    XP: []
+      Many aliens ate some meat .
+      Many aliens ate some pork .
+
+4616: [unknown], unknown,    open, 'Ter',106   XP: []
+      Many aliens watched some sports matches .
+      Many aliens watched some baseball matches .
+
+4617: [unknown], unknown,    open, 'Ter',63    XP: []
+      Many aliens saw some birds .
+      Many aliens saw some doves .
+
+4618: [unknown], unknown,    open, 'Ter',54    XP: []
+      Many aliens drove some cars .
+      Many aliens drove some suvs .
+
+4623: [unknown], unknown,    open, 'Ter',49    XP: []
+      The red alien ate some meat .
+      The red alien ate some pork .
+
+4624: [unknown], unknown,    open, 'Ter',43    XP: []
+      The red alien watched some sports matches .
+      The red alien watched some baseball matches .
+
+4625: [unknown], unknown,    open, 'Ter',49    XP: []
+      The red alien saw some birds .
+      The red alien saw some doves .
+
+4626: [unknown], unknown,    open, 'Ter',31    XP: []
+      The red alien drove some cars .
+      The red alien drove some suvs .
+
+4635: [unknown], unknown,    open, 'Ter',22    XP: []
+      Few aliens ate any pork .
+      Few aliens ate any meat .
+
+4636: [unknown], unknown,    open, 'Ter',36    XP: []
+      Few aliens ate at any Mexican restaurants .
+      Few aliens ate at any restaurants .
+
+4637: [unknown], unknown,    open, 'Ter',22    XP: []
+      Few aliens saw any doves .
+      Few aliens saw any birds .
+
+4638: [unknown], unknown,    open, 'Ter',22    XP: []
+      Few aliens used any quarters .
+      Few aliens used any coins .
+
+4643: [unknown], unknown,    open, 'Ter',24    XP: []
+      The blue alien did not eat any pork .
+      The blue alien did not eat any meat .
+
+4644: [unknown], unknown,    open, 'Ter',26    XP: []
+      The blue alien did not eat at any Mexican restaurants .
+      The blue alien did not eat at any restaurants .
+
+4645: [unknown], unknown,    open, 'Ter',24    XP: []
+      The blue alien did not see any doves .
+      The blue alien did not see any birds .
+
+4646: [unknown], unknown,    open, 'Ter',24    XP: []
+      The blue alien did not use any quarters .
+      The blue alien did not use any coins .
+
+4651: [unknown], unknown,    open, 'Lim',401   XP: []
+      No alien ate any pork .
+      No alien ate any meat .
+
+4653: [unknown], unknown,    open, 'Ter',44    XP: []
+      No alien saw any doves .
+      No alien saw any birds .
+
+4654: [unknown], unknown,    open, 'Ter',44    XP: []
+      No alien used any quarters .
+      No alien used any coins .
+
+4655: [unknown], unknown,    open, 'Ter',30    XP: []
+      Exactly 12 aliens ate any meat .
+      Exactly 12 aliens ate any pork .
+
+4656: [unknown], unknown,    open, 'Ter',36    XP: []
+      Exactly 12 aliens ate at any restaurants .
+      Exactly 12 aliens ate at any Mexican restaurants .
+
+4657: [unknown], unknown,    open, 'Ter',30    XP: []
+      Exactly 12 aliens saw any birds .
+      Exactly 12 aliens saw any doves .
+
+4658: [unknown], unknown,    open, 'Ter',30    XP: []
+      Exactly 12 aliens used any coins .
+      Exactly 12 aliens used any quarters .
+
+4663: [unknown], unknown,    open, 'Ter',5     XP: []
+      Only 12 aliens ate any meat .
+      Only 12 aliens ate any pork .
+
+4664: [unknown], unknown,    open, 'Ter',7     XP: []
+      Only 12 aliens ate at any restaurants .
+      Only 12 aliens ate at any Mexican restaurants .
+  
+45: [unknown], unknown,    open, 'Lim',800   XP: []
+      Cruz has frequently derided as amnesty various plans that confer legal status or citizenship on people living in the country illegally .
+      Cruz has frequently derided as amnesty various bills that confer legal status or citizenship on people living in the country illegally .
+
+4665: [unknown], unknown,    open, 'Ter',5     XP: []
+      Only 12 aliens saw any birds .
+      Only 12 aliens saw any doves .
+
+4666: [unknown], unknown,    open, 'Ter',5     XP: []
+      Only 12 aliens used any coins .
+      Only 12 aliens used any quarters .
+
+4671: [unknown], unknown,    open, 'Ter',59    XP: []
+      Exactly 12 aliens drank some soda .
+      Exactly 12 aliens drank some coke .
+
+4672: [unknown], unknown,    open, 'Ter',268   XP: []
+      Exactly 12 aliens read some books .
+      Exactly 12 aliens read some sci-fi novels .
+
+4673: [unknown], unknown,    open, 'Ter',108   XP: []
+      Exactly 12 aliens played with some toys .
+      Exactly 12 aliens played with some toy cars .
+
+4674: [unknown], unknown,    open, 'Ter',106   XP: []
+      Exactly 12 aliens threw some balls .
+      Exactly 12 aliens threw some tennis balls .
+
+4675: [unknown], unknown,    open, 'Ter',59    XP: []
+      Exactly 12 aliens drank some coke .
+      Exactly 12 aliens drank some soda .
+
+4679: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens drank some soda .
+      Only 12 aliens drank some coke .
+   
+7: [unknown], unknown,    open, 'Lim',400   XP: []
+      Neither commissioner spends a lot of time at home .
+      Neither commissioner spends time at home .
+
+4680: [unknown], unknown,    open, 'Ter',22    XP: []
+      Only 12 aliens read some books .
+      Only 12 aliens read some sci-fi novels .
+
+4681: [unknown], unknown,    open, 'Ter',19    XP: []
+      Only 12 aliens played with some toys .
+      Only 12 aliens played with some toy cars .
+
+4682: [unknown], unknown,    open, 'Ter',18    XP: []
+      Only 12 aliens threw some balls .
+      Only 12 aliens threw some tennis balls .
+
+4683: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens drank some coke .
+      Only 12 aliens drank some soda .
+
+Inconsistency in node types (entail/8)
+4687: [unknown], unknown,      NA, 'Defected'  XP: _97710
+      Every alien drank some soda .
+      Every alien drank some coke .
+
+4689: [unknown], unknown,    open, 'Ter',299   XP: []
+      Every alien played with some toys .
+      Every alien played with some toy cars .
+
+4690: [unknown], unknown,    open, 'Ter',268   XP: []
+      Every alien threw some balls .
+      Every alien threw some tennis balls .
+
+4695: [unknown], unknown,    open, 'Ter',25    XP: []
+      Many aliens drank some soda .
+      Many aliens drank some coke .
+
+4696: [unknown], unknown,    open, 'Ter',299   XP: []
+      Many aliens read some books .
+      Many aliens read some sci-fi novels .
+
+4697: [unknown], unknown,    open, 'Ter',111   XP: []
+      Many aliens played with some toys .
+      Many aliens played with some toy cars .
+
+4698: [unknown], unknown,    open, 'Ter',103   XP: []
+      Many aliens threw some balls .
+      Many aliens threw some tennis balls .
+
+4703: [unknown], unknown,    open, 'Ter',31    XP: []
+      The red alien drank some soda .
+      The red alien drank some coke .
+
+4705: [unknown], unknown,    open, 'Ter',77    XP: []
+      The red alien played with some toys .
+      The red alien played with some toy cars .
+  
+4725: [unknown], unknown,    open, 'Ter',24    XP: []
+      The blue alien did not play with any toy cars .
+      The blue alien did not play with any toys .
+
+4706: [unknown], unknown,    open, 'Ter',71    XP: []
+      The red alien threw some balls .
+      The red alien threw some tennis balls .
+   
+4726: [unknown], unknown,    open, 'Ter',20    XP: []
+      The blue alien did not drive any suvs .
+      The blue alien did not drive any cars .
+
+4715: [unknown], unknown,    open, 'Ter',21    XP: []
+      Few aliens drank any coke .
+      Few aliens drank any soda .
+
+4716: [unknown], unknown,    open, 'Ter',49    XP: []
+      Few aliens watched any baseball matches .
+      Few aliens watched any sports matches .
+
+4717: [unknown], unknown,    open, 'Ter',34    XP: []
+      Few aliens played with any toy cars .
+      Few aliens played with any toys .
+
+4718: [unknown], unknown,    open, 'Ter',21    XP: []
+      Few aliens drove any suvs .
+      Few aliens drove any cars .
+
+4723: [unknown], unknown,    open, 'Ter',20    XP: []
+      The blue alien did not drink any coke .
+      The blue alien did not drink any soda .
+
+4724: [unknown], unknown,    open, 'Ter',27    XP: []
+      The blue alien did not watch any baseball matches .
+      The blue alien did not watch any sports matches .
+
+4731: [unknown], unknown,    open, 'Ter',195   XP: []
+      No alien drank any coke .
+      No alien drank any soda .
+
+4732: [unknown], unknown,    open, 'Ter',121   XP: []
+      No alien watched any baseball matches .
+      No alien watched any sports matches .
+
+4733: [unknown], unknown,    open, 'Ter',70    XP: []
+      No alien played with any toy cars .
+      No alien played with any toys .
+
+4734: [unknown], unknown,    open, 'Ter',26    XP: []
+      No alien drove any suvs .
+      No alien drove any cars .
+  
+4754: [unknown], unknown,    open, 'Ter',62    XP: []
+      Exactly 12 aliens used some coins .
+      Exactly 12 aliens used some quarters .
+
+4735: [unknown], unknown,    open, 'Ter',29    XP: []
+      Exactly 12 aliens drank any soda .
+      Exactly 12 aliens drank any coke .
+
+4736: [unknown], unknown,    open, 'Ter',41    XP: []
+      Exactly 12 aliens watched any sports matches .
+      Exactly 12 aliens watched any baseball matches .
+
+4737: [unknown], unknown,    open, 'Ter',36    XP: []
+      Exactly 12 aliens played with any toys .
+      Exactly 12 aliens played with any toy cars .
+
+4738: [unknown], unknown,    open, 'Ter',29    XP: []
+      Exactly 12 aliens drove any cars .
+      Exactly 12 aliens drove any suvs .
+
+4739: [unknown], unknown,    open, 'Ter',29    XP: []
+      Exactly 12 aliens drank any coke .
+      Exactly 12 aliens drank any soda .
+  
+27: [unknown], unknown,    open, 'Ter',68    XP: []
+      At most ten female commissioners spend time at home .
+      At most ten commissioners spend time at home .
+
+4742: [unknown], unknown,    open, 'Ter',29    XP: []
+      Exactly 12 aliens drove any suvs .
+      Exactly 12 aliens drove any cars .
+
+4743: [unknown], unknown,    open, 'Ter',4     XP: []
+      Only 12 aliens drank any soda .
+      Only 12 aliens drank any coke .
+
+4744: [unknown], unknown,    open, 'Ter',11    XP: []
+      Only 12 aliens watched any sports matches .
+      Only 12 aliens watched any baseball matches .
+
+4745: [unknown], unknown,    open, 'Ter',7     XP: []
+      Only 12 aliens played with any toys .
+      Only 12 aliens played with any toy cars .
+
+4746: [unknown], unknown,    open, 'Ter',4     XP: []
+      Only 12 aliens drove any cars .
+      Only 12 aliens drove any suvs .
+
+4747: [unknown], unknown,    open, 'Ter',4     XP: []
+      Only 12 aliens drank any coke .
+      Only 12 aliens drank any soda .
+
+4750: [unknown], unknown,    open, 'Ter',4     XP: []
+      Only 12 aliens drove any suvs .
+      Only 12 aliens drove any cars .
+
+4751: [unknown], unknown,    open, 'Ter',106   XP: []
+      Exactly 12 aliens read some magazines .
+      Exactly 12 aliens read some news magazines .
+
+4752: [unknown], unknown,    open, 'Ter',108   XP: []
+      Exactly 12 aliens ate at some restaurants .
+      Exactly 12 aliens ate at some Mexican restaurants .
+
+4753: [unknown], unknown,    open, 'Ter',59    XP: []
+      Exactly 12 aliens bought some clothes .
+      Exactly 12 aliens bought some shirts .
+
+4757: [unknown], unknown,    open, 'Ter',59    XP: []
+      Exactly 12 aliens bought some shirts .
+      Exactly 12 aliens bought some clothes .
+
+4759: [unknown], unknown,    open, 'Ter',18    XP: []
+      Only 12 aliens read some magazines .
+      Only 12 aliens read some news magazines .
+
+4760: [unknown], unknown,    open, 'Ter',19    XP: []
+      Only 12 aliens ate at some restaurants .
+      Only 12 aliens ate at some Mexican restaurants .
+
+4761: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens bought some clothes .
+      Only 12 aliens bought some shirts .
+
+4762: [unknown], unknown,    open, 'Ter',12    XP: []
+      Only 12 aliens used some coins .
+      Only 12 aliens used some quarters .
+
+4765: [unknown], unknown,    open, 'Ter',9     XP: []
+      Only 12 aliens bought some shirts .
+      Only 12 aliens bought some clothes .
+  
+4406: [unknown], unknown,    open, 'Ter',6     XP: []
+      Only 12 aliens drove any suvs .
+      Only 12 aliens drove cars .
+
+4767: [unknown], unknown,    open, 'Ter',268   XP: []
+      Every alien read some magazines .
+      Every alien read some news magazines .
+
+4768: [unknown], unknown,    open, 'Ter',90    XP: []
+      Every alien ate at some restaurants .
+      Every alien ate at some Mexican restaurants .
+
+4769: [unknown], unknown,    open, 'Ter',72    XP: []
+      Every alien bought some clothes .
+      Every alien bought some shirts .
+
+4775: [unknown], unknown,    open, 'Ter',103   XP: []
+      Many aliens read some magazines .
+      Many aliens read some news magazines .
+
+4776: [unknown], unknown,    open, 'Ter',114   XP: []
+      Many aliens ate at some restaurants .
+      Many aliens ate at some Mexican restaurants .
+
+4777: [unknown], unknown,    open, 'Ter',54    XP: []
+      Many aliens bought some clothes .
+      Many aliens bought some shirts .
+
+4778: [unknown], unknown,    open, 'Ter',63    XP: []
+      Many aliens used some coins .
+      Many aliens used some quarters .
+
+4783: [unknown], unknown,    open, 'Ter',71    XP: []
+      The red alien read some magazines .
+      The red alien read some news magazines .
+
+4784: [unknown], unknown,    open, 'Ter',66    XP: []
+      The red alien ate at some restaurants .
+      The red alien ate at some Mexican restaurants .
+
+4785: [unknown], unknown,    open, 'Ter',31    XP: []
+      The red alien bought some clothes .
+      The red alien bought some shirts .
+
+4786: [unknown], unknown,    open, 'Ter',49    XP: []
+      The red alien used some coins .
+      The red alien used some quarters .
+
+4791: [unknown], unknown,    open, 'Ter',19    XP: []
+      No alien died without drinking some soda .
+      No alien died without drinking coke .
+
+4799: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drink some soda is hairy .
+      Every alien who did not drink coke is hairy .
+
+4800: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not read some books is hairy .
+      Every alien who did not read sci-fi novels is hairy .
+
+4801: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not play with some toys is hairy .
+      Every alien who did not play with toy cars is hairy .
+
+4802: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not throw some balls is hairy .
+      Every alien who did not throw tennis balls is hairy .
+
+4807: [unknown], unknown,    open, 'Ter',72    XP: []
+      No alien died without eating any meat .
+      No alien died without eating pork .
+
+4808: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien died without eating at any restaurants .
+      No alien died without eating at Mexican restaurants .
+
+4809: [unknown], unknown,    open, 'Ter',115   XP: []
+      No alien died without seeing any birds .
+      No alien died without seeing doves .
+
+4810: [unknown], unknown,    open, 'Ter',115   XP: []
+      No alien died without using any coins .
+      No alien died without using quarters .
+
+4815: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat any meat is hairy .
+      Every alien who did not eat pork is hairy .
+
+4816: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat at any restaurants is hairy .
+      Every alien who did not eat at Mexican restaurants is hairy .
+
+4817: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not see any birds is hairy .
+      Every alien who did not see doves is hairy .
+
+4818: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not use any coins is hairy .
+      Every alien who did not use quarters is hairy .
+
+4825: [unknown], unknown,    open, 'Ter',255   XP: []
+      No alien died without buying clothes .
+      No alien died without buying shirts .
+
+4826: [unknown], unknown,    open, 'Ter',255   XP: []
+      No alien died without driving cars .
+      No alien died without driving suvs .
+
+4831: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not read magazines is hairy .
+      Every alien who did not read news magazines is hairy .
+
+4832: [unknown], unknown,    open, 'Lim',400   XP: []
+      Every alien who did not watch sports matches is hairy .
+      Every alien who did not watch baseball matches is hairy .
+
+4833: [unknown], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not buy clothes is hairy .
+      Every alien who did not buy shirts is hairy .
+
+4834: [unknown], unknown,    open, 'Lim',402   XP: []
+      Every alien who did not drive cars is hairy .
+      Every alien who did not drive suvs is hairy .
+
+4841: [unknown], unknown,    open, 'Ter',165   XP: []
+      No alien died without buying some clothes .
+      No alien died without buying shirts .
+
+4847: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not read some magazines is hairy .
+      Every alien who did not read news magazines is hairy .
+
+4848: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat at some restaurants is hairy .
+      Every alien who did not eat at Mexican restaurants is hairy .
+
+4850: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not use some coins is hairy .
+      Every alien who did not use quarters is hairy .
+
+4855: [unknown], unknown,    open, 'Ter',19    XP: []
+      No alien died without drinking any soda .
+      No alien died without drinking coke .
+
+4856: [unknown], unknown,    open, 'Ter',127   XP: []
+      No alien died without watching any sports matches .
+      No alien died without watching baseball matches .
+
+4857: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien died without playing with any toys .
+      No alien died without playing with toy cars .
+
+4858: [unknown], unknown,    open, 'Ter',107   XP: []
+      No alien died without driving any cars .
+      No alien died without driving suvs .
+
+4863: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drink any soda is hairy .
+      Every alien who did not drink coke is hairy .
+
+4864: [unknown], unknown,    open, 'Ter',53    XP: []
+      Every alien who did not watch any sports matches is hairy .
+      Every alien who did not watch baseball matches is hairy .
+
+4865: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not play with any toys is hairy .
+      Every alien who did not play with toy cars is hairy .
+
+4879: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat meat is hairy .
+      Every alien who did not eat pork is hairy .
+
+4880: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not read books is hairy .
+      Every alien who did not read sci-fi novels is hairy .
+
+4881: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not see birds is hairy .
+      Every alien who did not see doves is hairy .
+
+4882: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not throw balls is hairy .
+      Every alien who did not throw tennis balls is hairy .
+
+4893: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat at restaurants is hairy .
+      Every alien who did not eat at Mexican restaurants is hairy .
+
+4895: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not play with toys is hairy .
+      Every alien who did not play with toy cars is hairy .
+
+4897: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not use coins is hairy .
+      Every alien who did not use quarters is hairy .
+
+4899: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not drink soda is hairy .
+      Every alien who did not drink coke is hairy .
+
+4901: [unknown], unknown,    open, 'Ter',27    XP: []
+      The red alien did not eat any pork .
+      The red alien did not eat meat .
+
+4902: [unknown], unknown,    open, 'Ter',16    XP: []
+      The red alien did not watch any baseball matches .
+      The red alien did not watch sports matches .
+
+4903: [unknown], unknown,    open, 'Ter',63    XP: []
+      The red alien did not see any doves .
+      The red alien did not see birds .
+
+4904: [unknown], unknown,    open, 'Ter',63    XP: []
+      The red alien did not eat at any Mexican restaurants .
+      The red alien did not eat at restaurants .
+
+4905: [unknown], unknown,    open, 'Ter',66    XP: []
+      The red alien did not play with any toy cars .
+      The red alien did not play with toys .
+
+4906: [unknown], unknown,    open, 'Ter',63    XP: []
+      The red alien did not use any quarters .
+      The red alien did not use coins .
+
+4909: [unknown], unknown,    open, 'Ter',51    XP: []
+      The red alien did not buy any shirts .
+      The red alien did not buy clothes .
+
+4910: [unknown], unknown,    open, 'Ter',80    XP: []
+      No alien bought any shirts .
+      No alien bought clothes .
+  
+66: [unknown], unknown,    open, 'Lim',436   XP: []
+      Missouri lawmakers are considering a boycott of companies that boycott Israel .
+      Missouri lawmakers are considering a government boycott of companies that boycott Israel .
+
+4912: [unknown], unknown,    open, 'Ter',62    XP: []
+      The red alien did not throw any tennis balls .
+      The red alien did not throw balls .
+
+4913: [unknown], unknown,    open, 'Ter',359   XP: []
+      No alien threw any tennis balls .
+      No alien threw balls .
+
+4914: [unknown], unknown,    open, 'Ter',27    XP: []
+      The red alien did not drink any coke .
+      The red alien did not drink soda .
+
+4917: [unknown], unknown,    open, 'Ter',62    XP: []
+      The red alien did not read any news magazines .
+      The red alien did not read magazines .
+
+4918: [unknown], unknown,    open, 'Ter',359   XP: []
+      No alien read any news magazines .
+      No alien read magazines .
+
+4919: [unknown], unknown,    open, 'Ter',51    XP: []
+      Exactly 12 aliens bought any clothes .
+      Exactly 12 aliens bought shirts .
+
+4920: [unknown], unknown,    open, 'Ter',51    XP: []
+      Exactly 12 aliens bought any shirts .
+      Exactly 12 aliens bought clothes .
+
+4921: [unknown], unknown,    open, 'Ter',384   XP: []
+      Exactly 12 aliens threw any balls .
+      Exactly 12 aliens threw tennis balls .
+
+4922: [unknown], unknown,    open, 'Ter',63    XP: []
+      Exactly 12 aliens threw any tennis balls .
+      Exactly 12 aliens threw balls .
+
+4923: [unknown], unknown,    open, 'Ter',384   XP: []
+      Exactly 12 aliens read any magazines .
+      Exactly 12 aliens read news magazines .
+
+4924: [unknown], unknown,    open, 'Ter',63    XP: []
+      Exactly 12 aliens read any news magazines .
+      Exactly 12 aliens read magazines .
+
+Inconsistency in node types (entail/8)
+4925: [unknown], unknown,      NA, 'Defected'  XP: _238254
+      The red alien ate some meat .
+      The red alien ate pork .
+
+Inconsistency in node types (entail/8)
+4926: [unknown], unknown,      NA, 'Defected'  XP: _235764
+      Every alien ate some meat .
+      Every alien ate pork .
+
+4929: [unknown], unknown,    open, 'Ter',140   XP: []
+      The red alien watched some sports matches .
+      The red alien watched baseball matches .
+
+4930: [unknown], unknown,    open, 'Ter',222   XP: []
+      Every alien watched some sports matches .
+      Every alien watched baseball matches .
+
+4933: [unknown], unknown,    open, 'Ter',77    XP: []
+      The red alien saw some birds .
+      The red alien saw doves .
+
+4934: [unknown], unknown,    open, 'Ter',126   XP: []
+      Every alien saw some birds .
+      Every alien saw doves .
+
+Inconsistency in node types (entail/8)
+4939: [unknown], unknown,      NA, 'Defected'  XP: _167470
+      Every alien used some coins .
+      Every alien used quarters .
+
+4951: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not buy any clothes is hairy .
+      Every alien who did not buy shirts is hairy .
+
+4953: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not throw any balls is hairy .
+      Every alien who did not throw tennis balls is hairy .
+
+4955: [unknown], unknown,    open, 'Lim',400   XP: []
+      No alien died without drinking soda .
+      No alien died without drinking coke .
+
+4957: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not read any magazines is hairy .
+      Every alien who did not read news magazines is hairy .
+
+4960: [unknown], unknown,    open, 'Ter',43    XP: []
+      Few aliens bought any shirts .
+      Few aliens bought clothes .
+
+4962: [unknown], unknown,    open, 'Ter',131   XP: []
+      Few aliens threw any tennis balls .
+      Few aliens threw balls .
+
+4964: [unknown], unknown,    open, 'Ter',131   XP: []
+      Few aliens read any news magazines .
+      Few aliens read magazines .
+
+Inconsistency in node types (entail/8)
+4965: [unknown], unknown,      NA, 'Defected'  XP: _131656
+      Exactly 12 aliens ate some meat .
+      Exactly 12 aliens ate pork .
+
+Inconsistency in node types (entail/8)
+4966: [unknown], unknown,      NA, 'Defected'  XP: _226536
+      Exactly 12 aliens ate some pork .
+      Exactly 12 aliens ate meat .
+
+4967: [unknown], unknown,    open, 'Ter',34    XP: []
+      Exactly 12 aliens watched some sports matches .
+      Exactly 12 aliens watched baseball matches .
+
+4968: [unknown], unknown,    open, 'Ter',34    XP: []
+      Exactly 12 aliens watched some baseball matches .
+      Exactly 12 aliens watched sports matches .
+
+4969: [unknown], unknown,    open, 'Ter',70    XP: []
+      Exactly 12 aliens saw some birds .
+      Exactly 12 aliens saw doves .
+
+4971: [unknown], unknown,    open, 'Ter',28    XP: []
+      Many aliens ate some meat .
+      Many aliens ate pork .
+
+4973: [unknown], unknown,    open, 'Ter',106   XP: []
+      Many aliens watched some sports matches .
+      Many aliens watched baseball matches .
+
+4975: [unknown], unknown,    open, 'Ter',63    XP: []
+      Many aliens saw some birds .
+      Many aliens saw doves .
+
+4977: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not eat some meat is hairy .
+      Every alien who did not eat pork is hairy .
+
+4979: [unknown], unknown,    open, 'Ter',121   XP: []
+      Every alien who did not watch some sports matches is hairy .
+      Every alien who did not watch baseball matches is hairy .
+
+4981: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every alien who did not see some birds is hairy .
+      Every alien who did not see doves is hairy .
+
+4983: [unknown], unknown,    open, 'Ter',6     XP: []
+      Only 12 aliens bought any clothes .
+      Only 12 aliens bought shirts .
+
+4984: [unknown], unknown,    open, 'Ter',6     XP: []
+      Only 12 aliens bought any shirts .
+      Only 12 aliens bought clothes .
+
+4985: [unknown], unknown,    open, 'Ter',23    XP: []
+      Only 12 aliens threw any balls .
+      Only 12 aliens threw tennis balls .
+
+4986: [unknown], unknown,    open, 'Ter',8     XP: []
+      Only 12 aliens threw any tennis balls .
+      Only 12 aliens threw balls .
+  
+89: [unknown], unknown,    open, 'Lim',406   XP: []
+      Regional governors could not rely on the king for help in times of crisis , and the ensuing food shortages and political disputes escalated into famines and small-scale civil wars .
+      Regional governors could not rely on anyone for help in times of crisis , and the ensuing food shortages and political disputes escalated into famines and small-scale civil wars .
+
+4987: [unknown], unknown,    open, 'Ter',23    XP: []
+      Only 12 aliens read any magazines .
+      Only 12 aliens read news magazines .
+
+4988: [unknown], unknown,    open, 'Ter',8     XP: []
+      Only 12 aliens read any news magazines .
+      Only 12 aliens read magazines .
+
+4989: [unknown], unknown,    open, 'Ter',30    XP: []
+      At most one letter came yesterday morning .
+      At most one letter came yesterday .
+
+4991: [unknown], unknown,    open, 'Ter',3     XP: []
+      Every man ran .
+      Every man ran quickly .
+
+4993: [unknown], unknown,    open, 'Ter',8     XP: []
+      Some man ran .
+      Some man ran quickly .
+
+4994: [unknown], unknown,    open, 'Ter',3     XP: []
+      No man ran quickly .
+      No man ran .
+
+4997: [unknown], unknown,    open, 'Ter',25    XP: []
+      Exactly one man ran .
+      Exactly one man ran quickly .
+
+4999: [unknown], unknown,    open, 'Ter',11    XP: []
+      Every tall man ran .
+      Every man ran .
+
+5000: [unknown], unknown,    open, 'Ter',14    XP: []
+      Some man ran .
+      Some tall man ran .
+
+5002: [unknown], unknown,    open, 'Ter',28    XP: []
+      Exactly one man ran .
+      Exactly one tall man ran .
+
+5005: [unknown], unknown,    open, 'Ter',38    XP: []
+      Every cook who is not a man ran .
+      Every cook who is not a tall man ran .
+
+5008: [unknown], unknown,    open, 'Ter',19    XP: []
+      At least one man sang .
+      At least one man sang and danced .
+
+5009: [unknown], unknown,    open, 'Ter',19    XP: []
+      At least one man danced .
+      At least one man sang and danced .
+
+5010: [unknown], unknown,    open, 'Ter',23    XP: []
+      At least one man sang or danced .
+      At least one man sang .
+
+5011: [unknown], unknown,    open, 'Ter',22    XP: []
+      At least one man sang or danced .
+      At least one man danced .
+
+5016: [unknown], unknown,    open, 'Ter',9     XP: []
+      Every man sang .
+      Every man sang and danced .
+
+5017: [unknown], unknown,    open, 'Ter',9     XP: []
+      Every man danced .
+      Every man sang and danced .
+
+5018: [unknown], unknown,    open, 'Ter',13    XP: []
+      Every man sang or danced .
+      Every man sang .
+
+5019: [unknown], unknown,    open, 'Ter',13    XP: []
+      Every man sang or danced .
+      Every man danced .
+
+5022: [unknown], unknown,    open, 'Ter',89    XP: []
+      Exactly one man sang or danced .
+      Exactly one man sang .
+
+5023: [unknown], unknown,    open, 'Ter',87    XP: []
+      Exactly one man sang or danced .
+      Exactly one man danced .
+
+5027: [unknown], unknown,    open, 'Ter',32    XP: []
+      Every tall man from Japan ran quickly .
+      Every tall man ran .
+
+5028: [unknown], unknown,    open, 'Ter',152   XP: []
+      Every tall man from Japan who sings the blues ran quickly .
+      Every tall man ran .
+
+5030: [unknown], unknown,    open, 'Ter',24    XP: []
+      She gave him a flower .
+      She gave him a rose .
+
+5032: [unknown], unknown,    open, 'Ter',12    XP: []
+      She touched him .
+      She kissed him .
+
+5034: [unknown], unknown,    open, 'Ter',31    XP: []
+      She has a European car .
+      She has a German car .
+
+5036: [unknown], unknown,    open, 'Ter',19    XP: []
+      Nina has a dog .
+      Nina has a bulldog .
+
+5038: [unknown], unknown,    open, 'Ter',12    XP: []
+      Aldo touched Nina .
+      Aldo kissed Nina .
+
+5040: [unknown], unknown,    open, 'Ter',28    XP: []
+      A dog attacked Nina .
+      A bulldog attacked Nina .
+
+5041: [unknown], unknown,    open, 'Ter',50    XP: []
+      She did not give him a rose .
+      She did not give him a flower .
+
+5045: [unknown], unknown,    open, 'Ter',22    XP: []
+      Nobody here has a German car .
+      Nobody here has a European car .
+
+5047: [unknown], unknown,    open, 'Ter',8     XP: []
+      Every zebra is striped .
+      Every mammal is striped .
+
+5052: [unknown], unknown,    open, 'Ter',19    XP: []
+      He loves a person .
+      He loves a woman .
+
+5054: [unknown], unknown,    open, 'Ter',19    XP: []
+      He bought stone .
+      He bought marble .
+
+5056: [unknown], unknown,    open, 'Ter',26    XP: []
+      He knows a city in Europe .
+      He knows a city in spain .
+
+5058: [unknown], unknown,    open, 'Ter',14    XP: []
+      He kissed no woman .
+      He touched no woman .
+
+5060: [unknown], unknown,    open, 'Ter',21    XP: []
+      She said more than three words .
+      She whispered more than three words .
+
+5062: [unknown], unknown,    open, 'Ter',21    XP: []
+      She whispered less than three words .
+      She kissed less than three words .
+
+5064: [unknown], unknown,    open, 'Ter',175   XP: []
+      He never lacked money .
+      He never lacked paper money .
+
+5066: [unknown], unknown,    open, 'Ter',30    XP: []
+      At most three girls did not move .
+      At most three girls did not dance .
+
+5067: [unknown], unknown,    open, 'Ter',10    XP: []
+      Pete believes he is a spider .
+      Pete believes he is a black widow .
+
+5070: [unknown], unknown,    open, 'Ter',9     XP: []
+      Pete believes he is an arachnid .
+      Pete believes he is a spider .
+
+5071: [unknown], unknown,    open, 'Ter',107   XP: []
+      Exactly five students brought nuts .
+      Exactly five students brought hazelnuts .
+
+5073: [unknown], unknown,    open, 'Ter',81    XP: []
+      Exactly five students brought nuts .
+      Exactly five students brought food .
+
+5074: [unknown], unknown,    open, 'Ter',67    XP: []
+      Exactly five students brought food .
+      Exactly five students brought nuts .
+
+5076: [unknown], unknown,    open, 'Ter',1     XP: []
+      Nobody danced .
+      Nobody moved .
+
+5078: [unknown], unknown,    open, 'Ter',19    XP: []
+      We never kissed .
+      We never danced .
+
+5080: [unknown], unknown,    open, 'Ter',5     XP: []
+      All hegelians are mortal .
+      All philosophers are mortal .
+
+Inconsistency in node types (entail/8)
+5082: [unknown], unknown,      NA, 'Defected'  XP: _95966
+      Betty lives in Germany .
+      Betty lives in Berlin .
+
+5084: [unknown], unknown,    open, 'Ter',33    XP: []
+      Betty does n't live in Berlin .
+      Betty does n't live in Germany .
+
+Inconsistency in node types (entail/8)
+5086: [unknown], unknown,      NA, 'Defected'  XP: _98858
+      It 's not true that Betty lives in Berlin .
+      It 's not true that Betty lives in Germany .
+  
+5106: [unknown], unknown,    open, 'Ter',19    XP: []
+      All the tenors are sick .
+      All the tenors have the flu .
+
+5104: [unknown], unknown,    open, 'Lim',420   XP: []
+      More than half of the tenors are sick .
+      More than half of the tenors have the flu .
+
+5108: [unknown], unknown,    open, 'Lim',412   XP: []
+      None of the sopranos sang with fewer than three of the male singers .
+      None of the sopranos sang with fewer than three of the tenors .
+
+5110: [unknown], unknown,    open, 'Ter',12    XP: []
+      Some of the sopranos sang with more than three of the male singers .
+      Some of the sopranos sang with more than three of the tenors .
+
+5112: [unknown], unknown,    open, 'Ter',14    XP: []
+      Fred ’ s tie is blue .
+      Fred ’ s tie is navy blue .
+
+5114: [unknown], unknown,    open, 'Ter',6     XP: []
+      All pachyderms are blue .
+      All pachyderms are navy blue .
+
+5116: [unknown], unknown,    open, 'Ter',13    XP: []
+      All elephants are navy blue .
+      All pachyderms are navy blue .
+
+5117: [unknown], unknown,    open, 'Ter',26    XP: []
+      Exactly three pachyderms are blue .
+      Exactly three elephants are blue .
+
+5120: [unknown], unknown,    open, 'Ter',8     XP: []
+      All elephants are pink .
+      All pachyderms are pink .
+
+5122: [unknown], unknown,    open, 'Ter',12    XP: []
+      Some pachyderms are pink .
+      Some elephants are pink .
+
+5124: [unknown], unknown,    open, 'Ter',15    XP: []
+      Some pachyderms are not pink .
+      Some elephants are not pink .
+
+5126: [unknown], unknown,    open, 'Ter',8     XP: []
+      No elephants are pink .
+      No pachyderms are pink .
+
+5128: [unknown], unknown,    open, 'Ter',14    XP: []
+      At least three pachyderms are pink .
+      At least three elephants are pink .
+
+5130: [unknown], unknown,    open, 'Ter',27    XP: []
+      At most three elephants are pink .
+      At most three pachyderms are pink .
+
+5132: [unknown], unknown,    open, 'Ter',6     XP: []
+      All elephants are blue .
+      All elephants are navy blue .
+
+5134: [unknown], unknown,    open, 'Ter',12    XP: []
+      Some elephants are blue .
+      Some elephants are navy blue .
+
+5136: [unknown], unknown,    open, 'Ter',16    XP: []
+      Some elephants are not navy blue .
+      Some elephants are not blue .
+
+5138: [unknown], unknown,    open, 'Ter',6     XP: []
+      No elephants are navy blue .
+      No elephants are blue .
+
+5140: [unknown], unknown,    open, 'Ter',19    XP: []
+      At least three elephants are blue .
+      At least three elephants are navy blue .
+
+5142: [unknown], unknown,    open, 'Ter',31    XP: []
+      At most three elephants are navy blue .
+      At most three elephants are blue .
+
+5146: [unknown], unknown,    open, 'Ter',24    XP: []
+      Mary is sad or tired .
+      Mary is sad .
+
+5147: [unknown], unknown,    open, 'Ter',24    XP: []
+      Mary is sad or tired .
+      Mary is tired .
+
+5148: [unknown], unknown,    open, 'Ter',71    XP: []
+      Mary is sad or tired .
+      Mary is very sad or very tired .
+
+5197: [unknown], unknown,    open, 'Ter',33    XP: []
+      Almost every camper has ever had a sunburn or caught a cold .
+      Almost every camper has caught a cold .
+
+5198: [unknown], unknown,    open, 'Ter',133   XP: []
+      Almost every camper has had a sunburn or caught a cold .
+      Almost every camper has caught a cold .
+
+5199: [unknown], unknown,    open, 'Lim',403   XP: []
+      Almost every child chose any mint chocolates or decided on the cotton candy .
+      Almost every child decided on the cotton candy .
+
+5200: [unknown], unknown,    open, 'Lim',402   XP: []
+      Almost every child chose mint chocolates or decided on the cotton candy .
+      Almost every child decided on the cotton candy .
+
+5201: [unknown], unknown,    open, 'Ter',12    XP: []
+      Almost everybody has ever had a sunburn or caught a cold .
+      Almost everybody has caught a cold .
+
+5202: [unknown], unknown,    open, 'Ter',54    XP: []
+      Almost everybody has had a sunburn or caught a cold .
+      Almost everybody has caught a cold .
+
+5203: [unknown], unknown,    open, 'Ter',22    XP: []
+      Almost everybody chose any mint chocolates or decided on the cotton candy .
+      Almost everybody decided on the cotton candy .
+
+5204: [unknown], unknown,    open, 'Ter',22    XP: []
+      Almost everybody chose mint chocolates or decided on the cotton candy .
+      Almost everybody decided on the cotton candy .
+
+5205: [unknown], unknown,    open, 'Ter',30    XP: []
+      At least five campers have ever had a sunburn or caught a cold .
+      At least five campers have caught a cold .
+
+5206: [unknown], unknown,    open, 'Ter',95    XP: []
+      At least five campers have had a sunburn or caught a cold .
+      At least five campers have caught a cold .
+
+5207: [unknown], unknown,    open, 'Lim',447   XP: []
+      At least five children chose any mint chocolates or decided on the cotton candy .
+      At least five children decided on the cotton candy .
+
+5208: [unknown], unknown,    open, 'Lim',463   XP: []
+      At least five children chose mint chocolates or decided on the cotton candy .
+      At least five children decided on the cotton candy .
+
+5209: [unknown], unknown,    open, 'Ter',55    XP: []
+      At least half campers have ever had a sunburn or caught a cold .
+      At least half campers have caught a cold .
+
+5210: [unknown], unknown,    open, 'Lim',433   XP: []
+      At least half campers have had a sunburn or caught a cold .
+      At least half campers have caught a cold .
+
+5211: [unknown], unknown,    open, 'Lim',453   XP: []
+      At least half children chose any mint chocolates or decided on the cotton candy .
+      At least half children decided on the cotton candy .
+
+5212: [unknown], unknown,    open, 'Lim',467   XP: []
+      At least half children chose mint chocolates or decided on the cotton candy .
+      At least half children decided on the cotton candy .
+
+5213: [unknown], unknown,    open, 'Ter',43    XP: []
+      More than five campers have ever had a sunburn or caught a cold .
+      More than five campers have caught a cold .
+
+5214: [unknown], unknown,    open, 'Ter',204   XP: []
+      More than five campers have had a sunburn or caught a cold .
+      More than five campers have caught a cold .
+
+5215: [unknown], unknown,    open, 'Lim',450   XP: []
+      More than five children chose any mint chocolates or decided on the cotton candy .
+      More than five children decided on the cotton candy .
+
+5216: [unknown], unknown,    open, 'Lim',466   XP: []
+      More than five children chose mint chocolates or decided on the cotton candy .
+      More than five children decided on the cotton candy .
+
+5217: [unknown], unknown,    open, 'Ter',0     XP: []
+      More than five of campers have ever had a sunburn or caught a cold .
+      More than five of campers have caught a cold .
+
+5218: [unknown], unknown,    open, 'Ter',0     XP: []
+      More than five of campers have had a sunburn or caught a cold .
+      More than five of campers have caught a cold .
+
+5219: [unknown], unknown,    open, 'Ter',0     XP: []
+      More than five of the children chose any mint chocolates or decided on the cotton candy .
+      More than five of the children decided on the cotton candy .
+
+5220: [unknown], unknown,    open, 'Ter',0     XP: []
+      More than five of the children chose mint chocolates or decided on the cotton candy .
+      More than five of the children decided on the cotton candy .
+
+5221: [unknown], unknown,    open, 'Ter',19    XP: []
+      Many campers have ever had a sunburn or caught a cold .
+      Many campers have caught a cold .
+
+5222: [unknown], unknown,    open, 'Ter',36    XP: []
+      Many campers have had a sunburn or caught a cold .
+      Many campers have caught a cold .
+
+5223: [unknown], unknown,    open, 'Ter',307   XP: []
+      Many children chose any mint chocolates or decided on the cotton candy .
+      Many children decided on the cotton candy .
+
+5224: [unknown], unknown,    open, 'Lim',460   XP: []
+      Many children chose mint chocolates or decided on the cotton candy .
+      Many children decided on the cotton candy .
+
+5225: [unknown], unknown,    open, 'Lim',419   XP: []
+      Many of the campers have ever had a sunburn or caught a cold .
+      Many of the campers have caught a cold .
+  
+4704: [unknown], unknown,    open, 'Ter',104   XP: []
+      The red alien read some books .
+      The red alien read some sci-fi novels .
+
+5226: [unknown], unknown,    open, 'Lim',430   XP: []
+      Many of the campers have had a sunburn or caught a cold .
+      Many of the campers have caught a cold .
+
+5227: [unknown], unknown,    open, 'Lim',433   XP: []
+      Many of the children chose any mint chocolates or decided on the cotton candy .
+      Many of the children decided on the cotton candy .
+
+5228: [unknown], unknown,    open, 'Lim',443   XP: []
+      Many of the children chose mint chocolates or decided on the cotton candy .
+      Many of the children decided on the cotton candy .
+
+5229: [unknown], unknown,    open, 'Lim',561   XP: []
+      No less than fifty campers have ever had a sunburn or caught a cold .
+      No less than fifty campers have caught a cold .
+
+5233: [unknown], unknown,    open, 'Ter',19    XP: []
+      No less than five campers have ever had a sunburn or caught a cold .
+      No less than five campers have caught a cold .
+
+5237: [unknown], unknown,    open, 'Ter',6     XP: []
+      Only five campers have ever had a sunburn or caught a cold .
+      Only five campers have caught a cold .
+
+5238: [unknown], unknown,    open, 'Ter',13    XP: []
+      Only five campers have had a sunburn or caught a cold .
+      Only five campers have caught a cold .
+
+5239: [unknown], unknown,    open, 'Ter',25    XP: []
+      Only five children chose any mint chocolates or decided on the cotton candy .
+      Only five children decided on the cotton candy .
+
+5240: [unknown], unknown,    open, 'Lim',402   XP: []
+      Only five children chose mint chocolates or decided on the cotton candy .
+      Only five children decided on the cotton candy .
+
+5241: [unknown], unknown,    open, 'Ter',0     XP: []
+      Only five of the campers have ever had a sunburn or caught a cold .
+      Only five of the campers have caught a cold .
+
+5242: [unknown], unknown,    open, 'Ter',0     XP: []
+      Only five of the campers have had a sunburn or caught a cold .
+      Only five of the campers have caught a cold .
+
+5243: [unknown], unknown,    open, 'Ter',0     XP: []
+      Only five of the children chose any mint chocolates or decided on the cotton candy .
+      Only five of the children decided on the cotton candy .
+
+5244: [unknown], unknown,    open, 'Ter',0     XP: []
+      Only five of the children chose mint chocolates or decided on the cotton candy .
+      Only five of the children decided on the cotton candy .
+
+5245: [unknown], unknown,    open, 'Ter',43    XP: []
+      Almost no campers have caught a cold .
+      Almost no campers have ever had a sunburn or caught a cold .
+
+5246: [unknown], unknown,    open, 'Ter',85    XP: []
+      Almost no campers have caught a cold .
+      Almost no campers have had a sunburn or caught a cold .
+
+5249: [unknown], unknown,    open, 'Ter',12    XP: []
+      Almost nobody has caught a cold .
+      Almost nobody has ever had a sunburn or caught a cold .
+
+5250: [unknown], unknown,    open, 'Ter',51    XP: []
+      Almost nobody has caught a cold .
+      Almost nobody has had a sunburn or caught a cold .
+
+5253: [unknown], unknown,    open, 'Ter',18    XP: []
+      At most five campers have caught a cold .
+      At most five campers have ever had a sunburn or caught a cold .
+
+5257: [unknown], unknown,    open, 'Ter',39    XP: []
+      At most half campers have caught a cold .
+      At most half campers have ever had a sunburn or caught a cold .
+
+5258: [unknown], unknown,    open, 'Ter',64    XP: []
+      At most half campers have caught a cold .
+      At most half campers have had a sunburn or caught a cold .
+
+5259: [unknown], unknown,    open, 'Ter',70    XP: []
+      At most half children decided on the cotton candy .
+      At most half children chose any mint chocolates or decided on the cotton candy .
+
+5260: [unknown], unknown,    open, 'Ter',80    XP: []
+      At most half children decided on the cotton candy .
+      At most half children chose mint chocolates or decided on the cotton candy .
+
+5261: [unknown], unknown,    open, 'Ter',25    XP: []
+      Less than five campers have caught a cold .
+      Less than five campers have ever had a sunburn or caught a cold .
+
+5265: [unknown], unknown,    open, 'Ter',0     XP: []
+      Less than five of campers have caught a cold .
+      Less than five of campers have ever had a sunburn or caught a cold .
+
+5269: [unknown], unknown,    open, 'Ter',25    XP: []
+      Not many campers have caught a cold .
+      Not many campers have ever had a sunburn or caught a cold .
+
+5273: [unknown], unknown,    open, 'Lim',423   XP: []
+      Not many of the campers have caught a cold .
+      Not many of the campers have ever had a sunburn or caught a cold .
+
+5277: [unknown], unknown,    open, 'Ter',12    XP: []
+      No more than fifty campers have caught a cold .
+      No more than fifty campers have ever had a sunburn or caught a cold .
+
+5278: [unknown], unknown,    open, 'Ter',38    XP: []
+      No more than fifty campers have caught a cold .
+      No more than fifty campers have had a sunburn or caught a cold .
+
+5281: [unknown], unknown,    open, 'Ter',12    XP: []
+      No more than five campers have caught a cold .
+      No more than five campers have ever had a sunburn or caught a cold .
+
+5282: [unknown], unknown,    open, 'Ter',38    XP: []
+      No more than five campers have caught a cold .
+      No more than five campers have had a sunburn or caught a cold .
+
+5285: [unknown], unknown,    open, 'Ter',39    XP: []
+      Very few campers have caught a cold .
+      Very few campers have ever had a sunburn or caught a cold .
+
+5289: [unknown], unknown,    open, 'Lim',435   XP: []
+      Very few of campers have caught a cold .
+      Very few of campers have ever had a sunburn or caught a cold .
+
+5333: [unknown], unknown,    open, 'Ter',10    XP: []
+      Only five campers have caught a cold .
+      Only five campers have ever had a sunburn or caught a cold .
+
+5337: [unknown], unknown,    open, 'Ter',0     XP: []
+      Only five of the campers have caught a cold .
+      Only five of the campers have ever had a sunburn or caught a cold .
+
+5348: [unknown], unknown,    open, 'Ter',7     XP: []
+      John is a student .
+      John is a tall student .
+
+5349: [unknown], unknown,    open, 'Ter',19    XP: []
+      John is tall .
+      John is very tall .
+
+5350: [unknown], unknown,    open, 'Ter',5     XP: []
+      John is a student .
+      John is a very tall student .
+
+5351: [unknown], unknown,    open, 'Ter',361   XP: []
+      Every student kissed every tall teacher .
+      Every student kissed every teacher .
+
+5352: [unknown], unknown,    open, 'Lim',401   XP: []
+      Every student who kissed every teacher smiled .
+      Every student who kissed every tall teacher smiled .
+
+5353: [unknown], unknown,    open, 'Ter',20    XP: []
+      No tall teacher ran yesterday .
+      No teacher ran .
+
+5354: [unknown], unknown,    open, 'Ter',23    XP: []
+      Every tall teacher ran .
+      Every teacher ran yesterday .
+
+5358: [unknown], unknown,    open, 'Ter',36    XP: []
+      John saw no tall student .
+      John saw no student .
+
+5359: [unknown], unknown,    open, 'Ter',32    XP: []
+      Every student whom Mary kissed smiled .
+      Every student whom Mary touched smiled .
+
+Inconsistency in node types (entail/8)
+5360: [unknown], unknown,      NA, 'Defected'  XP: _355348
+      Some boy walked .
+      Some boy , the brother of whom Mary loves , walked .
+
+5362: [unknown], unknown,    open, 'Ter',26    XP: []
+      John does and Mary does n't walk .
+      Mary does n't move .
+
+Inconsistency in node types (entail/8)
+5363: [unknown], unknown,      NA, 'Defected'  XP: _478370
+      John does and Mary does n't move .
+      John walk .
+
+5375: [unknown], unknown,    open, 'Ter',36    XP: []
+      Some republican entered the race .
+      Some republican entered the race early .
+
+5376: [unknown], unknown,    open, 'Ter',20    XP: []
+      Every linguist entered the race .
+      Every linguist entered the race early .
+
+5377: [unknown], unknown,    open, 'Ter',36    XP: []
+      John entered the race .
+      John entered the race early .
+
+5378: [unknown], unknown,    open, 'Ter',43    XP: []
+      Most peanut farmers entered the race .
+      Most peanut farmers entered the race early .
+
+5379: [unknown], unknown,    open, 'Ter',35    XP: []
+      Many men entered the race .
+      Many men farmers entered the race early .
+
+5380: [unknown], unknown,    open, 'Ter',45    XP: []
+      Many men entered the race early .
+      No plumber entered the race .
+
+5381: [unknown], unknown,    open, 'Ter',18    XP: []
+      Few linguists entered the race early .
+      Few linguists entered the race .
+
+5382: [unknown], unknown,    open, 'Ter',20    XP: []
+      Neither democrat entered the race early .
+      Neither democrat entered the race .
+
