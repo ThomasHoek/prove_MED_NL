@@ -19650,7 +19650,7 @@ sen_id_tlg_tok(4144,
 sen_id_tlg_tok(4145,
 ((((t(1,(np) ~> ((np) ~> (smain)))) @ (((t(2,(np) ~> (np))) @ (((t(3,(np) ~> (np))) @ (t(4,np)))))))) @ (t(0,np))),
 [['Tom'], ['heeft'], ['geen'], ['mooie'], ['zus'], ['.']]
-).
+).  
 
 sen_id_tlg_tok(4146,
 ((((t(1,(np) ~> ((np) ~> (smain)))) @ (((t(2,(np) ~> (np))) @ (((t(3,(np) ~> (np))) @ (t(4,np)))))))) @ (t(0,np))),

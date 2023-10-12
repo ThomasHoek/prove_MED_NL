@@ -55,4 +55,4 @@ if __name__ == "__main__":
                 f"sen_id({sort_dict[row['sentence2']]}, {row['index']}, 'h', '{row['genre'][:5]}', '{dict_label[row['gold_label']]}', '{clean_sent2}').\n"
             )
 
-    print("Please manually comment broken files; see /MED_NL/problems/sen_pl_sen.txt")
+    print("Please manually comment broken files; see MED_NL/problems/sen_pl_sen.txt on github if reproducing")

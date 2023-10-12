@@ -60,11 +60,11 @@ def parse_arguments():
     )
 
     parser.add_argument(
-        "problems", metavar="DIR", help="path to folder with problems"
+        "problems", metavar="problem DIR", help="path to folder with problems"
     )
 
     parser.add_argument(
-        "target", metavar="DIR", help="target directory"
+        "target", metavar="target DIR", help="target directory"
     )
     # pre-processing arguments
     args = parser.parse_args()
@@ -77,11 +77,14 @@ if __name__ == "__main__":
     args = parse_arguments()
     result_path = args.target.split("/")[:-1]
 
+    problem_files = args.problems != "0"
+
     # open problem files
-    broken_conj = file_to_int_lst(f"{args.problems}/phrase_cp_prob.txt")
-    broken_sv = file_to_int_lst(f"{args.problems}/phrase_sv1_prob.txt")
-    broken_unparse = file_to_int_lst(f"{args.problems}/alpino_number_missing_prob.txt")
-    broken_string = file_to_int_lst(f"{args.problems}/alpino_text_missing_prob.txt")
+    if problem_files:
+        broken_conj = file_to_int_lst(f"{args.problems}/phrase_cp_prob.txt")
+        broken_sv = file_to_int_lst(f"{args.problems}/phrase_sv1_prob.txt")
+        broken_unparse = file_to_int_lst(f"{args.problems}/alpino_number_missing_prob.txt")
+        broken_string = file_to_int_lst(f"{args.problems}/alpino_text_missing_prob.txt")
 
     # open files from input
     file_info = open(args.log).readlines()
@@ -108,14 +111,16 @@ if __name__ == "__main__":
     y_y = open(f"{args.target}/yes_yes.txt", "w+")
     y_n = open(f"{args.target}/yes_no.txt", "w+")
 
-    # defected files
-    d_a = open(f"{args.target}/defected_aethel_num.txt", "w+")
-    d_cp = open(f"{args.target}/defected_cp.txt", "w+")
-    d_sv = open(f"{args.target}/defected_sv1.txt", "w+")
-    d_o = open(f"{args.target}/defected_other.txt", "w+")
+    if problem_files:
+        # defected files
+        d_a = open(f"{args.target}/defected_aethel_num.txt", "w+")
+        d_cp = open(f"{args.target}/defected_cp.txt", "w+")
+        d_sv = open(f"{args.target}/defected_sv1.txt", "w+")
+        d_o = open(f"{args.target}/defected_other.txt", "w+")
 
-    # all errrors
-    incorrect_str = open(f"{args.target}/incorrect_str.txt", "w+")
+        # other errrors
+        incorrect_str = open(f"{args.target}/incorrect_str.txt", "w+")
+
     error_file = open(f"{args.target}/error.txt", "w+")
 
     # set flags and size
@@ -138,7 +143,7 @@ if __name__ == "__main__":
             if "error" in cur_line.lower():
                 error_flag = True
 
-            if "Inconsistency" in cur_line:
+            if "Inconsistency" in cur_line and problem_files:
                 defected_flag = True
 
             # keep error data
@@ -151,15 +156,16 @@ if __name__ == "__main__":
         # check if number in aethel
         number_info = cur_line
         num = int(cur_line[:-1])
-        if num in broken_unparse:
-            aethel_flag = True
-        elif num in broken_conj:
-            conj_flag = True
-        elif num in broken_sv:
-            sv1_flag = True
+        if problem_files:
+            if num in broken_unparse:
+                aethel_flag = True
+            elif num in broken_conj:
+                conj_flag = True
+            elif num in broken_sv:
+                sv1_flag = True
 
-        if num in broken_string:
-            string_flag = True
+            if num in broken_string:
+                string_flag = True
 
         # get info and paste info file
         index_pointer += 1
