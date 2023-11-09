@@ -27,8 +27,8 @@ After this run `produce fix_aethel` or manually replace the following lines in `
 4. `produce.ini` contains rules how to generate files.
 You will need to install [produce](https://github.com/texttheater/produce) if you want to use the rules to build files from scratch.
 
-5. Certain lines are currently broken and will cause the entail_all to stop; the broken lines are in MED_NL/problems/sen_pl_prob.txt.
-   These sentences are currently commented out in sen.pl, but if you want to replicate you have to comment these back unless they are fixed.
+5. Certain lines are currently broken and will cause the entail_all to stop; the broken lines are in `MED_NL/problems/sen_pl_prob.txt`.
+   These sentences are currently commented out in `sen.pl`, but if you want to replicate you have to comment these back unless they are fixed.
 
 ## Running
 Please check the `solve_sick` folder and `langpro` repo's for instructions, below is a summerisation of how to use produce commands specifically for this repo. For the results, please use the produce.ini file.
