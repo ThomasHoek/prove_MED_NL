@@ -1,7 +1,15 @@
-6:     [yes], unknown,      NA, 'Defected'  XP: []
-      Beide commissarissen waren ooit leidend zakenmannen.
-      Beide commissarissen waren ooit zakenmannen.
+22:     [yes], unknown,      NA, 'Defected'  XP: []
+      Een paar vrouwelijke comitéleden komen uit Scandinavië.
+      Ten minste een paar comitéleden komen uit Scandinavië.
   
+42:     [yes], unknown,    open, 'Ter',7     XP: []
+      Socrates is rationeel.
+      Iemand is rationeel.
+  
+41:     [yes], unknown,      NA, 'Defected'  XP: []
+      Zowel Alan als Bob namen hun vakanties in Californië.
+      Alan nam zijn vakantie in Californië.
+
 33:     [yes], unknown,    open, 'Ter',5     XP: []
       Weinig comitéleden komen uit zuid-Europa.
       Weinig vrouwelijke comitéleden komen uit zuid-Europa.
@@ -9,62 +17,38 @@
 18:     [yes], unknown,    open, 'Ter',16    XP: []
       Een paar Ierse afgevaardigden hadden de vragenlijst op tijd af.
       Een paar afgevaardigden hadden de vragenlijst op tijd af.
-
-22:     [yes], unknown,      NA, 'Defected'  XP: []
-      Een paar vrouwelijke comitéleden komen uit Scandinavië.
-      Ten minste een paar comitéleden komen uit Scandinavië.
-
-42:     [yes], unknown,    open, 'Ter',7     XP: []
-      Socrates is rationeel.
-      Iemand is rationeel.
+   
+6:     [yes], unknown,      NA, 'Defected'  XP: []
+      Beide commissarissen waren ooit leidend zakenmannen.
+      Beide commissarissen waren ooit zakenmannen.
   
-74:     [yes], unknown,    open, 'Ter',6     XP: []
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-  
-41:     [yes], unknown,      NA, 'Defected'  XP: []
-      Zowel Alan als Bob namen hun vakanties in Californië.
-      Alan nam zijn vakantie in Californië.
+54:     [yes], unknown,    open, 'Ter',3     XP: []
+      Alle dieren vinden het leuk om hun oren te krabben.
+      Alle honden vinden het leuk om hun oren te krabben.
 
 46:     [yes], unknown,    open, 'Lim',409   XP: []
       Cruz heeft vaak verschillende wetten die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
       Cruz heeft vaak verschillende plannen die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
 
-54:     [yes], unknown,    open, 'Ter',3     XP: []
-      Alle dieren vinden het leuk om hun oren te krabben.
-      Alle honden vinden het leuk om hun oren te krabben.
-
-55:     [yes], unknown,    open, 'Lim',409   XP: []
-      Cruz heeft vaak enig plan dat legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
-      Cruz heeft vaak enige wet die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
-
 57:     [yes], unknown,    open, 'Ter',26    XP: []
       In alle gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
       In alle ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
   
-71:     [yes], unknown,    open, 'Ter',6     XP: []
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+49:     [yes], unknown,    open, 'Ter',76    XP: []
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
   
 52:     [yes], unknown,    open, 'Ter',59    XP: []
       We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
       We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
   
-49:     [yes], unknown,    open, 'Ter',88    XP: []
-      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
-      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
-  
-38:     [yes], unknown,    open, 'Ter',104   XP: []
-      Pluto en Uranus zitten nu op een lijn met Neptunus.
-      Pluto of Uranus zit nu op een lijn met Neptunus.
-  
 88:     [yes], unknown,      NA, 'Defected'  XP: []
       Er zijn vier schubben boven de ogen in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
       Er zijn vier supraoculare schubben (boven de ogen) in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
   
-78:     [yes], unknown,    open, 'Ter',54    XP: []
-      Ik heb nog nooit een vogel gezien die niet vliegt.
-      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+38:     [yes], unknown,    open, 'Ter',104   XP: []
+      Pluto en Uranus zitten nu op een lijn met Neptunus.
+      Pluto of Uranus zit nu op een lijn met Neptunus.
 
 62:     [yes], unknown,    open, 'Lim',438   XP: []
       Er kwamen geen rekeningen op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
@@ -74,17 +58,33 @@
       Missouri wetgevers overwegen een overheidsboycot op bedrijven die Israel boycotten.
       Missouri wetgevers overwegen een boycot op bedrijven die Israel boycotten.
 
+74:     [yes], unknown,    open, 'Ter',68    XP: []
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+  
+78:     [yes], unknown,    open, 'Ter',54    XP: []
+      Ik heb nog nooit een vogel gezien die niet vliegt.
+      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+  
+4216:     [yes], unknown,    open, 'Ter',115   XP: []
+      Het rode buitenaardse wezen at bij geen enkel restaurant.
+      Het rode buitenaardse wezen at niet bij Mexicaanse restaurants.
+
 87:     [yes], unknown,      NA, 'Defected'  XP: []
       Er zijn vier supraoculare schubben (boven de ogen) in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
       Er zijn vier schubben boven de ogen in bijna alle soorten en vijf supraciliaire schalen (direct boven de ogen, onder de supraoculars).
+
+91:     [yes], unknown,    open, 'Lim',437   XP: []
+      Het 15e tankkorps was een tankkorps van het rode leger van de sovjet-unie.
+      Het 15e tankkorps was een korps van het rode leger van de sovjet-unie.
 
 92:     [yes], unknown,    open, 'Lim',437   XP: []
       Het 15e tankkorps was een korps van het rode leger van de sovjet-unie.
       Het 15e tankkorps was een tankkorps van het rode leger van de sovjet-unie.
   
-91:     [yes], unknown,    open, 'Lim',437   XP: []
-      Het 15e tankkorps was een tankkorps van het rode leger van de sovjet-unie.
-      Het 15e tankkorps was een korps van het rode leger van de sovjet-unie.
+4208:     [yes], unknown,    open, 'Ter',15    XP: []
+      Weinig buitenaardse wezens aten bij enige restaurants.
+      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
   
 94:     [yes], unknown,    open, 'Lim',463   XP: []
       In gegronde communicatietaken staan sprekers onder druk bij het kiezen van referentie-expressies die hun doelwitten van anderen in de context onderscheiden, wat leidt tot veel soorten van betekenisverrijking.
@@ -105,10 +105,10 @@
 4207:     [yes], unknown,    open, 'Ter',4     XP: []
       Weinig buitenaardse wezens aten enig vlees.
       Weinig buitenaardse wezens aten varkensvlees.
-
-4208:     [yes], unknown,    open, 'Ter',15    XP: []
-      Weinig buitenaardse wezens aten bij enige restaurants.
-      Weinig buitenaardse wezens aten bij Mexicaanse restaurants.
+  
+55:     [yes], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak enig plan dat legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak enige wet die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
 
 4209:     [yes], unknown,    open, 'Ter',15    XP: []
       Weinig buitenaardse wezens zagen enige vogels.
@@ -117,18 +117,10 @@
 4210:     [yes], unknown,    open, 'Ter',9     XP: []
       Weinig buitenaardse wezens gebruikten enige munten.
       Weinig buitenaardse wezens gebruikten kwartjes.
-  
-4359:     [yes], unknown,    open, 'Ter',133   XP: []
-      Geen buitenaards wezen dronk enige frisdrank.
-      Geen buitenaards wezen dronk cola.
 
 4215:     [yes], unknown,    open, 'Lim',413   XP: []
       Het rode buitenaardse wezen at geen enkel vlees.
       Het rode buitenaardse wezen at geen varkensvlees.
-
-4216:     [yes], unknown,    open, 'Ter',115   XP: []
-      Het rode buitenaardse wezen at bij geen enkel restaurant.
-      Het rode buitenaardse wezen at niet bij Mexicaanse restaurants.
 
 4217:     [yes], unknown,    open, 'Lim',413   XP: []
       Het rode buitenaardse wezen zag geen enkele vogel.
@@ -149,10 +141,6 @@
 4225:     [yes], unknown,    open, 'Lim',400   XP: []
       Geen buitenaards wezen zag enige vogels.
       Geen buitenaards wezen zag duiven.
-
-4226:     [yes], unknown,    open, 'Lim',400   XP: []
-      Geen buitenaards wezen gebruikte enige munten.
-      Geen buitenaards wezen gebruikte kwartjes.
 
 4243:     [yes], unknown,    open, 'Ter',90    XP: []
       Ieder buitenaards wezen las nieuwstijdschriften.
@@ -281,6 +269,10 @@
 4345:     [yes], unknown,    open, 'Ter',4     XP: []
       Weinig buitenaardse wezens speelden met enige speeltjes.
       Weinig buitenaardse wezens speelden met speelgoedauto’s.
+  
+4226:     [yes], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen gebruikte enige munten.
+      Geen buitenaards wezen gebruikte kwartjes.
 
 4346:     [yes], unknown,    open, 'Ter',4     XP: []
       Weinig buitenaardse wezens reden enige auto’s.
@@ -301,6 +293,10 @@
 4354:     [yes], unknown,    open, 'Lim',413   XP: []
       Het rode buitenaardse wezen reed geen enkele auto.
       Het rode buitenaardse wezen reed geen suv’s.
+
+4359:     [yes], unknown,    open, 'Ter',133   XP: []
+      Geen buitenaards wezen dronk enige frisdrank.
+      Geen buitenaards wezen dronk cola.
 
 4360:     [yes], unknown,    open, 'Lim',401   XP: []
       Geen buitenaards wezen keek enige sportwedstrijden.
@@ -369,10 +365,6 @@
 4451:     [yes], unknown,    open, 'Ter',9     XP: []
       Veel buitenaardse wezens aten varkensvlees.
       Veel buitenaardse wezens aten vlees.
-
-4452:     [yes], unknown,    open, 'Ter',45    XP: []
-      Veel buitenaardse wezens lazen sci-fi romans.
-      Veel buitenaardse wezens lazen boeken.
 
 4454:     [yes], unknown,    open, 'Ter',26    XP: []
       Veel buitenaardse wezens gooiden tennisballen.
@@ -921,14 +913,6 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Betty woont niet in Duitsland.
       Betty woont niet in Berlijn.
 
-5085:     [yes], unknown,    open, 'Ter',10    XP: []
-      Het is niet waar dat Betty in Duitsland woont.
-      Het is niet waar dat Betty in Berlijn woont.
-
-5087:     [yes], unknown,    open, 'Ter',10    XP: []
-      Het is niet waar dat Betty niet in Berlijn woont.
-      Het is niet waar dat Betty niet in Duitsland woont.
-
 5089:     [yes], unknown,    open, 'Ter',3     XP: []
       Alle stippen zijn scharlaken.
       Alle stippen zijn rood.
@@ -945,7 +929,7 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Geen stippen zijn rood.
       Geen stippen zijn scharlaken.
 
-5103:     [yes], unknown,    open, 'Lim',412   XP: []
+5103:     [yes], unknown,    open, 'Ter',7     XP: []
       Meer dan de helft van de tenoren hebben de griep.
       Meer dan de helft van de tenoren zijn ziek.
 
@@ -1033,11 +1017,11 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Bijna niemand koos mint chocolaatjes of ging voor de suikerspin.
       Bijna niemand ging voor de suikerspin.
 
-5161:     [yes], unknown,    open, 'Ter',324   XP: []
+5161:     [yes], unknown,    open, 'Ter',31    XP: []
       Niet meer dan de helft van de kampeerders hebben weleens een zonnebrand gehad of kou gevat.
       Niet meer dan de helft van de kampeerders hebben kou gevat.
 
-5162:     [yes], unknown,    open, 'Ter',317   XP: []
+5162:     [yes], unknown,    open, 'Ter',24    XP: []
       Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
       Niet meer dan de helft van de kampeerders hebben kou gevat.
 
@@ -1045,7 +1029,7 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Niet meer dan de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
       Niet meer dan de helft van de kinderen gingen voor de suikerspin.
 
-5164:     [yes], unknown,    open, 'Lim',412   XP: []
+5164:     [yes], unknown,    open, 'Ter',10    XP: []
       Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
       Niet meer dan de helft van de kinderen gingen voor de suikerspin.
 
@@ -1204,10 +1188,6 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
 5364:     [yes], unknown,      NA, 'Defected'  XP: []
       John loopt en Mary niet.
       John beweegt.
-  
-97:     [yes], unknown,    open, 'Lim',414   XP: []
-      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.
-      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.
 
 5371:     [yes], unknown,    open, 'Ter',4     XP: []
       Veel boeren betraden de race vroeg.
@@ -1216,6 +1196,10 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
 5372:     [yes], unknown,    open, 'Ter',4     XP: []
       Geen loodgieter betrad de race.
       Veel mannen betraden de race vroeg.
+  
+97:     [yes], unknown,    open, 'Lim',414   XP: []
+      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.
+      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.
 
 5373:     [yes], unknown,    open, 'Ter',4     XP: []
       Weinig taalkundigen betraden de race.

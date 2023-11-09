@@ -1,15 +1,158 @@
+134: [unknown], unknown,    open, 'Ter',383   XP: []
+      Een paar mensen zeggen dat dertien een ongeluksgetal is.
+      Een paar mensen zeggen dat dertien een ongelukkige datum is om een meisje ten huwelijk te vragen.
+
+166: [unknown], unknown,    open, 'Ter',17    XP: []
+      Het is erg jammer dat je het niet kent.
+      Het is een geweldige persoon van binnen.
+
+258: [unknown], unknown,    open, 'Ter',24    XP: []
+      Straciatella ijs is niets dan een gewoon ijsje met chocoladesnippers.
+      Mcdonalds ijs is niets dan een gewoon ijsje met chocoladesnippers.
+
+259: [unknown], unknown,    open, 'Ter',81    XP: []
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere ochtend een koude douche neemt.
+
+260:     [yes],     yes,  closed, 'Ter',24    XP: [int(koud)]
+      Ze zei dat ze iedere ochtend een koude douche neemt.
+      Ze zei dat ze iedere ochtend een douche neemt.
+
+294: [unknown], unknown,    open, 'Lim',402   XP: []
+      Een paar mensen denken dat adverteren een vorm van hersenspoelen is.
+      Een paar mensen denken dat overdonderend adverteren een vorm van hersenspoelen is.
+
+295:     [yes], unknown,    open, 'Lim',402   XP: []
+      Een paar mensen denken dat overdonderend adverteren een vorm van hersenspoelen is.
+      Een paar mensen denken dat adverteren een vorm van hersenspoelen is.
+
+298: [unknown],     yes,  closed, 'Ter',34    XP: []
+      Hij doet niets anders dan de hele dag spelen.
+      Hij doet niets anders dan de hele dag online poker spelen.
+
+299: [unknown],     yes,  closed, 'Ter',13    XP: []
+      Hij doet niets anders dan de hele dag spelen.
+      Hij doet niets anders dan de hele dag spelen en lachen.
+
+305: [unknown], unknown,    open, 'Ter',12    XP: []
+      Straciatella ijs is niets dan een gewoon ijsje met chocoladesnippers.
+      Algida-ijs is niets anders dan een gewoon ijsje met chocoladesnippers.
+
+327: [unknown], unknown,    open, 'Ter',11    XP: []
+      Ze is niets dan een kind.
+      Ze is niets dan een meisje met staartjes.
+
 Inconsistency in node types (entail/8)
-338: [unknown], unknown,      NA, 'Defected'  XP: _2037104
+338: [unknown], unknown,      NA, 'Defected'  XP: _3850570
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste mannen het liefst naar rock muziek luisteren.
 
 Inconsistency in node types (entail/8)
-339: [unknown], unknown,      NA, 'Defected'  XP: _3641248
+339: [unknown], unknown,      NA, 'Defected'  XP: _6009552
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste verslaafden het liefst naar rock muziek luisteren.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 429: [unknown], unknown,    open, 'Ter',138   XP: []
+      Een violist die ik ken zegt dat hij een stradivarius heeft.
+      Een violist die ik ken zegt dat hij een vioolwinkel heeft.
+
+430: [unknown], unknown,    open, 'Ter',182   XP: []
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere ochtend een douche neemt voor ze weg gaat.
+
+617: [unknown], unknown,    open, 'Ter',100   XP: []
+      Hij droomt dat iedereen in China Esperanto spreekt.
+      Hij droomt dat iedereen in China Esperanto en Engels spreekt.
+
+674: [unknown], unknown,    open, 'Ter',31    XP: []
+      Naar mijn mening is permanente vrede niets dan illusie.
+      Naar mijn mening is permanente gezondheid niets dan illusie.
+
+694: [unknown], unknown,    open, 'Ter',13    XP: []
+      Meisjes zijn niets dan problemen.
+      Tieners zijn niets dan problemen.
+
+695: [unknown], unknown,    open, 'Ter',21    XP: []
+      Meisjes zijn niets dan problemen.
+      Gekke meisjes zijn niets dan problemen.
+
+696: [unknown], unknown,    open, 'Ter',21    XP: []
+      Meisjes zijn niets dan problemen.
+      Luide meisjes zijn niets dan problemen.
+
+697: [unknown], unknown,    open, 'Ter',21    XP: []
+      Meisjes zijn niets dan problemen.
+      Scherpe meisjes zijn niets dan problemen.
+
+698: [unknown], unknown,    open, 'Ter',2     XP: []
+      Die mayonaise is niets dan chemicaliën!
+      Die ketchup is niets dan chemicaliën!
+
+699: [unknown], unknown,    open, 'Ter',2     XP: []
+      Die mayonaise is niets dan chemicaliën!
+      Dat sap is niets dan chemicaliën!
+
+700: [unknown], unknown,    open, 'Ter',89    XP: []
+      Die mayonaise is niets dan chemicaliën!
+      Die mayonaise is niets dan slecht eten!
+
+701: [unknown], unknown,    open, 'Ter',16    XP: []
+      Die mayonaise is niets dan chemicaliën!
+      Die mayonaise is niets dan gif!
+
+733: [unknown], unknown,    open, 'Ter',46    XP: []
+      Ik weet dat jij en Tom een paar problemen gehad hebben.
+      Ik weet dat jij en Tom een paar emoties gehad hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 734: [unknown], unknown,      NA, 'Defected'  XP: []
+      Ik weet dat jij en Tom een paar problemen gehad hebben.
+      Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 735:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
+      Ik weet dat jij en Tom een paar problemen gehad hebben.
+
+777: [unknown], unknown,    open, 'Ter',4     XP: []
+      Hij denkt niets van armoede.
+      Hij denkt dat niets de staat van armoede niet kan veranderen.
+
+778: [unknown], unknown,    open, 'Ter',8     XP: []
+      Hij denkt niets van armoede.
+      Hij denkt dat niets je uit armoede kan halen.
+
+794: [unknown], unknown,    open, 'Ter',33    XP: []
+      Mijn vader doet niets dan TV kijken op zondagen.
+      Mijn vader doet niets dan TV kijken op zaterdagen.
+
+806: [unknown], unknown,    open, 'Lim',410   XP: []
+      Sommigen beschouwen taal als een vorm van kennis.
+      Sommigen beschouwen taal als belangrijke kennis.
+
+814: [unknown], unknown,    open, 'Ter',81    XP: []
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een Amerikaan is.
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een Indiaan is.
+
+815: [unknown], unknown,    open, 'Ter',81    XP: []
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een Amerikaan is.
+      Als je haar in het Engels hoorde praten, zou je denken dat ze een schotse is.
+
+985: [unknown],     yes,  closed, 'Ter',14    XP: []
+      Hij deed niets anders dan huilen.
+      Hij deed gisteren niets anders dan huilen.
+
+986:     [yes],     yes,  closed, 'Ter',2     XP: []
+      Hij deed gisteren niets anders dan huilen.
+      Hij deed niets anders dan huilen.
+Difference in Lemma Lexicons after normalization
+
 Inconsistency in node types (entail/8)
-1001: [unknown], unknown,      NA, 'Defected'  XP: _5235570
+1001: [unknown], unknown,      NA, 'Defected'  XP: _993098
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
 
@@ -17,4 +160,512 @@ Inconsistency in node types (entail/8)
 1002:     [yes], unknown,      NA, 'Defected'  XP: _2114786
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
+
+1008: [unknown], unknown,    open, 'Lim',400   XP: []
+      Dat team heeft niets dan sterke spelers.
+      Dat team heeft niets dan sterke werkers.
+
+1041: [unknown], unknown,    open, 'Ter',7     XP: []
+      Mayo is niets dan chemicaliën.
+      Koude mayonaise is niets dan chemicaliën!
+
+1042:     [yes], unknown,    open, 'Ter',13    XP: []
+      Koude mayonaise is niets dan chemicaliën!
+      Mayo is niets dan chemicaliën.
+
+1043: [unknown], unknown,    open, 'Ter',0     XP: []
+      Die mayonaise is niets dan chemicaliën!
+      Dat geblikte eten is niets dan chemicaliën!
+
+1161: [unknown], unknown,    open, 'Ter',12    XP: []
+      Het is jammer dat ze niet kon komen.
+      Het is jammer maar ze is te druk dus ze kon niet komen.
+
+1162: [unknown], unknown,    open, 'Ter',12    XP: []
+      Het is jammer dat ze niet kon komen.
+      Het is jammer maar ik hoorde dat ze een ongeluk had dus ze kon niet komen.
+
+1306:     [yes], unknown,    open, 'Ter',82    XP: []
+      Ik vat zelden kou.
+      Ik vat zelden kou die langer dan een week aanhoudt.
+
+1307: [unknown],     yes,  closed, 'Ter',10    XP: []
+      Ik vat zelden kou die langer dan een week aanhoudt.
+      Ik vat zelden kou.
+
+1419:     [yes], unknown,    open, 'Lim',403   XP: []
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
+
+1420: [unknown],     yes,  closed, 'Ter',18    XP: [int(algemeen)]
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+
+1421:     [yes], unknown,    open, 'Lim',403   XP: []
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder enig serieus geweld.
+
+1422: [unknown], unknown,    open, 'Lim',404   XP: []
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder enig serieus geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+
+1423:     [yes], unknown,    open, 'Lim',403   XP: []
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld te gebruiken.
+
+1424:     [yes], unknown,    open, 'Lim',403   XP: []
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld en rellen.
+
+1425: [unknown],     yes,  closed, 'Ter',17    XP: []
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld en rellen.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+
+1426:     [yes], unknown,    open, 'Lim',403   XP: []
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder uitgebreid geweld.
+
+1427: [unknown],     yes,  closed, 'Ter',18    XP: [int(uit breiden)]
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder uitgebreid geweld.
+      Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
+
+1463:     [yes],     yes,  closed, 'Ter',18    XP: [int(luid)]
+      Tom zei dat hij niet van kinderen houdt.
+      Tom zei dat hij niet van luide kinderen houdt.
+
+1464: [unknown], unknown,    open, 'Ter',95    XP: []
+      Tom zei dat hij niet van luide kinderen houdt.
+      Tom zei dat hij niet van kinderen houdt.
+
+1465:     [yes],     yes,  closed, 'Ter',18    XP: [int(ondankbaar)]
+      Tom zei dat hij niet van kinderen houdt.
+      Tom zei dat hij niet van ondankbare kinderen houdt.
+
+1466: [unknown], unknown,    open, 'Ter',95    XP: []
+      Tom zei dat hij niet van ondankbare kinderen houdt.
+      Tom zei dat hij niet van kinderen houdt.
+
+1474:     [yes], unknown,    open, 'Ter',6     XP: []
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een mens van zijn vermogen succesvol is.
+
+1475:     [yes], unknown,    open, 'Ter',22    XP: []
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een man met de mogelijkheid om zijn succes te kiezen succesvol is.
+
+1476:     [yes], unknown,    open, 'Ter',6     XP: []
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een aardige man van zijn vermogen succesvol is.
+
+1477: [unknown], unknown,    open, 'Ter',5     XP: []
+      Het is geen wonder dat een aardige man van zijn vermogen succesvol is.
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+
+1478:     [yes], unknown,    open, 'Ter',6     XP: []
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een knappe man van zijn vermogen succesvol is.
+
+1479: [unknown], unknown,    open, 'Ter',5     XP: []
+      Het is geen wonder dat een knappe man van zijn vermogen succesvol is.
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+
+1480:     [yes], unknown,    open, 'Ter',6     XP: []
+      Het is geen wonder dat een man met zijn vermogen succesvol is.
+      Het is geen wonder dat een bekwame man van zijn vermogen succesvol is.
+
+1484:     [yes], unknown,      NA, 'Defected'  XP: []
+      Het probleem met ons is dat we geen fondsen hebben.
+      Het probleem met ons is dat we geen tracker fondsen hebben.
+
+1485:     [yes],     yes,  closed, 'Ter',8     XP: [int(actief)]
+      Het probleem met ons is dat we geen fondsen hebben.
+      Het probleem met ons is dat we geen actieve fondsen hebben.
+
+1486: [unknown],     yes,  closed, 'Ter',14    XP: [isa(met@ons@probleem,probleem)]
+      Het probleem met ons is dat we geen actieve fondsen hebben.
+      Het probleem met ons is dat we geen fondsen hebben.
+
+1487:     [yes],     yes,  closed, 'Ter',8     XP: [int(beschikbaar)]
+      Het probleem met ons is dat we geen fondsen hebben.
+      Het probleem met ons is dat we geen beschikbare fondsen hebben.
+
+1488: [unknown],     yes,  closed, 'Ter',14    XP: [isa(met@ons@probleem,probleem)]
+      Het probleem met ons is dat we geen beschikbare fondsen hebben.
+      Het probleem met ons is dat we geen fondsen hebben.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+1680:     [yes], unknown,      NA, 'Defected'  XP: []
+      Mary zei dat ze geen jongens kiest voor hun uiterlijk.
+      Mary zei dat ze geen jongens en vrienden kiest voor hun uiterlijk.
+
+1681: [unknown], unknown,      NA, 'Defected'  XP: []
+      Mary zei dat ze geen jongens en vrienden kiest voor hun uiterlijk.
+      Mary zei dat ze geen jongens kiest voor hun uiterlijk.
+
+1770:     [yes],     yes,  closed, 'Ter',4     XP: [int(echt)]
+      Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+      Meneer Thomas had geen echt bezwaar tegen het gekozen worden van meneer white als voorzitter.
+
+1771:     [yes], unknown,    open, 'Lim',650   XP: []
+      Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+      Meneer Thomas had geen problemen met het gekozen worden van meneer white als voorzitter.
+
+1772:     [yes],      no,  closed, 'Ter',9     XP: [isa(helemaal@no@tegen@(van@(a@(white@meneer))@(the@(kiezen@worden)))@bezwaar,tegen@(van@(a@(white@meneer))@(the@(kiezen@worden)))@bezwaar)]
+      Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+      Meneer Thomas had helemaal geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
+
+1797:     [yes], unknown,    open, 'Ter',69    XP: []
+      Engeland verwacht dat iedere man zijn plicht vervult.
+      Engeland verwacht dat iedere manspersoon zijn plicht vervult.
+
+1798:     [yes],     yes,  closed, 'Ter',14    XP: [int(goed)]
+      Engeland verwacht dat iedere man zijn plicht vervult.
+      Engeland verwacht dat iedere goede man zijn plicht vervult.
+
+1799: [unknown], unknown,    open, 'Ter',261   XP: []
+      Engeland verwacht dat iedere goede man zijn plicht vervult.
+      Engeland verwacht dat iedere man zijn plicht vervult.
+
+1837:     [yes], unknown,    open, 'Ter',88    XP: []
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere zonnige ochtend een douche neemt.
+
+1838: [unknown],     yes,  closed, 'Ter',26    XP: []
+      Ze zei dat ze iedere zonnige ochtend een douche neemt.
+      Ze zei dat ze iedere ochtend een douche neemt.
+
+1839:     [yes], unknown,    open, 'Ter',88    XP: []
+      Ze zei dat ze iedere ochtend een douche neemt.
+      Ze zei dat ze iedere late ochtend een douche neemt.
+
+1929:     [yes], unknown,    open, 'Ter',11    XP: []
+      Je kunt geen woord geloven dat hij zegt.
+      Je kunt geen ding geloven dat hij zegt.
+
+1930:     [yes], unknown,    open, 'Ter',15    XP: []
+      Je kunt geen woord geloven dat hij zegt.
+      Je kunt geen spul geloven dat hij zegt.
+
+1954:     [yes],     yes,  closed, 'Ter',12    XP: []
+      Ik heb nog nooit eerder een vriendin gehad.
+      Ik heb nog nooit eerder een vriendin gehad langer dan ik.
+
+1955: [unknown],     yes,  closed, 'Ter',12    XP: []
+      Ik heb nog nooit eerder een vriendin gehad langer dan ik.
+      Ik heb nog nooit eerder een vriendin gehad.
+
+2000:     [yes], unknown,    open, 'Ter',124   XP: []
+      Hij zei dat hij iedere ochtend een wandeling maakt in het park.
+      Hij zei dat hij iedere zonnige of wolkloze ochtend een wandeling maakt in het park.
+
+2001: [unknown],     yes,  closed, 'Ter',32    XP: []
+      Hij zei dat hij iedere zonnige of wolkloze ochtend een wandeling maakt in het park.
+      Hij zei dat hij iedere ochtend een wandeling maakt in het park.
+
+2087:     [yes],     yes,  closed, 'Ter',14    XP: [int(juist)]
+      De bestuurder zei dat we geen remmen hebben!
+      De bestuurder zei dat we geen juiste remmen hebben!
+
+2088: [unknown], unknown,    open, 'Lim',403   XP: []
+      De bestuurder zei dat we geen juiste remmen hebben!
+      De bestuurder zei dat we geen remmen hebben!
+
+2089:     [yes],     yes,  closed, 'Ter',14    XP: [int(solide)]
+      De bestuurder zei dat we geen remmen hebben!
+      De bestuurder zei dat we geen solide remmen hebben!
+
+2090: [unknown], unknown,    open, 'Lim',403   XP: []
+      De bestuurder zei dat we geen solide remmen hebben!
+      De bestuurder zei dat we geen remmen hebben!
+
+2458:     [yes], unknown,    open, 'Ter',161   XP: []
+      We wensten dat we geen toets hoefden te maken in Engels.
+      We wensten dat we geen toets hoefden te maken in Engelse les.
+
+2459:     [yes], unknown,    open, 'Ter',64    XP: []
+      We wensten dat we geen toets hoefden te maken in Engels.
+      We wensten dat we geen toets hoefden te maken in moeilijk Engels.
+
+2460: [unknown], unknown,    open, 'Ter',64    XP: []
+      We wensten dat we geen toets hoefden te maken in moeilijk Engels.
+      We wensten dat we geen toets hoefden te maken in Engels.
+
+2467:     [yes],     yes,  closed, 'Ter',4     XP: [int(groot)]
+      Het is geen geheim dat Tom het niet met je eens is.
+      Het is geen groot geheim dat Tom het niet met je eens is.
+
+2468:     [yes], unknown,    open, 'Ter',17    XP: []
+      Het is geen geheim dat Tom het niet met je eens is.
+      Het is geen geheim in welke vorm dan ook dat Tom het niet met je eens is.
+
+2469:     [yes],     yes,  closed, 'Ter',21    XP: []
+      Het is geen geheim dat Tom het niet met je eens is.
+      Het is geen geheim dat Tom het niet met je eens is na valsspelen.
+
+2472:     [yes],     yes,  closed, 'Ter',23    XP: [int(rood)]
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij rode rozen zal oogsten.
+
+2473:     [yes],     yes,  closed, 'Ter',23    XP: [int(nieuw)]
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij nieuwe rozen zal oogsten.
+
+2474:     [yes], unknown,    open, 'Ter',38    XP: []
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij nieuwe oogstrozen zal oogsten.
+
+2475:     [yes], unknown,    open, 'Ter',25    XP: []
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij enige rozen zal oogsten.
+
+2476:     [yes],     yes,  closed, 'Ter',64    XP: [int(enkel)]
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij zelfs een enkele roos zal oogsten.
+
+2477:     [yes],     yes,  closed, 'Ter',64    XP: []
+      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
+      Wie doornen zaait moet niet verwachten dat hij zelfs een roos zal oogsten.
+
+2554:     [yes],     yes,  closed, 'Ter',28    XP: [int(perfect)]
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen perfecte resultaten verwacht.
+
+2555: [unknown], unknown,    open, 'Ter',142   XP: []
+      Ik hoop dat je niet meteen perfecte resultaten verwacht.
+      Ik hoop dat je niet meteen resultaten verwacht.
+
+2556:     [yes],     yes,  closed, 'Ter',28    XP: [int(duidelijk)]
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen duidelijke resultaten verwacht.
+
+2557: [unknown], unknown,    open, 'Ter',142   XP: []
+      Ik hoop dat je niet meteen duidelijke resultaten verwacht.
+      Ik hoop dat je niet meteen resultaten verwacht.
+
+2558:     [yes], unknown,    open, 'Ter',81    XP: []
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen oplossingen verwacht.
+
+2559:     [yes], unknown,    open, 'Ter',81    XP: []
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop dat je niet meteen antwoorden verwacht.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+2560:     [yes], unknown,    open, 'Ter',58    XP: []
+      Ik hoop dat je niet meteen resultaten verwacht.
+      Ik hoop niet dat je de resultaten verwacht die we niet meteen vinden.
+
+2561: [unknown], unknown,    open, 'Ter',58    XP: []
+      Ik hoop niet dat je resultaten verwacht die we niet meteen vinden.
+      Ik hoop dat je niet meteen de resultaten verwacht.
+
+2578:     [yes], unknown,    open, 'Ter',10    XP: []
+      Tom had geen keuze dan Mary te volgen.
+      Tom had geen betere keuze dan Mary te volgen.
+
+2579:     [yes], unknown,    open, 'Ter',10    XP: []
+      Tom had geen keuze dan Mary te volgen.
+      Tom had geen andere optie dan Mary te volgen.
+
+2645:     [yes],     yes,  closed, 'Ter',27    XP: [int(lang verwachten)]
+      Ik neem aan dat dit niet het beste moment is om om een promotie te vragen.
+      Ik neem aan dat dit niet het beste moment is om om een langverwachte promotie te vragen.
+
+2717:     [yes],     yes,  closed, 'Ter',14    XP: [int(zwart)]
+      Tom zei dat hij geen koffie drinkt.
+      Tom zei dat hij geen zwarte koffie drinkt.
+
+2718: [unknown], unknown,    open, 'Ter',165   XP: []
+      Tom zei dat hij geen zwarte koffie drinkt.
+      Tom zei dat hij geen koffie drinkt.
+
+2776:     [yes], unknown,      NA, 'Defected'  XP: []
+      George weegt niet minder dan 70 kilogram.
+      George weegt niet kleiner dan 70 kilogram.
+
+2883:     [yes], unknown,    open, 'Ter',36    XP: []
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen noodongeluk heeft gehad.
+
+2884:     [yes], unknown,    open, 'Ter',40    XP: []
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen autoongeluk heeft gehad recentelijk.
+
+2885:     [yes], unknown,    open, 'Ter',43    XP: []
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen ongeluk heeft gehad met een auto.
+
+2886:     [yes], unknown,    open, 'Ter',36    XP: []
+      Ik hoop dat hij geen ongeluk heeft gehad.
+      Ik hoop dat hij geen autoongeluk heeft gehad.
+
+2922:     [yes],     yes,  closed, 'Ter',39    XP: [int(van@(the@vermogen)),isa(man,persoon)]
+      Het is geen wonder dat een man van zijn vermogen zo succesvol is.
+      Het is geen wonder dat een persoon van zijn vermogen succesvol is.
+
+2923:     [yes], unknown,    open, 'Ter',6     XP: []
+      Het is geen wonder dat een man van zijn vermogen zo succesvol is.
+      Het is geen wonder dat een goede man van zijn vermogen succesvol is.
+
+2924:     [yes], unknown,    open, 'Ter',6     XP: []
+      Het is geen wonder dat een man van zijn vermogen zo succesvol is.
+      Het is geen wonder dat een geweldige man van zijn vermogen succesvol is.
+
+2955:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom zei dat hij geen vriendin wil.
+      Tom zei dat hij geen vriendin en vriend wil.
+
+2959:     [yes], unknown,    open, 'Ter',8     XP: []
+      Ik had geen keuze dan te gaan.
+      Ik had geen betere keuze dan te gaan.
+
+2960:     [yes], unknown,    open, 'Ter',8     XP: []
+      Ik had geen keuze dan te gaan.
+      Ik had geen andere keuze dan te gaan.
+
+2983:     [yes], unknown,    open, 'Ter',53    XP: []
+      Het punt van hipster-subcultuur is om te voorkomen dat je je aan maatschappelijke normen aanpast.
+      Het punt van hipster-subcultuur tegenwoordig is om te voorkomen dat je je aan maatschappelijke normen aanpast.
+
+3106:     [yes],     yes,  closed, 'Ter',14    XP: [int(grappig)]
+      Ik weet dat het geen grap is.
+      Ik weet dat het geen grappige grap is.
+
+3107: [unknown], unknown,    open, 'Ter',165   XP: []
+      Ik weet dat het geen grappige grap is.
+      Ik weet dat het geen grap is.
+
+3108:     [yes],     yes,  closed, 'Ter',14    XP: []
+      Ik weet dat het geen grap is.
+      Ik weet dat het geen grap is die niet eerder door mij gemaakt is.
+
+3109: [unknown], unknown,    open, 'Lim',403   XP: []
+      Ik weet dat het geen grap is die niet eerder door mij gemaakt is.
+      Ik weet dat het geen grap is.
+
+3110:     [yes],     yes,  closed, 'Ter',14    XP: [int(goed)]
+      Ik weet dat het geen grap is.
+      Ik weet dat het geen goede grap is.
+
+3111: [unknown], unknown,    open, 'Ter',165   XP: []
+      Ik weet dat het geen goede grap is.
+      Ik weet dat het geen grap is.
+
+3140:     [yes], unknown,    open, 'Ter',21    XP: []
+      Ik kan me geen leven voorstellen zonder hem.
+      Ik kan me niet voorstellen dat ik zou leven zonder hem.
+
+3376:     [yes], unknown,    open, 'Ter',25    XP: []
+      Ik kan me geen leven voorstellen zonder muziek.
+      Ik kan me niet voorstellen dat ik zou leven zonder soul muziek.
+
+3453:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_5334816,_5334816@(zeggen@(dat@(worden@dik@ze))@ze))@vlees,vlees)]
+      Ze zullen geen vlees eten.
+      Ze zullen geen vlees eten waarvan ze zeggen dat ze dik worden.
+
+3454: [unknown], unknown,    open, 'Ter',25    XP: []
+      Ze zullen geen vlees eten waarvan ze zeggen dat ze dik worden.
+      Ze zullen geen vlees eten.
+
+3517:     [yes], unknown,    open, 'Ter',23    XP: []
+      Hij droomt dat iedereen in China Esperanto spreekt.
+      Hij droomt dat alle mannen in China Esperanto spreken.
+
+3518: [unknown], unknown,    open, 'Ter',27    XP: []
+      Hij droomt dat alle mannen in China Esperanto spreken.
+      Hij droomt dat iedereen in China Esperanto spreekt.
+
+3611:     [yes], unknown,    open, 'Ter',36    XP: []
+      Ik dacht dat Tom geen snoep mocht eten.
+      Ik dacht dat Tom geen pindasnoep mocht eten.
+
+3612: [unknown], unknown,    open, 'Ter',36    XP: []
+      Ik dacht dat Tom geen pindasnoep mocht eten.
+      Ik dacht dat Tom geen snoep mocht eten.
+
+3675:     [yes], unknown,    open, 'Ter',58    XP: []
+      Tom zei dat hij niet geniet van honkbal kijken.
+      Tom zei dat hij niet geniet van honkbalwedstrijden kijken.
+
+3677:     [yes], unknown,    open, 'Ter',99    XP: []
+      Tom zei dat hij niet geniet van honkbal kijken.
+      Tom zei dat hij niet geniet van honkbalwedstrijden van zijn zoon kijken.
+
+3723:     [yes],     yes,  closed, 'Ter',13    XP: [isa(overtreding,fout)]
+      Ik hoop dat dit geen fout is.
+      Ik hoop dat dit geen overtreding is.
+
+3724:     [yes],     yes,  closed, 'Ter',1     XP: []
+      Ik hoop dat dit geen fout is.
+      Ik hoop dat dit geen fout is.
+
+3950:     [yes],     yes,  closed, 'Ter',21    XP: [int(groot),int(zo@(als@dat)@mooi)]
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een groot huis zo mooi als dat kunnen veroorloven.
+
+3951: [unknown], unknown,    open, 'Lim',403   XP: []
+      Ik zou me nooit een groot huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+
+3952:     [yes], unknown,    open, 'Ter',79    XP: []
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een strandhuis zo mooi als dat kunnen veroorloven.
+
+3953: [unknown], unknown,    open, 'Ter',79    XP: []
+      Ik zou me nooit een strandhuis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+
+3954:     [yes],     yes,  closed, 'Ter',21    XP: [int(kleurrijk),int(zo@(als@dat)@mooi)]
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
+
+3955: [unknown], unknown,    open, 'Lim',403   XP: []
+      Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
+      Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
+
+4003:     [yes], unknown,    open, 'Ter',73    XP: []
+      Optimisme is maar een gebrek aan informatie.
+      Optimisme is niets meer dan een gebrek aan informatie.
+
+4034:     [yes], unknown,    open, 'Ter',14    XP: []
+      Tom had geen keuze dan te grijnzen en het te verdragen.
+      Tom had geen slechtere keuze dan te grijnzen en het te verdragen.
+
+4054:     [yes], unknown,    open, 'Ter',6     XP: []
+      Ik verwacht geen hulp.
+      Ik verwacht niet dat iemand helpt.
+
+4064:     [yes], unknown,    open, 'Ter',93    XP: []
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet in het centrum van Boston zou willen wonen.
+
+4065:     [yes], unknown,    open, 'Ter',79    XP: []
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet in een grote stad als Boston zou willen wonen.
+
+4066:     [yes], unknown,    open, 'Ter',103   XP: []
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet in zo’n overvolle omgeving als Boston zou willen wonen.
+
+4067:     [yes],     yes,  closed, 'Ter',33    XP: []
+      Tom dacht dat Mary niet in Boston zou willen wonen.
+      Tom dacht dat Mary niet weg van haar familie in Boston zou willen wonen.
+
+4076:     [yes],     yes,  closed, 'Ter',14    XP: [int(groot)]
+      Ik hoop dat dit geen fout is.
+      Ik hoop dat dit geen grote fout is.
+
+4095:     [yes], unknown,    open, 'Ter',93    XP: []
+      Tom zei dat hij niet in Boston zou willen wonen.
+      Tom zei dat hij niet in de stad van Boston zou willen wonen.
+
+4096:     [yes], unknown,    open, 'Ter',92    XP: []
+      Tom zei dat hij niet in Boston zou willen wonen.
+      Tom zei dat hij niet in het mooie Boston zou willen wonen.
+
+4103:     [yes], unknown,    open, 'Lim',410   XP: []
+      Een rapper zonder bling is als een paus zonder kruis.
+      Een rapper zonder bling is als een paus zonder een incompleet kruis.
 

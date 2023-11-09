@@ -1,36 +1,43 @@
-ERROR: Cannot align tokens in sentence id=3821
-term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
-anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
-ERROR: Cannot align tokens in sentence id=3822
-term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
-anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
-Inconsistency in node types (entail/8)
-82:     [yes], unknown,      NA, 'Defected'  XP: _4369384
-      Raar dat je deze video wil laten zien aan een stapel papieren.
-      Raar dat je iets wil laten zien aan een stapel papieren.
-
-ERROR: Cannot align tokens in sentence id=3166
-term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
-anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,een,voorbeeld,genoeg,is,om,van,te,leren,.]
-ERROR: Cannot align tokens in sentence id=3167
-term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
-anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,ieder,aantal,voorbeelden,genoeg,is,om,van,te,leren,.]
-Inconsistency in node types (entail/8)
-101: [unknown], unknown,      NA, 'Defected'  XP: _4423402
-      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
-      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
-
-ERROR: Cannot align tokens in sentence id=3167
-term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
-anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,ieder,aantal,voorbeelden,genoeg,is,om,van,te,leren,.]
-ERROR: Cannot align tokens in sentence id=3166
-term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
-anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,een,voorbeeld,genoeg,is,om,van,te,leren,.]
-Inconsistency in node types (entail/8)
-102: [unknown], unknown,      NA, 'Defected'  XP: _4370342
-      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
-      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
+49:     [yes], unknown,    open, 'Ter',76    XP: []
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
   
+52:     [yes], unknown,    open, 'Ter',59    XP: []
+      We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+  
+50: [unknown], unknown,    open, 'Ter',76    XP: []
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+  
+51: [unknown], unknown,    open, 'Ter',59    XP: []
+      We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+  
+73: [unknown],     yes,  closed, 'Ter',24    XP: [int(leven veranderen),int(verdrietig)]
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+  
+71:     [yes],     yes,  closed, 'Ter',14    XP: [int(leven veranderen)]
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+  
+70: [unknown], unknown,    open, 'Ter',65    XP: []
+      De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+      De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+  
+74:     [yes], unknown,    open, 'Ter',68    XP: []
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+  
+69: [unknown], unknown,    open, 'Ter',89    XP: []
+      De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+      De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+  
+72: [unknown], unknown,    open, 'Ter',120   XP: []
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+
 ERROR: Cannot align tokens in sentence id=3822
 term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
@@ -38,7 +45,117 @@ ERROR: Cannot align tokens in sentence id=3821
 term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
 Inconsistency in node types (entail/8)
-81: [unknown], unknown,      NA, 'Defected'  XP: _4422444
+81: [unknown], unknown,      NA, 'Defected'  XP: _4421156
       Raar dat je iets wil laten zien aan een stapel papieren.
       Raar dat je deze video wil laten zien aan een stapel papieren.
+
+ERROR: Cannot align tokens in sentence id=3822
+term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
+Inconsistency in node types (entail/8)
+82:     [yes], unknown,      NA, 'Defected'  XP: _4365552
+      Raar dat je deze video wil laten zien aan een stapel papieren.
+      Raar dat je iets wil laten zien aan een stapel papieren.
+
+ERROR: Cannot align tokens in sentence id=3166
+term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,een,voorbeeld,genoeg,is,om,van,te,leren,.]
+ERROR: Cannot align tokens in sentence id=3167
+term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,ieder,aantal,voorbeelden,genoeg,is,om,van,te,leren,.]
+Inconsistency in node types (entail/8)
+101: [unknown], unknown,      NA, 'Defected'  XP: _4422114
+      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
+      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
+
+ERROR: Cannot align tokens in sentence id=3167
+term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,ieder,aantal,voorbeelden,genoeg,is,om,van,te,leren,.]
+ERROR: Cannot align tokens in sentence id=3166
+term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
+anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,een,voorbeeld,genoeg,is,om,van,te,leren,.]
+Inconsistency in node types (entail/8)
+102: [unknown], unknown,      NA, 'Defected'  XP: _4366510
+      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
+      Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
+
+5067: [unknown], unknown,    open, 'Ter',169   XP: []
+      Pete gelooft dat hij een spin is.
+      Pete gelooft dat hij een zwarte weduwe is.
+
+5068: [unknown], unknown,    open, 'Ter',51    XP: []
+      Pete gelooft dat hij een zwarte weduwe is.
+      Pete gelooft dat hij een spin is.
+
+5069: [unknown],     yes,  closed, 'Ter',8     XP: [isa(spin,spinachtige)]
+      Pete gelooft dat hij een spin is.
+      Pete gelooft dat hij een spinachtige is.
+
+5070: [unknown], unknown,    open, 'Ter',48    XP: []
+      Pete gelooft dat hij een spinachtige is.
+      Pete gelooft dat hij een spin is.
+
+5085:     [yes],     yes,  closed, 'Ter',44    XP: []
+      Het is niet waar dat Betty in Duitsland woont.
+      Het is niet waar dat Betty in Berlijn woont.
+
+5086: [unknown],     yes,  closed, 'Ter',44    XP: []
+      Het is niet waar dat Betty in Berlijn woont.
+      Het is niet waar dat Betty in Duitsland woont.
+
+5087:     [yes],     yes,  closed, 'Ter',48    XP: []
+      Het is niet waar dat Betty niet in Berlijn woont.
+      Het is niet waar dat Betty niet in Duitsland woont.
+
+5088: [unknown],     yes,  closed, 'Ter',48    XP: []
+      Het is niet waar dat Betty niet in Duitsland woont.
+      Het is niet waar dat Betty niet in Berlijn woont.
+
+5103:     [yes], unknown,    open, 'Ter',7     XP: []
+      Meer dan de helft van de tenoren hebben de griep.
+      Meer dan de helft van de tenoren zijn ziek.
+
+5104: [unknown], unknown,    open, 'Ter',3     XP: []
+      Meer dan de helft van de tenoren zijn ziek.
+      Meer dan de helft van de tenoren hebben de griep.
+
+5161:     [yes], unknown,    open, 'Ter',31    XP: []
+      Niet meer dan de helft van de kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+
+5162:     [yes], unknown,    open, 'Ter',24    XP: []
+      Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+
+5164:     [yes], unknown,    open, 'Ter',10    XP: []
+      Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+
+5169:     [yes], unknown,      NA, 'Defected'  XP: []
+      Minder dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+      Minder dan vijf van de kampeerders hebben kou gevat.
+
+5170:     [yes], unknown,      NA, 'Defected'  XP: []
+      Minder dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
+      Minder dan vijf van de kampeerders hebben kou gevat.
+
+5257: [unknown], unknown,    open, 'Ter',22    XP: []
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+      Niet meer dan de helft van de kampeerders hebben weleens een zonnebrand gehad of kou gevat.
+
+5258: [unknown], unknown,    open, 'Ter',21    XP: []
+      Niet meer dan de helft van de kampeerders hebben kou gevat.
+      Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5260: [unknown], unknown,    open, 'Ter',11    XP: []
+      Niet meer dan de helft van de kinderen gingen voor de suikerspin.
+      Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
+
+5265: [unknown], unknown,      NA, 'Defected'  XP: []
+      Minder dan vijf van de kampeerders hebben kou gevat.
+      Minder dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
+
+5266: [unknown], unknown,      NA, 'Defected'  XP: []
+      Minder dan vijf van de kampeerders hebben kou gevat.
+      Minder dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
 

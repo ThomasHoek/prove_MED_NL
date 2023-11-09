@@ -31,10 +31,13 @@ if __name__ == "__main__":
     import glob
     import os
 
-    all_file_paths: list[str] = glob.glob("Results/crowd/analysis/*.txt")
+    path_route = "Results/MED_NL/paper"
+    # path_route = "Results/MED_NL/crowd"
 
-    if not os.path.exists("Results/crowd/detailed"):
-        os.makedirs("Results/crowd/detailed")
+    all_file_paths: list[str] = glob.glob(f"{path_route}/analysis/*.txt")
+
+    if not os.path.exists(f"{path_route}/detailed"):
+        os.makedirs(f"{path_route}/detailed")
 
     for x in all_file_paths:
         sort_file_words(x)

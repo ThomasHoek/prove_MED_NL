@@ -1,51 +1,27 @@
-11: [unknown], unknown,    open, 'Ter',34    XP: []
-      Een paar afgevaardigden hadden de vragenlijst af.
-      Een paar afgevaardigden hadden de vragenlijst op tijd af.
-   
 14: [unknown], unknown,      NA, 'Defected'  XP: []
       Beide commissarissen waren ooit zakenmannen.
       Beide commissarissen waren ooit leidend zakenmannen.
 
-17: [unknown], unknown,      NA, 'Defected'  XP: []
-      Geen Scandinavische afgevaardigde had het verslag op tijd af.
-      Een of andere afgevaardigde had het verslag op tijd af.
-  
-34: [unknown], unknown,    open, 'Ter',13    XP: []
-      Beide commissarissen zaten ooit in de handel.
-      Beide vrouwelijke commissarissen zaten ooit in de handel.
+28: [unknown], unknown,    open, 'Ter',16    XP: []
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+      Een paar Ierse afgevaardigden hadden de vragenlijst op tijd af.
 
-31: [unknown], unknown,    open, 'Ter',26    XP: []
-      De meeste Europeanen kunnen vrij reizen binnen Europa.
-      De meeste Europeanen die inwoner zijn buiten Europa kunnen vrij reizen binnen Europa.
+29: [unknown], unknown,    open, 'Ter',51    XP: []
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
+      Veel Britse afgevaardigden haalden interessante resultaten uit de vragenlijst.
+  
+12: [unknown], unknown,    open, 'Ter',49    XP: []
+      Veel afgevaardigden haalden resultaten uit de vragenlijst.
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
   
 10: [unknown], unknown,    open, 'Ter',32    XP: []
       Een Ierse man won een nobelprijs.
       Een Ierse man won de nobelprijs voor literatuur.
   
-73: [unknown], unknown,    open, 'Ter',6     XP: []
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
-  
-29: [unknown], unknown,    open, 'Ter',51    XP: []
-      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
-      Veel Britse afgevaardigden haalden interessante resultaten uit de vragenlijst.
-  
-19: [unknown], unknown,    open, 'Ter',51    XP: []
-      Veel Britse afgevaardigden haalden interessante resultaten uit de vragenlijst.
-      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
-  
 25: [unknown], unknown,    open, 'Ter',20    XP: []
       Geen van beide vrouwelijke commissarissen brengt veel tijd thuis door.
       Een van de commissarissen brengt veel tijd thuis door.
-  
-30: [unknown], unknown,      NA, 'Defected'  XP: _2365122
-      Meerdere afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
-      Meerdere Portugese afgevaardigden kregen resultaten gepubliceerd in grote nationale kranten.
    
-12: [unknown], unknown,    open, 'Ter',49    XP: []
-      Veel afgevaardigden haalden resultaten uit de vragenlijst.
-      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
-  
 35: [unknown], unknown,    open, 'Ter',28    XP: []
       Geen van beide commissarissen brengt veel tijd thuis door.
       Een van de vrouwelijke commissarissen brengt veel tijd thuis door.
@@ -53,98 +29,100 @@
 32: [unknown], unknown,      NA, 'Defected'  XP: []
       Een paar comitéleden komen uit Scandinavië.
       Ten minste een paar vrouwelijke comitéleden komen uit Scandinavië.
+   
+7: [unknown], unknown,    open, 'Ter',10    XP: []
+      Geen van beide commissarissen brengt veel tijd thuis door.
+      Geen van beide commissarissen brengt tijd thuis door.
   
-51: [unknown], unknown,    open, 'Ter',59    XP: []
-      We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
-      We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+19: [unknown], unknown,    open, 'Ter',51    XP: []
+      Veel Britse afgevaardigden haalden interessante resultaten uit de vragenlijst.
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
   
 48: [unknown], unknown,    open, 'Ter',22    XP: []
       In veel gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
       In veel ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
   
+31: [unknown], unknown,    open, 'Ter',26    XP: []
+      De meeste Europeanen kunnen vrij reizen binnen Europa.
+      De meeste Europeanen die inwoner zijn buiten Europa kunnen vrij reizen binnen Europa.
+  
 44: [unknown], unknown,    open, 'Ter',53    XP: []
       Een paar dieren krabben graag hun oren.
       Een paar honden krabben graag hun oren.
   
-72: [unknown], unknown,    open, 'Ter',6     XP: []
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-  
-50: [unknown], unknown,    open, 'Ter',88    XP: []
+50: [unknown], unknown,    open, 'Ter',76    XP: []
       We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
       We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+  
+51: [unknown], unknown,    open, 'Ter',59    XP: []
+      We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
   
 39: [unknown], unknown,    open, 'Ter',107   XP: []
       Pluto of Uranus zit nu op een lijn met Neptunus.
       Pluto en Uranus zitten nu op een lijn met Neptunus.
 
+34: [unknown], unknown,    open, 'Ter',13    XP: []
+      Beide commissarissen zaten ooit in de handel.
+      Beide vrouwelijke commissarissen zaten ooit in de handel.
+  
+ERROR: Cannot align tokens in sentence id=694
+term tokens=[[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+anno tokens=[Dus,er,is,geen,speciaal,hoogdimensionaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
+  11: [unknown], unknown,    open, 'Ter',34    XP: []
+      Een paar afgevaardigden hadden de vragenlijst af.
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+
 40: [unknown], unknown,      NA, 'Defected'  XP: []
       Alan nam zijn vakantie in Californië.
       Zowel Alan als Bob namen hun vakanties in Californië.
   
-28: [unknown], unknown,    open, 'Ter',16    XP: []
-      Een paar afgevaardigden hadden de vragenlijst op tijd af.
-      Een paar Ierse afgevaardigden hadden de vragenlijst op tijd af.
+17: [unknown], unknown,      NA, 'Defected'  XP: []
+      Geen Scandinavische afgevaardigde had het verslag op tijd af.
+      Een of andere afgevaardigde had het verslag op tijd af.
 
-45: [unknown], unknown,    open, 'Lim',409   XP: []
-      Cruz heeft vaak verschillende plannen die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
-      Cruz heeft vaak verschillende wetten die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+56: [unknown], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak enige wet die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak enig plan dat legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
 
-61: [unknown], unknown,    open, 'Lim',438   XP: []
-      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
-      Er kwamen geen rekeningen op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
-
-63: [unknown], unknown,    open, 'Lim',459   XP: []
-      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
-      Er kwam een rekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
-
-69: [unknown], unknown,    open, 'Ter',33    XP: []
-      De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
-      De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
-
-70: [unknown], unknown,    open, 'Ter',33    XP: []
+70: [unknown], unknown,    open, 'Ter',65    XP: []
       De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
       De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
-
+  
 77: [unknown], unknown,    open, 'Ter',54    XP: []
       Ik heb nog nooit een kolibrie gezien die niet vliegt.
       Ik heb nog nooit een vogel gezien die niet vliegt.
   
-128: [unknown], unknown,    open, 'Ter',133   XP: []
-      Een Italiaanse sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
-      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
-
-89: [unknown], unknown,    open, 'Lim',411   XP: []
-      Regionale gouverneurs konden niet op de koning rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
-      Regionale gouverneurs konden op niemand rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
+69: [unknown], unknown,    open, 'Ter',89    XP: []
+      De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+      De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
   
-123: [unknown], unknown,    open, 'Ter',50    XP: []
-      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
-      Er zijn een paar inspannende wandelroutes rondom Mt. Fuji.
+72: [unknown], unknown,    open, 'Ter',120   XP: []
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+
+98: [unknown], unknown,    open, 'Lim',414   XP: []
+      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.
+      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.
 
 106: [unknown], unknown,    open, 'Ter',45    XP: []
       Een wind rolde over de open plek.
       Een serene wind rolde over de open plek.
 
-107: [unknown], unknown,    open, 'Lim',403   XP: []
-      Ik wil niet mensen blijven vermaken die mijn tijd niet waarderen.
-      Ik wil niet mensen blijven vermaken.
-  
-56: [unknown], unknown,    open, 'Lim',409   XP: []
-      Cruz heeft vaak enige wet die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
-      Cruz heeft vaak enig plan dat legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
-
 110: [unknown], unknown,    open, 'Lim',428   XP: []
       De eerste ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
       De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
-  
-66: [unknown], unknown,    open, 'Lim',426   XP: []
-      Missouri wetgevers overwegen een boycot op bedrijven die Israel boycotten.
-      Missouri wetgevers overwegen een overheidsboycot op bedrijven die Israel boycotten.
 
 111: [unknown], unknown,    open, 'Lim',429   XP: []
       De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
       De eerste onaangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+
+ERROR: Cannot align tokens in sentence id=3821
+term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
+ 112: [unknown], unknown,    open, 'Lim',429   XP: []
+      De eerste onaangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
 
 120: [unknown], unknown,    open, 'Lim',411   XP: []
       Er zijn een paar geweldige wandelroutes in Japan.
@@ -158,21 +136,21 @@
       Er zijn een paar geweldige wandelroutes in nepal.
       Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
 
+123: [unknown], unknown,    open, 'Ter',50    XP: []
+      Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
+      Er zijn een paar inspannende wandelroutes rondom Mt. Fuji.
+
 124: [unknown], unknown,    open, 'Ter',50    XP: []
       Er zijn een paar inspannende wandelroutes rondom Mt. Fuji.
       Er zijn een paar geweldige wandelroutes rondom Mt. Fuji.
-  
-4442: [unknown], unknown,    open, 'Ter',55    XP: []
-      Ieder buitenaards wezen gooide ballen.
-      Ieder buitenaards wezen gooide tennisballen.
+
+128: [unknown], unknown,    open, 'Ter',133   XP: []
+      Een Italiaanse sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
 
 129: [unknown], unknown,    open, 'Ter',29    XP: []
       Tot nu toe hebben twee van mijn kersenbomen al gebloeid, en het is nog niets eens april.
       Tot nu toe hebben twee van mijn bomen al gebloeid, en het is nog niets eens april.
-
-130: [unknown], unknown,    open, 'Ter',29    XP: []
-      Tot nu toe hebben twee van mijn bomen al gebloeid, en het is nog niets eens april.
-      Tot nu toe hebben twee van mijn kersenbomen al gebloeid, en het is nog niets eens april.
 
 4199: [unknown], unknown,    open, 'Ter',249   XP: []
       Precies 12 buitenaardse wezens aten enig vlees.
@@ -197,6 +175,10 @@
 4204: [unknown], unknown,    open, 'Ter',396   XP: []
       Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
       Precies 12 buitenaardse wezens aten bij restaurants.
+  
+61: [unknown], unknown,    open, 'Lim',438   XP: []
+      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+      Er kwamen geen rekeningen op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
 
 4205: [unknown], unknown,    open, 'Lim',414   XP: []
       Precies 12 buitenaardse wezens zagen enige duiven.
@@ -209,6 +191,10 @@
 4211: [unknown], unknown,    open, 'Ter',4     XP: []
       Weinig buitenaardse wezens aten enig varkensvlees.
       Weinig buitenaardse wezens aten vlees.
+  
+89: [unknown], unknown,    open, 'Lim',411   XP: []
+      Regionale gouverneurs konden niet op de koning rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
+      Regionale gouverneurs konden op niemand rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
 
 4212: [unknown], unknown,    open, 'Ter',12    XP: []
       Weinig buitenaardse wezens aten bij enige Mexicaanse restaurants.
@@ -242,29 +228,25 @@
       Geen buitenaards wezen at enig varkensvlees.
       Geen buitenaards wezen at vlees.
   
-4336: [unknown], unknown,    open, 'Ter',71    XP: []
-      Het rode buitenaardse wezen las een paar boeken.
-      Het rode buitenaardse wezen las sci-fi romans.
+107: [unknown], unknown,    open, 'Lim',403   XP: []
+      Ik wil niet mensen blijven vermaken die mijn tijd niet waarderen.
+      Ik wil niet mensen blijven vermaken.
   
-127: [unknown], unknown,    open, 'Ter',133   XP: []
-      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
-      Een Italiaanse sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
-  
-4237: [unknown], unknown,    open, 'Lim',414   XP: []
-      Alleen 12 buitenaardse wezens zagen enige duiven.
-      Alleen 12 buitenaardse wezens zagen vogels.
+4316: [unknown], unknown,    open, 'Lim',419   XP: []
+      Precies 12 buitenaardse wezens lazen een paar science fiction romans.
+      Precies 12 buitenaardse wezens lazen boeken.
 
 4228: [unknown], unknown,    open, 'Lim',400   XP: []
       Geen buitenaards wezen at bij enige Mexicaanse restaurants.
       Geen buitenaards wezen at bij restaurants.
 
-4229: [unknown], unknown,    open, 'Lim',400   XP: []
-      Geen buitenaards wezen zag enige duiven.
-      Geen buitenaards wezen zag vogels.
-
 4230: [unknown], unknown,    open, 'Lim',400   XP: []
       Geen buitenaards wezen gebruikte enige kwartjes.
       Geen buitenaards wezen gebruikte munten.
+
+4231: [unknown], unknown,    open, 'Ter',249   XP: []
+      Alleen 12 buitenaardse wezens aten enig vlees.
+      Alleen 12 buitenaardse wezens aten varkensvlees.
 
 4232: [unknown], unknown,    open, 'Lim',418   XP: []
       Alleen 12 buitenaardse wezens aten bij enige restaurants.
@@ -285,6 +267,10 @@
 4236: [unknown], unknown,    open, 'Ter',396   XP: []
       Alleen 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
       Alleen 12 buitenaardse wezens aten bij restaurants.
+
+4237: [unknown], unknown,    open, 'Lim',414   XP: []
+      Alleen 12 buitenaardse wezens zagen enige duiven.
+      Alleen 12 buitenaardse wezens zagen vogels.
 
 4238: [unknown], unknown,    open, 'Ter',354   XP: []
       Alleen 12 buitenaardse wezens gebruikten enige kwartjes.
@@ -325,6 +311,10 @@
 4251: [unknown], unknown,    open, 'Lim',418   XP: []
       Precies 12 buitenaardse wezens lazen nieuwstijdschriften.
       Precies 12 buitenaardse wezens lazen tijdschriften.
+  
+127: [unknown], unknown,    open, 'Ter',133   XP: []
+      Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
+      Een Italiaanse sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.
 
 4252: [unknown], unknown,    open, 'Lim',419   XP: []
       Precies 12 buitenaardse wezens bekeken honkbalwedstrijden.
@@ -377,10 +367,6 @@
 4277: [unknown], unknown,    open, 'Ter',290   XP: []
       Het gele buitenaardse wezen kocht geen shirts.
       Het gele buitenaardse wezen kocht geen kleren.
-  
-112: [unknown], unknown,    open, 'Lim',429   XP: []
-      De eerste onaangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
-      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
 
 4278: [unknown], unknown,    open, 'Ter',149   XP: []
       Het gele buitenaardse wezen reed geen suv’s.
@@ -405,6 +391,10 @@
 4287: [unknown], unknown,    open, 'Lim',418   XP: []
       Alleen 12 buitenaardse wezens lazen tijdschriften.
       Alleen 12 buitenaardse wezens lazen nieuwstijdschriften.
+  
+4311: [unknown], unknown,    open, 'Ter',56    XP: []
+      Precies 12 buitenaardse wezens dronken een beetje frisdrank.
+      Precies 12 buitenaardse wezens dronken cola.
 
 4288: [unknown], unknown,    open, 'Lim',419   XP: []
       Alleen 12 buitenaardse wezens keken sportwedstrijden.
@@ -438,9 +428,9 @@
       Het paarse buitenaardse wezen keek sportwedstrijden.
       Het paarse buitenaardse wezen keek honkbalwedstrijden.
   
-4231: [unknown], unknown,    open, 'Ter',249   XP: []
-      Alleen 12 buitenaardse wezens aten enig vlees.
-      Alleen 12 buitenaardse wezens aten varkensvlees.
+63: [unknown], unknown,    open, 'Lim',459   XP: []
+      Er kwam geen badkamerrekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
+      Er kwam een rekening op abbotts bureau tegen het eind van de wetgevende vergadering in mei.
 
 4297: [unknown], unknown,    open, 'Ter',168   XP: []
       Het paarse buitenaardse wezen kocht kleren.
@@ -466,10 +456,6 @@
       Ieder buitenaards wezen gooide een paar ballen.
       Ieder buitenaards wezen gooide tennisballen.
 
-4311: [unknown], unknown,    open, 'Ter',56    XP: []
-      Precies 12 buitenaardse wezens dronken een beetje frisdrank.
-      Precies 12 buitenaardse wezens dronken cola.
-
 4312: [unknown], unknown,    open, 'Lim',419   XP: []
       Precies 12 buitenaardse wezens lazen een paar boeken.
       Precies 12 buitenaardse wezens lazen science fiction romans.
@@ -482,10 +468,6 @@
       Precies 12 buitenaardse wezens gooiden een paar ballen.
       Precies 12 buitenaardse wezens gooiden tennisballen.
 
-4316: [unknown], unknown,    open, 'Lim',419   XP: []
-      Precies 12 buitenaardse wezens lazen een paar science fiction romans.
-      Precies 12 buitenaardse wezens lazen boeken.
-
 4317: [unknown], unknown,    open, 'Lim',424   XP: []
       Precies 12 buitenaardse wezens speelden met een paar speelgoedauto's.
       Precies 12 buitenaardse wezens speelden met speeltjes.
@@ -497,6 +479,10 @@
 4319: [unknown], unknown,    open, 'Ter',12    XP: []
       Veel buitenaardse wezens dronken wat frisdrank.
       Veel buitenaardse wezens dronken cola.
+  
+4442: [unknown], unknown,    open, 'Ter',55    XP: []
+      Ieder buitenaards wezen gooide ballen.
+      Ieder buitenaards wezen gooide tennisballen.
 
 4320: [unknown], unknown,    open, 'Ter',15    XP: []
       Veel buitenaardse wezens lazen een paar boeken.
@@ -541,6 +527,10 @@
 4335: [unknown], unknown,    open, 'Ter',94    XP: []
       Het rode buitenaardse wezen dronk wat frisdrank.
       Het rode buitenaardse wezen dronk cola.
+
+4336: [unknown], unknown,    open, 'Ter',71    XP: []
+      Het rode buitenaardse wezen las een paar boeken.
+      Het rode buitenaardse wezen las sci-fi romans.
 
 4337: [unknown], unknown,    open, 'Ter',56    XP: []
       Het rode buitenaardse wezen speelde met een paar speeltjes.
@@ -613,6 +603,10 @@
 4379: [unknown], unknown,    open, 'Ter',118   XP: []
       Het gele buitenaardse wezen at geen varkensvlees.
       Het gele buitenaardse wezen at geen vlees.
+  
+45: [unknown], unknown,    open, 'Lim',409   XP: []
+      Cruz heeft vaak verschillende plannen die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
+      Cruz heeft vaak verschillende wetten die legale status van burgerschap verleent aan mensen die illegaal in het land wonen als amnestie bespot.
 
 4380: [unknown], unknown,    open, 'Lim',418   XP: []
       Het gele buitenaardse wezen las geen sci-fi romans.
@@ -693,14 +687,14 @@
 4404: [unknown], unknown,    open, 'Ter',364   XP: []
       Alleen 12 buitenaardse wezens keken enige honkbalwedstrijden.
       Alleen 12 buitenaardse wezens keken sportwedstrijden.
+  
+66: [unknown], unknown,    open, 'Lim',426   XP: []
+      Missouri wetgevers overwegen een boycot op bedrijven die Israel boycotten.
+      Missouri wetgevers overwegen een overheidsboycot op bedrijven die Israel boycotten.
 
 4405: [unknown], unknown,    open, 'Ter',340   XP: []
       Alleen 12 buitenaardse wezens speelden met enige speelgoedauto’s.
       Alleen 12 buitenaardse wezens speelden met speeltjes.
-  
-98: [unknown], unknown,    open, 'Lim',414   XP: []
-      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd.
-      Het begrijpen van een lang document vereist het volgen van hoe entiteiten worden geïntroduceerd en evolueren over de tijd.
 
 4406: [unknown], unknown,    open, 'Ter',364   XP: []
       Alleen 12 buitenaardse wezens reden enige suv’s.
@@ -817,6 +811,10 @@
 4440: [unknown], unknown,    open, 'Ter',101   XP: []
       Ieder buitenaards wezen las boeken.
       Ieder buitenaards wezen las sci-fi romans.
+
+4441: [unknown], unknown,    open, 'Ter',71    XP: []
+      Ieder buitenaards wezen zag vogels.
+      Ieder buitenaards wezen zag duiven.
 
 4447: [unknown], unknown,    open, 'Ter',9     XP: []
       Veel buitenaardse wezens aten vlees.
@@ -1141,6 +1139,10 @@
 4582: [unknown], unknown,    open, 'Ter',42    XP: []
       Alleen 12 buitenaardse wezens reden een paar suv’s.
       Alleen 12 buitenaardse wezens reden een paar auto’s.
+  
+130: [unknown], unknown,    open, 'Ter',29    XP: []
+      Tot nu toe hebben twee van mijn bomen al gebloeid, en het is nog niets eens april.
+      Tot nu toe hebben twee van mijn kersenbomen al gebloeid, en het is nog niets eens april.
 
 4583: [unknown], unknown,    open, 'Ter',209   XP: []
       Ieder buitenaards wezen dronk frisdrank.
@@ -1285,6 +1287,10 @@
 4656: [unknown], unknown,    open, 'Lim',410   XP: []
       Precies 12 buitenaardse wezens aten bij enige restaurants.
       Precies 12 buitenaardse wezens aten bij enige Mexicaanse restaurants.
+  
+4229: [unknown], unknown,    open, 'Lim',400   XP: []
+      Geen buitenaards wezen zag enige duiven.
+      Geen buitenaards wezen zag vogels.
 
 4657: [unknown], unknown,    open, 'Lim',410   XP: []
       Precies 12 buitenaardse wezens zagen enige vogels.
@@ -1433,10 +1439,6 @@
 4716: [unknown], unknown,    open, 'Ter',4     XP: []
       Weinig buitenaardse wezens keken enige honkbalwedstrijden.
       Weinig buitenaardse wezens keken enige sportwedstrijden.
-  
-4441: [unknown], unknown,    open, 'Ter',71    XP: []
-      Ieder buitenaards wezen zag vogels.
-      Ieder buitenaards wezen zag duiven.
 
 4717: [unknown], unknown,    open, 'Ter',4     XP: []
       Weinig buitenaardse wezens speelden met enige speelgoedauto’s.
@@ -1958,9 +1960,6 @@
       Iedere man zong of danste.
       Iedere man danste.
 
-ERROR: Cannot align tokens in sentence id=4915
-term tokens=[[[geen],[roos],[.]]]
-anno tokens=[Ze,gad,hem,geen,roos,.]
 5023: [unknown], unknown,    open, 'Ter',10    XP: []
       Precies een man zong of danste.
       Precies een man danste.
@@ -2005,6 +2004,9 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Een hond viel Nina aan.
       Een bulldog viel Nina aan.
 
+ERROR: Cannot align tokens in sentence id=4915
+term tokens=[[[geen],[roos],[.]]]
+anno tokens=[Ze,gad,hem,geen,roos,.]
 5041: [unknown], unknown,      NA, 'Defected'  XP: []
       Ze gad hem geen roos.
       Ze gaf hem geen bloem.
@@ -2045,19 +2047,15 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Hij had nooit een gebrek aan geld.
       Hij had nooit een gebrek aan briefgeld.
 
-5067: [unknown], unknown,    open, 'Ter',6     XP: []
+5067: [unknown], unknown,    open, 'Ter',169   XP: []
       Pete gelooft dat hij een spin is.
       Pete gelooft dat hij een zwarte weduwe is.
 
-5068: [unknown], unknown,    open, 'Ter',6     XP: []
+5068: [unknown], unknown,    open, 'Ter',51    XP: []
       Pete gelooft dat hij een zwarte weduwe is.
       Pete gelooft dat hij een spin is.
 
-5069: [unknown], unknown,    open, 'Ter',6     XP: []
-      Pete gelooft dat hij een spin is.
-      Pete gelooft dat hij een spinachtige is.
-
-5070: [unknown], unknown,    open, 'Ter',6     XP: []
+5070: [unknown], unknown,    open, 'Ter',48    XP: []
       Pete gelooft dat hij een spinachtige is.
       Pete gelooft dat hij een spin is.
 
@@ -2097,14 +2095,6 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Betty woont niet in Berlijn.
       Betty woont niet in Duitsland.
 
-5086: [unknown], unknown,    open, 'Ter',10    XP: []
-      Het is niet waar dat Betty in Berlijn woont.
-      Het is niet waar dat Betty in Duitsland woont.
-
-5088: [unknown], unknown,    open, 'Ter',10    XP: []
-      Het is niet waar dat Betty niet in Duitsland woont.
-      Het is niet waar dat Betty niet in Berlijn woont.
-
 5090: [unknown], unknown,    open, 'Ter',3     XP: []
       Alle stippen zijn rood.
       Alle stippen zijn scharlaken.
@@ -2129,7 +2119,7 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Precies vijf stippen zijn scharlaken.
       Precies vijf stippen zijn rood.
 
-5104: [unknown], unknown,    open, 'Ter',279   XP: []
+5104: [unknown], unknown,    open, 'Ter',3     XP: []
       Meer dan de helft van de tenoren zijn ziek.
       Meer dan de helft van de tenoren hebben de griep.
 
@@ -2309,11 +2299,11 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Bijna niemand ging voor de suikerspin.
       Bijna niemand koos mint chocolaatjes of ging voor de suikerspin.
 
-5257: [unknown], unknown,    open, 'Ter',315   XP: []
+5257: [unknown], unknown,    open, 'Ter',22    XP: []
       Niet meer dan de helft van de kampeerders hebben kou gevat.
       Niet meer dan de helft van de kampeerders hebben weleens een zonnebrand gehad of kou gevat.
 
-5258: [unknown], unknown,    open, 'Ter',314   XP: []
+5258: [unknown], unknown,    open, 'Ter',21    XP: []
       Niet meer dan de helft van de kampeerders hebben kou gevat.
       Niet meer dan de helft van de kampeerders hebben een zonnebrand gehad of kou gevat.
 
@@ -2321,7 +2311,7 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
       Niet meer dan de helft van de kinderen gingen voor de suikerspin.
       Niet meer dan de helft van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
 
-5260: [unknown], unknown,    open, 'Lim',412   XP: []
+5260: [unknown], unknown,    open, 'Ter',11    XP: []
       Niet meer dan de helft van de kinderen gingen voor de suikerspin.
       Niet meer dan de helft van de kinderen kozen munt chocolaatjes of gingen voor de suikerspin.
 
@@ -2332,6 +2322,10 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
 5266: [unknown], unknown,      NA, 'Defected'  XP: []
       Minder dan vijf van de kampeerders hebben kou gevat.
       Minder dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
+
+5267: [unknown], unknown,      NA, 'Defected'  XP: _1191518
+      Minder dan vijf van de kinderen gingen voor de suikerspin.
+      Minder dan vijf van de kinderen kozen enige mint chocolaatjes of gingen voor de suikerspin.
 
 5269: [unknown], unknown,    open, 'Ter',35    XP: []
       Niet veel kampeerders hebben kou gevat.

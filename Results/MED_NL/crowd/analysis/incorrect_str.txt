@@ -19,7 +19,7 @@ Inconsistency in node types (entail/8)
       Iedere zin aanwezig in Tatoeba is een leugen.
       Iedere zin die arbeid beschrijft aanwezig in Tatoeba is een leugen.
 
-694: [unknown], unknown,    open, 'Ter',25    XP: []
+694: [unknown], unknown,    open, 'Ter',13    XP: []
       Meisjes zijn niets dan problemen.
       Tieners zijn niets dan problemen.
 
@@ -31,10 +31,7 @@ Inconsistency in node types (entail/8)
       David kan niet thuis zijn.
       David en sabrina kunnen niet thuis zijn.
 
-ERROR: Cannot align tokens in sentence id=4558
-term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
-anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
- 711: [unknown], unknown,    open, 'Ter',167   XP: []
+711: [unknown], unknown,    open, 'Ter',167   XP: []
       Ik ben een normaal meisje.
       Ik ben een normaal mooi meisje.
 
@@ -42,10 +39,14 @@ anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
       Een scherpe donderslag splitste de lucht.
       Een donder viel in de woestijn.
 
-987: [unknown], unknown,      NA, 'Defected'  XP: []
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 987: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag ging niet goed.
       Morgen ging niet goed.
 
+Error in gen_quant_tt
 1056: [unknown], unknown,    open, 'Ter',54    XP: []
       Het heeft geen zin om die man om een gunst te vragen.
       Het heeft geen zin om die man en zijn bedrijf om een gunst te vragen.
@@ -122,12 +123,12 @@ anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
       Ik kan geen Japans spreken als een moedertaalspreker.
       Ik kan geen Japans spreken.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3499:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik kan geen Japans en Engels spreken.
       Ik kan geen Japans spreken.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 3500: [unknown], unknown,      NA, 'Defected'  XP: []
@@ -154,7 +155,7 @@ Error in gen_quant_tt
       Ik wil niet het lot tarten.
       Ik wil niet het lot tarten in mijn leven.
 
-4076:     [yes], unknown,    open, 'Ter',6     XP: []
+4076:     [yes],     yes,  closed, 'Ter',14    XP: [int(groot)]
       Ik hoop dat dit geen fout is.
       Ik hoop dat dit geen grote fout is.
 

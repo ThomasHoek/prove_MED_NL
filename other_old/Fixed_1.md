@@ -40,6 +40,8 @@ Fix; add as exception rule for 'cp' labels??
 simple_tlg_to_ccg(cp, cp).
 ```
 
+RAW fracas problems.
+
 
 
 ## 470 [alles behalve] breaks the parser
@@ -62,6 +64,9 @@ sv1	verb-initial sentence (yes/no question, imperatives)
 ```
 simple_tlg_to_ccg(sv1, s:dlc).
 ```
+<!-- dcl -->    
+<!-- specify if possible, otherwise make it general -->
+
 
 ## Aethel eats away words  -> MED_NL/problems/broken_alpino_aethel_sent_debug.txt
 4558.xml -> <sentence sentid="4558">Vandaag is niet goed voor mij .</sentence> \

@@ -2,6 +2,14 @@
       Een Ierse man won de nobelprijs voor literatuur.
       Een Ierse man won een nobelprijs.
   
+43:     [yes],     yes,  closed, 'Ter',4     XP: [isa(hond,dier)]
+      Een paar honden krabben graag hun oren.
+      Een paar dieren krabben graag hun oren.
+  
+71:     [yes],     yes,  closed, 'Ter',14    XP: [int(leven veranderen)]
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+  
 108:     [yes],     yes,  closed, 'Ter',20    XP: []
       Ik wil niet mensen blijven vermaken.
       Ik wil niet mensen blijven vermaken die mijn tijd niet waarderen.
@@ -10,17 +18,13 @@
       Ik heb nog nooit een kolibrie gezien.
       Ik heb nog nooit een kolibrie gezien die niet vliegt.
 
-3:     [yes],     yes,  closed, 'Ter',7     XP: []
-      Een paar afgevaardigden hadden de vragenlijst op tijd af.
-      Een paar afgevaardigden hadden de vragenlijst af.
-
 4:     [yes],     yes,  closed, 'Ter',4     XP: [int(interessant)]
       Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
       Veel afgevaardigden haalden resultaten uit de vragenlijst.
   
-43:     [yes],     yes,  closed, 'Ter',4     XP: [isa(hond,dier)]
-      Een paar honden krabben graag hun oren.
-      Een paar dieren krabben graag hun oren.
+3:     [yes],     yes,  closed, 'Ter',7     XP: []
+      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+      Een paar afgevaardigden hadden de vragenlijst af.
 
 90:     [yes],     yes,  closed, 'Ter',90    XP: [isa(koning,persoon)]
       Regionale gouverneurs konden op niemand rekenen voor hulp in tijden van crisis, en de daaruit voortvloeiende voedseltekorten en politieke geschillen escaleerden tot hongersnoden en kleinschalige burgeroorlogen.
@@ -53,7 +57,7 @@
 4307:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Ieder buitenaards wezen dronk wat cola.
       Ieder buitenaards wezen dronk frisdrank.
-
+  
 4323:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Veel buitenaardse wezens dronken wat cola.
       Veel buitenaardse wezens dronken frisdrank.
@@ -61,10 +65,6 @@
 4339:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Het blauwe buitenaardse wezen dronk wat cola.
       Het blauwe buitenaardse wezen dronk frisdrank.
-  
-4477:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
-      Veel buitenaardse wezens kochten wat shirts.
-      Veel buitenaardse wezens kochten kleren.
 
 4377:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
       Het paarse buitenaardse wezen zag geen vogels.
@@ -97,6 +97,10 @@
 4476:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Veel buitenaardse wezens aten bij een paar Mexicaanse restaurants.
       Veel buitenaardse wezens aten bij restaurants.
+
+4477:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Veel buitenaardse wezens kochten wat shirts.
+      Veel buitenaardse wezens kochten kleren.
 
 4484:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Het blauwe buitenaardse wezen at bij een paar Mexicaanse restaurants.
@@ -325,6 +329,14 @@
 5075:     [yes],     yes,  closed, 'Ter',2     XP: [isa(dansen,bewegen)]
       Niemand bewoog.
       Niemand danste.
+
+5085:     [yes],     yes,  closed, 'Ter',44    XP: []
+      Het is niet waar dat Betty in Duitsland woont.
+      Het is niet waar dat Betty in Berlijn woont.
+
+5087:     [yes],     yes,  closed, 'Ter',48    XP: []
+      Het is niet waar dat Betty niet in Berlijn woont.
+      Het is niet waar dat Betty niet in Duitsland woont.
 
 5144:     [yes],     yes,  closed, 'Ter',5     XP: [isa(of@(marginaal@lezer)@(typisch@lezer),typisch@lezer)]
       Weinig van de boeken hadden typische of marginale lezers.

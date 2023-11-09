@@ -1,6 +1,6 @@
-# Wordnet and LLFs
+# Second portion of issues fixed
 
-## wordnet
+## Wordnet and LLFs
 ### problem: 3834
 
 this does not fix it?

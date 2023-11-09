@@ -5,3 +5,7 @@ testing
 /xml/
 __pycache__
 .ipynb_checkpoints
+detailed
+.log
+.mypy_cache
+latex

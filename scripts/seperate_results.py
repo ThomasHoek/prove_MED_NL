@@ -111,6 +111,7 @@ if __name__ == "__main__":
     y_y = open(f"{args.target}/yes_yes.txt", "w+")
     y_n = open(f"{args.target}/yes_no.txt", "w+")
 
+    d_all = open(f"{args.target}/defected_all.txt", "w+")
     if problem_files:
         # defected files
         d_a = open(f"{args.target}/defected_aethel_num.txt", "w+")
@@ -128,6 +129,7 @@ if __name__ == "__main__":
     index_pointer = 0
     while index_pointer != re_split_length:
         defected_flag = False
+        incost_flag = False
         aethel_flag = False
         error_flag = False
         conj_flag = False
@@ -143,8 +145,9 @@ if __name__ == "__main__":
             if "error" in cur_line.lower():
                 error_flag = True
 
+
             if "Inconsistency" in cur_line and problem_files:
-                defected_flag = True
+                incost_flag = True
 
             # keep error data
             prior_text += cur_line
@@ -171,16 +174,12 @@ if __name__ == "__main__":
         index_pointer += 1
         cur_line = re_split[index_pointer]
         target, predict, other = get_data_from_log(cur_line)
-
+        defected_flag = "Defected" in cur_line
         # match to find correct file to write to
-        match (defected_flag, target, predict):
+        match (incost_flag, target, predict):
             case (True, _, _):
                 if aethel_flag:
                     file = d_a
-                elif conj_flag:
-                    file = d_cp
-                elif sv1_flag:
-                    file = d_sv
                 else:
                     file = d_o
             case (False, "unknown", "unknown"):
@@ -208,11 +207,21 @@ if __name__ == "__main__":
         # write all info to file
         write_file(file, prior_text, number_info, cur_line)
 
+        if defected_flag:
+            write_file(d_all, prior_text, number_info, cur_line)
+            
         # error tracking
         if error_flag:
             write_file(error_file, prior_text, number_info, cur_line)
 
-        if string_flag:
-            write_file(incorrect_str, prior_text, number_info, cur_line)
+        if problem_files:
+            if string_flag:
+                write_file(incorrect_str, prior_text, number_info, cur_line)
+
+            if conj_flag:
+                write_file(d_cp, prior_text, number_info, cur_line)
+
+            if sv1_flag:
+                write_file(d_sv, prior_text, number_info, cur_line)
 
         index_pointer += 1

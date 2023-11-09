@@ -1,8 +1,162 @@
+335: [unknown], unknown,    open, 'Ter',8     XP: []
+      Maak geen kinderen belachelijk.
+      Maak jouw vriend niet belachelijk.
+
+437: [unknown], unknown,    open, 'Ter',38    XP: []
+      Hadden we maar een tuin!
+      Hadden we maar een apartement!
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 685: [unknown], unknown,    open, 'Ter',12    XP: []
+      Maak anderen niet belachelijk.
+      Maak anderen hun fouten niet belachelijk.
+
+686: [unknown], unknown,    open, 'Ter',9     XP: []
+      Maak anderen niet belachelijk.
+      Maak geen anderen in nood belachelijk.
+
+687: [unknown], unknown,    open, 'Ter',2     XP: []
+      Maak anderen niet belachelijk.
+      Maak geen anderen die anders zijn belachelijk.
+
 ERROR: Cannot align tokens in sentence id=1327
 term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
 anno tokens=[Gisteren,is,niet,goed,voor,mij,.]
 Inconsistency in node types (entail/8)
-751: [unknown], unknown,      NA, 'Defected'  XP: _2740424
+751: [unknown], unknown,      NA, 'Defected'  XP: _4649350
       Vandaag is niet goed voor mij.
       Gisteren is niet goed voor mij.
+
+752: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag is niet goed voor mij.
+      Maandag is niet goed voor me.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 753: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag is niet goed voor mij.
+      Zondag is niet goed voor mij.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+ 754: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag is niet goed voor mij.
+      Vandaag afspreken is niet goed voor me.
+
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+ 755: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag is niet goed voor mij.
+      Vandaag vliegen is niet goed voor me.
+
+914: [unknown],     yes,  closed, 'Ter',1     XP: []
+      Laten we luisteren naar wat chopin.
+      Laten we luisteren naar wat schubert.
+
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 987: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag ging niet goed.
+      Morgen ging niet goed.
+
+988: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag ging niet goed.
+      Wedstrijddag ging niet goed.
+
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 989: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag ging niet goed.
+      Wiskunde examen ging niet goed.
+
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 990: [unknown], unknown,      NA, 'Defected'  XP: []
+      Vandaag ging niet goed.
+      De meeting ging niet goed.
+
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
+1119: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom drinkt melk iedere ochtend.
+      Tom drink een glas koude melk iedere ochtend.
+
+1120:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom drink een glas koude melk iedere ochtend.
+      Tom drinkt melk iedere ochtend.
+
+1515:     [yes],     yes,  closed, 'Ter',10    XP: [int(hard)]
+      Maak alsjeblieft geen geluid.
+      Maak alsjeblieft geen hard geluid.
+
+1516:     [yes],     yes,  closed, 'Ter',10    XP: [int(zoemen)]
+      Maak alsjeblieft geen geluid.
+      Maak alsjeblieft geen zoemend geluid.
+
+1517:     [yes], unknown,    open, 'Ter',16    XP: []
+      Maak alsjeblieft geen geluid.
+      Maak alsjeblieft geen geluid in de kamer.
+
+1697:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom luister zelden naar muziek thuis.
+      Tom luistert zelden naar muziek in zijn nieuwe huis.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+1698: [unknown], unknown,      NA, 'Defected'  XP: []
+      Tom luistert zelden naar muziek in zijn nieuwe huis.
+      Tom luister zelden naar muziek thuis.
+
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
+1699:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom luister zelden naar muziek thuis.
+      Tom luistert zelden naar muziek in zijn huis.
+
+1700:     [yes], unknown,      NA, 'Defected'  XP: []
+      Tom luister zelden naar muziek thuis.
+      Tom luistert zelden naar muziek thuis of in zijn auto.
+
+2480:     [yes], unknown,    open, 'Ter',40    XP: []
+      Maak alsjeblieft geen foto’s hier.
+      Maak alsjeblieft geen gebouwfoto’s hier.
+
+2481: [unknown], unknown,    open, 'Ter',40    XP: []
+      Maak alsjeblieft geen gebouwfoto’s hier.
+      Maak alsjeblieft geen foto’s hier.
+
+2482:     [yes],     yes,  closed, 'Ter',20    XP: [int(enkel)]
+      Maak alsjeblieft geen foto’s hier.
+      Maak alsjeblieft geen enkele foto’s hier.
+
+2758:     [yes], unknown,    open, 'Ter',8     XP: []
+      Ik kan helemaal geen Engels spreken.
+      Ik kan geen Engels spreken ook al probeer ik het.
+
+3400:     [yes], unknown,    open, 'Ter',11    XP: []
+      Rook alsjeblieft niet in bed.
+      Rook alsjeblieft niet in bed in dit hotel.
+
+3401:     [yes], unknown,    open, 'Ter',35    XP: []
+      Rook alsjeblieft niet in bed.
+      Rook alsjeblieft niet in slaapbed.
+
+3402:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Rook alsjeblieft niet in bed.
+      Rook alsjeblieft niet in bed nu.
+
+4059:     [yes],     yes,  closed, 'Ter',19    XP: []
+      Ik lijk niet te kunnen stoppen met roken.
+      Ik lijk niet te kunnen stoppen met roken ook al zei de dokter het.
 

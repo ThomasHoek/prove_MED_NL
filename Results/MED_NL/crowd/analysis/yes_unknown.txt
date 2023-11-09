@@ -42,15 +42,11 @@
       Tom plant een vijgen en palmboom in zijn achtertuin.
       Tom plant een palmboom in zijn achtertuin.
 
-260:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ze zei dat ze iedere ochtend een koude douche neemt.
-      Ze zei dat ze iedere ochtend een douche neemt.
-
 265:     [yes], unknown,    open, 'Ter',292   XP: []
       Een menselijk lichaam bestaat uit een ontelbaar aantal rode bloedcellen.
       Een menselijk lichaam bestaat uit een ontelbaar aantal cellen.
 
-295:     [yes], unknown,    open, 'Ter',4     XP: []
+295:     [yes], unknown,    open, 'Lim',402   XP: []
       Een paar mensen denken dat overdonderend adverteren een vorm van hersenspoelen is.
       Een paar mensen denken dat adverteren een vorm van hersenspoelen is.
 
@@ -102,9 +98,7 @@
       We speelden iedere zaterdag Amerikaans voetbal en volleybal.
       We speelden iedere zaterdag Amerikaans voetbal.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 454:     [yes], unknown,    open, 'Ter',22    XP: []
+454:     [yes], unknown,    open, 'Ter',22    XP: []
       Winter ziet er niet echt uit zonder sneeuwstenen.
       Winter ziet er niet echt uit zonder sneeuw.
 
@@ -140,9 +134,7 @@ Error in gen_quant_tt
       Er zijn veel schoenfabrieken in Kawasaki.
       Er zijn veel fabrieken in Kawasaki.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 594:     [yes], unknown,    open, 'Ter',11    XP: []
+594:     [yes], unknown,    open, 'Ter',11    XP: []
       Er zijn veel voedselfabrieken in Kawasaki.
       Er zijn veel fabrieken in Kawasaki.
 
@@ -169,6 +161,7 @@ Error in gen_quant_tt
       Een eerlijke man steelt nooit geld.
 
 Error in gen_quant_tt
+Error in gen_quant_tt
  735:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
       Ik weet dat jij en Tom een paar problemen gehad hebben.
@@ -181,7 +174,10 @@ Error in gen_quant_tt
       Een paar dingen over mijn vrouw die Tom mij vertelde zijn niet waar.
       Een paar dingen die Tom mij vertelde zijn niet waar.
 
-839:     [yes], unknown,      NA, 'Defected'  XP: []
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
+ 839:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik ontving een telegram die over haar vriend ging van haar.
       Ik ontving een telegram van haar.
 
@@ -233,9 +229,7 @@ Error in gen_quant_tt
       Ik was in New York country club voor een paar dagen.
       Ik was in New York voor een paar dagen.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 926:     [yes], unknown,      NA, 'Defected'  XP: []
+926:     [yes], unknown,      NA, 'Defected'  XP: []
       Meneer yamaha gaf een paar walnoten en geld aan een bedelaar.
       Meneer yamaha gaf een paar walnoten aan een bedelaar.
 
@@ -277,7 +271,7 @@ Error in gen_quant_tt
       Dieren en planten kunnen niet bestaan zonder lucht en water.
       Dieren kunnen niet bestaan zonder lucht en water.
 
-1042:     [yes], unknown,    open, 'Ter',32    XP: []
+1042:     [yes], unknown,    open, 'Ter',13    XP: []
       Koude mayonaise is niets dan chemicaliën!
       Mayo is niets dan chemicaliën.
 
@@ -305,6 +299,8 @@ Error in gen_quant_tt
       Het jonge meisje Lucy kan geen eetstokjes gebruiken.
       Lucy kan eetstokjes gebruiken.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1146:     [yes], unknown,    open, 'Ter',25    XP: []
       Tom gaf Mary een voetverwarmende massage.
       Tom gaf Mary een voetmassage.
@@ -329,12 +325,12 @@ Error in gen_quant_tt
       Het bedrijf spendeert veel geld aan internetadverteren.
       Het bedrijf spendeert veel geld aan adverteren.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1208:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom gaf wat melk en water aan de kat.
       Tom gaf wat melk aan de kat.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1221:     [yes], unknown,      NA, 'Defected'  XP: []
       Je morste wat ketchup en mayonaise op je stropdas.
       Je morste wat ketchup op je stropdas.
@@ -371,7 +367,7 @@ Error in gen_quant_tt
       Je kunt taal niet scheiden van cultuur.
       Je kunt taal niet scheiden van dialect.
 
-1306:     [yes], unknown,    open, 'Ter',280   XP: []
+1306:     [yes], unknown,    open, 'Ter',82    XP: []
       Ik vat zelden kou.
       Ik vat zelden kou die langer dan een week aanhoudt.
 
@@ -411,8 +407,6 @@ Error in gen_quant_tt
       Ik beantwoord geen domme vragen.
       Ik beantwoord geen domme vragen die me neigen te beledigen.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1335:     [yes], unknown,    open, 'Ter',20    XP: []
       Ik kan geen fiets kopen.
       Ik kan geen nieuwe fiets van mijn dromen kopen.
@@ -509,26 +503,28 @@ Error in gen_quant_tt
       Tom draagt zelden een hoed.
       Tom draagt zelden een zwarte cowboyhoed.
 
-1419:     [yes], unknown,    open, 'Ter',6     XP: []
+1419:     [yes], unknown,    open, 'Lim',403   XP: []
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
 
-1421:     [yes], unknown,    open, 'Ter',6     XP: []
+1421:     [yes], unknown,    open, 'Lim',403   XP: []
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder enig serieus geweld.
 
-1423:     [yes], unknown,    open, 'Ter',6     XP: []
+1423:     [yes], unknown,    open, 'Lim',403   XP: []
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld te gebruiken.
 
-1424:     [yes], unknown,    open, 'Ter',6     XP: []
+1424:     [yes], unknown,    open, 'Lim',403   XP: []
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld en rellen.
 
-1426:     [yes], unknown,    open, 'Ter',6     XP: []
+1426:     [yes], unknown,    open, 'Lim',403   XP: []
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder uitgebreid geweld.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1428:     [yes], unknown,    open, 'Lim',420   XP: []
       Tom houdt er niet van om vis te eten.
       Tom houdt er niet van om vis te eten met veel botten.
@@ -573,14 +569,6 @@ Error in gen_quant_tt
       Ik hou niet van Engels.
       Ik hou niet van Amerikaans Engels.
 
-1463:     [yes], unknown,    open, 'Ter',6     XP: []
-      Tom zei dat hij niet van kinderen houdt.
-      Tom zei dat hij niet van luide kinderen houdt.
-
-1465:     [yes], unknown,    open, 'Ter',6     XP: []
-      Tom zei dat hij niet van kinderen houdt.
-      Tom zei dat hij niet van ondankbare kinderen houdt.
-
 1469:     [yes], unknown,    open, 'Ter',10    XP: []
       Tom heeft niet genoeg ervaring om een trein te besturen.
       Tom heeft niet genoeg langdurige ervaring om een trein te besturen.
@@ -597,7 +585,7 @@ Error in gen_quant_tt
       Het is geen wonder dat een man met zijn vermogen succesvol is.
       Het is geen wonder dat een mens van zijn vermogen succesvol is.
 
-1475:     [yes], unknown,    open, 'Ter',2     XP: []
+1475:     [yes], unknown,    open, 'Ter',22    XP: []
       Het is geen wonder dat een man met zijn vermogen succesvol is.
       Het is geen wonder dat een man met de mogelijkheid om zijn succes te kiezen succesvol is.
 
@@ -624,14 +612,6 @@ Error in gen_quant_tt
 1484:     [yes], unknown,      NA, 'Defected'  XP: []
       Het probleem met ons is dat we geen fondsen hebben.
       Het probleem met ons is dat we geen tracker fondsen hebben.
-
-1485:     [yes], unknown,    open, 'Ter',12    XP: []
-      Het probleem met ons is dat we geen fondsen hebben.
-      Het probleem met ons is dat we geen actieve fondsen hebben.
-
-1487:     [yes], unknown,    open, 'Ter',12    XP: []
-      Het probleem met ons is dat we geen fondsen hebben.
-      Het probleem met ons is dat we geen beschikbare fondsen hebben.
 
 1490:     [yes], unknown,    open, 'Ter',0     XP: []
       Benzine is niet langer meer een goedkope brandstof.
@@ -745,6 +725,9 @@ Error in gen_quant_tt
       Je bevindt je in geen staat om te rijden.
       Je bevindt je in geen goede staat om te rijden.
 
+ERROR: Cannot align tokens in sentence id=2934
+term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
+anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
 1555:     [yes], unknown,    open, 'Lim',800   XP: []
       Sida maakt geen nieuwe beslissingen over steun aan projecten in de baltische staten.
       Sida maakt geen nieuwe beslissingen over echte steun aan projecten in de baltische staten.
@@ -911,6 +894,8 @@ Error in gen_quant_tt
       Tom is, zonder twijfel, de beste man voor de klus.
       Tom is, zonder enige twijfel, de beste man voor de klus.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1668:     [yes], unknown,    open, 'Ter',106   XP: []
       Tom is, zonder twijfel, de beste man voor de klus.
       Tom is, helemaal zonder twijfel, de beste man voor de klus.
@@ -969,9 +954,6 @@ Error in gen_quant_tt
       Als het prima is morgen, gaan we picknicken.
       Als het prima is morgen in het veld, gaan we picknicken.
 
-ERROR: Cannot align tokens in sentence id=4331
-term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
-anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 1697:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom luister zelden naar muziek thuis.
       Tom luistert zelden naar muziek in zijn nieuwe huis.
@@ -991,6 +973,8 @@ anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
       Ze heeft niet genoeg ervaring.
       Ze heeft nog niet genoeg ervaring om te starten.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1705:     [yes], unknown,    open, 'Ter',14    XP: []
       Ik hou niet van vlees.
       Ik hou niet van varkensvlees.
@@ -1049,8 +1033,6 @@ Error in gen_quant_tt
       Deze kamer krijgt niet veel zon.
       Deze kamer krijgt niet veel zon overdag.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1758:     [yes], unknown,      NA, 'Defected'  XP: []
       Je begrijpt geen Britse humor.
       Je begrijpt geen Britse humor of idiomen.
@@ -1067,7 +1049,7 @@ Error in gen_quant_tt
       Ze hield niet van het stadsleven.
       Ze hield niet van het stadse drukke leven.
 
-1771:     [yes], unknown,    open, 'Lim',665   XP: []
+1771:     [yes], unknown,    open, 'Lim',650   XP: []
       Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
       Meneer Thomas had geen problemen met het gekozen worden van meneer white als voorzitter.
 
@@ -1095,13 +1077,9 @@ Error in gen_quant_tt
       Ik heb anki een week niet gebruikt en nu heb ik 500 flashcards te doen.
       Ik heb anki apparaat een week niet gebruikt en nu heb ik 500 flashcards te doen.
 
-1797:     [yes], unknown,    open, 'Ter',6     XP: []
+1797:     [yes], unknown,    open, 'Ter',69    XP: []
       Engeland verwacht dat iedere man zijn plicht vervult.
       Engeland verwacht dat iedere manspersoon zijn plicht vervult.
-
-1798:     [yes], unknown,    open, 'Ter',6     XP: []
-      Engeland verwacht dat iedere man zijn plicht vervult.
-      Engeland verwacht dat iedere goede man zijn plicht vervult.
 
 1800:     [yes], unknown,    open, 'Ter',152   XP: []
       Dit verhaal heeft geen blij einde.
@@ -1131,11 +1109,11 @@ Error in gen_quant_tt
       Ik hou niet van zijn smaak in kleur.
       Ik hou niet van zijn smaak in enige kleur.
 
-1837:     [yes], unknown,    open, 'Ter',6     XP: []
+1837:     [yes], unknown,    open, 'Ter',88    XP: []
       Ze zei dat ze iedere ochtend een douche neemt.
       Ze zei dat ze iedere zonnige ochtend een douche neemt.
 
-1839:     [yes], unknown,    open, 'Ter',6     XP: []
+1839:     [yes], unknown,    open, 'Ter',88    XP: []
       Ze zei dat ze iedere ochtend een douche neemt.
       Ze zei dat ze iedere late ochtend een douche neemt.
 
@@ -1143,8 +1121,6 @@ Error in gen_quant_tt
       We maken geen fouten.
       We maken niet veel fouten.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1850:     [yes], unknown,      NA, 'Defected'  XP: []
       We hebben nog niet genoeg informatie om een beslissing te maken.
       We hebben nog niet genoeg feiten en informatie om een beslissing te maken.
@@ -1229,6 +1205,8 @@ Error in gen_quant_tt
       Deze soep heeft geen substantie.
       Deze soep heeft geen groente.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1907:     [yes], unknown,      NA, 'Defected'  XP: []
       Deze soep heeft geen substantie.
       Deze soep heeft geen substantie of textuur.
@@ -1322,7 +1300,6 @@ Error in gen_quant_tt
       Wetenschappers hebben nog geen geneesmiddel voor kanker gevonden.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
 1948:     [yes], unknown,      NA, 'Defected'  XP: []
       Wetenschappers hebben nog geen vaccin voor kanker gevonden.
       Wetenschappers hebben nog geen vaccin en medicijn voor kanker gevonden.
@@ -1395,7 +1372,7 @@ Error in gen_quant_tt
       Je had dat boek niet hoeven kopen.
       Je had dat boek niet hoeven kopen, je hebt al veel boeken.
 
-2000:     [yes], unknown,    open, 'Ter',6     XP: []
+2000:     [yes], unknown,    open, 'Ter',124   XP: []
       Hij zei dat hij iedere ochtend een wandeling maakt in het park.
       Hij zei dat hij iedere zonnige of wolkloze ochtend een wandeling maakt in het park.
 
@@ -1506,6 +1483,7 @@ Error in gen_quant_tt
       Ze heeft geen betekenis van humor.
 
 Error in gen_quant_tt
+Error in gen_quant_tt
 2084:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik heb niet veel interesse in koken.
       Ik heb niet veel interesse of aanmoedigen in koken.
@@ -1513,14 +1491,6 @@ Error in gen_quant_tt
 2085:     [yes], unknown,    open, 'Ter',15    XP: []
       Alle albums van anderen zijn anders.
       Alle andere klassieke albums zijn anders.
-
-2087:     [yes], unknown,    open, 'Ter',4     XP: []
-      De bestuurder zei dat we geen remmen hebben!
-      De bestuurder zei dat we geen juiste remmen hebben!
-
-2089:     [yes], unknown,    open, 'Ter',4     XP: []
-      De bestuurder zei dat we geen remmen hebben!
-      De bestuurder zei dat we geen solide remmen hebben!
 
 2093:     [yes], unknown,    open, 'Ter',21    XP: []
       John en Fred spelen niet in een band.
@@ -1546,6 +1516,8 @@ Error in gen_quant_tt
       Iedere misdaad moet bestraft worden.
       Ieder strafbaar feit moet bestraft worden.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2123:     [yes], unknown,    open, 'Ter',23    XP: []
       Tom wilde niet naar de gevangenis.
       Tom wilde niet naar de maricopa county 4th avenue gevangenis.
@@ -1802,8 +1774,6 @@ Error in gen_quant_tt
       Ik zal mijn best doen om geen spijt te hebben.
       Ik zal mijn best doen om nergens spijt van te hebben.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2276:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik spreek geen Frans thuis.
       Ik spreek geen Frans en Engels thuis.
@@ -1852,7 +1822,6 @@ Error in gen_quant_tt
       Jack kan zich geen nieuwe fiets veroorloven.
       Jack kan zich geen nieuwe vijf-versnellingenfiets veroorloven.
 
-Error in gen_quant_tt
 Error in gen_quant_tt
 2309:     [yes], unknown,      NA, 'Defected'  XP: []
       Jack kan zich geen nieuwe fiets veroorloven.
@@ -1978,8 +1947,6 @@ Error in gen_quant_tt
       We hoeven die meeting niet bij te wonen.
       We hoeven die avondmeeting niet bij te wonen.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2401:     [yes], unknown,    open, 'Ter',19    XP: []
       Alle goede dingen komen in drievoud.
       Alle goede gewenste dingen komen in drievoud.
@@ -2028,8 +1995,6 @@ Error in gen_quant_tt
       Als de natuur een bank was hadden ze het al gered.
       Als de natuur een nationale bank was hadden ze het al gered.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2423:     [yes], unknown,    open, 'Ter',73    XP: []
       Als de natuur een bank was hadden ze het al gered.
       Als de natuur een gemenebestbank was hadden ze het al gered.
@@ -2046,6 +2011,8 @@ Error in gen_quant_tt
       Alle dieren zouden naakt moeten gaan.
       Alle dieren van creatie zouden naakt moeten gaan.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2428:     [yes], unknown,    open, 'Ter',4     XP: []
       Alle dieren zouden naakt moeten gaan.
       Alle dieren van de planeet aarde zouden naakt moeten gaan.
@@ -2066,11 +2033,11 @@ Error in gen_quant_tt
       Tom draagt geen handschoenen.
       Tom draagt geen winterhandschoenen.
 
-2458:     [yes], unknown,    open, 'Ter',6     XP: []
+2458:     [yes], unknown,    open, 'Ter',161   XP: []
       We wensten dat we geen toets hoefden te maken in Engels.
       We wensten dat we geen toets hoefden te maken in Engelse les.
 
-2459:     [yes], unknown,    open, 'Ter',6     XP: []
+2459:     [yes], unknown,    open, 'Ter',64    XP: []
       We wensten dat we geen toets hoefden te maken in Engels.
       We wensten dat we geen toets hoefden te maken in moeilijk Engels.
 
@@ -2086,33 +2053,13 @@ Error in gen_quant_tt
       Het is geen geheim dat Tom het niet met je eens is.
       Het is geen geheim in welke vorm dan ook dat Tom het niet met je eens is.
 
-2469:     [yes], unknown,    open, 'Ter',30    XP: []
-      Het is geen geheim dat Tom het niet met je eens is.
-      Het is geen geheim dat Tom het niet met je eens is na valsspelen.
-
-2472:     [yes], unknown,    open, 'Ter',5     XP: []
-      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
-      Wie doornen zaait moet niet verwachten dat hij rode rozen zal oogsten.
-
-2473:     [yes], unknown,    open, 'Ter',5     XP: []
-      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
-      Wie doornen zaait moet niet verwachten dat hij nieuwe rozen zal oogsten.
-
-2474:     [yes], unknown,    open, 'Ter',5     XP: []
+2474:     [yes], unknown,    open, 'Ter',38    XP: []
       Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
       Wie doornen zaait moet niet verwachten dat hij nieuwe oogstrozen zal oogsten.
 
-2475:     [yes], unknown,    open, 'Ter',5     XP: []
+2475:     [yes], unknown,    open, 'Ter',25    XP: []
       Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
       Wie doornen zaait moet niet verwachten dat hij enige rozen zal oogsten.
-
-2476:     [yes], unknown,    open, 'Ter',5     XP: []
-      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
-      Wie doornen zaait moet niet verwachten dat hij zelfs een enkele roos zal oogsten.
-
-2477:     [yes], unknown,    open, 'Ter',5     XP: []
-      Wie doornen zaait moet niet verwachten dat hij rozen zal oogsten.
-      Wie doornen zaait moet niet verwachten dat hij zelfs een roos zal oogsten.
 
 2478:     [yes], unknown,    open, 'Ter',13    XP: []
       Tom praat niet veel.
@@ -2130,9 +2077,6 @@ Error in gen_quant_tt
       Ik stel gewoonlijk geen vragen.
       Ik stel gewoonlijk niemand vragen.
 
-ERROR: Cannot align tokens in sentence id=2934
-term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
-anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
 2492:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik stel gewoonlijk geen vragen.
       Ik stel gewoonlijk niet vaak vragen.
@@ -2209,23 +2153,17 @@ anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
       De kat bewoog geen spier.
       De kat bewoog geen kuitspier.
 
-2554:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik hoop dat je niet meteen resultaten verwacht.
-      Ik hoop dat je niet meteen perfecte resultaten verwacht.
-
-2556:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik hoop dat je niet meteen resultaten verwacht.
-      Ik hoop dat je niet meteen duidelijke resultaten verwacht.
-
-2558:     [yes], unknown,    open, 'Ter',6     XP: []
+2558:     [yes], unknown,    open, 'Ter',81    XP: []
       Ik hoop dat je niet meteen resultaten verwacht.
       Ik hoop dat je niet meteen oplossingen verwacht.
 
-2559:     [yes], unknown,    open, 'Ter',6     XP: []
+2559:     [yes], unknown,    open, 'Ter',81    XP: []
       Ik hoop dat je niet meteen resultaten verwacht.
       Ik hoop dat je niet meteen antwoorden verwacht.
 
-2560:     [yes], unknown,    open, 'Ter',8     XP: []
+Error in gen_quant_tt
+Error in gen_quant_tt
+2560:     [yes], unknown,    open, 'Ter',58    XP: []
       Ik hoop dat je niet meteen resultaten verwacht.
       Ik hoop niet dat je de resultaten verwacht die we niet meteen vinden.
 
@@ -2281,8 +2219,6 @@ anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
       Op deze school zijn er geen cijfers en studenten hebben geen zomerhuiswerk.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2592:     [yes], unknown,      NA, 'Defected'  XP: []
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk en toetsen.
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
@@ -2343,10 +2279,6 @@ Error in gen_quant_tt
       Geen menselijke macht kan dat aan.
       Geen menselijke wetsmacht kan dat aan.
 
-2645:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik neem aan dat dit niet het beste moment is om om een promotie te vragen.
-      Ik neem aan dat dit niet het beste moment is om om een langverwachte promotie te vragen.
-
 2646:     [yes], unknown,    open, 'Ter',4     XP: []
       Hij had een fataal gebrek aan vermogen om logisch na te denken.
       Hij had een fataal gebrek aan vermogen en snelheid om logisch na te denken.
@@ -2373,6 +2305,9 @@ Error in gen_quant_tt
       Ik kan me de melodie van dat liedje niet herinneren.
       Ik kan me de melodie van dat couplet niet herinneren.
 
+ERROR: Cannot align tokens in sentence id=2798
+term tokens=[[[het],[deuntje],[van],[het],[liedje]]]
+anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herinneren,.]
 2667:     [yes], unknown,    open, 'Ter',37    XP: []
       Ze rijdt niet uit angst voor een ongeluk.
       Ze rijdt niet uit fobie voor een ongeluk.
@@ -2383,8 +2318,6 @@ Error in gen_quant_tt
 
 Error in gen_quant_tt
 Error in gen_quant_tt
-Error in gen_quant_tt
-Error in gen_quant_tt
 2685:     [yes], unknown,      NA, 'Defected'  XP: []
       Deze zin heeft geen auteurs.
       Deze zin heeft geen schrijvers of auteurs.
@@ -2393,6 +2326,8 @@ Error in gen_quant_tt
       Ze heeft niet veel eten om te geven.
       Ze heeft niet veel chocolaatjes om te geven.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2691:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik wil onnodige risico’s vermijden.
       Ik wil onnodige risico’s en ongeluk vermijden.
@@ -2433,10 +2368,6 @@ Error in gen_quant_tt
       Ik speel geen pool.
       Ik speel geen glad en gestreepte pool.
 
-2717:     [yes], unknown,    open, 'Ter',6     XP: []
-      Tom zei dat hij geen koffie drinkt.
-      Tom zei dat hij geen zwarte koffie drinkt.
-
 2720:     [yes], unknown,    open, 'Ter',31    XP: []
       Tom verplaatste geen centimeter.
       Tom verplaatste geen centimeter van zijn huis.
@@ -2457,8 +2388,6 @@ Error in gen_quant_tt
       Ik drink helemaal geen koffie.
       Ik drink helemaal geen zwarte koffie.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2732:     [yes], unknown,    open, 'Ter',27    XP: []
       Ik drink helemaal geen koffie.
       Ik drink helemaal geen koffie met koekjes.
@@ -2467,6 +2396,7 @@ Error in gen_quant_tt
       Je spreekt geen Engels.
       Je spreekt geen vloeiend Engels.
 
+Error in gen_quant_tt
 Error in gen_quant_tt
 2746:     [yes], unknown,      NA, 'Defected'  XP: []
       Je spreekt geen Engels en Japans.
@@ -2484,9 +2414,6 @@ Error in gen_quant_tt
       Ik spreek geen zweeds.
       Ik spreek helemaal geen zweeds.
 
-ERROR: Cannot align tokens in sentence id=2934
-term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
-anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
 2756:     [yes], unknown,    open, 'Ter',17    XP: []
       Ik kan helemaal geen Engels spreken.
       Ik kan op geen enkele manier Engels spreken.
@@ -2637,19 +2564,19 @@ Error in gen_quant_tt
       Ik zal nooit meer schrijven in het Engels.
       Ik zal nooit meer verhalen schrijven in het Engels.
 
-2883:     [yes], unknown,    open, 'Ter',6     XP: []
+2883:     [yes], unknown,    open, 'Ter',36    XP: []
       Ik hoop dat hij geen ongeluk heeft gehad.
       Ik hoop dat hij geen noodongeluk heeft gehad.
 
-2884:     [yes], unknown,    open, 'Ter',6     XP: []
+2884:     [yes], unknown,    open, 'Ter',40    XP: []
       Ik hoop dat hij geen ongeluk heeft gehad.
       Ik hoop dat hij geen autoongeluk heeft gehad recentelijk.
 
-2885:     [yes], unknown,    open, 'Ter',6     XP: []
+2885:     [yes], unknown,    open, 'Ter',43    XP: []
       Ik hoop dat hij geen ongeluk heeft gehad.
       Ik hoop dat hij geen ongeluk heeft gehad met een auto.
 
-2886:     [yes], unknown,    open, 'Ter',6     XP: []
+2886:     [yes], unknown,    open, 'Ter',36    XP: []
       Ik hoop dat hij geen ongeluk heeft gehad.
       Ik hoop dat hij geen autoongeluk heeft gehad.
 
@@ -2709,10 +2636,6 @@ Error in gen_quant_tt
       Arabisch is geen moeilijke taal.
       Arabisch is geen moeilijke wereldtaal.
 
-2922:     [yes], unknown,    open, 'Ter',2     XP: []
-      Het is geen wonder dat een man van zijn vermogen zo succesvol is.
-      Het is geen wonder dat een persoon van zijn vermogen succesvol is.
-
 2923:     [yes], unknown,    open, 'Ter',6     XP: []
       Het is geen wonder dat een man van zijn vermogen zo succesvol is.
       Het is geen wonder dat een goede man van zijn vermogen succesvol is.
@@ -2759,13 +2682,10 @@ Error in gen_quant_tt
       Tom draagt gewoonlijk geen hoed.
       Tom draagt gewoonlijk geen mariachihoed.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2947:     [yes], unknown,    open, 'Ter',14    XP: []
       Ik geloof niet in groepstherapie.
       Ik geloof niet in groepshersteltherapie.
 
-Error in gen_quant_tt
 2955:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom zei dat hij geen vriendin wil.
       Tom zei dat hij geen vriendin en vriend wil.
@@ -2836,6 +2756,7 @@ Error in gen_quant_tt
       Het punt van hipster-subcultuur is om te voorkomen dat je je aan maatschappelijke normen aanpast.
       Het punt van hipster-subcultuur tegenwoordig is om te voorkomen dat je je aan maatschappelijke normen aanpast.
 
+Error in gen_quant_tt
 2985:     [yes], unknown,    open, 'Ter',86    XP: []
       Een paar mensen hebben geen geduld.
       Een paar mensen hebben geen geduld over geld.
@@ -2950,8 +2871,6 @@ Error in gen_quant_tt
       We speelden iedere zaterdag Amerikaans voetbal.
       We speelden iedere zaterdag in de lente Amerikaans voetbal.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3093:     [yes], unknown,      NA, 'Defected'  XP: []
       Niet een paar huizen waren vernietigd in de tyfoon.
       Niet een paar huizen en gebouwen waren vernietigd in de tyfoon.
@@ -2971,18 +2890,6 @@ Error in gen_quant_tt
 3100:     [yes], unknown,    open, 'Ter',4     XP: []
       Ik wil niet naar het werk!
       Ik wil niet meer werken voor de overheid!
-
-3106:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik weet dat het geen grap is.
-      Ik weet dat het geen grappige grap is.
-
-3108:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik weet dat het geen grap is.
-      Ik weet dat het geen grap is die niet eerder door mij gemaakt is.
-
-3110:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik weet dat het geen grap is.
-      Ik weet dat het geen goede grap is.
 
 3115:     [yes], unknown,    open, 'Ter',401   XP: []
       Ze zijn het vliegtuig acht dagen aan het zoeken, zonder succes.
@@ -3150,9 +3057,6 @@ Error in gen_quant_tt
       De overheid wordt bekritiseerd van alle kanten.
       De overheid wordt bekritiseerd van alle kanten door het publiek en oppositie.
 
-ERROR: Cannot align tokens in sentence id=4434
-term tokens=[[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
-anno tokens=[Tom,verwachte,geen,bezoeken,van,zijn,neven,.]
 3238:     [yes], unknown,    open, 'Ter',13    XP: []
       De overheid wordt bekritiseerd van alle kanten.
       De overheid wordt bekritiseerd van alle aspecten.
@@ -3346,6 +3250,8 @@ Error in gen_quant_tt
       Je moet de zaak beoordelen zonder enig vooroordeel.
       Je moet de zaak beoordelen zonder enig vooroordeel voor je vriend.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3340:     [yes], unknown,      NA, 'Defected'  XP: []
       Je moet de zaak beoordelen zonder enig vooroordeel.
       Je moet de zaak beoordelen zonder enig vooroordeel en vulgair taalgebruik.
@@ -3462,6 +3368,9 @@ Error in gen_quant_tt
       Duitsland heeft geen minimumloon.
       Duitsland heeft geen minimum vereist loon.
 
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 3424:     [yes], unknown,    open, 'Ter',35    XP: []
       Duitsland heeft geen minimumloon.
       Duitsland heeft geen minimum benodigd loon.
@@ -3558,6 +3467,8 @@ Error in gen_quant_tt
       Ik kan geen Japans spreken.
       Ik kan geen Japans spreken als een moedertaalspreker.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3499:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik kan geen Japans en Engels spreken.
       Ik kan geen Japans spreken.
@@ -3580,7 +3491,7 @@ Error in gen_quant_tt
       Bush Jr. loog nooit tegen Amerikanen.
       Bush Jr. loog nooit tegen oude Amerikanen.
 
-3517:     [yes], unknown,    open, 'Ter',6     XP: []
+3517:     [yes], unknown,    open, 'Ter',23    XP: []
       Hij droomt dat iedereen in China Esperanto spreekt.
       Hij droomt dat alle mannen in China Esperanto spreken.
 
@@ -3688,7 +3599,7 @@ Error in gen_quant_tt
       Tom wilde geen overuren werken op kerstavond.
       Tom wilde geen overuren werken op de ochtend van kerstavond.
 
-3611:     [yes], unknown,    open, 'Ter',6     XP: []
+3611:     [yes], unknown,    open, 'Ter',36    XP: []
       Ik dacht dat Tom geen snoep mocht eten.
       Ik dacht dat Tom geen pindasnoep mocht eten.
 
@@ -3744,7 +3655,7 @@ Error in gen_quant_tt
       Ik wilde eigenlijk niet naar de universiteit en kantine gaan.
       Ik wilde eigenlijk niet naar de universiteit gaan.
 
-3675:     [yes], unknown,    open, 'Ter',6     XP: []
+3675:     [yes], unknown,    open, 'Ter',58    XP: []
       Tom zei dat hij niet geniet van honkbal kijken.
       Tom zei dat hij niet geniet van honkbalwedstrijden kijken.
 
@@ -3752,7 +3663,7 @@ Error in gen_quant_tt
       Tom zei dat hij niet geniet van honkbal kijken.
       Tom zei dat hij niet geniet van honkbalwedstrijden kijken wanneer het regent.
 
-3677:     [yes], unknown,    open, 'Ter',6     XP: []
+3677:     [yes], unknown,    open, 'Ter',99    XP: []
       Tom zei dat hij niet geniet van honkbal kijken.
       Tom zei dat hij niet geniet van honkbalwedstrijden van zijn zoon kijken.
 
@@ -3781,10 +3692,6 @@ Error in gen_quant_tt
 3712:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik hoef gewoonlijk niet op zondagen te werken.
       Ik hoef gewoonlijk niet op zondagen te werken omdat dat betekent dat ik overuren betaald zou krijgen.
-
-3723:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik hoop dat dit geen fout is.
-      Ik hoop dat dit geen overtreding is.
 
 3725:     [yes], unknown,    open, 'Ter',21    XP: []
       We hebben geen tuin.
@@ -3832,9 +3739,6 @@ Error in gen_quant_tt
       Tom heeft geen thuis.
       Tom heeft geen huis.
 
-ERROR: Cannot align tokens in sentence id=2158
-term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
-anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
 3756:     [yes], unknown,      NA, 'Defected'  XP: []
       Ieder gesproken woord wekt zijn tegenspraak op.
       Ieder tekst woord gesproken wekt zijn tegenspraak op.
@@ -3882,8 +3786,6 @@ anno tokens=[Ieder,sprekers,woord,gesproken,wekt,zijn,tegenspraak,op,.]
       Je kan beter discussie over religie en politiek vermijden.
       Je kan beter discussie over gevoelige onderwerpen zoals religie en politiek vermijden.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3808:     [yes], unknown,      NA, 'Defected'  XP: []
       Je kan beter discussie over religie en politiek vermijden.
       Je kan beter discussie over katholieke religie en politiek vermijden.
@@ -3972,6 +3874,7 @@ Error in gen_quant_tt
       Mijn kinderen weigeren vis te eten.
       Mijn kinderen weigeren de heerlijke vis te eten.
 
+Error in gen_quant_tt
 Error in gen_quant_tt
 3872:     [yes], unknown,      NA, 'Defected'  XP: []
       Ze heeft geen recht om dit te doen.
@@ -4091,8 +3994,6 @@ Error in gen_quant_tt
       Ze weigerde om Engels te spreken.
       Ze weigerde om met ons Engels te spreken.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3988:     [yes], unknown,    open, 'Ter',228   XP: []
       Iedere toeschouwer koopt een kaartje.
       Iedere persoon die een vrouwelijke toeschouwer is koopt een ticket.
@@ -4125,7 +4026,7 @@ Error in gen_quant_tt
       Optimisme is maar een gebrek aan informatie.
       Optimisme is maar een gebrek aan ware informatie.
 
-4003:     [yes], unknown,    open, 'Lim',478   XP: []
+4003:     [yes], unknown,    open, 'Ter',73    XP: []
       Optimisme is maar een gebrek aan informatie.
       Optimisme is niets meer dan een gebrek aan informatie.
 
@@ -4194,8 +4095,6 @@ Error in gen_quant_tt
       Ik verwacht geen hulp.
       Ik verwacht geen hulp van mijn familie.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 4057:     [yes], unknown,      NA, 'Defected'  XP: []
       Integriteit heeft geen regels nodig.
       Integriteit heeft geen regels en manieren nodig.
@@ -4212,21 +4111,17 @@ Error in gen_quant_tt
       Hij neemt geen vakanties.
       Hij neemt geen vakanties voor dit jaar.
 
-4064:     [yes], unknown,    open, 'Ter',6     XP: []
+4064:     [yes], unknown,    open, 'Ter',93    XP: []
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in het centrum van Boston zou willen wonen.
 
-4065:     [yes], unknown,    open, 'Ter',6     XP: []
+4065:     [yes], unknown,    open, 'Ter',79    XP: []
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in een grote stad als Boston zou willen wonen.
 
-4066:     [yes], unknown,    open, 'Ter',6     XP: []
+4066:     [yes], unknown,    open, 'Ter',103   XP: []
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in zo’n overvolle omgeving als Boston zou willen wonen.
-
-4067:     [yes], unknown,    open, 'Ter',6     XP: []
-      Tom dacht dat Mary niet in Boston zou willen wonen.
-      Tom dacht dat Mary niet weg van haar familie in Boston zou willen wonen.
 
 4068:     [yes], unknown,    open, 'Ter',42    XP: []
       Tom let niet op in de les.
@@ -4248,10 +4143,6 @@ Error in gen_quant_tt
       Ze rookt niet en ze drinkt geen vodka.
       Ze rookt niet en ze drinkt geen vodka met smaak.
 
-4076:     [yes], unknown,    open, 'Ter',6     XP: []
-      Ik hoop dat dit geen fout is.
-      Ik hoop dat dit geen grote fout is.
-
 4079:     [yes], unknown,    open, 'Ter',21    XP: []
       Pedro heeft geen zus.
       Pedro heeft geen vrouwelijk familielid.
@@ -4260,9 +4151,6 @@ Error in gen_quant_tt
       Tom heeft niet genoeg tijd voor een kopje koffie.
       Tom heeft niet genoeg tijd voor een kopje oploskoffie.
 
-ERROR: Cannot align tokens in sentence id=2833
-term tokens=[[[verre,van],[Engels]]]
-anno tokens=[Ik,kan,verre,van,Engels,spreken,.]
 4084:     [yes], unknown,    open, 'Ter',63    XP: []
       Ik kan geen woord Duits spreken.
       Ik kan geen enkel woord Duits spreken.
@@ -4291,15 +4179,15 @@ anno tokens=[Ik,kan,verre,van,Engels,spreken,.]
       Tom heeft al jaren geen piano gespeeld.
       Tom heeft al te veel jaren geen piano gespeeld.
 
-4095:     [yes], unknown,    open, 'Ter',6     XP: []
+4095:     [yes], unknown,    open, 'Ter',93    XP: []
       Tom zei dat hij niet in Boston zou willen wonen.
       Tom zei dat hij niet in de stad van Boston zou willen wonen.
 
-4096:     [yes], unknown,    open, 'Ter',6     XP: []
+4096:     [yes], unknown,    open, 'Ter',92    XP: []
       Tom zei dat hij niet in Boston zou willen wonen.
       Tom zei dat hij niet in het mooie Boston zou willen wonen.
 
-4103:     [yes], unknown,    open, 'Lim',428   XP: []
+4103:     [yes], unknown,    open, 'Lim',410   XP: []
       Een rapper zonder bling is als een paus zonder kruis.
       Een rapper zonder bling is als een paus zonder een incompleet kruis.
 
@@ -4415,6 +4303,8 @@ Error in gen_quant_tt
       Ik kan helemaal geen Duits spreken.
       Ik kan geen Duits en Italiaans spreken.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 4155:     [yes], unknown,    open, 'Ter',8     XP: []
       Ik kan helemaal geen Duits spreken.
       Ik kan helemaal niet zelfverzekerd Duits spreken.
