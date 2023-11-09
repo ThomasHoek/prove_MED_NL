@@ -31,7 +31,7 @@ You will need to install [produce](https://github.com/texttheater/produce) if yo
    These sentences are currently commented out in sen.pl, but if you want to replicate you have to comment these back unless they are fixed.
 
 ## Running
-Please check the `solve_sick` folder and `langpro` folder for instructions, below is a summerisation of how to use produce commands specifically for this repo. For the results, please use the produce.ini file.
+Please check the `solve_sick` folder and `langpro` repo's for instructions, below is a summerisation of how to use produce commands specifically for this repo. For the results, please use the produce.ini file.
 
 ---
 
