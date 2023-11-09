@@ -4,8 +4,9 @@ Prove Dutch NLI problems of [MED-NL](https://aclanthology.org/2023.findings-eacl
 
 ## Prerequisites
 
-1. In `config.txt`, set the path to [LangPro](https://github.com/kovvalsky/LangPro) and to   [prove_SICK_NL](https://github.com/kovvalsky/prove_SICK_NL).
+1. In `config.txt`, set the path to [LangPro](https://github.com/kovvalsky/LangPro) and to [prove_SICK_NL](https://github.com/kovvalsky/prove_SICK_NL).
    - Or place all three folders in the same parent folder for automatic configuration.
+   - Incase you want to replicate the results on MED, change the WN location to LangPro/WNProlog
 
 2. Get Langpro repo with
 `git clone --branch nl git@github.com:kovvalsky/LangPro.git` or `git clone --branch nl https://github.com/kovvalsky/LangPro.git`.
@@ -26,33 +27,44 @@ After this run `produce fix_aethel` or manually replace the following lines in `
 4. `produce.ini` contains rules how to generate files.
 You will need to install [produce](https://github.com/texttheater/produce) if you want to use the rules to build files from scratch.
 
-5. (TEMP FIX): Certain lines are currently broken; please comment all sentences in `%problem id = 97` and `%problem id = 98` in sen.pl
+5. Certain lines are currently broken and will cause the entail_all to stop; the broken lines are in MED_NL/problems/sen_pl_prob.txt.
+   These sentences are currently commented out in sen.pl, but if you want to replicate you have to comment these back unless they are fixed.
 
 ## Running
-
-Please check the `solve_sick` folder and `langpro` folder for instructions.
-Future tutorial and helpful commands to be added soon.
+Please check the `solve_sick` folder and `langpro` folder for instructions, below is a summerisation of how to use produce commands specifically for this repo. For the results, please use the produce.ini file.
 
 ---
 
-```bash
-#  loading the prover with alpino (or npn_robbert) trees
-produce langpro
+Multiple produce commands have been setup to ease up the use of testing. To manually load langpro, you can use one of the following commands:
 
-swipl -f ../prove_SICK_NL/prolog/main.pl  MED_NL/sen.pl  MED_NL/parses/alpino_aethel.pl  ../prove_SICK_NL/WNProlog/wn.pl
+## Dutch MED
+
+This is the standard command used to test with LangPro, this preloads already working settings and allows for easy testing.
+```bash
+produce langpro_crowd_alpino
+```
+or
+```bash
+produce langpro_paper_alpino
 ```
 
-```prolog
-% This can be run only in the beginning, to set the global parameters: the part of the dataset, language flag, lexical annotation file, and theorem proving parameters
-parList([parts([paper]), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck]).
-parList([parts([crowd]), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck]).
+These are commands to load a pure langpro parser un-initialised, you will receive an echo with a "ready to go" command which can be modified.
+```bash
+produce langpro_MEDNL_paper
+```
+or
+```bash
+produce langpro_MEDNL_crowd
+```
 
-parList([parts([paper]), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck, waif('Results/result.txt')]).
-parList([parts([crowd]), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck, waif('Results/result.txt')]).
 
-parList([parts([paper]), parallel(X), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck, waif('Results/result.txt')]).
-parList([parts([crowd]), parallel(X), lang(nl), anno_json('MED_NL/anno/alpino.json'), complete_tree, allInt, aall, wn_ant, wn_sim, wn_der, constchck, waif('Results/result.txt')]).
+## English
+For the English MED, seperate commands were created due to discrepacy in pathing and commands. The pure command for this is
 
-parList([nil,effCr([equi,nonBr,nonProd,nonCons]),ral(400),parts([crowd]),lang(nl), aall,wn_ant,wn_sim,wn_der,constchck,allInt,anno_json('MED_NL/anno/alpino.json'), waif('Results/result.txt')]).
-parList([nil,effCr([equi,nonBr,nonProd,nonCons]),ral(400),parts([crowd]),lang(nl),parallel(20),aall,wn_ant,wn_sim,wn_der,constchck,allInt,anno_json('MED_NL/anno/alpino.json'), waif('Results/result.txt')]).
+```bash
+produce langpro_MED_paper
+```
+or
+```bash
+produce langpro_MED_crowd
 ```
