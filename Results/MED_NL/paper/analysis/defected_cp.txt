@@ -1,38 +1,38 @@
-49:     [yes], unknown,    open, 'Ter',76    XP: []
-      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
-      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
-  
 52:     [yes], unknown,    open, 'Ter',59    XP: []
       We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
       We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
-  
-50: [unknown], unknown,    open, 'Ter',76    XP: []
-      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
-      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
   
 51: [unknown], unknown,    open, 'Ter',59    XP: []
       We beschouwen alle contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
       We beschouwen alle woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
   
-73: [unknown],     yes,  closed, 'Ter',24    XP: [int(leven veranderen),int(verdrietig)]
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+50: [unknown], unknown,    open, 'Ter',76    XP: []
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+  
+49:     [yes], unknown,    open, 'Ter',76    XP: []
+      We beschouwen een paar contextwoorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
+      We beschouwen een paar woorden als positieve voorbeelden en nemen willekeurige negatieven uit het woordenboek.
   
 71:     [yes],     yes,  closed, 'Ter',14    XP: [int(leven veranderen)]
       Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
       Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
   
+73: [unknown],     yes,  closed, 'Ter',24    XP: [int(leven veranderen),int(verdrietig)]
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+
 70: [unknown], unknown,    open, 'Ter',65    XP: []
       De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
       De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
   
-74:     [yes], unknown,    open, 'Ter',68    XP: []
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-  
 69: [unknown], unknown,    open, 'Ter',89    XP: []
       De laatste keer dat ik op bezoek was was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
       De laatste keer dat ik mijn vriend bezocht was bijna 6 maanden geleden en ik vind nog steeds huskyvacht op mijn sokken.
+  
+74:     [yes], unknown,    open, 'Ter',68    XP: []
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
   
 72: [unknown], unknown,    open, 'Ter',120   XP: []
       Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
@@ -45,15 +45,18 @@ ERROR: Cannot align tokens in sentence id=3821
 term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
 Inconsistency in node types (entail/8)
-81: [unknown], unknown,      NA, 'Defected'  XP: _4421156
+81: [unknown], unknown,      NA, 'Defected'  XP: _4422444
       Raar dat je iets wil laten zien aan een stapel papieren.
       Raar dat je deze video wil laten zien aan een stapel papieren.
 
+ERROR: Cannot align tokens in sentence id=3821
+term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
 ERROR: Cannot align tokens in sentence id=3822
 term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
 Inconsistency in node types (entail/8)
-82:     [yes], unknown,      NA, 'Defected'  XP: _4365552
+82:     [yes], unknown,      NA, 'Defected'  XP: _4367856
       Raar dat je deze video wil laten zien aan een stapel papieren.
       Raar dat je iets wil laten zien aan een stapel papieren.
 
@@ -64,7 +67,7 @@ ERROR: Cannot align tokens in sentence id=3167
 term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
 anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,ieder,aantal,voorbeelden,genoeg,is,om,van,te,leren,.]
 Inconsistency in node types (entail/8)
-101: [unknown], unknown,      NA, 'Defected'  XP: _4422114
+101: [unknown], unknown,      NA, 'Defected'  XP: _4423402
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
 
@@ -75,7 +78,7 @@ ERROR: Cannot align tokens in sentence id=3166
 term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
 anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,een,voorbeeld,genoeg,is,om,van,te,leren,.]
 Inconsistency in node types (entail/8)
-102: [unknown], unknown,      NA, 'Defected'  XP: _4366510
+102: [unknown], unknown,      NA, 'Defected'  XP: _4368814
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
 

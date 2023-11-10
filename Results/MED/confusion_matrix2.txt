@@ -1,0 +1,185 @@
+lexical_knowledge upward_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.6881    0.4464    0.5415       168
+     neutral     0.8533    0.9409    0.8950       575
+
+    accuracy                         0.8291       743
+   macro avg     0.7707    0.6936    0.7182       743
+weighted avg     0.8160    0.8291    0.8150       743
+
+conjunction upward_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.9500    0.7808    0.8571        73
+     neutral     0.8632    0.9712    0.9140       104
+
+    accuracy                         0.8927       177
+   macro avg     0.9066    0.8760    0.8856       177
+weighted avg     0.8990    0.8927    0.8906       177
+
+disjunction upward_monotone
+               precision    recall  f1-score   support
+
+contradiction     0.0000       nan       nan         0
+   entailment     0.8611    0.6889    0.7654        45
+      neutral     0.7857    0.8627    0.8224        51
+
+     accuracy                         0.7812        96
+    macro avg     0.5489    0.7758    0.7939        96
+ weighted avg     0.8211    0.7812    0.7957        96
+
+conditionals upward_monotone
+              precision    recall  f1-score   support
+
+  entailment     1.0000    0.4286    0.6000         7
+     neutral     0.8095    1.0000    0.8947        17
+
+    accuracy                         0.8333        24
+   macro avg     0.9048    0.7143    0.7474        24
+weighted avg     0.8651    0.8333    0.8088        24
+
+npi upward_monotone
+               precision    recall  f1-score   support
+
+contradiction     0.0000       nan       nan         0
+   entailment     0.8182    0.3913    0.5294        23
+      neutral     0.7451    0.9268    0.8261        41
+
+     accuracy                         0.7344        64
+    macro avg     0.5211    0.6591    0.6777        64
+ weighted avg     0.7714    0.7344    0.7195        64
+
+reverse upward_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.5738    0.2991    0.3933       117
+     neutral     0.5287    0.7797    0.6301       118
+
+    accuracy                         0.5404       235
+   macro avg     0.5513    0.5394    0.5117       235
+weighted avg     0.5512    0.5404    0.5122       235
+
+other upward_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.9595    0.8229    0.8860       288
+     neutral     0.8869    0.9756    0.9292       410
+
+    accuracy                         0.9126       698
+   macro avg     0.9232    0.8993    0.9076       698
+weighted avg     0.9169    0.9126    0.9113       698
+
+lexical_knowledge downward_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.9403    0.3772    0.5385       334
+     neutral     0.3936    0.9441    0.5556       143
+
+    accuracy                         0.5472       477
+   macro avg     0.6669    0.6607    0.5470       477
+weighted avg     0.7764    0.5472    0.5436       477
+
+conjunction downward_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.8293    0.4198    0.5574        81
+     neutral     0.2769    0.7200    0.4000        25
+
+    accuracy                         0.4906       106
+   macro avg     0.5531    0.5699    0.4787       106
+weighted avg     0.6990    0.4906    0.5203       106
+
+disjunction downward_monotone
+               precision    recall  f1-score   support
+
+contradiction     0.0000       nan       nan         0
+   entailment     0.3636    0.1951    0.2540        82
+      neutral     0.2791    0.4286    0.3380        56
+
+     accuracy                         0.2899       138
+    macro avg     0.2142    0.3118    0.2960       138
+ weighted avg     0.3293    0.2899    0.2881       138
+
+conditionals downward_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.8654    0.4412    0.5844       102
+     neutral     0.2192    0.6957    0.3333        23
+
+    accuracy                         0.4880       125
+   macro avg     0.5423    0.5684    0.4589       125
+weighted avg     0.7465    0.4880    0.5382       125
+
+npi downward_monotone
+               precision    recall  f1-score   support
+
+contradiction     0.0000       nan       nan         0
+   entailment     0.8409    0.4134    0.5543       179
+      neutral     0.4080    0.8161    0.5441        87
+
+     accuracy                         0.5451       266
+    macro avg     0.4163    0.6147    0.5492       266
+ weighted avg     0.6993    0.5451    0.5510       266
+
+reverse downward_monotone
+              precision    recall  f1-score   support
+
+  entailment     1.0000    0.8333    0.9091         6
+     neutral     0.7500    1.0000    0.8571         3
+
+    accuracy                         0.8889         9
+   macro avg     0.8750    0.9167    0.8831         9
+weighted avg     0.9167    0.8889    0.8918         9
+
+other downward_monotone
+               precision    recall  f1-score   support
+
+contradiction     0.0000       nan       nan         0
+   entailment     0.8755    0.6346    0.7358      1352
+      neutral     0.6114    0.8629    0.7157       897
+
+     accuracy                         0.7257      2249
+    macro avg     0.4956    0.7487    0.7258      2249
+ weighted avg     0.7702    0.7257    0.7278      2249
+
+lexical_knowledge non_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.0000    0.0000       nan         3
+     neutral     0.9778    0.7374    0.8408       179
+
+    accuracy                         0.7253       182
+   macro avg     0.4889    0.3687    0.8408       182
+weighted avg     0.9617    0.7253    0.8408       182
+
+disjunction non_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.0000       nan       nan         0
+     neutral     1.0000    0.6000    0.7500        20
+
+    accuracy                         0.6000        20
+   macro avg     0.5000    0.6000    0.7500        20
+weighted avg     1.0000    0.6000    0.7500        20
+
+npi non_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.0000       nan       nan         0
+     neutral     1.0000    0.7500    0.8571         8
+
+    accuracy                         0.7500         8
+   macro avg     0.5000    0.7500    0.8571         8
+weighted avg     1.0000    0.7500    0.8571         8
+
+other non_monotone
+              precision    recall  f1-score   support
+
+  entailment     0.0312    0.2500    0.0556         4
+     neutral     0.9483    0.6395    0.7639        86
+
+    accuracy                         0.6222        90
+   macro avg     0.4898    0.4448    0.4097        90
+weighted avg     0.9075    0.6222    0.7324        90
+

@@ -19,7 +19,7 @@ Inconsistency in node types (entail/8)
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-152: [unknown], unknown,      NA, 'Defected'  XP: _2455276
+152: [unknown], unknown,      NA, 'Defected'  XP: _2457228
       Een paar bloemen bloeien in de lente en anderen in de herfst.
       Een paar roosbloemen bloeien in de lente en anderen in de herfst.
 
@@ -72,17 +72,17 @@ Inconsistency in node types (entail/8)
       De hoop neight niet de realiteit vast te leggen.
 
 Inconsistency in node types (entail/8)
-309: [unknown], unknown,      NA, 'Defected'  XP: _1273362
+309: [unknown], unknown,      NA, 'Defected'  XP: _3461856
       In ieder geval, dat is een illusie.
       In ieder geval, dat is een illusie en paranoïde.
 
 Inconsistency in node types (entail/8)
-316: [unknown], unknown,      NA, 'Defected'  XP: _3244568
+316: [unknown], unknown,      NA, 'Defected'  XP: _5436450
       Als de hemel op de aarde zou vallen, zou vogels vangen een simpele taak zijn.
       Als de hemel op de aarde zou vallen, zou vogels vangen en dansen in de hemel een simpele taak zijn.
 
 Inconsistency in node types (entail/8)
-329: [unknown], unknown,      NA, 'Defected'  XP: _1274320
+329: [unknown], unknown,      NA, 'Defected'  XP: _3462814
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste jonge mensen het liefst naar heavy metal muziek luisteren.
 
@@ -91,12 +91,12 @@ Inconsistency in node types (entail/8)
       Een paar leraren en schoolhoofden hebben een geweldig effect op hun studenten.
 
 Inconsistency in node types (entail/8)
-338: [unknown], unknown,      NA, 'Defected'  XP: _3850570
+338: [unknown], unknown,      NA, 'Defected'  XP: _3808422
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste mannen het liefst naar rock muziek luisteren.
 
 Inconsistency in node types (entail/8)
-339: [unknown], unknown,      NA, 'Defected'  XP: _6009552
+339: [unknown], unknown,      NA, 'Defected'  XP: _5988888
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste verslaafden het liefst naar rock muziek luisteren.
 
@@ -108,9 +108,7 @@ Inconsistency in node types (entail/8)
       Senator Rosario Ibarra is een mensenrechten militant.
       Senator politicus is een mensenrechten militant.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 438: [unknown], unknown,      NA, 'Defected'  XP: []
+438: [unknown], unknown,      NA, 'Defected'  XP: []
       We speelden iedere zaterdag Amerikaans voetbal.
       We speelden iedere zaterdag Amerikaans voetbal en volleybal.
 
@@ -119,25 +117,29 @@ Error in gen_quant_tt
       We speelden iedere zaterdag Amerikaans voetbal.
 
 Inconsistency in node types (entail/8)
-466: [unknown], unknown,      NA, 'Defected'  XP: _3795518
+466: [unknown], unknown,      NA, 'Defected'  XP: _5985364
       Het heeft geen zin om mij voor de gek proberen te houden.
       Het heeft geen zin om mij proberen pijn te doen.
 
-467: [unknown], unknown,      NA, 'Defected'  XP: []
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 467: [unknown], unknown,      NA, 'Defected'  XP: []
       Ik heb een paar konijnvormige koekjes gemaakt.
       Ik heb een paar konijnvormige koekjes en cupcakes gemaakt.
 
-468:     [yes], unknown,      NA, 'Defected'  XP: []
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 468:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik heb een paar konijnvormige koekjes en cupcakes gemaakt.
       Ik heb een paar konijnvormige koekjes gemaakt.
 
 Inconsistency in node types (entail/8)
-469: [unknown], unknown,      NA, 'Defected'  XP: _3243744
+469: [unknown], unknown,      NA, 'Defected'  XP: _5432238
       Ik ben alles behalve een leugenaar.
       Ik ben alles behalve een dief.
 
 Inconsistency in node types (entail/8)
-470: [unknown], unknown,      NA, 'Defected'  XP: _3026144
+470: [unknown], unknown,      NA, 'Defected'  XP: _3027642
       Ik ben alles behalve een leugenaar.
       Ik ben alles behalve een bedelaar.
 
@@ -170,24 +172,22 @@ Inconsistency in node types (entail/8)
       Tom kocht een paar chocolaatjes voor Mary.
       Tom kocht een paar lekkere chocolaatjes en snoepjes voor Mary.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 643:     [yes], unknown,      NA, 'Defected'  XP: []
+643:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom kocht een paar lekkere chocolaatjes en snoepjes voor Mary.
       Tom kocht een paar chocolaatjes voor Mary.
 
 Inconsistency in node types (entail/8)
-645: [unknown], unknown,      NA, 'Defected'  XP: _5431292
+645: [unknown], unknown,      NA, 'Defected'  XP: _1431262
       Ze woont in een of ander dorp in India.
       Ze woont in een of ander dorp in een ander land.
 
 Inconsistency in node types (entail/8)
-646: [unknown], unknown,      NA, 'Defected'  XP: _4976478
+646: [unknown], unknown,      NA, 'Defected'  XP: _874640
       Ze woont in een of ander dorp in India.
       Ze woont in een of ander dorp in het buitenland.
 
 Inconsistency in node types (entail/8)
-647: [unknown], unknown,      NA, 'Defected'  XP: _3088
+647: [unknown], unknown,      NA, 'Defected'  XP: _2434692
       Ze woont in een of ander dorp in India.
       Ze woont in een of ander dorp in noord India.
 
@@ -195,7 +195,6 @@ Inconsistency in node types (entail/8)
       Iedere zin aanwezig in Tatoeba is een leugen.
       Iedere zin die arbeid beschrijft aanwezig in Tatoeba is een leugen.
 
-Error in gen_quant_tt
 Error in gen_quant_tt
  734: [unknown], unknown,      NA, 'Defected'  XP: []
       Ik weet dat jij en Tom een paar problemen gehad hebben.
@@ -212,38 +211,33 @@ Inconsistency in node types (entail/8)
       Een tsunami is een reeks van golven gecreëerd wanneer een waterlichaam snel ontheemde op een enorme schaal.
       Een seismische golf in de zee is een reeks van golven gecreëerd wanneer een waterlichaam snel ontheemde op een enorme schaal.
 
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
 ERROR: Cannot align tokens in sentence id=1327
 term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
 anno tokens=[Gisteren,is,niet,goed,voor,mij,.]
 Inconsistency in node types (entail/8)
-751: [unknown], unknown,      NA, 'Defected'  XP: _4649350
+751: [unknown], unknown,      NA, 'Defected'  XP: _4651198
       Vandaag is niet goed voor mij.
       Gisteren is niet goed voor mij.
 
-752: [unknown], unknown,      NA, 'Defected'  XP: []
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
+ 752: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag is niet goed voor mij.
       Maandag is niet goed voor me.
 
-ERROR: Cannot align tokens in sentence id=4558
-term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
-anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
-Error in gen_quant_tt
-Error in gen_quant_tt
- 753: [unknown], unknown,      NA, 'Defected'  XP: []
+753: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag is niet goed voor mij.
       Zondag is niet goed voor mij.
 
-ERROR: Cannot align tokens in sentence id=4558
-term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
-anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
- 754: [unknown], unknown,      NA, 'Defected'  XP: []
+754: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag is niet goed voor mij.
       Vandaag afspreken is niet goed voor me.
 
-ERROR: Cannot align tokens in sentence id=4558
-term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
-anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
- 755: [unknown], unknown,      NA, 'Defected'  XP: []
+755: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag is niet goed voor mij.
       Vandaag vliegen is niet goed voor me.
 
@@ -260,12 +254,12 @@ Inconsistency in node types (entail/8)
       Moderne kunst interesseert Tom niet.
       Moderne kunst en wetenschap interesseren Tom niet.
 
-796:     [yes], unknown,      NA, 'Defected'  XP: []
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 796:     [yes], unknown,      NA, 'Defected'  XP: []
       Moderne kunst en wetenschap interesseren Tom niet.
       Moderne kunst interesseert Tom niet.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
@@ -277,27 +271,27 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-807: [unknown], unknown,      NA, 'Defected'  XP: _2939468
+807: [unknown], unknown,      NA, 'Defected'  XP: _5371118
       Het is geen thee maar koffie dat ik wil.
       Het is geen thee maar ijs dat ik wil.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-808: [unknown], unknown,      NA, 'Defected'  XP: _684522
+808: [unknown], unknown,      NA, 'Defected'  XP: _3415028
       Het is geen thee maar koffie dat ik wil.
       Het is geen thee maar koffie met melk dat ik wil.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-809:     [yes], unknown,      NA, 'Defected'  XP: _1594818
+809:     [yes], unknown,      NA, 'Defected'  XP: _3993594
       Het is geen thee maar koffie met melk dat ik wil.
       Het is geen thee maar koffie dat ik wil.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
@@ -310,7 +304,7 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-811: [unknown], unknown,      NA, 'Defected'  XP: _5891856
+811: [unknown], unknown,      NA, 'Defected'  XP: _5893704
       Het is geen thee maar koffie dat ik wil.
       Het is geen thee maar bier dat ik wil.
 
@@ -318,10 +312,7 @@ Inconsistency in node types (entail/8)
       Ik ontving een telegram van haar.
       Ik ontving een telegram die over haar vriend ging van haar.
 
-ERROR: Cannot align tokens in sentence id=3964
-term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
-anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
- 839:     [yes], unknown,      NA, 'Defected'  XP: []
+839:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik ontving een telegram die over haar vriend ging van haar.
       Ik ontving een telegram van haar.
 
@@ -346,7 +337,6 @@ anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
       Tom kan ook wat Frans en Spaans spreken.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
  931:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom kan ook wat Frans en Spaans spreken.
       Tom kan ook wat Frans spreken.
@@ -358,7 +348,10 @@ anno tokens=[Vandaag,ging,niet,goed,.]
       Vandaag ging niet goed.
       Morgen ging niet goed.
 
-988: [unknown], unknown,      NA, 'Defected'  XP: []
+ERROR: Cannot align tokens in sentence id=4554
+term tokens=[[[ging],[niet],[goed],[.]]]
+anno tokens=[Vandaag,ging,niet,goed,.]
+ 988: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag ging niet goed.
       Wedstrijddag ging niet goed.
 
@@ -369,9 +362,7 @@ anno tokens=[Vandaag,ging,niet,goed,.]
       Vandaag ging niet goed.
       Wiskunde examen ging niet goed.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 990: [unknown], unknown,      NA, 'Defected'  XP: []
+990: [unknown], unknown,      NA, 'Defected'  XP: []
       Vandaag ging niet goed.
       De meeting ging niet goed.
 
@@ -402,7 +393,7 @@ Inconsistency in node types (entail/8)
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
 
 Inconsistency in node types (entail/8)
-1002:     [yes], unknown,      NA, 'Defected'  XP: _2114786
+1002:     [yes], unknown,      NA, 'Defected'  XP: _4200568
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
 
@@ -423,13 +414,13 @@ Inconsistency in node types (entail/8)
       Ik smeer mosterd op een sneetje volkoren brood.
       Ik smeer mosterd op een sneetje brood.
 
-ERROR: Cannot align tokens in sentence id=3964
-term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
-anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
 1119: [unknown], unknown,      NA, 'Defected'  XP: []
       Tom drinkt melk iedere ochtend.
       Tom drink een glas koude melk iedere ochtend.
 
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
 1120:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom drink een glas koude melk iedere ochtend.
       Tom drinkt melk iedere ochtend.
@@ -462,8 +453,6 @@ Inconsistency in node types (entail/8)
       Tom gaf wat melk aan de kat.
       Tom gaf wat melk en water aan de kat.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1208:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom gaf wat melk en water aan de kat.
       Tom gaf wat melk aan de kat.
@@ -484,12 +473,12 @@ Error in gen_quant_tt
       Tom drinkt een biertje gemaakt van tarwe.
       Tom drinkt een biertje.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1287: [unknown], unknown,      NA, 'Defected'  XP: []
       Tom smeerde wat aarbeienjam op zijn toast.
       Tom smeerde wat aarbeien en ananasjam op zijn toast.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1288: [unknown], unknown,      NA, 'Defected'  XP: []
       Tom smeerde wat aarbeienjam op zijn toast.
       Tom smeerde wat aarbeien en perzikjam op zijn toast.
@@ -506,8 +495,6 @@ Error in gen_quant_tt
       Ik heb geen keuze.
       Ik heb geen keuze en rechten.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1353: [unknown], unknown,      NA, 'Defected'  XP: []
       Ik heb geen keuze en rechten.
       Ik heb geen keuze.
@@ -536,17 +523,15 @@ Inconsistency in node types (entail/8)
       Ik kan geen rucola of andere bittere groenten uitstaan.
       Ik kan geen bladgroenten of andere bittere groenten uitstaan.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-1585:     [yes], unknown,      NA, 'Defected'  XP: _4819290
+1585:     [yes], unknown,      NA, 'Defected'  XP: _136120
       Ik kan geen rucola of andere bittere groenten uitstaan.
       Ik kan geen onrijpe rucola of andere bittere groenten uitstaan.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-1586: [unknown], unknown,      NA, 'Defected'  XP: _5591470
+1586: [unknown], unknown,      NA, 'Defected'  XP: _2501732
       Ik kan geen onrijpe rucola of andere bittere groenten uitstaan.
       Ik kan geen rucola of andere bittere groenten uitstaan.
 
@@ -556,7 +541,7 @@ Inconsistency in node types (entail/8)
       Als je een betekenis verandert die al een paar andere vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
 
 Inconsistency in node types (entail/8)
-1600:     [yes], unknown,      NA, 'Defected'  XP: _4465684
+1600:     [yes], unknown,      NA, 'Defected'  XP: _4300120
       Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
       Als je deze soort zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
 
@@ -566,12 +551,10 @@ Inconsistency in node types (entail/8)
       Als je een zin verandert in deze tekst, die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
 
 Inconsistency in node types (entail/8)
-1602:     [yes], unknown,      NA, 'Defected'  XP: _5465292
+1602:     [yes], unknown,      NA, 'Defected'  XP: _1541140
       Als je een zin verandert die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
       Als je een zinsvolgorde verandert in deze tekst, die al een paar vertalingen heeft, waarschuw alsjeblieft de auteurs van de vertalingen erover.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1646:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom had geen opties over.
       Tom had geen opties of oplossingen over.
@@ -590,16 +573,10 @@ Error in gen_quant_tt
       Tom luister zelden naar muziek thuis.
       Tom luistert zelden naar muziek in zijn nieuwe huis.
 
-ERROR: Cannot align tokens in sentence id=4331
-term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
-anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 1698: [unknown], unknown,      NA, 'Defected'  XP: []
       Tom luistert zelden naar muziek in zijn nieuwe huis.
       Tom luister zelden naar muziek thuis.
 
-ERROR: Cannot align tokens in sentence id=4331
-term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
-anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 1699:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom luister zelden naar muziek thuis.
       Tom luistert zelden naar muziek in zijn huis.
@@ -619,10 +596,12 @@ Error in gen_quant_tt
       Winnaars gebruiken geen drugs en verdovende middelen.
 
 Inconsistency in node types (entail/8)
-1747:     [yes], unknown,      NA, 'Defected'  XP: _4209412
+1747:     [yes], unknown,      NA, 'Defected'  XP: _2938424
       Tom zei dat hij nooit walvisvlees heeft geprobeerd te eten.
       Tom zei dat hij nooit in zijn leven walvisvlees heeft geprobeerd te eten.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1758:     [yes], unknown,      NA, 'Defected'  XP: []
       Je begrijpt geen Britse humor.
       Je begrijpt geen Britse humor of idiomen.
@@ -633,7 +612,7 @@ Inconsistency in node types (entail/8)
       Geen verdere noodzaak om deze tekst te vertalen, ik heb de Spaanse versie al.
 
 Inconsistency in node types (entail/8)
-1763:     [yes], unknown,      NA, 'Defected'  XP: _368712
+1763:     [yes], unknown,      NA, 'Defected'  XP: _200644
       We kunnen hier praten, geen probleem.
       We kunnen hier praten, geen probleem en begin met praten.
 
@@ -642,32 +621,34 @@ Inconsistency in node types (entail/8)
       We kunnen hier praten, geen probleem.
       We kunnen hier praten, geen probleem en ik ben een en al oor.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1850:     [yes], unknown,      NA, 'Defected'  XP: []
       We hebben nog niet genoeg informatie om een beslissing te maken.
       We hebben nog niet genoeg feiten en informatie om een beslissing te maken.
 
 Inconsistency in node types (entail/8)
-1868:     [yes], unknown,      NA, 'Defected'  XP: _4018792
+1868:     [yes], unknown,      NA, 'Defected'  XP: _4528
       Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
       Tom zei dat hij nooit in zijn leven hondenvoer heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-1869:     [yes], unknown,      NA, 'Defected'  XP: _4961216
+1869:     [yes], unknown,      NA, 'Defected'  XP: _1122194
       Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
       Tom zei dat hij nooit papperig hondenvoer heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-1870:     [yes], unknown,      NA, 'Defected'  XP: _2509520
+1870:     [yes], unknown,      NA, 'Defected'  XP: _2510420
       Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
       Tom zei dat hij nooit droog hondenvoer heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-1871: [unknown], unknown,      NA, 'Defected'  XP: _1044648
+1871: [unknown], unknown,      NA, 'Defected'  XP: _1217652
       Tom zei dat hij nooit droog hondenvoer heeft geprobeerd te eten.
       Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
 
 Inconsistency in node types (entail/8)
-1872:     [yes], unknown,      NA, 'Defected'  XP: _4422564
+1872:     [yes], unknown,      NA, 'Defected'  XP: _4423464
       Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten.
       Tom zei dat hij nooit hondenvoer heeft geprobeerd te eten voor ontbijt.
 
@@ -684,8 +665,6 @@ Inconsistency in node types (entail/8)
       Tom leidt echt geen makkelijk leven.
       Tom leidt echt geen makkelijk leven in tegenstelling tot anderen.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1907:     [yes], unknown,      NA, 'Defected'  XP: []
       Deze soep heeft geen substantie.
       Deze soep heeft geen substantie of textuur.
@@ -699,12 +678,11 @@ Error in gen_quant_tt
       Je bent absoluut perfect, op elke iedere manier.
 
 Error in gen_quant_tt
+Error in gen_quant_tt
 1948:     [yes], unknown,      NA, 'Defected'  XP: []
       Wetenschappers hebben nog geen vaccin voor kanker gevonden.
       Wetenschappers hebben nog geen vaccin en medicijn voor kanker gevonden.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1949:     [yes], unknown,      NA, 'Defected'  XP: []
       Wetenschappers hebben nog geen vaccin voor kanker gevonden.
       Wetenschappers hebben nog geen vaccin en succesvolle behandeling voor kanker gevonden.
@@ -752,7 +730,7 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-2182:     [yes], unknown,      NA, 'Defected'  XP: _1430924
+2182:     [yes], unknown,      NA, 'Defected'  XP: _4425634
       Ik krijg geen kop of staart van deze foto.
       Ik krijg geen kop of staart van deze grote foto.
 
@@ -766,7 +744,7 @@ Inconsistency in node types (entail/8)
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-2184:     [yes], unknown,      NA, 'Defected'  XP: _2904322
+2184:     [yes], unknown,      NA, 'Defected'  XP: _2894536
       Ik krijg geen kop of staart van deze foto.
       Ik krijg geen kop of staart van dit schilderij geschilderd door picasso.
 
@@ -789,12 +767,13 @@ Error in gen_quant_tt
       Ik spreek geen Frans en Engels thuis.
 
 Error in gen_quant_tt
+Error in gen_quant_tt
 2309:     [yes], unknown,      NA, 'Defected'  XP: []
       Jack kan zich geen nieuwe fiets veroorloven.
       Jack kan zich geen nieuwe fiets of motorfiets veroorloven.
 
 Inconsistency in node types (entail/8)
-2323:     [yes], unknown,      NA, 'Defected'  XP: _2115118
+2323:     [yes], unknown,      NA, 'Defected'  XP: _5095108
       Geloof dat niet, het is allemaal een sprookje.
       Geloof dat niet, het is allemaal een oud sprookje.
 
@@ -829,7 +808,7 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-2394:     [yes], unknown,      NA, 'Defected'  XP: _5146
+2394:     [yes], unknown,      NA, 'Defected'  XP: _6173668
       Iedere jongen en meisje is geleerd te lezen en schrijven.
       Iedere jongen en meisje in de school is geleerd te lezen en schrijven.
 
@@ -843,52 +822,54 @@ Inconsistency in node types (entail/8)
       Iedere jongen en meisje is geleerd te lezen en schrijven.
 
 Inconsistency in node types (entail/8)
-2437:     [yes], unknown,      NA, 'Defected'  XP: _4263204
+2437:     [yes], unknown,      NA, 'Defected'  XP: _826418
       Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
       Ga niet tot stomme uitersten, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-2438:     [yes], unknown,      NA, 'Defected'  XP: _2252612
+2438:     [yes], unknown,      NA, 'Defected'  XP: _1635652
       Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
       Ga niet tot belachelijke uitersten, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-2439:     [yes], unknown,      NA, 'Defected'  XP: _241676
+2439:     [yes], unknown,      NA, 'Defected'  XP: _180614
       Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
       Ga niet tot zulke uitersten, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-2440:     [yes], unknown,      NA, 'Defected'  XP: _5913706
+2440:     [yes], unknown,      NA, 'Defected'  XP: _5833172
       Ga niet tot uitersten, gematigd zijn is belangrijk in alles.
       Ga niet tot uitersten op zulk niveau, gematigd zijn is belangrijk in alles.
 
 Inconsistency in node types (entail/8)
-2470:     [yes], unknown,      NA, 'Defected'  XP: _137886
+2470:     [yes], unknown,      NA, 'Defected'  XP: _2311764
       Toms vader keurt het niet goed dat hij lang haar en een baard heeft.
       Toms vader keurt het niet goed dat hij lang haar en een getrimde baard heeft.
 
 Inconsistency in node types (entail/8)
-2471:     [yes], unknown,      NA, 'Defected'  XP: _5358108
+2471:     [yes], unknown,      NA, 'Defected'  XP: _4380452
       Toms vader keurt het niet goed dat hij lang haar en een baard heeft.
       Toms vader keurt het niet goed dat hij lang haar en een ringbaard heeft.
-
-2492:     [yes], unknown,      NA, 'Defected'  XP: []
-      Ik stel gewoonlijk geen vragen.
-      Ik stel gewoonlijk niet vaak vragen.
 
 ERROR: Cannot align tokens in sentence id=2934
 term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
 anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
-Error in gen_quant_tt
-Error in gen_quant_tt
+2492:     [yes], unknown,      NA, 'Defected'  XP: []
+      Ik stel gewoonlijk geen vragen.
+      Ik stel gewoonlijk niet vaak vragen.
+
 2493: [unknown], unknown,      NA, 'Defected'  XP: []
       Ik stel gewoonlijk niet vaak vragen.
       Ik stel gewoonlijk geen vragen.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2591: [unknown], unknown,      NA, 'Defected'  XP: []
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk en toetsen.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2592:     [yes], unknown,      NA, 'Defected'  XP: []
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk en toetsen.
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
@@ -899,8 +880,6 @@ Error in gen_quant_tt
       Tom wilde geen poker spelen.
       Tom wilde geen poker of uno spelen.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2659:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom wilde geen poker of uno spelen.
       Tom wilde geen poker spelen.
@@ -911,8 +890,6 @@ Error in gen_quant_tt
       Deze zin heeft geen auteurs.
       Deze zin heeft geen schrijvers of auteurs.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2691:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik wil onnodige risico’s vermijden.
       Ik wil onnodige risico’s en ongeluk vermijden.
@@ -976,40 +953,37 @@ Error in gen_quant_tt
       Roken is ten alle tijden niet toegestaan bij dit treinstation.
 
 Inconsistency in node types (entail/8)
-2902:     [yes], unknown,      NA, 'Defected'  XP: _1762360
+2902:     [yes], unknown,      NA, 'Defected'  XP: _4588334
       Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
       Je hebt geen wettelijke positie om mijn eigendom in beslag te nemen.
 
-ERROR: Cannot align tokens in sentence id=2158
-term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
-anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
 Inconsistency in node types (entail/8)
-2903:     [yes], unknown,      NA, 'Defected'  XP: _448620
+2903:     [yes], unknown,      NA, 'Defected'  XP: _6067314
       Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
       Je hebt geen wettelijke autoriteit om mijn eigendom in beslag te nemen.
 
 Inconsistency in node types (entail/8)
-2904:     [yes], unknown,      NA, 'Defected'  XP: _5907056
+2904:     [yes], unknown,      NA, 'Defected'  XP: _5845994
       Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
       Je hebt geen wettelijk recht en ook enig internationaal recht om mijn eigendom in beslag te nemen.
 
 Inconsistency in node types (entail/8)
-2905:     [yes], unknown,      NA, 'Defected'  XP: _5266850
+2905:     [yes], unknown,      NA, 'Defected'  XP: _5056690
       Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
       Je hebt geen wettelijke vrijheid om mijn eigendom in beslag te nemen.
 
 Inconsistency in node types (entail/8)
-2906:     [yes], unknown,      NA, 'Defected'  XP: _5937540
+2906:     [yes], unknown,      NA, 'Defected'  XP: _4807536
       Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
       Je hebt geen wettelijke toestemming om mijn eigendom in beslag te nemen.
 
 Inconsistency in node types (entail/8)
-2907:     [yes], unknown,      NA, 'Defected'  XP: _4129748
+2907:     [yes], unknown,      NA, 'Defected'  XP: _4098196
       Je hebt geen wettelijk recht om mijn eigendom in beslag te nemen.
       Je hebt geen wettelijke vrijheid om mijn eigendom in beslag te nemen.
 
 Inconsistency in node types (entail/8)
-2936:     [yes], unknown,      NA, 'Defected'  XP: _3750284
+2936:     [yes], unknown,      NA, 'Defected'  XP: _2598186
       Je kunt hier niet leren, dit is een school!
       Je kunt hier niet leren, dit is een geweldige school!
 
@@ -1020,35 +994,37 @@ Error in gen_quant_tt
       Tom draagt gewoonlijk geen hoed of pet.
 
 Inconsistency in node types (entail/8)
-2949:     [yes], unknown,      NA, 'Defected'  XP: _4787520
+2949:     [yes], unknown,      NA, 'Defected'  XP: _4772320
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind vloeistof van gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2950:     [yes], unknown,      NA, 'Defected'  XP: _5906630
+2950:     [yes], unknown,      NA, 'Defected'  XP: _5830906
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind een fles gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2951:     [yes], unknown,      NA, 'Defected'  XP: _3550410
+2951:     [yes], unknown,      NA, 'Defected'  XP: _4254704
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind een soort gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2952:     [yes], unknown,      NA, 'Defected'  XP: _5800
+2952:     [yes], unknown,      NA, 'Defected'  XP: _3390638
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind dit gevaarlijke gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2953:     [yes], unknown,      NA, 'Defected'  XP: _2547440
+2953:     [yes], unknown,      NA, 'Defected'  XP: _2532240
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind een beetje gif drinkt, haast hem naar het ziekenhuis.
 
 Inconsistency in node types (entail/8)
-2954:     [yes], unknown,      NA, 'Defected'  XP: _364040
+2954:     [yes], unknown,      NA, 'Defected'  XP: _2603416
       Als jouw kind gif drinkt, haast hem naar het ziekenhuis.
       Als jouw kind venijn drinkt, haast hem naar het ziekenhuis.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2955:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom zei dat hij geen vriendin wil.
       Tom zei dat hij geen vriendin en vriend wil.
@@ -1082,7 +1058,7 @@ ERROR: Cannot align tokens in sentence id=4436
 term tokens=[[[geen],[bezoekers],[uit],[de],[VS],[.]]]
 anno tokens=[Tom,verwachte,geen,bezoekers,uit,de,VS,.]
 Inconsistency in node types (entail/8)
-2998:     [yes], unknown,      NA, 'Defected'  XP: _1669412
+2998:     [yes], unknown,      NA, 'Defected'  XP: _1649186
       Tom verwachte geen bezoekers.
       Tom verwachte geen bezoekers uit de VS.
 
@@ -1093,7 +1069,7 @@ ERROR: Cannot align tokens in sentence id=4437
 term tokens=[[[geen],[bezoekers],[.]]]
 anno tokens=[Tom,verwachte,geen,bezoekers,.]
 Inconsistency in node types (entail/8)
-2999: [unknown], unknown,      NA, 'Defected'  XP: _3696212
+2999: [unknown], unknown,      NA, 'Defected'  XP: _3646784
       Tom verwachte geen bezoekers uit de VS.
       Tom verwachte geen bezoekers.
 
@@ -1104,18 +1080,12 @@ ERROR: Cannot align tokens in sentence id=4434
 term tokens=[[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
 anno tokens=[Tom,verwachte,geen,bezoeken,van,zijn,neven,.]
 Inconsistency in node types (entail/8)
-3000:     [yes], unknown,      NA, 'Defected'  XP: _6180640
+3000:     [yes], unknown,      NA, 'Defected'  XP: _6020368
       Tom verwachte geen bezoeken.
       Tom verwachte geen bezoeken van zijn neven.
 
-ERROR: Cannot align tokens in sentence id=4434
-term tokens=[[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
-anno tokens=[Tom,verwachte,geen,bezoeken,van,zijn,neven,.]
-ERROR: Cannot align tokens in sentence id=4435
-term tokens=[[[geen],[bezoeken],[.]]]
-anno tokens=[Tom,verwachte,geen,bezoeken,.]
 Inconsistency in node types (entail/8)
-3001: [unknown], unknown,      NA, 'Defected'  XP: _5445966
+3001: [unknown], unknown,      NA, 'Defected'  XP: _5345566
       Tom verwachte geen bezoeken van zijn neven.
       Tom verwachte geen bezoeken.
 
@@ -1133,12 +1103,12 @@ Inconsistency in node types (entail/8)
       Mijn broer en zus worden wakker ongeveer half acht iedere doordeweekse ochtend.
 
 Inconsistency in node types (entail/8)
-3062: [unknown], unknown,      NA, 'Defected'  XP: _4191856
+3062: [unknown], unknown,      NA, 'Defected'  XP: _832456
       Mijn broer en zus worden wakker ongeveer half acht iedere doordeweekse ochtend.
       Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
 
 Inconsistency in node types (entail/8)
-3063:     [yes], unknown,      NA, 'Defected'  XP: _5022518
+3063:     [yes], unknown,      NA, 'Defected'  XP: _4430436
       Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
       Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de zomer.
 
@@ -1153,7 +1123,7 @@ Inconsistency in node types (entail/8)
       Mijn broer en zus worden wakker ongeveer half acht iedere schooldagochtend.
 
 Inconsistency in node types (entail/8)
-3066: [unknown], unknown,      NA, 'Defected'  XP: _1263020
+3066: [unknown], unknown,      NA, 'Defected'  XP: _269420
       Mijn broer en zus worden wakker ongeveer half acht iedere schoolochtend.
       Mijn broer en zus worden wakker ongeveer half acht iedere dagochtend.
 
@@ -1163,7 +1133,7 @@ Inconsistency in node types (entail/8)
       Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de vakanties.
 
 Inconsistency in node types (entail/8)
-3068: [unknown], unknown,      NA, 'Defected'  XP: _3926266
+3068: [unknown], unknown,      NA, 'Defected'  XP: _5950
       Mijn broer en zus worden wakker ongeveer half acht iedere ochtend in de vakanties.
       Mijn broer en zus worden wakker ongeveer half acht iedere ochtend.
 
@@ -1178,6 +1148,8 @@ Error in gen_quant_tt
       Er is geen andere manier om dit te doen.
       Er is geen andere manier of middel om dit te doen.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3093:     [yes], unknown,      NA, 'Defected'  XP: []
       Niet een paar huizen waren vernietigd in de tyfoon.
       Niet een paar huizen en gebouwen waren vernietigd in de tyfoon.
@@ -1207,6 +1179,9 @@ anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herin
       Ik kan me het deuntje van het liedje niet herinneren.
       Ik kan me het deuntje van het liedje dat hij ooit hoorde niet herinneren.
 
+ERROR: Cannot align tokens in sentence id=2798
+term tokens=[[[het],[deuntje],[van],[het],[liedje]]]
+anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herinneren,.]
 3264: [unknown], unknown,      NA, 'Defected'  XP: []
       Ik kan me het deuntje van het liedje dat hij ooit hoorde niet herinneren.
       Ik kan me het deuntje van het liedje niet herinneren.
@@ -1219,6 +1194,8 @@ Error in gen_quant_tt
 
 Error in gen_quant_tt
 Error in gen_quant_tt
+Error in gen_quant_tt
+Error in gen_quant_tt
 Inconsistency in node types (entail/8)
 3327:     [yes], unknown,      NA, 'Defected'  XP: _306178
       Tom eet geen vlees of eieren.
@@ -1229,7 +1206,7 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3328: [unknown], unknown,      NA, 'Defected'  XP: _1230276
+3328: [unknown], unknown,      NA, 'Defected'  XP: _1907570
       Tom eet geen vlees of gebakken eieren.
       Tom eet geen vlees of eieren.
 
@@ -1238,7 +1215,7 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3329:     [yes], unknown,      NA, 'Defected'  XP: _3198632
+3329:     [yes], unknown,      NA, 'Defected'  XP: _2875308
       Tom eet geen vlees of eieren.
       Tom eet geen vlees of roerei.
 
@@ -1247,7 +1224,7 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3330: [unknown], unknown,      NA, 'Defected'  XP: _500160
+3330: [unknown], unknown,      NA, 'Defected'  XP: _156440
       Tom eet geen vlees of roerei.
       Tom eet geen vlees of eieren.
 
@@ -1265,7 +1242,7 @@ Error in gen_quant_tt
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3332: [unknown], unknown,      NA, 'Defected'  XP: _5081458
+3332: [unknown], unknown,      NA, 'Defected'  XP: _1443602
       Tom eet geen vlees of eendeneieren.
       Tom eet geen vlees of eieren.
 
@@ -1276,7 +1253,7 @@ Error in gen_quant_tt
       Je moet de zaak beoordelen zonder enig vooroordeel en vulgair taalgebruik.
 
 Inconsistency in node types (entail/8)
-3403:     [yes], unknown,      NA, 'Defected'  XP: _385454
+3403:     [yes], unknown,      NA, 'Defected'  XP: _5302942
       Ze was nooit op zoek naar een excuus.
       Ze was nooit op zoek naar een excuus in die kwestie.
 
@@ -1349,7 +1326,7 @@ Error in gen_quant_tt
       Ik hoef gewoonlijk niet op zondagen te werken omdat dat betekent dat ik overuren betaald zou krijgen.
 
 Inconsistency in node types (entail/8)
-3743:     [yes], unknown,      NA, 'Defected'  XP: _1309236
+3743:     [yes], unknown,      NA, 'Defected'  XP: _362146
       Geen noodzaak om deze zin te vertalen, ik begrijp het.
       Geen noodzaak om in een woordenboek te zoeken om deze zin te vertalen, ik begrijp het.
 
@@ -1359,13 +1336,13 @@ Error in gen_quant_tt
       Tom had niet genoeg kracht om de la te openen.
       Tom had niet genoeg kracht en energie om de la te openen.
 
+ERROR: Cannot align tokens in sentence id=2158
+term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
+anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
 3756:     [yes], unknown,      NA, 'Defected'  XP: []
       Ieder gesproken woord wekt zijn tegenspraak op.
       Ieder tekst woord gesproken wekt zijn tegenspraak op.
 
-ERROR: Cannot align tokens in sentence id=2158
-term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
-anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
 3757: [unknown], unknown,      NA, 'Defected'  XP: []
       Ieder tekst woord gesproken wekt zijn tegenspraak op.
       Ieder gesproken woord wekt zijn tegenspraak op.
@@ -1378,7 +1355,7 @@ anno tokens=[Ieder,sprekers,woord,gesproken,wekt,zijn,tegenspraak,op,.]
       Ieder sprekers woord gesproken wekt zijn tegenspraak op.
 
 Inconsistency in node types (entail/8)
-3763:     [yes], unknown,      NA, 'Defected'  XP: _1310194
+3763:     [yes], unknown,      NA, 'Defected'  XP: _363104
       Hij drinkt het liefst zijn koffie zonder suiker.
       Hij drinkt het liefst zijn koffie zonder te veel suiker.
 
@@ -1388,15 +1365,17 @@ Inconsistency in node types (entail/8)
       Hij drinkt het liefst zijn koffie zonder suiker.
 
 Inconsistency in node types (entail/8)
-3765: [unknown], unknown,      NA, 'Defected'  XP: _5809256
+3765: [unknown], unknown,      NA, 'Defected'  XP: _5783774
       Hij drinkt het liefst zijn koffie zonder suiker.
       Hij drinkt het liefst zijn koffie zonder suiker of melk.
 
 Inconsistency in node types (entail/8)
-3766:     [yes], unknown,      NA, 'Defected'  XP: _962888
+3766:     [yes], unknown,      NA, 'Defected'  XP: _6193736
       Hij drinkt het liefst zijn koffie zonder suiker of melk.
       Hij drinkt het liefst zijn koffie zonder suiker.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3808:     [yes], unknown,      NA, 'Defected'  XP: []
       Je kan beter discussie over religie en politiek vermijden.
       Je kan beter discussie over katholieke religie en politiek vermijden.
@@ -1413,12 +1392,10 @@ Inconsistency in node types (entail/8)
       Als je wil dat een man een aanzoek doet voor een verassend huwelijk, voed hem goed.
 
 Inconsistency in node types (entail/8)
-3812:     [yes], unknown,      NA, 'Defected'  XP: _3503930
+3812:     [yes], unknown,      NA, 'Defected'  XP: _6802
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een man een aanzoek doet voor een snel huwelijk, voed hem goed.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3872:     [yes], unknown,      NA, 'Defected'  XP: []
       Ze heeft geen recht om dit te doen.
       Ze heeft geen recht en authoriteit om dit te doen.
@@ -1429,22 +1406,18 @@ Error in gen_quant_tt
       Voorlopig heb ik geen plan.
       Voorlopig heb ik geen plan of project gaande.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3896:     [yes], unknown,      NA, 'Defected'  XP: _2857950
+3896:     [yes], unknown,      NA, 'Defected'  XP: _5840486
       Het is geen thee maar koffie dat ik wil.
       Het is geen groene thee maar koffie dat ik wil.
 
 Error in gen_quant_tt
 Error in gen_quant_tt
 Inconsistency in node types (entail/8)
-3897:     [yes], unknown,      NA, 'Defected'  XP: _5894458
+3897:     [yes], unknown,      NA, 'Defected'  XP: _5737160
       Het is geen thee maar koffie dat ik wil.
       Het is geen kruidenthee maar koffie dat ik wil.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3898:     [yes], unknown,      NA, 'Defected'  XP: []
       Het is geen thee maar koffie dat ik wil.
       Het is geen kop thee maar koffie dat ik wil.
@@ -1472,7 +1445,7 @@ Error in gen_quant_tt
       Tom had geen keuze of alternatief dan te grijnzen en het te verdragen.
 
 Inconsistency in node types (entail/8)
-4043:     [yes], unknown,      NA, 'Defected'  XP: _1479776
+4043:     [yes], unknown,      NA, 'Defected'  XP: _7078
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een jongen een huwelijksaanzoek doet, voed hem goed.
 
@@ -1487,7 +1460,7 @@ Inconsistency in node types (entail/8)
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
 
 Inconsistency in node types (entail/8)
-4046:     [yes], unknown,      NA, 'Defected'  XP: _5509926
+4046:     [yes], unknown,      NA, 'Defected'  XP: _4408226
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een goede man een huwelijksaanzoek doet, voed hem goed.
 
@@ -1496,16 +1469,20 @@ Inconsistency in node types (entail/8)
       Als je wil dat een man een huwelijksaanzoek doet, voed hem goed.
       Als je wil dat een jonge man een huwelijksaanzoek doet, voed hem goed.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 4057:     [yes], unknown,      NA, 'Defected'  XP: []
       Integriteit heeft geen regels nodig.
       Integriteit heeft geen regels en manieren nodig.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 4071:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik heb geen idee.
       Ik heb geen idee of idee.
 
 Inconsistency in node types (entail/8)
-4082:     [yes], unknown,      NA, 'Defected'  XP: _2203840
+4082:     [yes], unknown,      NA, 'Defected'  XP: _3987744
       Als je de service niet goed vindt, laat geen fooi achter.
       Als je de service niet goed vindt, laat geen grote fooi achter.
 
@@ -1515,7 +1492,7 @@ Inconsistency in node types (entail/8)
       Tom wilde niet alleen rechtvaardigheid, hij wilde wraak.
 
 Inconsistency in node types (entail/8)
-4098:     [yes], unknown,      NA, 'Defected'  XP: _1526124
+4098:     [yes], unknown,      NA, 'Defected'  XP: _973050
       Tom wilde geen rechtvaardigheid, hij wilde wraak.
       Tom wilde geen rechtvaardigheid voor zichzelf, hij wilde wraak.
 

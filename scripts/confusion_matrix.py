@@ -2,6 +2,7 @@ import csv
 import numpy as np
 from sklearn.metrics import classification_report
 
+# data = open("Results/MED/crowd/med.ans", "r").readlines()
 data = open("Results/MED_NL/crowd/alpino_aethel.alpino.ans", "r").readlines()
 data = [x.rstrip().split("\t") for x in data[3:]]
 
@@ -9,6 +10,7 @@ data_dict = {}
 for line in data:
     data_dict[line[0]] = line[1].lower()
 
+# data = open("Results/MED/paper/med.ans", "r").readlines()
 data = open("Results/MED_NL/paper/alpino_aethel.alpino.ans", "r").readlines()
 data = [x.rstrip().split("\t") for x in data[3:]]
 for line in data:
@@ -16,9 +18,10 @@ for line in data:
 
 
 feature_set = set()
-med_NL = "MED_NL/MED_NL.tsv"
+med_data = "MED_NL/MED_NL.tsv"
+# med_data = "MED/MED.tsv"
 med_info_dict = {}
-with open(med_NL) as TSV:
+with open(med_data) as TSV:
     for row in csv.DictReader(TSV, delimiter="\t"):
         features = row["genre"].split(":")
         features = [x.lower() for x in features]
@@ -28,7 +31,7 @@ with open(med_NL) as TSV:
 
 import sys
 
-sys.stdout = open("Results/MED_NL/confusion_matrix.txt", "w")
+sys.stdout = open(fr"Results/{med_data.split(r'/')[0]}/confusion_matrix.txt", "w")
 for feature in feature_set:
     true_data = []
     predictions = []
@@ -47,7 +50,7 @@ for feature in feature_set:
 # sys.stdout.close()
 
 
-sys.stdout = open("Results/MED_NL/confusion_matrix2.txt", "w")
+sys.stdout = open(fr"Results/{med_data.split(r'/')[0]}/confusion_matrix2.txt", "w")
 
 feature_lst = [
     "lexical_knowledge",

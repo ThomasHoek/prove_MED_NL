@@ -58,7 +58,8 @@
       Jouw broer was niet op school vandaag.
       Jouw broer was niet op school gisteren en vandaag.
 
-691: [unknown],     yes,  closed, 'Ter',1     XP: [isa(maagd,meisje),isa(meisje,maagd)]
+Error in gen_quant_tt
+ 691: [unknown],     yes,  closed, 'Ter',1     XP: [isa(maagd,meisje),isa(meisje,maagd)]
       Ik ben een normaal meisje.
       Ik ben een normale maagd.
 
@@ -78,7 +79,7 @@
       Mijn opa kan niet lopen zonder een stok.
       Mijn opa kan niet lopen zonder een stok.
 
-812: [unknown],     yes,  closed, 'Ter',14    XP: [int(who@abst(_5551194,vertellen@mij@_5551194@'Tom')),isa(over@c1@ding,ding)]
+812: [unknown],     yes,  closed, 'Ter',14    XP: [int(who@abst(_5544336,vertellen@mij@_5544336@'Tom')),isa(over@c1@ding,ding)]
       Een paar dingen die Tom mij vertelde zijn niet waar.
       Een paar dingen over mijn vrouw die Tom mij vertelde zijn niet waar.
 
@@ -158,6 +159,10 @@
       Ik vat zelden kou die langer dan een week aanhoudt.
       Ik vat zelden kou.
 
+1318: [unknown],     yes,  closed, 'Ter',9     XP: [int(eerstejaars)]
+      Als eerstejaars studenten niet komen, start de les niet.
+      Als studenten niet komen, start de les niet.
+
 1390: [unknown],     yes,  closed, 'Ter',10    XP: [isa(met@c3@ruzie,ruzie)]
       Geen bruiloft zou compleet zijn zonder een ruzie.
       Geen bruiloft zou compleet zijn zonder een ruzie met een partner.
@@ -166,6 +171,8 @@
       Tom draagt zelden een grote hoed.
       Tom draagt zelden een hoed.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1420: [unknown],     yes,  closed, 'Ter',18    XP: [int(algemeen)]
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
@@ -202,6 +209,8 @@
       Benzine is niet langer meer een goedkope krachtige brandstof.
       Benzine is niet langer meer een goedkope brandstof.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1508: [unknown],     yes,  closed, 'Ter',4     XP: [int(nieuw)]
       Hij toont geen enkele interesse in nieuwe wetenschap.
       Hij toont geen enkele interesse in wetenschap.
@@ -238,10 +247,14 @@
       De katholieke kerk vergoeilijkt geen gebruik van mannelijke condooms.
       De katholieke kerk vergoeilijkt geen gebruik van condooms.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1638: [unknown],     yes,  closed, 'Ter',4     XP: [int(gratis)]
       De katholieke kerk vergoeilijkt geen gebruik van gratis condooms.
       De katholieke kerk vergoeilijkt geen gebruik van condooms.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1661: [unknown],     yes,  closed, 'Ter',10    XP: []
       Ik heb lange dagen niet geslapen.
       Ik heb dagen niet geslapen.
@@ -286,6 +299,9 @@
       Ik kan geen Duits spreken buiten de universiteit.
       Ik kan geen Duits spreken.
 
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 1951: [unknown],     yes,  closed, 'Ter',21    XP: [int(blond)]
       Ik heb nog nooit eerder een blonde vriendin gehad.
       Ik heb nog nooit eerder een vriendin gehad.
@@ -378,11 +394,11 @@
       Mensen kunnen leven zonder mannelijke vrienden.
       Mensen kunnen leven zonder vrienden.
 
-2283: [unknown],     yes,  closed, 'Ter',13    XP: [int(bloot stellen)]
+2283: [unknown],     yes,  closed, 'Ter',10    XP: [int(bloot stellen)]
       Als je een blootgestelde draad aanraakt, zul je een schok krijgen.
       Als je een draad aanraakt, zul je een schok krijgen.
 
-2285: [unknown],     yes,  closed, 'Ter',13    XP: [int(blauw)]
+2285: [unknown],     yes,  closed, 'Ter',10    XP: [int(blauw)]
       Als je een blauwe draad aanraakt, zul je een schok krijgen.
       Als je een draad aanraakt, zul je een schok krijgen.
 
@@ -393,10 +409,6 @@
 2302: [unknown],     yes,  closed, 'Ter',4     XP: [int(koel)]
       Farragut veroverde new orleans zonder een koel gevecht.
       Farragut veroverde new orleans zonder een gevecht.
-
-2359: [unknown],     yes,  closed, 'Ter',4     XP: []
-      De meeste Amerikanen kunnen geen Duits spreken als een inboorling.
-      De meeste Amerikanen kunnen geen Duits spreken.
 
 2376: [unknown],     yes,  closed, 'Ter',10    XP: [int(doorsnee)]
       Tom luistert bijna nooit naar doorsnee muziek.
@@ -454,6 +466,10 @@
       Onze familie viert geen kerst dit jaar.
       Onze familie viert geen kerst.
 
+2642: [unknown],     yes,  closed, 'Ter',4     XP: []
+      Ik hou niet van verandering als het onbekend voor me is.
+      Ik hou niet van verandering.
+
 2650: [unknown],     yes,  closed, 'Ter',4     XP: []
       Ik heb niet eens een huis om te verblijven.
       Ik heb niet eens een huis.
@@ -478,6 +494,8 @@
       Ik kan helemaal niet in de zee zwemmen.
       Ik kan helemaal niet zwemmen.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2774: [unknown],     yes,  closed, 'Ter',16    XP: [isa(van@morgen@meeting,meeting)]
       Ik kan helemaal niet zwemmen bij de meetings van morgen.
       Ik kan helemaal niet zwemmen.
@@ -506,35 +524,23 @@
       Als ik een buitenlander was, zou ik waarschijnlijk geen rauwe vis kunnen eten voor het avondeten.
       Als ik een buitenlander was, zou ik waarschijnlijk geen rauwe vis kunnen eten.
 
-2835: [unknown],     yes,  closed, 'Ter',14    XP: []
-      Als Tom naar Boston gaat voor het afstuderen, ga ik ook.
-      Als Tom naar Boston gaat, ga ik ook.
-
-2837: [unknown],     yes,  closed, 'Ter',6     XP: []
-      Als Tom naar Boston gaat deze zomer, ga ik ook.
-      Als Tom naar Boston gaat, ga ik ook.
-
-2839: [unknown],     yes,  closed, 'Ter',9     XP: []
-      Als Tom naar Boston gaat in februari, ga ik ook.
-      Als Tom naar Boston gaat, ga ik ook.
-
-2927: [unknown],     yes,  closed, 'Ter',17    XP: [int(kaal)]
+2927: [unknown],     yes,  closed, 'Ter',14    XP: [int(kaal)]
       Als je de kale draad aanraakt, zul je een schok krijgen.
       Als je de draad aanraakt, zul je een schok krijgen.
 
-2929: [unknown],     yes,  closed, 'Ter',17    XP: [int(elektrisch)]
+2929: [unknown],     yes,  closed, 'Ter',14    XP: [int(elektrisch)]
       Als je de elektrische draad aanraakt, zul je een schok krijgen.
       Als je de draad aanraakt, zul je een schok krijgen.
 
-2931: [unknown],     yes,  closed, 'Ter',17    XP: [int(koperen)]
+2931: [unknown],     yes,  closed, 'Ter',14    XP: [int(koperen)]
       Als je de koperen draad aanraakt, zul je een schok krijgen.
       Als je de draad aanraakt, zul je een schok krijgen.
 
-2933: [unknown],     yes,  closed, 'Ter',17    XP: [int(lang)]
+2933: [unknown],     yes,  closed, 'Ter',14    XP: [int(lang)]
       Als je de lange draad aanraakt, zul je een schok krijgen.
       Als je de draad aanraakt, zul je een schok krijgen.
 
-2935: [unknown],     yes,  closed, 'Ter',17    XP: [int(beschadigen)]
+2935: [unknown],     yes,  closed, 'Ter',14    XP: [int(beschadigen)]
       Als je de beschadigde draad aanraakt, zul je een schok krijgen.
       Als je de draad aanraakt, zul je een schok krijgen.
 
@@ -614,19 +620,19 @@
       Ik heb niet veel vooruitgang geboekt vandaag.
       Ik heb niet veel vooruitgang geboekt.
 
-3180: [unknown],     yes,  closed, 'Ter',23    XP: []
+3180: [unknown],     yes,  closed, 'Ter',20    XP: []
       Als ik het vliegtuig had genomen dat over de oceaan stortte, zou ik nu niet levend zijn.
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
 
-3182: [unknown],     yes,  closed, 'Ter',27    XP: [int(ongelukkig)]
+3182: [unknown],     yes,  closed, 'Ter',24    XP: [int(ongelukkig)]
       Als ik het ongelukkige vliegtuig had genomen, zou ik nu niet levend zijn.
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
 
-3184: [unknown],     yes,  closed, 'Ter',27    XP: [int(blauw)]
+3184: [unknown],     yes,  closed, 'Ter',24    XP: [int(blauw)]
       Als ik het blauwe vliegtuig had genomen, zou ik nu niet levend zijn.
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
 
-3186: [unknown],     yes,  closed, 'Ter',20    XP: []
+3186: [unknown],     yes,  closed, 'Ter',17    XP: []
       Als ik het vliegtuig had genomen gisteren, zou ik nu niet levend zijn.
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
 
@@ -738,7 +744,7 @@
       Je moet de zaak beoordelen zonder enig vooroordeel voor je vriend.
       Je moet de zaak beoordelen zonder enig vooroordeel.
 
-3353: [unknown],     yes,  closed, 'Ter',15    XP: [int(middelbaar)]
+3353: [unknown],     yes,  closed, 'Ter',12    XP: [int(middelbaar)]
       Als de middelbare school niet verplicht was, zou ik stoppen met erheen gaan.
       Als school niet verplicht was, zou ik stoppen met erheen gaan.
 
@@ -773,10 +779,6 @@
 3484: [unknown],     yes,  closed, 'Ter',72    XP: [isa(not@veel@tijd,tijd),isa(helemaal@not@veel@tijd,tijd)]
       Tom spendeert helemaal niet veel tijd in zaken in Boston.
       Tom spendeert niet veel tijd.
-
-3498: [unknown],     yes,  closed, 'Ter',4     XP: []
-      Ik kan geen Japans spreken als een moedertaalspreker.
-      Ik kan geen Japans spreken.
 
 3520: [unknown],     yes,  closed, 'Ter',15    XP: []
       Tom kan helemaal niet in zwembaden zwemmen.
@@ -850,15 +852,15 @@
       Ik wil hier niet naar de gevangenis.
       Ik wil niet naar de gevangenis.
 
-3646: [unknown],     yes,  closed, 'Ter',22    XP: []
+3646: [unknown],     yes,  closed, 'Ter',19    XP: []
       Als het zonnig is morgen in het park, gaan we picknicken.
       Als het zonnig is morgen, gaan we picknicken.
 
-3648: [unknown],     yes,  closed, 'Ter',22    XP: []
+3648: [unknown],     yes,  closed, 'Ter',19    XP: []
       Als het zonnig is morgen in de berg, gaan we picknicken.
       Als het zonnig is morgen, gaan we picknicken.
 
-3650: [unknown],     yes,  closed, 'Ter',16    XP: []
+3650: [unknown],     yes,  closed, 'Ter',13    XP: []
       Als het zonnig is morgen rond het park, gaan we picknicken.
       Als het zonnig is morgen, gaan we picknicken.
 

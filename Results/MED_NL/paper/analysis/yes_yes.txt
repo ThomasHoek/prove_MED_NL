@@ -1,7 +1,7 @@
 1:     [yes],     yes,  closed, 'Ter',10    XP: [isa(voor@c1@nobel prijs,nobel prijs)]
       Een Ierse man won de nobelprijs voor literatuur.
       Een Ierse man won een nobelprijs.
-  
+   
 43:     [yes],     yes,  closed, 'Ter',4     XP: [isa(hond,dier)]
       Een paar honden krabben graag hun oren.
       Een paar dieren krabben graag hun oren.
@@ -57,7 +57,7 @@
 4307:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Ieder buitenaards wezen dronk wat cola.
       Ieder buitenaards wezen dronk frisdrank.
-  
+
 4323:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Veel buitenaardse wezens dronken wat cola.
       Veel buitenaardse wezens dronken frisdrank.
@@ -65,6 +65,14 @@
 4339:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Het blauwe buitenaardse wezen dronk wat cola.
       Het blauwe buitenaardse wezen dronk frisdrank.
+  
+4596:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
+      Veel buitenaardse wezens aten bij Mexicaanse restaurants.
+      Veel buitenaardse wezens aten bij restaurants.
+  
+4477:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
+      Veel buitenaardse wezens kochten wat shirts.
+      Veel buitenaardse wezens kochten kleren.
 
 4377:     [yes],     yes,  closed, 'Ter',3     XP: [isa(duif,vogel)]
       Het paarse buitenaardse wezen zag geen vogels.
@@ -73,7 +81,7 @@
 4385:     [yes],     yes,  closed, 'Ter',5     XP: [isa(duif,vogel)]
       Geen buitenaards wezen zag vogels.
       Geen buitenaards wezen zag duiven.
-
+  
 4445:     [yes],     yes,  closed, 'Ter',2     XP: [isa(duif,vogel)]
       Ieder buitenaards wezen zag duiven.
       Ieder buitenaards wezen zag vogels.
@@ -97,10 +105,6 @@
 4476:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Veel buitenaardse wezens aten bij een paar Mexicaanse restaurants.
       Veel buitenaardse wezens aten bij restaurants.
-
-4477:     [yes],     yes,  closed, 'Ter',2     XP: [isa(shirt,kleren)]
-      Veel buitenaardse wezens kochten wat shirts.
-      Veel buitenaardse wezens kochten kleren.
 
 4484:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
       Het blauwe buitenaardse wezen at bij een paar Mexicaanse restaurants.
@@ -145,10 +149,6 @@
 4595:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Veel buitenaardse wezens dronken cola.
       Veel buitenaardse wezens dronken frisdrank.
-
-4596:     [yes],     yes,  closed, 'Ter',4     XP: [int(Mexicaans)]
-      Veel buitenaardse wezens aten bij Mexicaanse restaurants.
-      Veel buitenaardse wezens aten bij restaurants.
 
 4603:     [yes],     yes,  closed, 'Ter',2     XP: [isa(cola,frisdrank)]
       Het gele buitenaardse wezen dronk cola.

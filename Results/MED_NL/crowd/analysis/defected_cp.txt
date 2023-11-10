@@ -43,18 +43,16 @@
       Ze is niets dan een meisje met staartjes.
 
 Inconsistency in node types (entail/8)
-338: [unknown], unknown,      NA, 'Defected'  XP: _3850570
+338: [unknown], unknown,      NA, 'Defected'  XP: _3808422
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste mannen het liefst naar rock muziek luisteren.
 
 Inconsistency in node types (entail/8)
-339: [unknown], unknown,      NA, 'Defected'  XP: _6009552
+339: [unknown], unknown,      NA, 'Defected'  XP: _5988888
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
       Ik denk dat de meeste verslaafden het liefst naar rock muziek luisteren.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 429: [unknown], unknown,    open, 'Ter',138   XP: []
+429: [unknown], unknown,    open, 'Ter',138   XP: []
       Een violist die ik ken zegt dat hij een stradivarius heeft.
       Een violist die ik ken zegt dat hij een vioolwinkel heeft.
 
@@ -107,7 +105,6 @@ Error in gen_quant_tt
       Ik weet dat jij en Tom een paar emoties gehad hebben.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
  734: [unknown], unknown,      NA, 'Defected'  XP: []
       Ik weet dat jij en Tom een paar problemen gehad hebben.
       Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
@@ -134,11 +131,11 @@ Error in gen_quant_tt
       Sommigen beschouwen taal als een vorm van kennis.
       Sommigen beschouwen taal als belangrijke kennis.
 
-814: [unknown], unknown,    open, 'Ter',81    XP: []
+814: [unknown], unknown,    open, 'Ter',79    XP: []
       Als je haar in het Engels hoorde praten, zou je denken dat ze een Amerikaan is.
       Als je haar in het Engels hoorde praten, zou je denken dat ze een Indiaan is.
 
-815: [unknown], unknown,    open, 'Ter',81    XP: []
+815: [unknown], unknown,    open, 'Ter',79    XP: []
       Als je haar in het Engels hoorde praten, zou je denken dat ze een Amerikaan is.
       Als je haar in het Engels hoorde praten, zou je denken dat ze een schotse is.
 
@@ -149,7 +146,6 @@ Error in gen_quant_tt
 986:     [yes],     yes,  closed, 'Ter',2     XP: []
       Hij deed gisteren niets anders dan huilen.
       Hij deed niets anders dan huilen.
-Difference in Lemma Lexicons after normalization
 
 Inconsistency in node types (entail/8)
 1001: [unknown], unknown,      NA, 'Defected'  XP: _993098
@@ -157,7 +153,7 @@ Inconsistency in node types (entail/8)
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
 
 Inconsistency in node types (entail/8)
-1002:     [yes], unknown,      NA, 'Defected'  XP: _2114786
+1002:     [yes], unknown,      NA, 'Defected'  XP: _4200568
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek uit de 60s luisteren.
       Ik denk dat de meeste jonge mensen het liefst naar rock muziek luisteren.
 
@@ -197,6 +193,8 @@ Inconsistency in node types (entail/8)
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1420: [unknown],     yes,  closed, 'Ter',18    XP: [int(algemeen)]
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder algemeen geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
@@ -261,6 +259,7 @@ Inconsistency in node types (entail/8)
       Het is geen wonder dat een aardige man van zijn vermogen succesvol is.
       Het is geen wonder dat een man met zijn vermogen succesvol is.
 
+Error in gen_quant_tt
 1478:     [yes], unknown,    open, 'Ter',6     XP: []
       Het is geen wonder dat een man met zijn vermogen succesvol is.
       Het is geen wonder dat een knappe man van zijn vermogen succesvol is.
@@ -277,6 +276,9 @@ Inconsistency in node types (entail/8)
       Het probleem met ons is dat we geen fondsen hebben.
       Het probleem met ons is dat we geen tracker fondsen hebben.
 
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
 1485:     [yes],     yes,  closed, 'Ter',8     XP: [int(actief)]
       Het probleem met ons is dat we geen fondsen hebben.
       Het probleem met ons is dat we geen actieve fondsen hebben.
@@ -307,7 +309,7 @@ Error in gen_quant_tt
       Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
       Meneer Thomas had geen echt bezwaar tegen het gekozen worden van meneer white als voorzitter.
 
-1771:     [yes], unknown,    open, 'Lim',650   XP: []
+1771:     [yes], unknown,    open, 'Lim',651   XP: []
       Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
       Meneer Thomas had geen problemen met het gekozen worden van meneer white als voorzitter.
 
@@ -343,6 +345,9 @@ Error in gen_quant_tt
       Je kunt geen woord geloven dat hij zegt.
       Je kunt geen ding geloven dat hij zegt.
 
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 1930:     [yes], unknown,    open, 'Ter',15    XP: []
       Je kunt geen woord geloven dat hij zegt.
       Je kunt geen spul geloven dat hij zegt.
@@ -451,8 +456,6 @@ Error in gen_quant_tt
       Ik hoop dat je niet meteen resultaten verwacht.
       Ik hoop dat je niet meteen antwoorden verwacht.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2560:     [yes], unknown,    open, 'Ter',58    XP: []
       Ik hoop dat je niet meteen resultaten verwacht.
       Ik hoop niet dat je de resultaten verwacht die we niet meteen vinden.
@@ -513,6 +516,8 @@ Error in gen_quant_tt
       Het is geen wonder dat een man van zijn vermogen zo succesvol is.
       Het is geen wonder dat een geweldige man van zijn vermogen succesvol is.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2955:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom zei dat hij geen vriendin wil.
       Tom zei dat hij geen vriendin en vriend wil.
@@ -561,7 +566,7 @@ Error in gen_quant_tt
       Ik kan me geen leven voorstellen zonder muziek.
       Ik kan me niet voorstellen dat ik zou leven zonder soul muziek.
 
-3453:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_5334816,_5334816@(zeggen@(dat@(worden@dik@ze))@ze))@vlees,vlees)]
+3453:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_5327704,_5327704@(zeggen@(dat@(worden@dik@ze))@ze))@vlees,vlees)]
       Ze zullen geen vlees eten.
       Ze zullen geen vlees eten waarvan ze zeggen dat ze dik worden.
 
@@ -601,7 +606,7 @@ Error in gen_quant_tt
       Ik hoop dat dit geen fout is.
       Ik hoop dat dit geen fout is.
 
-3950:     [yes],     yes,  closed, 'Ter',21    XP: [int(groot),int(zo@(als@dat)@mooi)]
+3950:     [yes],     yes,  closed, 'Ter',21    XP: [int(groot),int(zo@(if@dat)@mooi)]
       Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
       Ik zou me nooit een groot huis zo mooi als dat kunnen veroorloven.
 
@@ -617,10 +622,13 @@ Error in gen_quant_tt
       Ik zou me nooit een strandhuis zo mooi als dat kunnen veroorloven.
       Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
 
-3954:     [yes],     yes,  closed, 'Ter',21    XP: [int(kleurrijk),int(zo@(als@dat)@mooi)]
+3954:     [yes],     yes,  closed, 'Ter',21    XP: [int(kleurrijk),int(zo@(if@dat)@mooi)]
       Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
       Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
 
+ERROR: Cannot align tokens in sentence id=2158
+term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
+anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
 3955: [unknown], unknown,    open, 'Lim',403   XP: []
       Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
       Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
@@ -641,11 +649,11 @@ Error in gen_quant_tt
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in het centrum van Boston zou willen wonen.
 
-4065:     [yes], unknown,    open, 'Ter',79    XP: []
+4065:     [yes], unknown,    open, 'Ter',324   XP: []
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in een grote stad als Boston zou willen wonen.
 
-4066:     [yes], unknown,    open, 'Ter',103   XP: []
+4066:     [yes], unknown,    open, 'Ter',99    XP: []
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in zo’n overvolle omgeving als Boston zou willen wonen.
 

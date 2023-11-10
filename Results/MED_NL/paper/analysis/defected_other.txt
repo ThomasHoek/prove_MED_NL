@@ -2,69 +2,66 @@ Inconsistency in node types (entail/8)
 8:     [yes], unknown,      NA, 'Defected'  XP: _850
       Ten minste drie commissarissen spenderen veel tijd thuis.
       Ten minste drie commissarissen spenderen tijd thuis.
-  
-Inconsistency in node types (entail/8)
-16:     [yes], unknown,      NA, 'Defected'  XP: _838
-      Niet meer dan tien commissarissen spenderen tijd thuis.
-      Niet meer dan tien commissarissen spenderen veel tijd thuis.
 
 Inconsistency in node types (entail/8)
 9: [unknown], unknown,      NA, 'Defected'  XP: _850
       Niet meer dan tien commissarissen spenderen veel tijd thuis.
       Niet meer dan tien commissarissen spenderen tijd thuis.
-  
+
 Inconsistency in node types (entail/8)
 15: [unknown], unknown,      NA, 'Defected'  XP: _838
       Ten minste drie commissarissen spenderen tijd thuis.
       Ten minste drie commissarissen spenderen veel tijd thuis.
-
+  
 Inconsistency in node types (entail/8)
-36: [unknown], unknown,      NA, 'Defected'  XP: _2190652
+36: [unknown], unknown,      NA, 'Defected'  XP: _2192410
       Ten minste drie commissarissen spenderen tijd thuis.
       Ten minste drie mannelijke commissarissen spenderen tijd thuis.
-   
+  
 Inconsistency in node types (entail/8)
 26:     [yes], unknown,      NA, 'Defected'  XP: _2254456
       Ten minste drie vrouwelijke commissarissen spenderen tijd thuis.
       Ten minste drie commissarissen spenderen tijd thuis.
-
+  
 Inconsistency in node types (entail/8)
-37:     [yes], unknown,      NA, 'Defected'  XP: _2280292
+37:     [yes], unknown,      NA, 'Defected'  XP: _2282596
       Niet meer dan tien commissarissen spenderen tijd thuis.
       Niet meer dan tien vrouwelijke commissarissen spenderen tijd thuis.
-
-ERROR: Cannot align tokens in sentence id=3822
-term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
-anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
+  
 Inconsistency in node types (entail/8)
-82:     [yes], unknown,      NA, 'Defected'  XP: _4365552
-      Raar dat je deze video wil laten zien aan een stapel papieren.
-      Raar dat je iets wil laten zien aan een stapel papieren.
-
-ERROR: Cannot align tokens in sentence id=693
-term tokens=[[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
-anno tokens=[Dus,er,is,geen,speciaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
-Inconsistency in node types (entail/8)
-100: [unknown], unknown,      NA, 'Defected'  XP: _2268526
+100: [unknown], unknown,      NA, 'Defected'  XP: _2275006
       Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
       Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
    
 Inconsistency in node types (entail/8)
-27: [unknown], unknown,      NA, 'Defected'  XP: _2338880
+27: [unknown], unknown,      NA, 'Defected'  XP: _2341394
       Niet meer dan tien vrouwelijke commissarissen spenderen tijd thuis.
       Niet meer dan tien commissarissen spenderen tijd thuis.
   
-ERROR: Cannot align tokens in sentence id=693
-term tokens=[[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
-anno tokens=[Dus,er,is,geen,speciaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
 ERROR: Cannot align tokens in sentence id=694
 term tokens=[[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
 anno tokens=[Dus,er,is,geen,speciaal,hoogdimensionaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
 Inconsistency in node types (entail/8)
-99:     [yes], unknown,      NA, 'Defected'  XP: _2691916
+99:     [yes], unknown,      NA, 'Defected'  XP: _2690330
       Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
       Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
   
+ERROR: Cannot align tokens in sentence id=3821
+term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
+ERROR: Cannot align tokens in sentence id=3822
+term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
+Inconsistency in node types (entail/8)
+82:     [yes], unknown,      NA, 'Defected'  XP: _4367856
+      Raar dat je deze video wil laten zien aan een stapel papieren.
+      Raar dat je iets wil laten zien aan een stapel papieren.
+
+Inconsistency in node types (entail/8)
+16:     [yes], unknown,      NA, 'Defected'  XP: _838
+      Niet meer dan tien commissarissen spenderen tijd thuis.
+      Niet meer dan tien commissarissen spenderen veel tijd thuis.
+
 ERROR: Cannot align tokens in sentence id=3822
 term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
@@ -72,7 +69,7 @@ ERROR: Cannot align tokens in sentence id=3821
 term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
 Inconsistency in node types (entail/8)
-81: [unknown], unknown,      NA, 'Defected'  XP: _4421156
+81: [unknown], unknown,      NA, 'Defected'  XP: _4422444
       Raar dat je iets wil laten zien aan een stapel papieren.
       Raar dat je deze video wil laten zien aan een stapel papieren.
 
@@ -83,7 +80,7 @@ ERROR: Cannot align tokens in sentence id=3167
 term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
 anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,ieder,aantal,voorbeelden,genoeg,is,om,van,te,leren,.]
 Inconsistency in node types (entail/8)
-101: [unknown], unknown,      NA, 'Defected'  XP: _4422114
+101: [unknown], unknown,      NA, 'Defected'  XP: _4423402
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
 
@@ -94,14 +91,9 @@ ERROR: Cannot align tokens in sentence id=3166
 term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
 anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,een,voorbeeld,genoeg,is,om,van,te,leren,.]
 Inconsistency in node types (entail/8)
-102: [unknown], unknown,      NA, 'Defected'  XP: _4366510
+102: [unknown], unknown,      NA, 'Defected'  XP: _4368814
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
-
-Inconsistency in node types (entail/8)
-4452:     [yes], unknown,    open, 'Ter',45    XP: []
-      Veel buitenaardse wezens lazen sci-fi romans.
-      Veel buitenaardse wezens lazen boeken.
 
 Inconsistency in node types (entail/8)
 4989: [unknown], unknown,      NA, 'Defected'  XP: _3316632
@@ -114,7 +106,7 @@ Inconsistency in node types (entail/8)
       Een of andere man rende.
 
 Inconsistency in node types (entail/8)
-4993: [unknown], unknown,      NA, 'Defected'  XP: _4909014
+4993: [unknown], unknown,      NA, 'Defected'  XP: _1399600
       Een of andere man rende.
       Een of andere man rende snel.
 
@@ -124,7 +116,7 @@ Inconsistency in node types (entail/8)
       Een of andere lange man rende.
 
 Inconsistency in node types (entail/8)
-5001:     [yes], unknown,      NA, 'Defected'  XP: _3482104
+5001:     [yes], unknown,      NA, 'Defected'  XP: _211462
       Een of andere lange man rende.
       Een of andere man rende.
 
@@ -164,7 +156,7 @@ Inconsistency in node types (entail/8)
       Ten minste een man zong of danste.
 
 Inconsistency in node types (entail/8)
-5013:     [yes], unknown,      NA, 'Defected'  XP: _4909972
+5013:     [yes], unknown,      NA, 'Defected'  XP: _1400558
       Ten minste een man danste.
       Ten minste een man zong of danste.
 
@@ -179,7 +171,7 @@ Inconsistency in node types (entail/8)
       Ze fluisterde meer dan drie woorden.
 
 Inconsistency in node types (entail/8)
-5061:     [yes], unknown,      NA, 'Defected'  XP: _3630644
+5061:     [yes], unknown,      NA, 'Defected'  XP: _360002
       Ze zei minder dan drie woorden.
       Ze fluisterde minder dan drie woorden.
 
@@ -204,7 +196,7 @@ Inconsistency in node types (entail/8)
       Ten minste vijf stippen zijn rood.
 
 Inconsistency in node types (entail/8)
-5096: [unknown], unknown,      NA, 'Defected'  XP: _2029730
+5096: [unknown], unknown,      NA, 'Defected'  XP: _4117982
       Ten minste vijf stippen zijn rood.
       Ten minste vijf stippen zijn scharlaken.
 
@@ -254,6 +246,7 @@ Inconsistency in node types (entail/8)
       Niet meer dan drie olifanten zijn roze.
 
 Inconsistency in node types (entail/8)
+Inconsistency in node types (entail/8)
 5130: [unknown], unknown,      NA, 'Defected'  XP: _3980118
       Niet meer dan drie olifanten zijn roze.
       Niet meer dan drie dikhuiden zijn roze.
@@ -269,7 +262,7 @@ Inconsistency in node types (entail/8)
       Ten minste drie olifanten zijn marineblauw.
 
 Inconsistency in node types (entail/8)
-5141:     [yes], unknown,      NA, 'Defected'  XP: _3966388
+5141:     [yes], unknown,      NA, 'Defected'  XP: _695746
       Niet meer dan drie olifanten zijn blauw.
       Niet meer dan drie olifanten zijn marineblauw.
 
@@ -284,11 +277,6 @@ Inconsistency in node types (entail/8)
       Niet meer dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5158:     [yes], unknown,      NA, 'Defected'  XP: _1130210
-      Niet meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
-      Niet meer dan vijf kampeerders hebben kou gevat.
-
-Inconsistency in node types (entail/8)
 5165:     [yes], unknown,      NA, 'Defected'  XP: _530390
       Minder dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Minder dan vijf kampeerders hebben kou gevat.
@@ -299,7 +287,7 @@ Inconsistency in node types (entail/8)
       Minder dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5181:     [yes], unknown,      NA, 'Defected'  XP: _4166622
+5181:     [yes], unknown,      NA, 'Defected'  XP: _895980
       Niet meer dan vijftig kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Niet meer dan vijftig kampeerders hebben kou gevat.
 
@@ -349,7 +337,7 @@ Inconsistency in node types (entail/8)
       Ten minste vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5213: [unknown], unknown,      NA, 'Defected'  XP: _249230
+5213: [unknown], unknown,      NA, 'Defected'  XP: _3031240
       Meer dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Meer dan vijf kampeerders hebben kou gevat.
 
@@ -364,7 +352,7 @@ Inconsistency in node types (entail/8)
       Meer dan vijf kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5216: [unknown], unknown,      NA, 'Defected'  XP: _2951672
+5216: [unknown], unknown,      NA, 'Defected'  XP: _5039924
       Meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
       Meer dan vijf kinderen gingen voor de suikerspin.
 
@@ -378,6 +366,9 @@ Inconsistency in node types (entail/8)
       Meer dan vijf van de kampeerders hebben een zonnebrand gehad of kou gevat.
       Meer dan vijf van de kampeerders hebben kou gevat.
 
+ERROR: Cannot align tokens in sentence id=4915
+term tokens=[[[geen],[roos],[.]]]
+anno tokens=[Ze,gad,hem,geen,roos,.]
 Inconsistency in node types (entail/8)
 5219: [unknown], unknown,      NA, 'Defected'  XP: _1224102
       Meer dan vijf van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
@@ -409,7 +400,7 @@ Inconsistency in node types (entail/8)
       Niet minder dan vijftig kinderen gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5233: [unknown], unknown,      NA, 'Defected'  XP: _250188
+5233: [unknown], unknown,      NA, 'Defected'  XP: _3032198
       Niet minder dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
       Niet minder dan vijf kampeerders hebben kou gevat.
 
@@ -419,7 +410,7 @@ Inconsistency in node types (entail/8)
       Niet minder dan vijf kampeerders hebben kou gevat.
 
 Inconsistency in node types (entail/8)
-5253: [unknown], unknown,      NA, 'Defected'  XP: _251146
+5253: [unknown], unknown,      NA, 'Defected'  XP: _3033156
       Niet meer dan vijf kampeerders hebben kou gevat.
       Niet meer dan vijf kampeerders hebben weleens een zonnebrand gehad of kou gevat.
 
@@ -429,7 +420,7 @@ Inconsistency in node types (entail/8)
       Niet meer dan vijf kampeerders hebben een zonnebrand gehad of kou gevat.
 
 Inconsistency in node types (entail/8)
-5261: [unknown], unknown,      NA, 'Defected'  XP: _4653788
+5261: [unknown], unknown,      NA, 'Defected'  XP: _1383146
       Minder dan vijf kampeerders hebben kou gevat.
       Minder dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
 
@@ -459,7 +450,7 @@ Inconsistency in node types (entail/8)
       Niet meer dan vijftig kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5281: [unknown], unknown,      NA, 'Defected'  XP: _4654746
+5281: [unknown], unknown,      NA, 'Defected'  XP: _1384104
       Niet meer dan vijf kampeerders hebben kou gevat.
       Niet meer dan vijf kampeerders hebben ooit een zonnebrand gehad of kou gevat.
 
@@ -479,7 +470,7 @@ Inconsistency in node types (entail/8)
       Niet meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5301:     [yes], unknown,      NA, 'Defected'  XP: _4655704
+5301:     [yes], unknown,      NA, 'Defected'  XP: _1385062
       Ten minste vijf kampeerders hebben kou gevat.
       Ten minste vijf kampeerders hebben weleens een zonnebrand gehad of kou gevat.
 
@@ -509,7 +500,7 @@ Inconsistency in node types (entail/8)
       Meer dan vijf kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5313:     [yes], unknown,      NA, 'Defected'  XP: _890482
+5313:     [yes], unknown,      NA, 'Defected'  XP: _3672492
       Meer dan vijf van de kampeerders hebben kou gevat.
       Meer dan vijf van de kampeerders hebben ooit een zonnebrand gehad of kou gevat.
 
@@ -524,7 +515,7 @@ Inconsistency in node types (entail/8)
       Meer dan vijf van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
 
 Inconsistency in node types (entail/8)
-5316:     [yes], unknown,      NA, 'Defected'  XP: _3249982
+5316:     [yes], unknown,      NA, 'Defected'  XP: _5338234
       Meer dan vijf van de kinderen gingen voor de suikerspin.
       Meer dan vijf van de kinderen kozen mintchocolaatjes of gingen voor de suikerspin.
 

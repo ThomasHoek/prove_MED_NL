@@ -53,6 +53,7 @@
 297:     [yes], unknown,    open, 'Ter',56    XP: []
       Een paar dieren, zoals leeuwen, eten een paar dieren.
       Een paar dieren, zoals leeuwen, eten vlees.
+Difference in Lemma Lexicons after normalization
 
 350:     [yes], unknown,    open, 'Ter',29    XP: []
       Ik kocht een VW dieselbus.
@@ -102,7 +103,9 @@
       Winter ziet er niet echt uit zonder sneeuwstenen.
       Winter ziet er niet echt uit zonder sneeuw.
 
-468:     [yes], unknown,      NA, 'Defected'  XP: []
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 468:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik heb een paar konijnvormige koekjes en cupcakes gemaakt.
       Ik heb een paar konijnvormige koekjes gemaakt.
 
@@ -126,7 +129,10 @@
       Tom staat tegenover een paar serieuze gezondheidsproblemen.
       Tom staat tegenover een paar serieuze problemen.
 
-569:     [yes], unknown,    open, 'Ter',8     XP: []
+ERROR: Cannot align tokens in sentence id=1056
+term tokens=[[[klein],[glazen],[sculptuur],[in],[de],[tuin],[.]]]
+anno tokens=[Er,staat,en,klein,glazen,sculptuur,in,de,tuin,.]
+ 569:     [yes], unknown,    open, 'Ter',8     XP: []
       Tom staat tegenover een paar serieuze problemen om examens te hebben.
       Tom staat tegenover een paar serieuze problemen.
 
@@ -146,9 +152,7 @@
       Ik doe wat schilderwerk voor Tom van tijd tot tijd.
       Ik doe wat werk voor Tom van tijd tot tijd.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 643:     [yes], unknown,      NA, 'Defected'  XP: []
+643:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom kocht een paar lekkere chocolaatjes en snoepjes voor Mary.
       Tom kocht een paar chocolaatjes voor Mary.
 
@@ -166,7 +170,9 @@ Error in gen_quant_tt
       Ik weet dat jij en Tom een paar problemen en ruzies gehad hebben.
       Ik weet dat jij en Tom een paar problemen gehad hebben.
 
-796:     [yes], unknown,      NA, 'Defected'  XP: []
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 796:     [yes], unknown,      NA, 'Defected'  XP: []
       Moderne kunst en wetenschap interesseren Tom niet.
       Moderne kunst interesseert Tom niet.
 
@@ -174,10 +180,7 @@ Error in gen_quant_tt
       Een paar dingen over mijn vrouw die Tom mij vertelde zijn niet waar.
       Een paar dingen die Tom mij vertelde zijn niet waar.
 
-ERROR: Cannot align tokens in sentence id=3964
-term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
-anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
- 839:     [yes], unknown,      NA, 'Defected'  XP: []
+839:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik ontving een telegram die over haar vriend ging van haar.
       Ik ontving een telegram van haar.
 
@@ -234,7 +237,6 @@ anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
       Meneer yamaha gaf een paar walnoten aan een bedelaar.
 
 Error in gen_quant_tt
-Error in gen_quant_tt
  931:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom kan ook wat Frans en Spaans spreken.
       Tom kan ook wat Frans spreken.
@@ -287,10 +289,15 @@ Error in gen_quant_tt
       Tom belt een lokaal noodnummer.
       Tom belt een nummer.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1107:     [yes], unknown,    open, 'Ter',16    XP: []
       Tom belt een politie hotlinenummer.
       Tom belt een nummer.
 
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
 1120:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom drink een glas koude melk iedere ochtend.
       Tom drinkt melk iedere ochtend.
@@ -299,8 +306,6 @@ Error in gen_quant_tt
       Het jonge meisje Lucy kan geen eetstokjes gebruiken.
       Lucy kan eetstokjes gebruiken.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1146:     [yes], unknown,    open, 'Ter',25    XP: []
       Tom gaf Mary een voetverwarmende massage.
       Tom gaf Mary een voetmassage.
@@ -325,8 +330,6 @@ Error in gen_quant_tt
       Het bedrijf spendeert veel geld aan internetadverteren.
       Het bedrijf spendeert veel geld aan adverteren.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1208:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom gaf wat melk en water aan de kat.
       Tom gaf wat melk aan de kat.
@@ -391,11 +394,15 @@ Error in gen_quant_tt
       Je zult nooit klaar zijn met zinnen vertalen op Tatoeba.
       Je zult nooit klaar zijn met grotere zinnen vertalen op Tatoeba.
 
-1319:     [yes], unknown,    open, 'Ter',87    XP: []
+1317:     [yes], unknown,    open, 'Ter',44    XP: []
+      Als studenten niet komen, start de les niet.
+      Als eerstejaars studenten niet komen, start de les niet.
+
+1319:     [yes], unknown,    open, 'Ter',52    XP: []
       Als studenten niet komen, start de les niet.
       Als de meeste van de studenten niet komen, start de les niet.
 
-1320:     [yes], unknown,    open, 'Ter',33    XP: []
+1320:     [yes], unknown,    open, 'Ter',23    XP: []
       Als studenten niet komen, start de les niet.
       Als wij studenten niet komen, start de les niet.
 
@@ -463,19 +470,7 @@ Error in gen_quant_tt
       Hij heeft geen interesse in politiek.
       Hij heeft geen verlangen naar politiek.
 
-1398:     [yes], unknown,    open, 'Ter',106   XP: []
-      Als je een vraag hebt, steek alsjeblieft je rechterhand op.
-      Als je een fatsoenlijke vraag hebt, steek alsjeblieft je rechterhand op.
-
-1399:     [yes], unknown,    open, 'Ter',106   XP: []
-      Als je een vraag hebt, steek alsjeblieft je rechterhand op.
-      Als je een onopgeloste vraag hebt, steek alsjeblieft je rechterhand op.
-
-1400:     [yes], unknown,    open, 'Ter',106   XP: []
-      Als je een vraag hebt, steek alsjeblieft je rechterhand op.
-      Als je een goede vraag hebt, steek alsjeblieft je rechterhand op.
-
-1401:     [yes], unknown,    open, 'Ter',62    XP: []
+1401:     [yes], unknown,    open, 'Ter',9     XP: []
       Als je een vraag hebt, steek alsjeblieft je rechterhand op.
       Als je een vraag wil stellen, steek je rechterhand op.
 
@@ -523,8 +518,6 @@ Error in gen_quant_tt
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder geweld.
       Hij geloofde dat zwarten hun gevecht voor gelijke rechten konden winnen zonder uitgebreid geweld.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1428:     [yes], unknown,    open, 'Lim',420   XP: []
       Tom houdt er niet van om vis te eten.
       Tom houdt er niet van om vis te eten met veel botten.
@@ -593,6 +586,7 @@ Error in gen_quant_tt
       Het is geen wonder dat een man met zijn vermogen succesvol is.
       Het is geen wonder dat een aardige man van zijn vermogen succesvol is.
 
+Error in gen_quant_tt
 1478:     [yes], unknown,    open, 'Ter',6     XP: []
       Het is geen wonder dat een man met zijn vermogen succesvol is.
       Het is geen wonder dat een knappe man van zijn vermogen succesvol is.
@@ -693,13 +687,9 @@ Error in gen_quant_tt
       Ik heb geen zorg in de wereld.
       Ik heb geen
 
-1542:     [yes], unknown,    open, 'Ter',54    XP: []
+1542:     [yes], unknown,    open, 'Ter',16    XP: []
       Als je vrede wil, bereid je voor op oorlog.
       Als je meer vrede wil, bereid je voor op oorlog.
-
-1543:     [yes], unknown,    open, 'Ter',85    XP: []
-      Als je vrede wil, bereid je voor op oorlog.
-      Als je sterke vrede wil, bereid je voor op oorlog.
 
 1544:     [yes], unknown,    open, 'Lim',428   XP: []
       Hier is een lijst van dingen die je moet vermijden te eten.
@@ -725,9 +715,6 @@ Error in gen_quant_tt
       Je bevindt je in geen staat om te rijden.
       Je bevindt je in geen goede staat om te rijden.
 
-ERROR: Cannot align tokens in sentence id=2934
-term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
-anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
 1555:     [yes], unknown,    open, 'Lim',800   XP: []
       Sida maakt geen nieuwe beslissingen over steun aan projecten in de baltische staten.
       Sida maakt geen nieuwe beslissingen over echte steun aan projecten in de baltische staten.
@@ -812,6 +799,8 @@ anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
       Tom wilde geen overuren werken op kerstavond.
       Tom wilde niet buiten jouw rooster werken op kerstavond.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1617:     [yes], unknown,    open, 'Ter',15    XP: []
       Tom wilde geen overuren werken op kerstavond.
       Tom wilde niet veel overuren werken op kerstavond.
@@ -852,8 +841,6 @@ anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
       Tom had geen opties over.
       Tom had geen carrièreopties over.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1646:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom had geen opties over.
       Tom had geen opties of oplossingen over.
@@ -869,6 +856,10 @@ Error in gen_quant_tt
 1652:     [yes], unknown,    open, 'Ter',12    XP: []
       Nancy speelt geen tennis.
       Nancy speelt geen baantennis.
+
+1658:     [yes], unknown,    open, 'Ter',192   XP: []
+      Een goede boom kan geen slechte vruchten werpen.
+      Een goede boom kan geen slechte vruchten werpen als je ervoor zorgt.
 
 1659:     [yes], unknown,    open, 'Ter',18    XP: []
       Ik heb dagen niet geslapen.
@@ -894,8 +885,6 @@ Error in gen_quant_tt
       Tom is, zonder twijfel, de beste man voor de klus.
       Tom is, zonder enige twijfel, de beste man voor de klus.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1668:     [yes], unknown,    open, 'Ter',106   XP: []
       Tom is, zonder twijfel, de beste man voor de klus.
       Tom is, helemaal zonder twijfel, de beste man voor de klus.
@@ -930,6 +919,8 @@ Error in gen_quant_tt
       Mary zei dat ze geen jongens kiest voor hun uiterlijk.
       Mary zei dat ze geen jongens en vrienden kiest voor hun uiterlijk.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1682:     [yes], unknown,    open, 'Ter',24    XP: []
       Ik ben nog nooit naar dat dorp geweest.
       Ik ben nog nooit naar die stad geweest.
@@ -942,15 +933,15 @@ Error in gen_quant_tt
       Ik heb nooit eerder deze vissoort gezien.
       Ik heb nooit eerder deze vissoort met die groene kleur gezien.
 
-1688:     [yes], unknown,    open, 'Ter',22    XP: []
+1688:     [yes], unknown,    open, 'Ter',19    XP: []
       Als het prima is morgen, gaan we picknicken.
       Als het prima is morgenochtend, gaan we picknicken.
 
-1689:     [yes], unknown,    open, 'Ter',29    XP: []
+1689:     [yes], unknown,    open, 'Ter',26    XP: []
       Als het prima is morgen, gaan we picknicken.
       Als het prima is morgen voor lunch, gaan we picknicken.
 
-1690:     [yes], unknown,    open, 'Ter',29    XP: []
+1690:     [yes], unknown,    open, 'Ter',26    XP: []
       Als het prima is morgen, gaan we picknicken.
       Als het prima is morgen in het veld, gaan we picknicken.
 
@@ -958,9 +949,6 @@ Error in gen_quant_tt
       Tom luister zelden naar muziek thuis.
       Tom luistert zelden naar muziek in zijn nieuwe huis.
 
-ERROR: Cannot align tokens in sentence id=4331
-term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
-anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 1699:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom luister zelden naar muziek thuis.
       Tom luistert zelden naar muziek in zijn huis.
@@ -973,8 +961,6 @@ anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
       Ze heeft niet genoeg ervaring.
       Ze heeft nog niet genoeg ervaring om te starten.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1705:     [yes], unknown,    open, 'Ter',14    XP: []
       Ik hou niet van vlees.
       Ik hou niet van varkensvlees.
@@ -1017,6 +1003,8 @@ Error in gen_quant_tt
       Winnaars gebruiken geen drugs.
       Winnaars gebruiken geen cocaïne.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1748:     [yes], unknown,    open, 'Lim',421   XP: []
       Tom is geen goede student.
       Tom is geen goede student van de school.
@@ -1033,6 +1021,8 @@ Error in gen_quant_tt
       Deze kamer krijgt niet veel zon.
       Deze kamer krijgt niet veel zon overdag.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1758:     [yes], unknown,      NA, 'Defected'  XP: []
       Je begrijpt geen Britse humor.
       Je begrijpt geen Britse humor of idiomen.
@@ -1049,7 +1039,7 @@ Error in gen_quant_tt
       Ze hield niet van het stadsleven.
       Ze hield niet van het stadse drukke leven.
 
-1771:     [yes], unknown,    open, 'Lim',650   XP: []
+1771:     [yes], unknown,    open, 'Lim',651   XP: []
       Meneer Thomas had geen bezwaar tegen het gekozen worden van meneer white als voorzitter.
       Meneer Thomas had geen problemen met het gekozen worden van meneer white als voorzitter.
 
@@ -1121,6 +1111,8 @@ Error in gen_quant_tt
       We maken geen fouten.
       We maken niet veel fouten.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 1850:     [yes], unknown,      NA, 'Defected'  XP: []
       We hebben nog niet genoeg informatie om een beslissing te maken.
       We hebben nog niet genoeg feiten en informatie om een beslissing te maken.
@@ -1165,31 +1157,31 @@ Error in gen_quant_tt
       Het park is druk ieder seizoen.
       Het part is druk ieder toeristenseizoen.
 
-1887:     [yes], unknown,    open, 'Ter',229   XP: []
+1887:     [yes], unknown,    open, 'Ter',178   XP: []
       Als ik aardappelfriet begin te eten, kan ik niet stoppen.
       Als ik zoete aardappelfriet begin te eten, kan ik niet stoppen.
 
-1888:     [yes], unknown,    open, 'Ter',229   XP: []
+1888:     [yes], unknown,    open, 'Ter',178   XP: []
       Als ik aardappelfriet begin te eten, kan ik niet stoppen.
       Als ik knapperige aardappelfriet begin te eten, kan ik niet stoppen.
 
-1889:     [yes], unknown,    open, 'Ter',229   XP: []
+1889:     [yes], unknown,    open, 'Ter',178   XP: []
       Als ik aardappelfriet begin te eten, kan ik niet stoppen.
       Als ik mijn favoriete aardappelfriet begin te eten, kan ik niet stoppen.
 
-1890:     [yes], unknown,    open, 'Ter',229   XP: []
+1890:     [yes], unknown,    open, 'Ter',178   XP: []
       Als ik aardappelfriet begin te eten, kan ik niet stoppen.
       Als ik gebakken aardappelfriet begin te eten, kan ik niet stoppen.
 
-1891:     [yes], unknown,    open, 'Ter',229   XP: []
+1891:     [yes], unknown,    open, 'Ter',178   XP: []
       Als ik aardappelfriet begin te eten, kan ik niet stoppen.
       Als ik zoute aardappelfriet begin te eten, kan ik niet stoppen.
 
-1892:     [yes], unknown,    open, 'Ter',229   XP: []
+1892:     [yes], unknown,    open, 'Ter',178   XP: []
       Als ik aardappelfriet begin te eten, kan ik niet stoppen.
       Als ik pittige aardappelfriet begin te eten, kan ik niet stoppen.
 
-1893:     [yes], unknown,    open, 'Ter',49    XP: []
+1893:     [yes], unknown,    open, 'Ter',29    XP: []
       Als ik aardappelfriet begin te eten, kan ik niet stoppen.
       Als ik meer aardappelfriet begin te eten, kan ik niet stoppen.
 
@@ -1205,8 +1197,6 @@ Error in gen_quant_tt
       Deze soep heeft geen substantie.
       Deze soep heeft geen groente.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1907:     [yes], unknown,      NA, 'Defected'  XP: []
       Deze soep heeft geen substantie.
       Deze soep heeft geen substantie of textuur.
@@ -1251,6 +1241,9 @@ Error in gen_quant_tt
       Je kunt geen woord geloven dat hij zegt.
       Je kunt geen ding geloven dat hij zegt.
 
+ERROR: Cannot align tokens in sentence id=4331
+term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
+anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 1930:     [yes], unknown,    open, 'Ter',15    XP: []
       Je kunt geen woord geloven dat hij zegt.
       Je kunt geen spul geloven dat hij zegt.
@@ -1259,23 +1252,19 @@ Error in gen_quant_tt
       Er zijn geen schone borden.
       Er zijn geen schone gastenborden.
 
-1933:     [yes], unknown,    open, 'Ter',28    XP: []
-      Als het regent morgen, komt ze niet hier.
-      Als het weer regent morgen, komt ze niet hier.
-
-1934:     [yes], unknown,    open, 'Ter',27    XP: []
+1934:     [yes], unknown,    open, 'Ter',32    XP: []
       Als het regent morgen, komt ze niet hier.
       Als het regent morgenavond, komt ze niet hier.
 
-1935:     [yes], unknown,    open, 'Ter',34    XP: []
+1935:     [yes], unknown,    open, 'Ter',15    XP: []
       Als vandaag zondag was, zou ik gaan vissen.
       Als deze dag zondag was, zou ik gaan vissen.
 
-1936:     [yes], unknown,    open, 'Ter',34    XP: []
+1936:     [yes], unknown,    open, 'Ter',15    XP: []
       Als vandaag zondag was, zou ik gaan vissen.
       Als deze mooie dag zondag was, zou ik gaan vissen.
 
-1937:     [yes], unknown,    open, 'Ter',37    XP: []
+1937:     [yes], unknown,    open, 'Ter',18    XP: []
       Als vandaag zondag was, zou ik gaan vissen.
       Als vroege vandaag zondag was, zou ik gaan vissen.
 
@@ -1300,12 +1289,11 @@ Error in gen_quant_tt
       Wetenschappers hebben nog geen geneesmiddel voor kanker gevonden.
 
 Error in gen_quant_tt
+Error in gen_quant_tt
 1948:     [yes], unknown,      NA, 'Defected'  XP: []
       Wetenschappers hebben nog geen vaccin voor kanker gevonden.
       Wetenschappers hebben nog geen vaccin en medicijn voor kanker gevonden.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 1949:     [yes], unknown,      NA, 'Defected'  XP: []
       Wetenschappers hebben nog geen vaccin voor kanker gevonden.
       Wetenschappers hebben nog geen vaccin en succesvolle behandeling voor kanker gevonden.
@@ -1380,15 +1368,15 @@ Error in gen_quant_tt
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
       Als Esperanto een makkelijke taal was had ik geen proeflezer of vertaler nodig.
 
-2003:     [yes], unknown,    open, 'Ter',122   XP: []
+2003:     [yes], unknown,    open, 'Ter',95    XP: []
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig om mij te helpen.
 
-2005:     [yes], unknown,    open, 'Ter',122   XP: []
+2005:     [yes], unknown,    open, 'Ter',95    XP: []
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig om het te leren.
 
-2006:     [yes], unknown,    open, 'Ter',122   XP: []
+2006:     [yes], unknown,    open, 'Ter',95    XP: []
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig om het te schrijven.
 
@@ -1516,8 +1504,6 @@ Error in gen_quant_tt
       Iedere misdaad moet bestraft worden.
       Ieder strafbaar feit moet bestraft worden.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2123:     [yes], unknown,    open, 'Ter',23    XP: []
       Tom wilde niet naar de gevangenis.
       Tom wilde niet naar de maricopa county 4th avenue gevangenis.
@@ -1546,7 +1532,7 @@ Error in gen_quant_tt
       Als de zon zou stoppen met schijnen, zouden alle levende dingen doodgaan.
       Als de zon zou stoppen met schijnen, zou al het levende en de planten dood gaan.
 
-2138:     [yes], unknown,    open, 'Ter',83    XP: []
+2138:     [yes], unknown,    open, 'Ter',35    XP: []
       Als de zon zou stoppen met schijnen, zouden alle levende dingen doodgaan.
       Als de zon zou stoppen met schijnen, zouden alle levende dingen afhankelijk van specifieke omstandigheiden doodgaan.
 
@@ -1786,11 +1772,11 @@ Error in gen_quant_tt
       Ik moet nodig plassen en ik kan geen wasruimte vinden.
       Ik moet nodig plassen en ik kan geen toilet vinden.
 
-2282:     [yes], unknown,    open, 'Ter',125   XP: []
+2282:     [yes], unknown,    open, 'Ter',39    XP: []
       Als je een draad aanraakt, zul je een schok krijgen.
       Als je een blootgestelde draad aanraakt, zul je een schok krijgen.
 
-2284:     [yes], unknown,    open, 'Ter',125   XP: []
+2284:     [yes], unknown,    open, 'Ter',39    XP: []
       Als je een draad aanraakt, zul je een schok krijgen.
       Als je een blauwe draad aanraakt, zul je een schok krijgen.
 
@@ -1822,6 +1808,7 @@ Error in gen_quant_tt
       Jack kan zich geen nieuwe fiets veroorloven.
       Jack kan zich geen nieuwe vijf-versnellingenfiets veroorloven.
 
+Error in gen_quant_tt
 Error in gen_quant_tt
 2309:     [yes], unknown,      NA, 'Defected'  XP: []
       Jack kan zich geen nieuwe fiets veroorloven.
@@ -1879,7 +1866,7 @@ Error in gen_quant_tt
       De meeste Amerikanen kunnen geen Duits spreken.
       De meeste Amerikanen kunnen geen Duitse taal spreken.
 
-2358:     [yes], unknown,    open, 'Ter',9     XP: []
+2358:     [yes], unknown,    open, 'Ter',7     XP: []
       De meeste Amerikanen kunnen geen Duits spreken.
       De meeste Amerikanen kunnen geen Duits spreken als een inboorling.
 
@@ -1899,7 +1886,7 @@ Error in gen_quant_tt
       De meeste Amerikanen kunnen geen Duits spreken.
       De meeste Amerikanen kunnen geen Duits spreken alhoewel ze een les hebben gevolgd.
 
-2366:     [yes], unknown,    open, 'Ter',365   XP: []
+2366:     [yes], unknown,    open, 'Ter',26    XP: []
       Als ik een buitenlander was, zou ik waarschijnlijk geen rauwe vis kunnen eten.
       Als ik een toerist was, zou ik waarschijnlijk geen rauwe vis kunnen eten.
 
@@ -1979,23 +1966,23 @@ Error in gen_quant_tt
       Tom houdt niet van vis.
       Tom houdt niet van zeevis.
 
-2419:     [yes], unknown,    open, 'Ter',73    XP: []
+2419:     [yes], unknown,    open, 'Ter',39    XP: []
       Als de natuur een bank was hadden ze het al gered.
       Als de natuur een geldbank was hadden ze het al gered.
 
-2420:     [yes], unknown,    open, 'Ter',100   XP: []
+2420:     [yes], unknown,    open, 'Ter',54    XP: []
       Als de natuur een bank was hadden ze het al gered.
       Als de natuur een soort bank was hadden ze het al gered.
 
-2421:     [yes], unknown,    open, 'Ter',206   XP: []
+2421:     [yes], unknown,    open, 'Ter',136   XP: []
       Als de natuur een bank was hadden ze het al gered.
       Als de natuur een financiële bank was hadden ze het al gered.
 
-2422:     [yes], unknown,    open, 'Ter',206   XP: []
+2422:     [yes], unknown,    open, 'Ter',136   XP: []
       Als de natuur een bank was hadden ze het al gered.
       Als de natuur een nationale bank was hadden ze het al gered.
 
-2423:     [yes], unknown,    open, 'Ter',73    XP: []
+2423:     [yes], unknown,    open, 'Ter',39    XP: []
       Als de natuur een bank was hadden ze het al gered.
       Als de natuur een gemenebestbank was hadden ze het al gered.
 
@@ -2011,8 +1998,6 @@ Error in gen_quant_tt
       Alle dieren zouden naakt moeten gaan.
       Alle dieren van creatie zouden naakt moeten gaan.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2428:     [yes], unknown,    open, 'Ter',4     XP: []
       Alle dieren zouden naakt moeten gaan.
       Alle dieren van de planeet aarde zouden naakt moeten gaan.
@@ -2073,10 +2058,15 @@ Error in gen_quant_tt
       Ik stel gewoonlijk geen vragen.
       Ik stel gewoonlijk geen beleidsvragen.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2491:     [yes], unknown,    open, 'Ter',41    XP: []
       Ik stel gewoonlijk geen vragen.
       Ik stel gewoonlijk niemand vragen.
 
+ERROR: Cannot align tokens in sentence id=2934
+term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
+anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
 2492:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik stel gewoonlijk geen vragen.
       Ik stel gewoonlijk niet vaak vragen.
@@ -2161,8 +2151,6 @@ Error in gen_quant_tt
       Ik hoop dat je niet meteen resultaten verwacht.
       Ik hoop dat je niet meteen antwoorden verwacht.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2560:     [yes], unknown,    open, 'Ter',58    XP: []
       Ik hoop dat je niet meteen resultaten verwacht.
       Ik hoop niet dat je de resultaten verwacht die we niet meteen vinden.
@@ -2219,6 +2207,8 @@ Error in gen_quant_tt
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
       Op deze school zijn er geen cijfers en studenten hebben geen zomerhuiswerk.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2592:     [yes], unknown,      NA, 'Defected'  XP: []
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk en toetsen.
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
@@ -2263,7 +2253,7 @@ Error in gen_quant_tt
       We hebben nog niet genoeg informatie om een beslissing te maken.
       We hebben nog steeds niet genoeg informatie om een weloverwogen beslissing te maken.
 
-2627:     [yes], unknown,    open, 'Lim',404   XP: []
+2627:     [yes], unknown,    open, 'Lim',403   XP: []
       Als het menselijk leven convex is, kunnen we het optimaliseren.
       Als het menselijk moeilijk leven convex is, kunnen we het optimaliseren.
 
@@ -2279,12 +2269,14 @@ Error in gen_quant_tt
       Geen menselijke macht kan dat aan.
       Geen menselijke wetsmacht kan dat aan.
 
+2641:     [yes], unknown,    open, 'Ter',27    XP: []
+      Ik hou niet van verandering.
+      Ik hou niet van verandering als het onbekend voor me is.
+
 2646:     [yes], unknown,    open, 'Ter',4     XP: []
       Hij had een fataal gebrek aan vermogen om logisch na te denken.
       Hij had een fataal gebrek aan vermogen en snelheid om logisch na te denken.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2659:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom wilde geen poker of uno spelen.
       Tom wilde geen poker spelen.
@@ -2305,9 +2297,6 @@ Error in gen_quant_tt
       Ik kan me de melodie van dat liedje niet herinneren.
       Ik kan me de melodie van dat couplet niet herinneren.
 
-ERROR: Cannot align tokens in sentence id=2798
-term tokens=[[[het],[deuntje],[van],[het],[liedje]]]
-anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herinneren,.]
 2667:     [yes], unknown,    open, 'Ter',37    XP: []
       Ze rijdt niet uit angst voor een ongeluk.
       Ze rijdt niet uit fobie voor een ongeluk.
@@ -2326,8 +2315,6 @@ Error in gen_quant_tt
       Ze heeft niet veel eten om te geven.
       Ze heeft niet veel chocolaatjes om te geven.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2691:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik wil onnodige risico’s vermijden.
       Ik wil onnodige risico’s en ongeluk vermijden.
@@ -2520,18 +2507,6 @@ Error in gen_quant_tt
       Iedere jongen en ieder meisje was verheugd.
       Iedere jongen en ieder meisje die een rok droeg was verheugd.
 
-2834:     [yes], unknown,    open, 'Ter',23    XP: []
-      Als Tom naar Boston gaat, ga ik ook.
-      Als Tom naar Boston gaat voor het afstuderen, ga ik ook.
-
-2836:     [yes], unknown,    open, 'Ter',33    XP: []
-      Als Tom naar Boston gaat, ga ik ook.
-      Als Tom naar Boston gaat deze zomer, ga ik ook.
-
-2838:     [yes], unknown,    open, 'Ter',48    XP: []
-      Als Tom naar Boston gaat, ga ik ook.
-      Als Tom naar Boston gaat in februari, ga ik ook.
-
 2854:     [yes], unknown,    open, 'Ter',156   XP: []
       Bergbeklimmen zonder fatsoenlijke uitrusting is gevaarlijk.
       Bergbeklimmen zonder fatsoenlijke betrouwbare uitrusting is gevaarlijk.
@@ -2612,6 +2587,9 @@ Error in gen_quant_tt
       Ze hebben niet genoeg ruimte op de grond om te kamperen.
       Ze hebben niet genoeg schone ruimte op de grond om te kamperen.
 
+ERROR: Cannot align tokens in sentence id=2934
+term tokens=[[[gewoonlijk],[niet],[vaak],[vragen],[.]]]
+anno tokens=[Ik,stel,gewoonlijk,niet,vaak,vragen,.]
 2910:     [yes], unknown,    open, 'Ter',14    XP: []
       Ze hebben niet genoeg ruimte op de grond om te kamperen.
       Ze hebben niet genoeg platte ruimte op de grond om te kamperen.
@@ -2648,23 +2626,23 @@ Error in gen_quant_tt
       Ik gebruik geen anticonceptie.
       Ik gebruik geen pillen.
 
-2926:     [yes], unknown,    open, 'Ter',64    XP: []
+2926:     [yes], unknown,    open, 'Ter',26    XP: []
       Als je de draad aanraakt, zul je een schok krijgen.
       Als je de kale draad aanraakt, zul je een schok krijgen.
 
-2928:     [yes], unknown,    open, 'Ter',64    XP: []
+2928:     [yes], unknown,    open, 'Ter',26    XP: []
       Als je de draad aanraakt, zul je een schok krijgen.
       Als je de elektrische draad aanraakt, zul je een schok krijgen.
 
-2930:     [yes], unknown,    open, 'Ter',64    XP: []
+2930:     [yes], unknown,    open, 'Ter',26    XP: []
       Als je de draad aanraakt, zul je een schok krijgen.
       Als je de koperen draad aanraakt, zul je een schok krijgen.
 
-2932:     [yes], unknown,    open, 'Ter',64    XP: []
+2932:     [yes], unknown,    open, 'Ter',26    XP: []
       Als je de draad aanraakt, zul je een schok krijgen.
       Als je de lange draad aanraakt, zul je een schok krijgen.
 
-2934:     [yes], unknown,    open, 'Ter',64    XP: []
+2934:     [yes], unknown,    open, 'Ter',26    XP: []
       Als je de draad aanraakt, zul je een schok krijgen.
       Als je de beschadigde draad aanraakt, zul je een schok krijgen.
 
@@ -2686,6 +2664,8 @@ Error in gen_quant_tt
       Ik geloof niet in groepstherapie.
       Ik geloof niet in groepshersteltherapie.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2955:     [yes], unknown,      NA, 'Defected'  XP: []
       Tom zei dat hij geen vriendin wil.
       Tom zei dat hij geen vriendin en vriend wil.
@@ -2756,14 +2736,9 @@ Error in gen_quant_tt
       Het punt van hipster-subcultuur is om te voorkomen dat je je aan maatschappelijke normen aanpast.
       Het punt van hipster-subcultuur tegenwoordig is om te voorkomen dat je je aan maatschappelijke normen aanpast.
 
-Error in gen_quant_tt
 2985:     [yes], unknown,    open, 'Ter',86    XP: []
       Een paar mensen hebben geen geduld.
       Een paar mensen hebben geen geduld over geld.
-
-2987:     [yes], unknown,    open, 'Ter',65    XP: []
-      Als je vrede wenst, bereid je voor op oorlog.
-      Als je wereldvrede wenst, bereid je voor op oorlog.
 
 2992:     [yes], unknown,    open, 'Lim',418   XP: []
       Ze hoorden haar nooit kwaad spreken over anderen.
@@ -2871,6 +2846,8 @@ Error in gen_quant_tt
       We speelden iedere zaterdag Amerikaans voetbal.
       We speelden iedere zaterdag in de lente Amerikaans voetbal.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3093:     [yes], unknown,      NA, 'Defected'  XP: []
       Niet een paar huizen waren vernietigd in de tyfoon.
       Niet een paar huizen en gebouwen waren vernietigd in de tyfoon.
@@ -2927,6 +2904,12 @@ Error in gen_quant_tt
       Ik kan me geen leven voorstellen zonder zijn familie.
       Ik kan me ons leven niet voorstellen zonder hem.
 
+ERROR: Cannot align tokens in sentence id=4434
+term tokens=[[[geen],[bezoeken],[van],[zijn],[neven],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,van,zijn,neven,.]
+ERROR: Cannot align tokens in sentence id=4435
+term tokens=[[[geen],[bezoeken],[.]]]
+anno tokens=[Tom,verwachte,geen,bezoeken,.]
 3145:     [yes], unknown,    open, 'Ter',25    XP: []
       Ik kan me geen leven voorstellen zonder hem.
       Ik kan me geen leven in de V.S. voorstellen zonder hem.
@@ -2967,27 +2950,27 @@ Error in gen_quant_tt
       Ze maakt niet altijd een reis naar Frankrijk in de zomer.
       Ze maakt niet altijd een zakenreis naar Frankrijk in de zomer.
 
-3179:     [yes], unknown,    open, 'Lim',404   XP: []
+3179:     [yes], unknown,    open, 'Lim',403   XP: []
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
       Als ik het vliegtuig had genomen dat over de oceaan stortte, zou ik nu niet levend zijn.
 
-3181:     [yes], unknown,    open, 'Lim',403   XP: []
+3181:     [yes], unknown,    open, 'Ter',129   XP: []
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
       Als ik het ongelukkige vliegtuig had genomen, zou ik nu niet levend zijn.
 
-3183:     [yes], unknown,    open, 'Lim',403   XP: []
+3183:     [yes], unknown,    open, 'Ter',129   XP: []
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
       Als ik het blauwe vliegtuig had genomen, zou ik nu niet levend zijn.
 
-3185:     [yes], unknown,    open, 'Ter',219   XP: []
+3185:     [yes], unknown,    open, 'Ter',74    XP: []
       Als ik het vliegtuig had genomen, zou ik nu niet levend zijn.
       Als ik het vliegtuig had genomen gisteren, zou ik nu niet levend zijn.
 
-3188:     [yes], unknown,    open, 'Ter',184   XP: []
+3188:     [yes], unknown,    open, 'Ter',126   XP: []
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
       Als tamil een makkelijke taal was had ik geen proeflezer nodig.
 
-3189:     [yes], unknown,    open, 'Ter',80    XP: []
+3189:     [yes], unknown,    open, 'Ter',70    XP: []
       Als Esperanto een makkelijke taal was had ik geen proeflezer nodig.
       Als internationaal Esperanto een makkelijke taal was had ik geen proeflezer nodig.
 
@@ -3097,19 +3080,11 @@ Error in gen_quant_tt
       Tom en Mary zijn eigenlijk nog nooit op een afspraakje geweest.
       Tom en Mary zijn eigenlijk nog nooit buiten op een afspraakje geweest.
 
-3254:     [yes], unknown,    open, 'Ter',124   XP: []
+3254:     [yes], unknown,    open, 'Ter',88    XP: []
       Als Esperanto een makkelijke taal was, had ik geen proeflezer nodig.
       Als Esperanto een makkelijke vertaler was, had ik geen proeflezer nodig
 
-3255:     [yes], unknown,    open, 'Ter',129   XP: []
-      Als Esperanto een makkelijke taal was, had ik geen proeflezer nodig.
-      Als Esperanto een makkelijke taal was voor mij, had ik geen proeflezer nodig.
-
-3256:     [yes], unknown,    open, 'Ter',203   XP: []
-      Als Esperanto een makkelijke taal was, had ik geen proeflezer nodig.
-      Als Esperanto een makkelijke taal was net als chinees, had ik geen proeflezer nodig.
-
-3257:     [yes], unknown,    open, 'Ter',94    XP: []
+3257:     [yes], unknown,    open, 'Ter',73    XP: []
       Als Esperanto een makkelijke taal was, had ik geen proeflezer nodig.
       Als Esperanto een makkelijke taal was om te studeren, had ik geen proeflezer nodig.
 
@@ -3144,11 +3119,11 @@ anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herin
       Tom en Mary eten geen vlees meer.
       Tom en Mary eten geen lamsvlees meer.
 
-3275:     [yes], unknown,    open, 'Ter',345   XP: []
+3275:     [yes], unknown,    open, 'Ter',37    XP: []
       Als je zo veeleisend bent van anderen, zou je ook veeleisend moeten zijn van jezelf.
       Als je zo veeleisend bent van behoeften van anderen, zou je ook veeleisend moeten zijn van jezelf.
 
-3276:     [yes], unknown,    open, 'Ter',339   XP: []
+3276:     [yes], unknown,    open, 'Ter',37    XP: []
       Als je zo veeleisend bent van anderen, zou je ook veeleisend moeten zijn van jezelf.
       Als je zo veeleisend bent van een ander, zou je ook veeleisend moeten zijn van jezelf.
 
@@ -3192,11 +3167,11 @@ anno tokens=[Ik,kan,me,het,deuntje,van,het,liedje,dat,hij,ooit,hoorde,niet,herin
       Ik kijk dat programma niet meer.
       Ik kijk die show niet meer.
 
-3309:     [yes], unknown,    open, 'Ter',160   XP: []
+3309:     [yes], unknown,    open, 'Ter',22    XP: []
       Als iemand zijn verleden niet kan herinneren, is hij gedoemd het opnieuw te beleven.
       Als maria victoria zijn verleden niet kan herinneren, is hij gedoemd om het opnieuw te beleven.
 
-3310:     [yes], unknown,    open, 'Ter',160   XP: []
+3310:     [yes], unknown,    open, 'Ter',14    XP: []
       Als iemand zijn verleden niet kan herinneren, is hij gedoemd het opnieuw te beleven.
       Als mensen zijn verleden niet kunnen herinneren, is hij gedoemd om het opnieuw te beleven.
 
@@ -3276,15 +3251,15 @@ Error in gen_quant_tt
       Tom is geen goede schrijver.
       Tom is geen goede dramaschrijver.
 
-3349:     [yes], unknown,    open, 'Ter',25    XP: []
+3349:     [yes], unknown,    open, 'Ter',22    XP: []
       Als school niet verplicht was, zou ik stoppen met erheen gaan.
       Als het langdradige school niet verplicht was, zou ik stoppen met erheen gaan.
 
-3351:     [yes], unknown,    open, 'Ter',43    XP: []
+3351:     [yes], unknown,    open, 'Ter',40    XP: []
       Als school niet verplicht was, zou ik stoppen met erheen gaan.
       Als saaie school niet verplicht was, zou ik stoppen met erheen gaan.
 
-3352:     [yes], unknown,    open, 'Ter',75    XP: []
+3352:     [yes], unknown,    open, 'Ter',72    XP: []
       Als school niet verplicht was, zou ik stoppen met erheen gaan.
       Als de middelbare school niet verplicht was, zou ik stoppen met erheen gaan.
 
@@ -3368,9 +3343,6 @@ Error in gen_quant_tt
       Duitsland heeft geen minimumloon.
       Duitsland heeft geen minimum vereist loon.
 
-ERROR: Cannot align tokens in sentence id=4331
-term tokens=[[[luister],[zelden],[naar],[muziek],[thuis],[.]]]
-anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
 3424:     [yes], unknown,    open, 'Ter',35    XP: []
       Duitsland heeft geen minimumloon.
       Duitsland heeft geen minimum benodigd loon.
@@ -3463,7 +3435,7 @@ anno tokens=[Tom,luister,zelden,naar,muziek,thuis,.]
       Ik kan geen Japans spreken.
       Ik kan niet goed Japans spreken.
 
-3497:     [yes], unknown,    open, 'Ter',6     XP: []
+3497:     [yes], unknown,    open, 'Ter',4     XP: []
       Ik kan geen Japans spreken.
       Ik kan geen Japans spreken als een moedertaalspreker.
 
@@ -3615,15 +3587,15 @@ Error in gen_quant_tt
       Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren.
       Uitzonderlijke dingen gebeuren nooit op simpele en gewone manieren ze zijn gecompliceerd.
 
-3645:     [yes], unknown,    open, 'Ter',29    XP: []
+3645:     [yes], unknown,    open, 'Ter',26    XP: []
       Als het zonnig is morgen, gaan we picknicken.
       Als het zonnig is morgen in het park, gaan we picknicken.
 
-3647:     [yes], unknown,    open, 'Ter',29    XP: []
+3647:     [yes], unknown,    open, 'Ter',26    XP: []
       Als het zonnig is morgen, gaan we picknicken.
       Als het zonnig is morgen in de berg, gaan we picknicken.
 
-3649:     [yes], unknown,    open, 'Ter',18    XP: []
+3649:     [yes], unknown,    open, 'Ter',15    XP: []
       Als het zonnig is morgen, gaan we picknicken.
       Als het zonnig is morgen rond het park, gaan we picknicken.
 
@@ -3639,15 +3611,15 @@ Error in gen_quant_tt
       Jullie zijn niet langer tieners.
       Jullie zijn niet langer kinderen.
 
-3665:     [yes], unknown,    open, 'Ter',22    XP: []
+3665:     [yes], unknown,    open, 'Ter',26    XP: []
       Als het goed gaat met jou en marco, gaat het goed met paulo en mij.
       Als het goed gaat met jou, marko en Tom, gaat het goed met paulo en mij.
 
-3666:     [yes], unknown,    open, 'Ter',27    XP: []
+3666:     [yes], unknown,    open, 'Ter',26    XP: []
       Als het goed gaat met jou en marco, gaat het goed met paulo en mij.
       Als het goed gaat met jou en je vriend marco, gaat het goed met paulo en mij.
 
-3667:     [yes], unknown,    open, 'Ter',27    XP: []
+3667:     [yes], unknown,    open, 'Ter',26    XP: []
       Als het goed gaat met jou en marco, gaat het goed met paulo en mij.
       Als het goed gaat met jou en je broer marco, gaat het goed met paulo en mij.
 
@@ -3739,6 +3711,9 @@ Error in gen_quant_tt
       Tom heeft geen thuis.
       Tom heeft geen huis.
 
+ERROR: Cannot align tokens in sentence id=2158
+term tokens=[[[woord],[gesproken],[wekt],[zijn],[tegenspraak],[op],[.]]]
+anno tokens=[Ieder,tekst,woord,gesproken,wekt,zijn,tegenspraak,op,.]
 3756:     [yes], unknown,      NA, 'Defected'  XP: []
       Ieder gesproken woord wekt zijn tegenspraak op.
       Ieder tekst woord gesproken wekt zijn tegenspraak op.
@@ -3786,6 +3761,8 @@ anno tokens=[Ieder,sprekers,woord,gesproken,wekt,zijn,tegenspraak,op,.]
       Je kan beter discussie over religie en politiek vermijden.
       Je kan beter discussie over gevoelige onderwerpen zoals religie en politiek vermijden.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3808:     [yes], unknown,      NA, 'Defected'  XP: []
       Je kan beter discussie over religie en politiek vermijden.
       Je kan beter discussie over katholieke religie en politiek vermijden.
@@ -3814,6 +3791,8 @@ anno tokens=[Ieder,sprekers,woord,gesproken,wekt,zijn,tegenspraak,op,.]
       Hij loog, zonder twijfel.
       Hij loog, zonder enige twijfel.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 3819:     [yes], unknown,    open, 'Ter',35    XP: []
       Hij loog, zonder twijfel.
       Hij loog, zonder twijfel in eerste instantie.
@@ -3830,7 +3809,7 @@ anno tokens=[Ieder,sprekers,woord,gesproken,wekt,zijn,tegenspraak,op,.]
       Hij kan geen leugen verteld hebben.
       Hij kan geen valsheid verteld hebben.
 
-3836:     [yes], unknown,    open, 'Ter',106   XP: []
+3836:     [yes], unknown,    open, 'Ter',98    XP: []
       Als het menselijk leven convex is, kunnen we het optimaliseren.
       Als het menselijk leven ongewoon en convex is, kunnen we het optimaliseren.
 
@@ -3874,8 +3853,6 @@ anno tokens=[Ieder,sprekers,woord,gesproken,wekt,zijn,tegenspraak,op,.]
       Mijn kinderen weigeren vis te eten.
       Mijn kinderen weigeren de heerlijke vis te eten.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3872:     [yes], unknown,      NA, 'Defected'  XP: []
       Ze heeft geen recht om dit te doen.
       Ze heeft geen recht en authoriteit om dit te doen.
@@ -3906,8 +3883,6 @@ Error in gen_quant_tt
       Hij leerde niets op school.
       Hij leerde niets op de lagere school.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3898:     [yes], unknown,      NA, 'Defected'  XP: []
       Het is geen thee maar koffie dat ik wil.
       Het is geen kop thee maar koffie dat ik wil.
@@ -4006,11 +3981,11 @@ Error in gen_quant_tt
       Ik had geen keuze dan het vliegtuig te nemen.
       Ik nam het vliegtuig omdat ik geen keuze had.
 
-3992:     [yes], unknown,    open, 'Ter',245   XP: []
+3992:     [yes], unknown,    open, 'Ter',50    XP: []
       Als je niet kan genieten van eenzaamheid, kan je niet genieten van het gezelschap van anderen.
       Als je niet kan genieten van eenzaamheid, kan je niet genieten van het gezelschap van buren.
 
-3993:     [yes], unknown,    open, 'Ter',247   XP: []
+3993:     [yes], unknown,    open, 'Ter',50    XP: []
       Als je niet kan genieten van eenzaamheid, kan je niet genieten van het gezelschap van anderen.
       Als je niet kan genieten van eenzaamheid, kan je niet genieten van het gezelschap van andere personen.
 
@@ -4095,6 +4070,8 @@ Error in gen_quant_tt
       Ik verwacht geen hulp.
       Ik verwacht geen hulp van mijn familie.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 4057:     [yes], unknown,      NA, 'Defected'  XP: []
       Integriteit heeft geen regels nodig.
       Integriteit heeft geen regels en manieren nodig.
@@ -4115,11 +4092,11 @@ Error in gen_quant_tt
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in het centrum van Boston zou willen wonen.
 
-4065:     [yes], unknown,    open, 'Ter',79    XP: []
+4065:     [yes], unknown,    open, 'Ter',324   XP: []
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in een grote stad als Boston zou willen wonen.
 
-4066:     [yes], unknown,    open, 'Ter',103   XP: []
+4066:     [yes], unknown,    open, 'Ter',99    XP: []
       Tom dacht dat Mary niet in Boston zou willen wonen.
       Tom dacht dat Mary niet in zo’n overvolle omgeving als Boston zou willen wonen.
 
@@ -4131,6 +4108,8 @@ Error in gen_quant_tt
       Ik heb geen idee.
       Ik heb geen idee om je aan te bieden om door te gaan.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 4071:     [yes], unknown,      NA, 'Defected'  XP: []
       Ik heb geen idee.
       Ik heb geen idee of idee.
@@ -4159,11 +4138,11 @@ Error in gen_quant_tt
       Een ding dat een getrouwde man nooit zou moeten vergeten is zijn trouwdag.
       Een ding dat een getrouwde oudere man nooit zou moeten vergeten is zijn trouwdag.
 
-4089:     [yes], unknown,    open, 'Ter',142   XP: []
+4089:     [yes], unknown,    open, 'Ter',116   XP: []
       Als ik een vogel geweest was, kon ik naar je toe vliegen.
       Als ik een vogel die kan vliegen geweest was, kon ik naar je toe vliegen.
 
-4090:     [yes], unknown,    open, 'Ter',90    XP: []
+4090:     [yes], unknown,    open, 'Ter',50    XP: []
       Als ik een vogel geweest was, kon ik naar je toe vliegen.
       Als ik een vogel in de lucht geweest was, kon ik naar je toe vliegen.
 
@@ -4303,8 +4282,6 @@ Error in gen_quant_tt
       Ik kan helemaal geen Duits spreken.
       Ik kan geen Duits en Italiaans spreken.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 4155:     [yes], unknown,    open, 'Ter',8     XP: []
       Ik kan helemaal geen Duits spreken.
       Ik kan helemaal niet zelfverzekerd Duits spreken.
@@ -4340,26 +4317,6 @@ Error in gen_quant_tt
 4185:     [yes], unknown,    open, 'Ter',7     XP: []
       Iedereen behalve Tom lachte.
       Iedereen in de meeting behalve Tom lachte.
-
-4189:     [yes], unknown,    open, 'Ter',20    XP: []
-      Als een hond je bijt, was de wond met zeep en water.
-      Als een puppy je bijt, was de wond met zeep en water.
-
-4190:     [yes], unknown,    open, 'Ter',24    XP: []
-      Als een hond je bijt, was de wond met zeep en water.
-      Als een grote hond je bijt, was de wond met zeep en water.
-
-4191:     [yes], unknown,    open, 'Ter',24    XP: []
-      Als een hond je bijt, was de wond met zeep en water.
-      Als een zieke hond je bijt, was de wond met zeep en water.
-
-4192:     [yes], unknown,    open, 'Ter',24    XP: []
-      Als een hond je bijt, was de wond met zeep en water.
-      Als een zieke hond je bijt, was de wond met zeep en water.
-
-4193:     [yes], unknown,    open, 'Ter',24    XP: []
-      Als een hond je bijt, was de wond met zeep en water.
-      Als een boze hond je bijt, was de wond met zeep en water.
 
 4194:     [yes], unknown,    open, 'Ter',19    XP: []
       Hij spreekt geen Engels.

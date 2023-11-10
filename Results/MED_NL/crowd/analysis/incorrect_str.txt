@@ -7,11 +7,11 @@
       Ze kocht een hond voor hem.
 
 Inconsistency in node types (entail/8)
-309: [unknown], unknown,      NA, 'Defected'  XP: _1273362
+309: [unknown], unknown,      NA, 'Defected'  XP: _3461856
       In ieder geval, dat is een illusie.
       In ieder geval, dat is een illusie en paranoïde.
 
-310: [unknown], unknown,    open, 'Ter',10    XP: []
+310: [unknown], unknown,    open, 'Ter',7     XP: []
       Als het een mooie dag is morgen, gaan we picknicken.
       Als het een mooie dag is morgen, gaan we paardrijden.
 
@@ -46,7 +46,6 @@ anno tokens=[Vandaag,ging,niet,goed,.]
       Vandaag ging niet goed.
       Morgen ging niet goed.
 
-Error in gen_quant_tt
 1056: [unknown], unknown,    open, 'Ter',54    XP: []
       Het heeft geen zin om die man om een gunst te vragen.
       Het heeft geen zin om die man en zijn bedrijf om een gunst te vragen.
@@ -91,11 +90,11 @@ Error in gen_quant_tt
       Tabak roken is niet toegestaan bij dit treinstation.
       Roken is niet toegestaan bij dit treinstation.
 
-2933: [unknown],     yes,  closed, 'Ter',17    XP: [int(lang)]
+2933: [unknown],     yes,  closed, 'Ter',14    XP: [int(lang)]
       Als je de lange draad aanraakt, zul je een schok krijgen.
       Als je de draad aanraakt, zul je een schok krijgen.
 
-2934:     [yes], unknown,    open, 'Ter',64    XP: []
+2934:     [yes], unknown,    open, 'Ter',26    XP: []
       Als je de draad aanraakt, zul je een schok krijgen.
       Als je de beschadigde draad aanraakt, zul je een schok krijgen.
 
@@ -119,7 +118,7 @@ Error in gen_quant_tt
       Tom vat kritiek niet goed op.
       Tom vat dit soort kritiek niet goed op.
 
-3498: [unknown],     yes,  closed, 'Ter',4     XP: []
+3498: [unknown], unknown,    open, 'Ter',6     XP: []
       Ik kan geen Japans spreken als een moedertaalspreker.
       Ik kan geen Japans spreken.
 

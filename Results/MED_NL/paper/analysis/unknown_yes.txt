@@ -1,38 +1,41 @@
-23: [unknown],     yes,  closed, 'Ter',4     XP: [int(vrouwelijk)]
-      Weinig vrouwelijke comitéleden komen uit zuid-Europa.
-      Weinig comitéleden komen uit zuid-Europa.
-  
 2: [unknown],     yes,  closed, 'Ter',7     XP: []
       Geen afgevaardigde had het verslag op tijd af.
       Geen afgevaardigde had het verslag af.
   
+23: [unknown],     yes,  closed, 'Ter',4     XP: [int(vrouwelijk)]
+      Weinig vrouwelijke comitéleden komen uit zuid-Europa.
+      Weinig comitéleden komen uit zuid-Europa.
+  
 21: [unknown],     yes,  closed, 'Ter',4     XP: []
       De meeste Europeanen die inwoner zijn in Europa kunnen vrij reizen binnen Europa.
       De meeste Europeanen kunnen vrij reizen binnen Europa.
+  
+73: [unknown],     yes,  closed, 'Ter',24    XP: [int(leven veranderen),int(verdrietig)]
+      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
+      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
+
+ERROR: Cannot align tokens in sentence id=694
+term tokens=[[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+anno tokens=[Dus,er,is,geen,speciaal,hoogdimensionaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
+  24: [unknown],     yes,  closed, 'Ter',10    XP: [int(vrouwelijk)]
+      Beide vrouwelijke commissarissen zaten ooit in de handel.
+      Beide commissarissen zaten ooit in de handel.
 
 53: [unknown],     yes,  closed, 'Ter',2     XP: [isa(hond,dier)]
       Alle honden vinden het leuk om hun oren te krabben.
       Alle dieren vinden het leuk om hun oren te krabben.
-  
-24: [unknown],     yes,  closed, 'Ter',10    XP: [int(vrouwelijk)]
-      Beide vrouwelijke commissarissen zaten ooit in de handel.
-      Beide commissarissen zaten ooit in de handel.
 
-73: [unknown],     yes,  closed, 'Ter',24    XP: [int(leven veranderen),int(verdrietig)]
-      Je weet dat wat levensveranderende acties ondernomen moeten worden wanneer oma reageert met een verdrietige emoticon.
-      Je weet dat wat acties ondernomen moeten worden wanneer oma reageert met een emoticon.
-  
 58: [unknown],     yes,  closed, 'Ter',10    XP: [int(ontwikkelen)]
       In alle ontwikkelde gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
       In alle gebieden, heeft menselijke activiteit de vorm van rivierkanalen veranderd, wat omvangen en frequenties van overstromingen heeft aangepast.
-  
-109: [unknown],     yes,  closed, 'Ter',12    XP: [int(a),int(aangenaam),int(who@abst(_4580154,hebben@(met@('om gaan'@(met@(a@(ander@mens)))))@_4580154@ik))]
-      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
-      De eerste ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
 
 75: [unknown],     yes,  closed, 'Ter',16    XP: []
       Ik heb nog nooit een kolibrie gezien die niet vliegt.
       Ik heb nog nooit een kolibrie gezien.
+
+109: [unknown],     yes,  closed, 'Ter',12    XP: [int(a),int(aangenaam),int(who@abst(_4583802,hebben@(met@('om gaan'@(met@(a@(ander@mens)))))@_4583802@ik))]
+      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
+      De eerste ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
 
 125: [unknown],     yes,  closed, 'Ter',4     XP: [int(ervaren)]
       Een ervaren sommelier kent het verschil tussen de vintage van 2009 en 2013 van een Duitse riesling.

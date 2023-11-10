@@ -31,12 +31,12 @@ weighted avg     0.2742    0.5000    0.6667        96
 conditionals upward_monotone
               precision    recall  f1-score   support
 
-  entailment     1.0000    0.2857    0.4444         7
-     neutral     0.7727    1.0000    0.8718        17
+  entailment     0.6667    0.2857    0.4000         7
+     neutral     0.7619    0.9412    0.8421        17
 
-    accuracy                         0.7917        24
-   macro avg     0.8864    0.6429    0.6581        24
-weighted avg     0.8390    0.7917    0.7472        24
+    accuracy                         0.7500        24
+   macro avg     0.7143    0.6134    0.6211        24
+weighted avg     0.7341    0.7500    0.7132        24
 
 npi upward_monotone
               precision    recall  f1-score   support
@@ -51,12 +51,12 @@ weighted avg     0.6406    0.6406    0.7810        64
 reverse upward_monotone
               precision    recall  f1-score   support
 
-  entailment     0.6389    0.1966    0.3007       117
-     neutral     0.5276    0.8898    0.6625       118
+  entailment     0.6216    0.1966    0.2987       117
+     neutral     0.5253    0.8814    0.6582       118
 
-    accuracy                         0.5447       235
-   macro avg     0.5833    0.5432    0.4816       235
-weighted avg     0.5830    0.5447    0.4823       235
+    accuracy                         0.5404       235
+   macro avg     0.5734    0.5390    0.4785       235
+weighted avg     0.5732    0.5404    0.4792       235
 
 other upward_monotone
               precision    recall  f1-score   support
@@ -71,12 +71,12 @@ weighted avg     0.8506    0.8209    0.8102       698
 lexical_knowledge downward_monotone
               precision    recall  f1-score   support
 
-  entailment     0.8972    0.2874    0.4354       334
-     neutral     0.3568    0.9231    0.5146       143
+  entailment     0.8981    0.2904    0.4389       334
+     neutral     0.3577    0.9231    0.5156       143
 
-    accuracy                         0.4780       477
-   macro avg     0.6270    0.6053    0.4750       477
-weighted avg     0.7352    0.4780    0.4591       477
+    accuracy                         0.4801       477
+   macro avg     0.6279    0.6067    0.4773       477
+weighted avg     0.7361    0.4801    0.4619       477
 
 conjunction downward_monotone
               precision    recall  f1-score   support
@@ -101,12 +101,12 @@ weighted avg     0.5840    0.4348    0.3242       138
 conditionals downward_monotone
               precision    recall  f1-score   support
 
-  entailment     0.0909    0.0196    0.0323       102
-     neutral     0.0291    0.1304    0.0476        23
+  entailment     0.5000    0.1667    0.2500       102
+     neutral     0.0659    0.2609    0.1053        23
 
-    accuracy                         0.0400       125
-   macro avg     0.0600    0.0750    0.0399       125
-weighted avg     0.0795    0.0400    0.0351       125
+    accuracy                         0.1840       125
+   macro avg     0.2830    0.2138    0.1776       125
+weighted avg     0.4201    0.1840    0.2234       125
 
 npi downward_monotone
                precision    recall  f1-score   support
@@ -133,12 +133,12 @@ other downward_monotone
                precision    recall  f1-score   support
 
 contradiction     0.0000       nan       nan         0
-   entailment     0.8210    0.5089    0.6283      1352
-      neutral     0.5306    0.8317    0.6479       897
+   entailment     0.8216    0.5074    0.6273      1352
+      neutral     0.5302    0.8328    0.6479       897
 
-     accuracy                         0.6376      2249
-    macro avg     0.4505    0.6703    0.6381      2249
- weighted avg     0.7052    0.6376    0.6361      2249
+     accuracy                         0.6372      2249
+    macro avg     0.4506    0.6701    0.6376      2249
+ weighted avg     0.7053    0.6372    0.6355      2249
 
 lexical_knowledge non_monotone
               precision    recall  f1-score   support

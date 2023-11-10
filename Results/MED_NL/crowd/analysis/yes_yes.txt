@@ -66,7 +66,7 @@
       Juan en zijn vrienden kunnen mij niet helpen.
       Juan kan mij niet helpen.
 
-308:     [yes],     yes,  closed, 'Ter',8     XP: [isa(and@abst(_1342542,_1342542@ontspannen)@abst(_1342800,_1342800@warm)@lekker@bad,bad)]
+308:     [yes],     yes,  closed, 'Ter',8     XP: [isa(and@abst(_3525446,_3525446@ontspannen)@abst(_3525704,_3525704@warm)@lekker@bad,bad)]
       Alles wat Tom wilde was een lekker warm en ontspannend bad.
       Alles wat Tom wilde was een lekker warm bad.
 
@@ -90,10 +90,7 @@
       Ik kocht een gebruikte VW bus.
       Ik kocht een VW bus.
 
-ERROR: Cannot align tokens in sentence id=3860
-term tokens=[[[politicus],[is],[een],[mensenrechten],[militant],[.]]]
-anno tokens=[Senator,politicus,is,een,mensenrechten,militant,.]
- 361:     [yes],     yes,  closed, 'Ter',5     XP: [int(giftig),int(groot)]
+361:     [yes],     yes,  closed, 'Ter',5     XP: [int(giftig),int(groot)]
       Een grote giftige spin was een web aan het spinnen.
       Een grote spin was een web aan het spinnen.
 
@@ -105,7 +102,10 @@ anno tokens=[Senator,politicus,is,een,mensenrechten,militant,.]
       Een gigantische rat knaagde een gat in de muur.
       Een rat knaagde een gat in de muur.
 
-384:     [yes],     yes,  closed, 'Ter',8     XP: [int(schoon),int(van@(the@wang))]
+ERROR: Cannot align tokens in sentence id=3860
+term tokens=[[[politicus],[is],[een],[mensenrechten],[militant],[.]]]
+anno tokens=[Senator,politicus,is,een,mensenrechten,militant,.]
+ 384:     [yes],     yes,  closed, 'Ter',8     XP: [int(schoon),int(van@(the@wang))]
       Ze veegde een schone traan van haar wang.
       Ze veegde een traan van haar wang.
 
@@ -241,8 +241,7 @@ anno tokens=[Senator,politicus,is,een,mensenrechten,militant,.]
       Er zitten veel grote eieren in de doos.
       Er zitten veel eieren in de doos.
 
-Error in gen_quant_tt
- 580:     [yes],     yes,  closed, 'Ter',6     XP: [int(wit)]
+580:     [yes],     yes,  closed, 'Ter',6     XP: [int(wit)]
       Er zitten veel witte eieren in de doos.
       Er zitten veel eieren in de doos.
 
@@ -302,9 +301,7 @@ Error in gen_quant_tt
       Onder de tafel zit een witte kat.
       Onder de tafel zit een kat.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
- 658:     [yes],     yes,  closed, 'Ter',4     XP: [int(hongerig)]
+658:     [yes],     yes,  closed, 'Ter',4     XP: [int(hongerig)]
       Onder de tafel zit een hongerige kat.
       Onder de tafel zit een kat.
 
@@ -327,7 +324,6 @@ Error in gen_quant_tt
 682:     [yes],     yes,  closed, 'Ter',4     XP: []
       Jane en Brenda sloegen de vragen over die ze niet konden beantwoorden.
       Jane sloeg de vragen over die ze niet kon beantwoorden.
-Difference in Lemma Lexicons after normalization
 
 705:     [yes],     yes,  closed, 'Ter',3     XP: []
       Ik had geen verkopen vandaag en deze week.
@@ -405,7 +401,9 @@ Difference in Lemma Lexicons after normalization
       Een grote kat stond op de tafel.
       Een kat stond op de tafel.
 
-877:     [yes],     yes,  closed, 'Ter',5     XP: [int(lelijk),int(licht blauw)]
+Error in gen_quant_tt
+Error in gen_quant_tt
+ 877:     [yes],     yes,  closed, 'Ter',5     XP: [int(lelijk),int(licht blauw)]
       Het meisje droeg een lichtblauwe lelijke kimono.
       Het meisje droeg een lichtblauwe kimono.
 
@@ -484,7 +482,6 @@ Difference in Lemma Lexicons after normalization
 986:     [yes],     yes,  closed, 'Ter',2     XP: []
       Hij deed gisteren niets anders dan huilen.
       Hij deed niets anders dan huilen.
-Difference in Lemma Lexicons after normalization
 
 1007:     [yes],     yes,  closed, 'Ter',3     XP: []
       Vrouwen en mannen gaven niets om hem.
@@ -534,7 +531,7 @@ Difference in Lemma Lexicons after normalization
       De spin spint een web op de muur van peters kamer.
       De spin spint een net.
 
-1096:     [yes],     yes,  closed, 'Ter',4     XP: [isa(netwerk,web),isa(web,netwerk),isa(and@abst(_4049074,_4049074@goed werken)@abst(_4049332,_4049332@groot)@erg@netwerk,netwerk)]
+1096:     [yes],     yes,  closed, 'Ter',4     XP: [isa(netwerk,web),isa(web,netwerk),isa(and@abst(_5752944,_5752944@goed werken)@abst(_5753202,_5753202@groot)@erg@netwerk,netwerk)]
       De spin spint een erg groot en goedgewerkt netwerk.
       De spin spint een web.
 
@@ -746,10 +743,6 @@ Difference in Lemma Lexicons after normalization
       Je kunt taal niet scheiden van cultuur.
       Je kunt taal niet scheiden van doorsnee cultuur.
 
-1317:     [yes],     yes,  closed, 'Ter',10    XP: [int(eerstejaars)]
-      Als studenten niet komen, start de les niet.
-      Als eerstejaars studenten niet komen, start de les niet.
-
 1323:     [yes],     yes,  closed, 'Ter',13    XP: [int(Amerikaans),int(rauw)]
       Tom heeft nooit rauw paardenvlees gegeten.
       Tom heeft nooit rauw Amerikaans paardenvlees gegeten.
@@ -870,6 +863,18 @@ Difference in Lemma Lexicons after normalization
       Tom heeft geen wens om te studeren.
       Tom heeft geen verlangen om te studeren.
 
+1398:     [yes],     yes,  closed, 'Ter',7     XP: [int(fatsoenlijk)]
+      Als je een vraag hebt, steek alsjeblieft je rechterhand op.
+      Als je een fatsoenlijke vraag hebt, steek alsjeblieft je rechterhand op.
+
+1399:     [yes],     yes,  closed, 'Ter',7     XP: [int(on op lossen)]
+      Als je een vraag hebt, steek alsjeblieft je rechterhand op.
+      Als je een onopgeloste vraag hebt, steek alsjeblieft je rechterhand op.
+
+1400:     [yes],     yes,  closed, 'Ter',7     XP: [int(goed)]
+      Als je een vraag hebt, steek alsjeblieft je rechterhand op.
+      Als je een goede vraag hebt, steek alsjeblieft je rechterhand op.
+
 1403:     [yes],     yes,  closed, 'Ter',14    XP: [int(officieel)]
       Tom woont eigenlijk niet binnen de Boston stadsgrenzen.
       Tom woont eigenlijk niet binnen de officiële Boston stadsgrenzen.
@@ -942,6 +947,9 @@ Difference in Lemma Lexicons after normalization
       Ze is nooit verliefd geworden.
       Ze is nooit fantastisch verliefd geworden.
 
+ERROR: Cannot align tokens in sentence id=4558
+term tokens=[[[is],[niet],[goed],[voor],[mij],[.]]]
+anno tokens=[Vandaag,is,niet,goed,voor,mij,.]
 1485:     [yes],     yes,  closed, 'Ter',8     XP: [int(actief)]
       Het probleem met ons is dat we geen fondsen hebben.
       Het probleem met ons is dat we geen actieve fondsen hebben.
@@ -1013,6 +1021,10 @@ Difference in Lemma Lexicons after normalization
 1537:     [yes],     yes,  closed, 'Ter',1     XP: [isa(held,heldin),isa(heldin,held)]
       Ik wil geen held zijn.
       Ik wil geen heldin zijn.
+
+1543:     [yes],     yes,  closed, 'Ter',7     XP: [int(sterk)]
+      Als je vrede wil, bereid je voor op oorlog.
+      Als je sterke vrede wil, bereid je voor op oorlog.
 
 1550:     [yes],     yes,  closed, 'Ter',10    XP: [int(nieuw)]
       Tom kon geen woord zeggen.
@@ -1137,10 +1149,6 @@ Difference in Lemma Lexicons after normalization
 1656:     [yes],     yes,  closed, 'Ter',11    XP: [int(slecht),int(tropisch)]
       Een goede boom kan geen slechte vruchten werpen.
       Een goede boom kan geen slechte tropische vruchten werpen.
-
-1658:     [yes],     yes,  closed, 'Ter',15    XP: [int(goed)]
-      Een goede boom kan geen slechte vruchten werpen.
-      Een goede boom kan geen slechte vruchten werpen als je ervoor zorgt.
 
 1672:     [yes],     yes,  closed, 'Ter',1     XP: []
       Ik hou niet van andere soorten drankjes.
@@ -1438,9 +1446,6 @@ Difference in Lemma Lexicons after normalization
       Tom leidt echt geen makkelijk leven.
       Tom leidt echt geen makkelijk leven al die jaren.
 
-ERROR: Cannot align tokens in sentence id=2833
-term tokens=[[[verre,van],[Engels]]]
-anno tokens=[Ik,kan,verre,van,Engels,spreken,.]
 1895:     [yes],     yes,  closed, 'Ter',11    XP: [int(makkelijk),isa(every@dag@leven,leven)]
       Tom leidt echt geen makkelijk leven.
       Tom leidt echt geen makkelijk leven iedere dag.
@@ -1472,6 +1477,10 @@ anno tokens=[Ik,kan,verre,van,Engels,spreken,.]
 1922:     [yes],     yes,  closed, 'Ter',9     XP: [isa(baby,kind)]
       Ik kan geen luide kinderen uitstaan.
       Ik kan geen luide baby’s uitstaan.
+
+1933:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Als het regent morgen, komt ze niet hier.
+      Als het weer regent morgen, komt ze niet hier.
 
 1940:     [yes],     yes,  closed, 'Ter',4     XP: [int(mogelijk)]
       Je bent absoluut perfect, op iedere manier.
@@ -1589,8 +1598,6 @@ anno tokens=[Ik,kan,verre,van,Engels,spreken,.]
       Ik wil geen nieuwe vrienden maken!
       Ik wil geen nieuwe vrienden maken die me afleiden van studeren!
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2023:     [yes],     yes,  closed, 'Ter',5     XP: [int(specifiek),int(strategisch)]
       Hij heeft geen specifiek doel.
       Hij heeft geen specifiek strategisch doel.
@@ -1843,7 +1850,7 @@ Error in gen_quant_tt
       Tom kon geen baan vinden.
       Tom kon geen redelijke baan vinden.
 
-2210:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_2393020,houden@(van@_2393020)@hij)@baan,baan)]
+2210:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_1415364,houden@(van@_1415364)@hij)@baan,baan)]
       Tom kon geen baan vinden.
       Tom kon geen baan waar hij van houdt vinden.
 
@@ -1995,6 +2002,8 @@ Error in gen_quant_tt
       Dat zou geen probleem moeten zijn.
       Dat zou geen enorm probleem moeten zijn.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2345:     [yes],     yes,  closed, 'Ter',9     XP: [isa(tafel,meubel)]
       Ze kan geen IKEA meubels in elkaar zetten.
       Ze kan geen IKEA tafel in elkaar zetten.
@@ -2259,6 +2268,9 @@ Error in gen_quant_tt
       Op deze school zijn er geen cijfers en studenten hebben geen huiswerk.
       Op deze school zijn er geen slechte cijfers en studenten hebben geen huiswerk.
 
+ERROR: Cannot align tokens in sentence id=3964
+term tokens=[[[drink],[een],[glas],[koude],[melk],[iedere],[ochtend],[.]]]
+anno tokens=[Tom,drink,een,glas,koude,melk,iedere,ochtend,.]
 2566:     [yes],     yes,  closed, 'Ter',16    XP: [int(heffen),int(scherp)]
       Losstaande reflectie kan niet geeist worden in het bijzijn van een geheven mes.
       Losstaande reflectie kan niet geeist worden in het bijzijn van een geheven scherp mes.
@@ -2342,10 +2354,6 @@ Error in gen_quant_tt
 2640:     [yes],     yes,  closed, 'Ter',14    XP: [isa(om@c1@verandering,verandering)]
       Ik hou niet van verandering.
       Ik hou niet van verandering om de verandering.
-
-2641:     [yes],     yes,  closed, 'Ter',4     XP: []
-      Ik hou niet van verandering.
-      Ik hou niet van verandering als het onbekend voor me is.
 
 2643:     [yes],     yes,  closed, 'Ter',6     XP: [int(constant)]
       Ik hou niet van verandering.
@@ -2435,6 +2443,7 @@ Error in gen_quant_tt
       Iedere hoer was ooit een maagd.
       Iedere professionele hoer was ooit een maagd.
 
+Error in gen_quant_tt
 2683:     [yes],     yes,  closed, 'Ter',4     XP: [int(herkenbaar)]
       Deze zin heeft geen auteurs.
       Deze zin heeft geen herkenbare auteurs.
@@ -2475,6 +2484,8 @@ Error in gen_quant_tt
       Slecht weer is geen obstakel.
       Slecht weer is nog geen onoverkomelijk obstakel.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2707:     [yes],     yes,  closed, 'Ter',4     XP: [int(serieus)]
       Slecht weer is geen obstakel.
       Slecht weer is geen serieus obstakel.
@@ -2487,7 +2498,7 @@ Error in gen_quant_tt
       Tom zei dat hij geen koffie drinkt.
       Tom zei dat hij geen zwarte koffie drinkt.
 
-2719:     [yes],     yes,  closed, 'Ter',4     XP: [isa(van@(waar@abst(_4518692,_4518692@(be@hij)))@centi meter,centi meter)]
+2719:     [yes],     yes,  closed, 'Ter',4     XP: [isa(van@(waar@abst(_4457630,_4457630@(be@hij)))@centi meter,centi meter)]
       Tom verplaatste geen centimeter.
       Tom verplaatste geen centimeter van waar hij was.
 
@@ -2595,12 +2606,12 @@ Error in gen_quant_tt
       Iedere jongen en ieder meisje was verheugd.
       Iedere jongen en ieder klein meisje was verheugd.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 2825:     [yes],     yes,  closed, 'Ter',24    XP: [int(interessant)]
       We zijn nooit naar de plaats geweest.
       We zijn nooit naar de interessante plaats geweest.
 
+Error in gen_quant_tt
+Error in gen_quant_tt
 2827:     [yes],     yes,  closed, 'Ter',24    XP: [int(prachtig)]
       We zijn nooit naar de plaats geweest.
       We zijn nooit naar de prachtige plaats geweest.
@@ -2620,6 +2631,18 @@ Error in gen_quant_tt
 2833:     [yes],     yes,  closed, 'Ter',1     XP: [isa(kamer,plaats),isa(plaats,kamer)]
       We zijn nooit naar die plaats geweest.
       We zijn nooit naar die kamer geweest.
+
+2834:     [yes],     yes,  closed, 'Ter',13    XP: []
+      Als Tom naar Boston gaat, ga ik ook.
+      Als Tom naar Boston gaat voor het afstuderen, ga ik ook.
+
+2836:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Als Tom naar Boston gaat, ga ik ook.
+      Als Tom naar Boston gaat deze zomer, ga ik ook.
+
+2838:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Als Tom naar Boston gaat, ga ik ook.
+      Als Tom naar Boston gaat in februari, ga ik ook.
 
 2840:     [yes],     yes,  closed, 'Ter',4     XP: [int(verstandig)]
       Geen vrouw heeft dit ooit eerder gedaan.
@@ -2728,6 +2751,10 @@ Error in gen_quant_tt
 2973:     [yes],     yes,  closed, 'Ter',10    XP: [int(absurd)]
       Ik zie geen samenzwering daar.
       Ik zie geen absurde samenzweringen daar.
+
+2987:     [yes],     yes,  closed, 'Ter',5     XP: [isa(wereldvrede,vrede)]
+      Als je vrede wenst, bereid je voor op oorlog.
+      Als je wereldvrede wenst, bereid je voor op oorlog.
 
 2988:     [yes],     yes,  closed, 'Ter',13    XP: [int(Nissan),int(nieuw)]
       Ik wil niet echt zo veel betalen voor een nieuwe auto.
@@ -2997,6 +3024,14 @@ Error in gen_quant_tt
       Tom en Mary zijn eigenlijk nog nooit op een afspraakje geweest.
       Tom en Mary zijn eigenlijk nog nooit op een eerste afspraakje geweest.
 
+3255:     [yes],     yes,  closed, 'Ter',8     XP: []
+      Als Esperanto een makkelijke taal was, had ik geen proeflezer nodig.
+      Als Esperanto een makkelijke taal was voor mij, had ik geen proeflezer nodig.
+
+3256:     [yes],     yes,  closed, 'Ter',5     XP: []
+      Als Esperanto een makkelijke taal was, had ik geen proeflezer nodig.
+      Als Esperanto een makkelijke taal was net als chinees, had ik geen proeflezer nodig.
+
 3259:     [yes],     yes,  closed, 'Ter',1     XP: []
       Tom heeft geen gevoel voor humor.
       Tom heeft geen gevoel voor humor.
@@ -3165,11 +3200,11 @@ Error in gen_quant_tt
       Het medicijn hielp helemaal niet.
       Het medicijn hielp absoluut helemaal niet.
 
-3453:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_5334816,_5334816@(zeggen@(dat@(worden@dik@ze))@ze))@vlees,vlees)]
+3453:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waarvan@abst(_5327704,_5327704@(zeggen@(dat@(worden@dik@ze))@ze))@vlees,vlees)]
       Ze zullen geen vlees eten.
       Ze zullen geen vlees eten waarvan ze zeggen dat ze dik worden.
 
-3455:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_1813690,not@(houden@(van@_1813690)@ze))@vlees,vlees)]
+3455:     [yes],     yes,  closed, 'Ter',10    XP: [isa(waar@abst(_2181580,not@(houden@(van@_2181580)@ze))@vlees,vlees)]
       Ze zullen geen vlees eten.
       Ze zullen geen vlees eten waar ze niet van houden.
 
@@ -3645,8 +3680,6 @@ Error in gen_quant_tt
       Ze drinkt geen koffie.
       Ze drinkt geen melkige koffie.
 
-Error in gen_quant_tt
-Error in gen_quant_tt
 3834:     [yes],     yes,  closed, 'Ter',4     XP: [isa(kip ei,ei)]
       Ik hou niet van eieren.
       Ik hou niet van kippeneieren.
@@ -3803,11 +3836,11 @@ Error in gen_quant_tt
       Leven gaat niet over rozen.
       Leven gaat niet comfortabel over rozen.
 
-3950:     [yes],     yes,  closed, 'Ter',21    XP: [int(groot),int(zo@(als@dat)@mooi)]
+3950:     [yes],     yes,  closed, 'Ter',21    XP: [int(groot),int(zo@(if@dat)@mooi)]
       Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
       Ik zou me nooit een groot huis zo mooi als dat kunnen veroorloven.
 
-3954:     [yes],     yes,  closed, 'Ter',21    XP: [int(kleurrijk),int(zo@(als@dat)@mooi)]
+3954:     [yes],     yes,  closed, 'Ter',21    XP: [int(kleurrijk),int(zo@(if@dat)@mooi)]
       Ik zou me nooit een huis zo mooi als dat kunnen veroorloven.
       Ik zou me nooit een kleurrijk huis zo mooi als dat kunnen veroorloven.
 
@@ -3911,7 +3944,7 @@ Error in gen_quant_tt
       Ze is nog nooit verliefd geworden.
       Ze is nog nooit met heel haar hart verliefd geworden.
 
-4023:     [yes],     yes,  closed, 'Ter',21    XP: [isa(genoeg@(om@(te@abst(_320504,a@(wit@koffie@kop)@abst(_319678,kopen@_319678@_320504))))@geld,geld),isa(wit@koffie@kop,kop)]
+4023:     [yes],     yes,  closed, 'Ter',21    XP: [isa(genoeg@(om@(te@abst(_5592960,a@(wit@koffie@kop)@abst(_5592134,kopen@_5592134@_5592960))))@geld,geld),isa(wit@koffie@kop,kop)]
       Tom had niet eens genoeg geld om een kopje koffie te kopen.
       Tom had niet eens genoeg geld om een kopje witte koffie te kopen.
 
@@ -4150,4 +4183,24 @@ Error in gen_quant_tt
 4188:     [yes],     yes,  closed, 'Ter',11    XP: []
       Ik ontgrendelde die deur niet.
       Ik ontgrendelde die deur niet in een mum van tijd.
+
+4189:     [yes],     yes,  closed, 'Ter',5     XP: [isa(puppy,hond)]
+      Als een hond je bijt, was de wond met zeep en water.
+      Als een puppy je bijt, was de wond met zeep en water.
+
+4190:     [yes],     yes,  closed, 'Ter',7     XP: [int(groot)]
+      Als een hond je bijt, was de wond met zeep en water.
+      Als een grote hond je bijt, was de wond met zeep en water.
+
+4191:     [yes],     yes,  closed, 'Ter',7     XP: [int(ziek)]
+      Als een hond je bijt, was de wond met zeep en water.
+      Als een zieke hond je bijt, was de wond met zeep en water.
+
+4192:     [yes],     yes,  closed, 'Ter',7     XP: [int(ziek)]
+      Als een hond je bijt, was de wond met zeep en water.
+      Als een zieke hond je bijt, was de wond met zeep en water.
+
+4193:     [yes],     yes,  closed, 'Ter',7     XP: [int(boos)]
+      Als een hond je bijt, was de wond met zeep en water.
+      Als een boze hond je bijt, was de wond met zeep en water.
 

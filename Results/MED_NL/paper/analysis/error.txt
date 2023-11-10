@@ -1,47 +1,53 @@
+ERROR: Cannot align tokens in sentence id=693
+term tokens=[[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+anno tokens=[Dus,er,is,geen,speciaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
+  12: [unknown], unknown,    open, 'Ter',49    XP: []
+      Veel afgevaardigden haalden resultaten uit de vragenlijst.
+      Veel afgevaardigden haalden interessante resultaten uit de vragenlijst.
+
 ERROR: Cannot align tokens in sentence id=694
 term tokens=[[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
 anno tokens=[Dus,er,is,geen,speciaal,hoogdimensionaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
-  11: [unknown], unknown,    open, 'Ter',34    XP: []
-      Een paar afgevaardigden hadden de vragenlijst af.
-      Een paar afgevaardigden hadden de vragenlijst op tijd af.
+  24: [unknown],     yes,  closed, 'Ter',10    XP: [int(vrouwelijk)]
+      Beide vrouwelijke commissarissen zaten ooit in de handel.
+      Beide commissarissen zaten ooit in de handel.
+
+ERROR: Cannot align tokens in sentence id=693
+term tokens=[[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
+anno tokens=[Dus,er,is,geen,speciaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
+  77: [unknown], unknown,    open, 'Ter',54    XP: []
+      Ik heb nog nooit een kolibrie gezien die niet vliegt.
+      Ik heb nog nooit een vogel gezien die niet vliegt.
 
 ERROR: Cannot align tokens in sentence id=3822
 term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
+ERROR: Cannot align tokens in sentence id=3821
+term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
 Inconsistency in node types (entail/8)
-82:     [yes], unknown,      NA, 'Defected'  XP: _4365552
-      Raar dat je deze video wil laten zien aan een stapel papieren.
+81: [unknown], unknown,      NA, 'Defected'  XP: _4422444
       Raar dat je iets wil laten zien aan een stapel papieren.
+      Raar dat je deze video wil laten zien aan een stapel papieren.
 
-ERROR: Cannot align tokens in sentence id=693
-term tokens=[[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
-anno tokens=[Dus,er,is,geen,speciaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
-Inconsistency in node types (entail/8)
-100: [unknown], unknown,      NA, 'Defected'  XP: _2268526
-      Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
-      Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
-   
-ERROR: Cannot align tokens in sentence id=693
-term tokens=[[[er],[is],[geen],[speciaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
-anno tokens=[Dus,er,is,geen,speciaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
 ERROR: Cannot align tokens in sentence id=694
 term tokens=[[[er],[is],[geen],[speciaal],[hoogdimensionaal],[geheugenblok],[voor],[elke],[entiteit],[en],[geen],[onderscheid],[tussen],[entiteitsvermeldingen],[en],[niet-vermelde],[woorden],[.]]]
 anno tokens=[Dus,er,is,geen,speciaal,hoogdimensionaal,geheugenblok,voor,elke,entiteit,en,geen,onderscheid,tussen,entiteitsvermeldingen,en,niet-vermelde,woorden,.]
 Inconsistency in node types (entail/8)
-99:     [yes], unknown,      NA, 'Defected'  XP: _2691916
+99:     [yes], unknown,      NA, 'Defected'  XP: _2690330
       Dus er is geen speciaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
       Dus er is geen speciaal hoogdimensionaal geheugenblok voor elke entiteit en geen onderscheid tussen entiteitsvermeldingen en niet-vermelde woorden.
   
+ERROR: Cannot align tokens in sentence id=3821
+term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
+anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
 ERROR: Cannot align tokens in sentence id=3822
 term tokens=[[[dat],[je],[iets],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
 anno tokens=[Raar,dat,je,iets,wil,laten,zien,aan,een,stapel,papieren,.]
-ERROR: Cannot align tokens in sentence id=3821
-term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
-anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
 Inconsistency in node types (entail/8)
-81: [unknown], unknown,      NA, 'Defected'  XP: _4421156
-      Raar dat je iets wil laten zien aan een stapel papieren.
+82:     [yes], unknown,      NA, 'Defected'  XP: _4367856
       Raar dat je deze video wil laten zien aan een stapel papieren.
+      Raar dat je iets wil laten zien aan een stapel papieren.
 
 ERROR: Cannot align tokens in sentence id=3166
 term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
@@ -50,7 +56,7 @@ ERROR: Cannot align tokens in sentence id=3167
 term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[ieder],[aantal],[voorbeelden],[genoeg],[is],[om],[van],[te],[leren],[.]]]
 anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,ieder,aantal,voorbeelden,genoeg,is,om,van,te,leren,.]
 Inconsistency in node types (entail/8)
-101: [unknown], unknown,      NA, 'Defected'  XP: _4422114
+101: [unknown], unknown,      NA, 'Defected'  XP: _4423402
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
 
@@ -61,23 +67,9 @@ ERROR: Cannot align tokens in sentence id=3166
 term tokens=[[[het],[wordt],[vaak],[gezegd],[dat],[voor],[het],[adequaat],[leren],[van],[een],[taak],[in],[een],[domein],[voor],[mensen],[een],[voorbeeld],[genoeg],[is],[om],[van],[te],[leren],[.]]]
 anno tokens=[Inderdaad,,,het,wordt,vaak,gezegd,dat,voor,het,adequaat,leren,van,een,taak,in,een,domein,voor,mensen,een,voorbeeld,genoeg,is,om,van,te,leren,.]
 Inconsistency in node types (entail/8)
-102: [unknown], unknown,      NA, 'Defected'  XP: _4366510
+102: [unknown], unknown,      NA, 'Defected'  XP: _4368814
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen ieder aantal voorbeelden genoeg is om van te leren.
       Inderdaad, het wordt vaak gezegd dat voor het adequaat leren van een taak in een domein voor mensen een voorbeeld genoeg is om van te leren.
-
-ERROR: Cannot align tokens in sentence id=3821
-term tokens=[[[dat],[je],[deze],[video],[wil],[laten],[zien],[aan],[een],[stapel],[papieren],[.]]]
-anno tokens=[Raar,dat,je,deze,video,wil,laten,zien,aan,een,stapel,papieren,.]
- 112: [unknown], unknown,    open, 'Lim',429   XP: []
-      De eerste onaangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
-      De eerste aangename ervaring die ik had met omgaan met een ander mens was op de leetijd van zeventien.
-
-ERROR: Cannot align tokens in sentence id=4915
-term tokens=[[[geen],[roos],[.]]]
-anno tokens=[Ze,gad,hem,geen,roos,.]
-5041: [unknown], unknown,      NA, 'Defected'  XP: []
-      Ze gad hem geen roos.
-      Ze gaf hem geen bloem.
 
 ERROR: Cannot align tokens in sentence id=4915
 term tokens=[[[geen],[roos],[.]]]
@@ -85,4 +77,12 @@ anno tokens=[Ze,gad,hem,geen,roos,.]
 5042:     [yes], unknown,      NA, 'Defected'  XP: []
       Ze gaf hem geen bloem.
       Ze gad hem geen roos.
+
+ERROR: Cannot align tokens in sentence id=4915
+term tokens=[[[geen],[roos],[.]]]
+anno tokens=[Ze,gad,hem,geen,roos,.]
+Inconsistency in node types (entail/8)
+5219: [unknown], unknown,      NA, 'Defected'  XP: _1224102
+      Meer dan vijf van de kinderen kozen enige mintchocolaatjes of gingen voor de suikerspin.
+      Meer dan vijf van de kinderen gingen voor de suikerspin.
 
